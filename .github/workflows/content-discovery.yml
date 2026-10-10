@@ -15,6 +15,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - run: python scripts/test_content_similarity.py
       - run: python scripts/test_ecosystem_engine.py
       - run: python scripts/build_grade_hubs.py --check
       - name: Discover public content and audit editorial quality
