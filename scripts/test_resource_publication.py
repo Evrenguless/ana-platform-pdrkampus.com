@@ -90,9 +90,13 @@ class PublicationTests(unittest.TestCase):
             root = Path(d); (root/'konu/akran-zorbaligi').mkdir(parents=True); (root/'seo').mkdir()
             (root/'konu/akran-zorbaligi/index.html').write_text('<header></header><nav></nav><footer></footer>')
             (root/'sitemap.xml').write_text('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://pdrkampus.com/original/</loc></url></urlset>')
+            (root/'CNAME').write_text('pdrkampus.com')
+            (root/'original').mkdir()
+            (root/'original/index.html').write_text('<title>Original</title><meta name="description" content="Original source"><link rel="canonical" href="https://pdrkampus.com/original/"><main><h1>Original</h1><p>'+ 'Original content. '*20 + '</p></main>')
             (root/'seo/approved-edits.json').write_text(json.dumps({'edits': {'sitemap.xml': {}}}))
             build_pages(root, records)
-            urls = {n.text for n in ET.parse(root/'sitemap.xml').iter('{http://www.sitemaps.org/schemas/sitemap/0.9}loc')}
+            from sitemap_tools import read_urlset
+            urls = {n.text for n in read_urlset(root).iter('{http://www.sitemaps.org/schemas/sitemap/0.9}loc')}
             self.assertIn('https://pdrkampus.com/original/', urls)
             page = root/records[0]['pagePath'].lstrip('/')/'index.html'
             content = page.read_text()

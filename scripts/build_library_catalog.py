@@ -1,3 +1,4 @@
+from sitemap_tools import read_urlset, eligible_outputs
 # -*- coding: utf-8 -*-
 """Build crawlable official resource catalog; member documents are never exported."""
 import html, json, re, unicodedata, sys
@@ -127,7 +128,7 @@ outputs['src/library-detail-links.js'] = 'export const libraryDetailLinks = '+js
 outputs['src/resource-page-links.js'] = 'export const resourcePageLinks = '+json.dumps(links,ensure_ascii=False,indent=2)+';\n'
 ns = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 ET.register_namespace('',ns)
-tree = ET.parse(ROOT/'sitemap.xml'); root=tree.getroot()
+tree = read_urlset(ROOT); root=tree.getroot()
 for entry in list(root):
     loc=entry.find('{'+ns+'}loc')
     if loc is not None and ('/kutuphane/katalog/' in loc.text or '/kaynak-detay/' in loc.text): root.remove(entry)
@@ -151,7 +152,7 @@ if route_map_file.exists():
         old_key = old.lstrip("/") + "index.html"
         new_key = new.lstrip("/") + "index.html"
         if old_key in outputs:
-            original_page = outputs[old_key]
+            original_page = (ROOT / new_key).read_text() if (ROOT / new_key).exists() else outputs[old_key]
             outputs[new_key] = original_page.replace(BASE + old, BASE + new)
             target = BASE + new
             outputs[old_key] = (
@@ -198,6 +199,7 @@ if route_map_file.exists():
         + ET.tostring(xml_root, encoding="unicode") + "\n"
     )
 
+outputs.update(eligible_outputs(ROOT, ET.fromstring(outputs['sitemap.xml']), outputs)[0])
 check = '--check' in sys.argv
 for path,content in outputs.items():
     dest=ROOT/path

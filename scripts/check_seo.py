@@ -22,7 +22,8 @@ def grab(pattern: str, html: str):
     m = re.search(pattern, html, flags=re.I | re.S)
     return m.group(1).strip() if m else None
 
-tree = ET.parse(SITEMAP)
+from sitemap_tools import read_urlset
+tree = read_urlset(ROOT)
 ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 urls = [n.text.strip() for n in tree.findall(".//s:loc", ns) if n.text]
 

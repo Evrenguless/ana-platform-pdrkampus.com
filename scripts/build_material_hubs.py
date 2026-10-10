@@ -1,3 +1,4 @@
+from sitemap_tools import read_urlset, eligible_outputs
 """Build curated entry pages from public official library data."""
 from pathlib import Path
 from html import escape as e
@@ -35,13 +36,14 @@ for file in list(outputs):
   links+='</div></section>'
   outputs[file]=outputs[file].replace('</main>',links+'</main>')
  outputs[file]=enrich_schema(outputs[file],'https://pdrkampus.com/'+file[:-10])
-ns='http://www.sitemaps.org/schemas/sitemap/0.9';ET.register_namespace('',ns);tree=ET.parse(root/'sitemap.xml')
+ns='http://www.sitemaps.org/schemas/sitemap/0.9';ET.register_namespace('',ns);tree=read_urlset(root)
 for entry in list(tree.getroot()):
  if entry.find('{'+ns+'}loc').text in {'https://pdrkampus.com/materyaller/'+slug+'/' for slug in hubs}:tree.getroot().remove(entry)
 for slug in hubs:
  entry=ET.SubElement(tree.getroot(),'{'+ns+'}url');ET.SubElement(entry,'{'+ns+'}loc').text='https://pdrkampus.com/materyaller/'+slug+'/';ET.SubElement(entry,'{'+ns+'}lastmod').text='2026-10-05'
 tree.getroot()[:] = sorted(tree.getroot(),key=lambda entry:entry.find('{'+ns+'}loc').text)
 ET.indent(tree,space='  ');outputs['sitemap.xml']='<?xml version="1.0" encoding="UTF-8"?>\n'+ET.tostring(tree.getroot(),encoding='unicode')+'\n'
+outputs.update(eligible_outputs(root, ET.fromstring(outputs['sitemap.xml']), outputs)[0])
 for path,content in outputs.items():
  dest=root/path
  if '--check' in sys.argv:assert dest.exists() and dest.read_text()==content,path

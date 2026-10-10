@@ -1,3 +1,4 @@
+from sitemap_tools import read_urlset, eligible_outputs
 """Generate crawlable recruitment news and university guides, without global navigation links."""
 from datetime import datetime, timezone, timedelta
 from html import escape
@@ -231,7 +232,7 @@ def generate():
     page(PREFIXES[1], title, desc, body, structured('CollectionPage', title, PREFIXES[1]), max(p['reviewedAt'] for p in programs))
 
     ET.register_namespace('', NS)
-    tree = ET.parse(ROOT / 'sitemap.xml')
+    tree = read_urlset(ROOT)
     for node in list(tree.getroot()):
         if any(node.find(f'{{{NS}}}loc').text.startswith(BASE + prefix) for prefix in PREFIXES):
             tree.getroot().remove(node)
@@ -246,6 +247,7 @@ def generate():
     for path in list(outputs):
         if path.endswith(".html"):
             outputs[path]=enrich_schema(outputs[path],BASE+"/"+path[:-10] if path.endswith("/index.html") else BASE+"/"+path)
+    outputs.update(eligible_outputs(ROOT, ET.fromstring(outputs['sitemap.xml']), outputs)[0])
     return outputs
 
 
