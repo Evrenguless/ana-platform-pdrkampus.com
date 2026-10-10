@@ -249,12 +249,12 @@
     },
     "scripts/build_library_catalog.py": {
       "baseline_sha256": "70afdfe2a3f3d9f1f2db2770fe44d28abde79b939b4acf2b298de2c133608425",
-      "reviewed_sha256": "ec2c7b9e116c320b4a1f848e577b932f63ff767f58ada7d0a8fb542e2528cb00",
+      "reviewed_sha256": "a076d42fb138075444dc3fda33a2b91a522edd174d1226b746249f7ce11329fb",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved."
     },
     "scripts/check_links.py": {
       "baseline_sha256": "380fb46f02b6e82b5f5df97ce322d7a69a2fa4ebcd147afd541880b5f2271125",
-      "reviewed_sha256": "179fa9d92aa88a4fa31636e9dbb2fa9f6ad4bcd880d943c47fbcfef01dffb1c2",
+      "reviewed_sha256": "8f7840b046b5f65ecc691877085f85609e3a00da8c433d389538675859e9e364",
       "reason": "Reviewed existing published topic/library changes and preconnect audit correction under repository maintenance authorization."
     },
     "src/library.js": {
@@ -1403,7 +1403,7 @@
     },
     ".github/workflows/seo-audit.yml": {
       "baseline_sha256": "7a297c1899cc4fe65fb1154dc45192d3323eb0aae397eb6741f95adcb23e7581",
-      "reviewed_sha256": "c5ae9535c4cf0427e41c0efb563f83445be30e4e0f0f6e0147c6803253e57480",
+      "reviewed_sha256": "eaad57681596219a5481d68465302135d14e654715239aada48ae787795fb659",
       "reason": "User-requested sitemap tests added to the existing read-only SEO audit workflow; no permission changes."
     }
   }

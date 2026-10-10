@@ -200,6 +200,9 @@ if route_map_file.exists():
         + ET.tostring(xml_root, encoding="unicode") + "\n"
     )
 
+from repair_resource_links import repair
+for key in list(outputs):
+    if key.endswith('.html'): outputs[key]=repair(ROOT,outputs[key])
 outputs.update(eligible_outputs(ROOT, ET.fromstring(outputs['sitemap.xml']), outputs)[0])
 check = '--check' in sys.argv
 for path,content in outputs.items():
