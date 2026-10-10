@@ -9,19 +9,19 @@
     },
     "kaynak-detay/farkindalik-ilkokul/index.html": {
       "baseline_sha256": "ab67eb9980570b7c9fe8215ed9807f63608df4c7ab43091e8d7c35f961e32c96",
-      "reviewed_sha256": "dd6ac73ce54093ea27130290babf0263109aed537c015ae88f213dc08a6a2e32",
+      "reviewed_sha256": "b821c72c925c3f25fd1cf84cee6f2b8edb9cac86c19d7bc2c711a19fed27c1b9",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "bbf5436fdd766496f080d0441a5fab87def480428149f740f2317ed5d612b16c"
     },
     "kaynak-detay/ogretmen-brosur/index.html": {
       "baseline_sha256": "79e39e07bc4223f8a03562eeea1348ad51aab4e6fb1964d61b1db0be7436ee08",
-      "reviewed_sha256": "e348fc0497710330bdd1c9eab9426426188c738ee051d85697203475e7bb9af7",
+      "reviewed_sha256": "0361004e88f9804135b4f0e745f0f2f372ff393ebfdf68ac0372990044c35eca",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "39e019f91a9dddd22f5435d7355a16117df1ec624d90d099b7f5896098c69af8"
     },
     "kaynak-detay/veli-brosur/index.html": {
       "baseline_sha256": "bad056e335d441c8ddc26a4388c5b8a6084ab873511adbb4dc75df182b703fc4",
-      "reviewed_sha256": "06e2b1f83a12a3d3dec526f6e9a8094d4504579bdef302f736032836e0b15122",
+      "reviewed_sha256": "b1ac46d99999aaf4155c12e17b4ae33e91548e085624523a8c25524565f22e54",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "57c75215097553e59f818fee8e4f60c7c379bcf3a386fe707b5609cf4e740d63"
     },
@@ -249,7 +249,7 @@
     },
     "scripts/build_library_catalog.py": {
       "baseline_sha256": "70afdfe2a3f3d9f1f2db2770fe44d28abde79b939b4acf2b298de2c133608425",
-      "reviewed_sha256": "89db6ebe93d3a2a14cfec7c282bacb025db9fa29ac20d3d26299079a5f8a2010",
+      "reviewed_sha256": "ec2c7b9e116c320b4a1f848e577b932f63ff767f58ada7d0a8fb542e2528cb00",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved."
     },
     "scripts/check_links.py": {
@@ -293,7 +293,7 @@
     },
     "bep/bep-toplantisi-nasil-yapilir/index.html": {
       "baseline_sha256": "502d0d673393d8c5f9c1ed0ee0be1af05d2b33337777e283e85c45f49ad22be0",
-      "reviewed_sha256": "a4d2769f13f4ca6149b55ee5da97e9460e66a077c1419be44582d05f6c6277c1",
+      "reviewed_sha256": "502d0d673393d8c5f9c1ed0ee0be1af05d2b33337777e283e85c45f49ad22be0",
       "reason": "Source-grounded content discovery, visible FAQ annotations and schema; no calculation or dataset changes",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed"
     },
@@ -551,103 +551,103 @@
     },
     "kaynak-detay/farkindalik-lise/index.html": {
       "baseline_sha256": "550f461cb279747a79ce9db38470e383cb2e5a4da24b9c9b965635ec6e759ed2",
-      "reviewed_sha256": "147752c3a550afe437d6979d7bbd8ad5095291043e247c3167ef56d9463bc2b5",
+      "reviewed_sha256": "19bb718c80c283724b2f65aa2bbb33cb342dc7c7af338f2fb1e273798679ebe3",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "c24cd033a47763c59bc618f4e6054ba87673745771ce23e0ec9949f7ab7a3fce"
     },
     "kaynak-detay/farkindalik-okuloncesi/index.html": {
       "baseline_sha256": "7cc59ae773a2fff070322ff47ce0d2bbf847f52321f5f066aa00c5f6fdca04a3",
-      "reviewed_sha256": "fb9beff2a664e3517f0b3d282e3c8be2f2f77337cc65a6f50715c285236895ac",
+      "reviewed_sha256": "064dd18c4f43fa687a83fce9b04ed5ec5528922ca11ba187645031ea412e2050",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "6c72b5ab94ccf6bed000698c81f45c873b9d83864f8cad090edce863d8fae2a6"
     },
     "kaynak-detay/farkindalik-ortaokul/index.html": {
       "baseline_sha256": "16ece4a160bb37c99261a0d2472659f6ad9f675c802e34679c441f9c265b92f2",
-      "reviewed_sha256": "b9c3c1b2a92e3ca38478bde8f1c74d84fa53ab5535be176bcf0654b08ef71cc3",
+      "reviewed_sha256": "3c3781f4039ec1dec87961ff3f2b5c8de4505da0290e1183e65166cf14f2e3f9",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "afda237e125d8fcc86ca7cc40112044d069baae4892be7243b94d645ccd32029"
     },
     "kaynak-detay/ozel-egitim-anaokulu/index.html": {
       "baseline_sha256": "e8a06dbcbe2d9f7d9907f8f8471b6a08322ed5895747f574ebc7e435342d14e6",
-      "reviewed_sha256": "b6a37b9574518f85f473f3ec01e30224fd2f6f91dcb5b7a9c09e0eb7e3143117",
+      "reviewed_sha256": "d21588211cec33ec69a5340975eab86968cb40bfb7b0a56d4f3da8b77cc40580",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "93b1859bfbad862fd3e71e73106371a4bcb36a1cd8a6b22d3822d64a64c69145"
     },
     "kaynak-detay/sinif-etkinlik-ilkokul/index.html": {
       "baseline_sha256": "24d3e61808854902abea3cd7a3dce3f17ff89ad9b56434966cf2417dd7c9601b",
-      "reviewed_sha256": "6988153b04bdacff718105a5c362e7e51b671dc93fccd85690eb896a78825286",
+      "reviewed_sha256": "0dbd653e3e41501d409f7a938325f5bec3144b5f1a06ccf9d993ca763c6f83da",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "f115b4bc254aa6f0e9f828c8bc157079356d260a070dc7173fed2260144d2539"
     },
     "kaynak-detay/sinif-etkinlik-lise/index.html": {
       "baseline_sha256": "0f75682ecf747e9a657fd6c427cee40496bef29043b88b63cf7dd5cbfd4ab31b",
-      "reviewed_sha256": "63d15ea7ad30228e4440eb157cb0745543fee38a905323148eff85714379d71b",
+      "reviewed_sha256": "9b2876579173dde54025186e7a8a041c781012f52f70db9d5786077916179c7d",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "84e3531d157e7d4d5d1d49536f5bd1eb45d5302cef353ac7da6716667ba8a8cd"
     },
     "kaynak-detay/sinif-etkinlik-okuloncesi/index.html": {
       "baseline_sha256": "a0b89974f633db48a5b53f9f0940b80c5a128216defaedaec110827a8e0172b0",
-      "reviewed_sha256": "5f8bffb38a30f52566c190f5d0142bc15fe0eb8f1b484114c0949962859a09e7",
+      "reviewed_sha256": "d891a022fb12a390b22a313333ba6b9c3de689a94e3f298dd347182ca5d51118",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "d32213b871404c997f92fcfeaf7dcd507f43910f0123461ffa108c7d9770e150"
     },
     "kaynak-detay/sinif-etkinlik-ortaokul/index.html": {
       "baseline_sha256": "6a73d3ed69d12651ec04a1a91c42f55fa10a41819ea116b765a6d47c6e5f1fe9",
-      "reviewed_sha256": "a8824ab16197f136859299867b49632524f331be9ce1392d2c4a5abae16be057",
+      "reviewed_sha256": "671190bc6e0bf1d5d70342afb52ad064834fa4f59f3bbb99ebc9a6efe5734667",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "b1eb2021853775f933c62b8939a121cba76c32361d324d4580dd57474c8b5851"
     },
     "kaynak-detay/sunum-ogretmen-ilkokul/index.html": {
       "baseline_sha256": "7c8d408a13e7eea80f5f8af5b4683b70c77aabb13e841a09a181f1137a04e7a2",
-      "reviewed_sha256": "41658e2497493610cf2a999174495cee2c5c262bb81a5cea2fb6539ea1b6ca24",
+      "reviewed_sha256": "f9a4b5a7570db09ef5274468bb461a7ff38857c143794a63b1a91719934b91d7",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "cdf204110ecec08c6d21983d83a296bf0dba010549a0551a9c8d6baf8078c38d"
     },
     "kaynak-detay/sunum-ogretmen-lise/index.html": {
       "baseline_sha256": "63fefdffba18c854fc7be8b22ce0a9769d606e8f4971dc5169e1876a7291de8b",
-      "reviewed_sha256": "8fcf0b594186e246cb84e29485677b98646530265fd7739e891e88dd38cafe2a",
+      "reviewed_sha256": "59a3953a8e65e3966e1ce7feae3d955222120832368a2962285e3429ce72bd48",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "3d341dd2c55b321741c378e5d71692713be95f6f38516babc7fe02a3c7430abf"
     },
     "kaynak-detay/sunum-ogretmen-okuloncesi/index.html": {
       "baseline_sha256": "4aa1c0daa9ec41443c5568ccaa47904f7ca27a448c8e766eb95d2b3b340013e9",
-      "reviewed_sha256": "b9f3e3a8f3655d857f039a53426f7f757b6db02f7a8d0694b8d9da5957e55bdf",
+      "reviewed_sha256": "efa43254be6e005cdd004443c236197457162dab5fff0a317f376f57c56f4963",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "dba534b241089751c36ba2b606fa5f18e38566e88b68a8a96cbbe46c6ee1b660"
     },
     "kaynak-detay/sunum-ogretmen-ortaokul/index.html": {
       "baseline_sha256": "f8a80bfb3210d0533fe6313b001e425e8ac155082e9ac4d2f087f77a9138b816",
-      "reviewed_sha256": "41bc5e7455421823d87cca5cb4ba76bc1954c7d60e46dab1cfad0ba836a1f9e0",
+      "reviewed_sha256": "2ab46d2ffe348d677a3e9e81de6ab7b43deff484a0ef5a80fed4b5b6033adf4e",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "eb1e233faa796db733467b210dcd9b2d936e9e374819ccdef07c8d14ed529aa9"
     },
     "kaynak-detay/sunum-veli-ilkokul/index.html": {
       "baseline_sha256": "942ca7bb5b02117ac2ee54944990e4c41a897ac6e0fce3808183b055a547550d",
-      "reviewed_sha256": "4ac97eec79a81bc856d364541a25339d3174e0eb37c11520dd9678711733b847",
+      "reviewed_sha256": "8673919751f6c8d27dba76224a7325b335fbcf253477b6e2ceaa22d2bcda6e1c",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "d63a38ba3afe6695c9cee4a04389d2d8c2fd4aaac305c2ba13c8c8955af5d98c"
     },
     "kaynak-detay/sunum-veli-lise/index.html": {
       "baseline_sha256": "1f43d75d017ac55b9f65ff146fb4a0385bce4f5190c8813bce62f210fcf8aa19",
-      "reviewed_sha256": "b225c33295635dcec4caa265f1e18c0d6c155920f810577abe36d28f4583bb23",
+      "reviewed_sha256": "6f5fd0b9d494f12dc136c9ee662ab6ecb63b2e63ad23ed639d0cae5b369a2e10",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "b655a4284d2df9f1c7a6328bfa849ecdb6ce5e5ec20e6516e3991b3f56d84d6b"
     },
     "kaynak-detay/sunum-veli-okuloncesi/index.html": {
       "baseline_sha256": "be15ef1474f793a37ca79696de2d563bf2708b67e4b13ab40a5a2ae37dc1dfc0",
-      "reviewed_sha256": "ae988845e6f6a653bba5e2b3e4cd1f526a4711ba2d8cd7066a3cf12db114bdc8",
+      "reviewed_sha256": "459443862cb11f2567132915049ca4190a4522650a7e5cdfc1b742115dff4278",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "e93a4070b6f3e926a272ca38053ffa3556139ca1d735cd0de317794c3b8b2244"
     },
     "kaynak-detay/sunum-veli-ortaokul/index.html": {
       "baseline_sha256": "636641d17863e9df1c39d56fdf88fc593bbae0dcaaac311892d280b64017d583",
-      "reviewed_sha256": "15c237e18802a9b82ac9a15e7e57018ccbd89ea57cd3f8392942f7efb0c2d07c",
+      "reviewed_sha256": "cdcf769d011f00c89c15c0142a8c1765685b839936b6742e994c9c57f5c13e44",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "649b26bf2e6ffb417185c56cec7387136d5672ff88a009c41e0cc505bd8623c1"
     },
     "kaynak-detay/zorbalik-kuramsal/index.html": {
       "baseline_sha256": "6465e948b0b2f15d57fedbb0eaa6b9c442f3aa8f6948096221a0e2066abeafdf",
-      "reviewed_sha256": "01e1c6a733bf1776b43219694f368d6d80942cfef0825aca2d28e10e121f254a",
+      "reviewed_sha256": "55749dff969597395289507b1228814dcfd0cd4f68f24938dd85f12ba2024554",
       "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
       "runtime_sha256": "35eabd813c630bdcb864c9ae2e413c5ca864bf2461296fee9405f3a40cba7e55"
     },
@@ -935,7 +935,7 @@
     },
     "pdr-ogrencileri/bireyi-tanima-teknikleri/index.html": {
       "baseline_sha256": "515b1074f5aad3fd819c236e5a8a9caa1581aae22b786fec761d3f1e2cc23852",
-      "reviewed_sha256": "c6eef8dc1e0877634f0758e9b15170d11e00328a1258c7e85d7cdf924a0ce9a8",
+      "reviewed_sha256": "515b1074f5aad3fd819c236e5a8a9caa1581aae22b786fec761d3f1e2cc23852",
       "reason": "Source-grounded content discovery, visible FAQ annotations and schema; no calculation or dataset changes",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed"
     },
@@ -959,7 +959,7 @@
     },
     "pdr-ogrencileri/psikolojik-danisma-kuramlari/index.html": {
       "baseline_sha256": "2c7dee1405c48dd11536959528f902bbe26027b62f05d21b57faafef26834ebc",
-      "reviewed_sha256": "8618b4dfdbed9dd1b38957f9c5d63e5ff325b19d2bc3db9d0cf8c5eb1ee0a9a7",
+      "reviewed_sha256": "2c7dee1405c48dd11536959528f902bbe26027b62f05d21b57faafef26834ebc",
       "reason": "Source-grounded content discovery, visible FAQ annotations and schema; no calculation or dataset changes",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed"
     },
