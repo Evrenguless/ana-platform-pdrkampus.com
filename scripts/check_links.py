@@ -89,8 +89,9 @@ for source, parser in parsers.items():
 
 checked=0
 workers=max(1,min(8,int(os.environ.get('PDR_LINK_WORKERS','6'))))
+# Local-only verification is explicit; the default still checks external URLs.
 with ThreadPoolExecutor(max_workers=workers) as pool:
-    pending={pool.submit(check_external,url):url for url in sorted(external)}
+    pending={pool.submit(check_external,url):url for url in ([] if '--internal-only' in sys.argv else sorted(external))}
     for future in as_completed(pending):
         url=pending[future]
         status,detail=future.result()

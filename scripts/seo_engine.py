@@ -35,7 +35,7 @@ def protected(root):
         if path.is_file() and not path.is_symlink() and digest(path) == expected:
             continue
         edit = approvals.get(name, {})
-        permitted = name.endswith('.html') or name == 'sitemap.xml' or name in {'scripts/build_library_catalog.py', 'scripts/build_material_hubs.py', 'scripts/build_career_pages.py', 'src/library.js', 'tests/catalog.mjs', 'scripts/check_links.py', 'scripts/check_seo.py', 'src/shell-refresh.css'}
+        permitted = name.endswith('.html') or name == 'sitemap.xml' or name in {'scripts/build_library_catalog.py', 'scripts/build_material_hubs.py', 'scripts/build_career_pages.py', 'src/library.js', 'src/library-detail-links.js', 'tests/catalog.mjs', 'scripts/check_links.py', 'scripts/check_seo.py', 'src/shell-refresh.css', '.github/workflows/seo-audit.yml'}
         valid = (permitted and path.is_file() and not path.is_symlink()
                  and edit.get('baseline_sha256') == expected and edit.get('reviewed_sha256') == digest(path))
         if valid and name.endswith('.html'):
@@ -119,7 +119,9 @@ def audit(root, config):
     sitepath = root / 'sitemap.xml'
     sitemap, sitemap_error = set(), None
     if sitepath.exists():
-        try: sitemap = {n.text for n in ET.parse(sitepath).iter() if n.tag.split('}')[-1] == 'loc'}
+        try:
+            from sitemap_tools import read_urlset
+            sitemap = {n.text for n in read_urlset(root).iter() if n.tag.split('}')[-1] == 'loc'}
         except ET.ParseError as e: sitemap_error = str(e)
     titles = Counter(p.title for _, p in inventory.values() if p.title and not p.noindex)
     descriptions = Counter(p.description for _, p in inventory.values() if p.description and not p.noindex)

@@ -70,12 +70,14 @@ def build_pages(root, resources):
     for path, content in outputs.items():
         dest = root / path; dest.parent.mkdir(parents=True, exist_ok=True); dest.write_text(content, encoding='utf-8')
     ns = 'http://www.sitemaps.org/schemas/sitemap/0.9'; ET.register_namespace('', ns)
-    tree = ET.parse(root/'sitemap.xml'); sitemap = tree.getroot(); old = {node.text for node in sitemap.iter('{'+ns+'}loc')}
+    from sitemap_tools import read_urlset, eligible_outputs
+    tree = read_urlset(root); sitemap = tree.getroot(); old = {node.text for node in sitemap.iter('{'+ns+'}loc')}
     if resources:
         for path in outputs:
             url = BASE+'/'+path[:-10]
             if url not in old: node = ET.SubElement(sitemap,'{'+ns+'}url'); ET.SubElement(node,'{'+ns+'}loc').text = url
         sitemap[:] = sorted(sitemap, key=lambda node: node.find('{'+ns+'}loc').text); ET.indent(tree, space='  ')
-        (root/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n'+ET.tostring(sitemap,encoding='unicode')+'\n')
-        assert old <= {node.text for node in sitemap.iter('{'+ns+'}loc')}
+        for name,content in eligible_outputs(root,sitemap)[0].items():
+            file=root/name; file.parent.mkdir(parents=True,exist_ok=True); file.write_text(content)
+        # Eligibility can remove stale, noindex, or ambiguous prior URLs.
         approval = root/'seo/approved-edits.json'; data = json.loads(approval.read_text()); data['edits']['sitemap.xml']['reviewed_sha256'] = hashlib.sha256((root/'sitemap.xml').read_bytes()).hexdigest(); approval.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')

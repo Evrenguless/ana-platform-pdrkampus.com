@@ -58,6 +58,20 @@ def flatten_schema(value):
         for key in ('@graph','mainEntity'):
             if key in value:yield from flatten_schema(value[key])
 
+def compare_grams(texts, threshold=.9):
+    """Exact Jaccard comparison; the size bound cannot discard a qualifying pair."""
+    keys=list(texts);near=[]
+    for i,a in enumerate(keys):
+        aa=texts[a];size_a=len(aa)
+        if size_a<50:continue
+        for b in keys[i+1:]:
+            bb=texts[b];size_b=len(bb)
+            if not size_b or min(size_a,size_b)/max(size_a,size_b)<threshold:continue
+            intersection=len(aa&bb)
+            ratio=intersection/(size_a+size_b-intersection)
+            if ratio>=threshold:near.append({'first':a,'second':b,'similarity':round(ratio,3),'action':'editorial_review_only'})
+    return near
+
 def editorial(root):
     config=read(root/'seo/config.json');base=config['base_url'];report=audit(root,config);coverage=[];texts={};questions=[]
     for row in report['pages']:
@@ -82,15 +96,9 @@ def editorial(root):
         # Remove tokens shared by most pages later to reduce navigation/template noise.
         tokens=normalize(text).split();texts[url]=set(zip(tokens,tokens[1:],tokens[2:],tokens[3:]))
     frequency=collections.Counter(g for grams in texts.values() for g in grams);common={g for g,n in frequency.items() if n>max(5,len(texts)*.35)}
-    keys=list(texts);near=[]
-    for i,a in enumerate(keys):
-        aa=texts[a]-common
-        if len(aa)<50:continue
-        for b in keys[i+1:]:
-            bb=texts[b]-common
-            if not bb:continue
-            ratio=len(aa&bb)/len(aa|bb)
-            if ratio>=.9:near.append({'first':a,'second':b,'similarity':round(ratio,3),'action':'editorial_review_only'})
+    # Filter shared boilerplate once, not once for every pair.
+    filtered={url:grams-common for url,grams in texts.items()}
+    near=compare_grams(filtered)
     return {'protection':report['protection'],'technical':report,'editorial':coverage,'visible_questions':questions,'near_duplicates':near,'limits':['Heuristic editorial review, not Google ranking or index status.','No automatic deletion, redirect, noindex, or publication.']}
 
 def main():
