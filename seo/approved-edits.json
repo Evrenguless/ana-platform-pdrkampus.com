@@ -249,8 +249,8 @@
     },
     "scripts/build_library_catalog.py": {
       "baseline_sha256": "70afdfe2a3f3d9f1f2db2770fe44d28abde79b939b4acf2b298de2c133608425",
-      "reviewed_sha256": "a076d42fb138075444dc3fda33a2b91a522edd174d1226b746249f7ce11329fb",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved."
+      "reviewed_sha256": "3f07a72ec6ffc91e1086483b11a70359c9ec22522d0ef4d14c03d1492317ffa6",
+      "reason": "Reviewed integration of approved SEO title policy; existing page generation logic preserved."
     },
     "scripts/check_links.py": {
       "baseline_sha256": "380fb46f02b6e82b5f5df97ce322d7a69a2fa4ebcd147afd541880b5f2271125",
