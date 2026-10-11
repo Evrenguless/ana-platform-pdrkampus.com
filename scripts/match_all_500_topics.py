@@ -114,8 +114,9 @@ def main():
             if score < args.min_score:
                 continue
             subject_matches += 1
-            url = row.get("pagePath") or links.get(rid, "")
-            if not local_page(url):
+            options = [row.get("pagePath", ""), links.get(rid, "")]
+            url = next((candidate for candidate in options if local_page(candidate)), "")
+            if not url:
                 stats["matched_but_no_local_page"] += 1
                 continue
             if url in used:
