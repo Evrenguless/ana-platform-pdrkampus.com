@@ -127,8 +127,25 @@ def usable_resource_target(row):
     if file.startswith(("https://","http://")):return True
     return file.startswith("/") and not file.startswith("//") and (ROOT/file.lstrip("/")).is_file()
 
+# Narrow terms for guides where broad category matches produced unrelated cards.
+# An empty result is preferable to suggesting the wrong school document.
+FOCUSED_TITLE_TERMS = {
+    "lgs-sinav-sonrasi-tercih-destegi": ("lgs", "lise tercih", "ortaogretime gecis", "yerlestirme tercihi"),
+    "yks-tercih-gorusmesi-hazirligi": ("yks", "universite tercih", "yuksekogretim tercih", "meslek tercihi"),
+    "okulda-problem-cozme-becerisi": ("problem cozme", "sorun cozme", "problem cozum", "catisma cozme"),
+    "okulda-empati-gelistirme": ("empati", "bakis acisi", "duygulari anlama"),
+    "okulda-yardim-isteme-becerisi": ("yardim isteme", "yardim arama", "guvenilir yetiskin"),
+    "sosyometri-uygulama-ve-etik": ("sosyometri", "sosyometrik", "sosyal iliski olc"),
+    "okulda-ogretmen-musahade-gorusmesi": ("ogretmen gorus", "ogretmen gozlem", "sinif ici gozlem"),
+    "ogrenci-izleme-formu-hazirlama": ("ogrenci izleme", "ogrenci takip", "gelisim izleme", "gozlem formu", "takip cizelge"),
+    "rehberlik-servisi-evrak-duzeni": ("rehberlik dosya", "rehberlik evrak", "rehberlik form", "rehberlik servis", "calisma dosyasi"),
+    "rehberlik-yillik-plan-hazirlama": ("rehberlik yillik plan", "cerceve plan", "rehberlik plani", "yillik calisma plani"),
+}
+
 def resources(slug):
-    terms=tuple(SEARCH_TERMS[slug])+TITLE_ALIASES.get(slug,())
+    # Prefer narrowly relevant titles for topics with known false positives.
+    focused=FOCUSED_TITLE_TERMS.get(slug)
+    terms=focused if focused else tuple(SEARCH_TERMS[slug])+TITLE_ALIASES.get(slug,())
     normalized_terms=tuple(normalized_title(term) for term in terms if len(normalized_title(term))>=4)
     rows=[];seen=set()
     for name in ("data/library.json","data/collected-resources.json","data/new-resources-batch.json","data/library-reviewed-batch-20261010.json"):
@@ -141,18 +158,16 @@ def resources(slug):
             title=normalized_title(row.get("title",""))
             hits=[term for term in normalized_terms if term in title]
             if not hits or not usable_resource_target(row):continue
-            # Longer title phrases outrank broad single-word matches.
             score=max(len(term) for term in hits)
-            rows.append((score,row))
-    # Prefer an existing PDR Kampüs landing page when title relevance is equal.
-    # It remains accessible even when the source institution blocks automated HTTP.
-    def has_local_page(row):
-        page=row.get("pagePath")
-        return (isinstance(page,str) and page.startswith("/") and
-                not page.startswith("//") and (ROOT/page.lstrip("/")).is_file())
-    rows.sort(key=lambda item:(-item[0],not has_local_page(item[1]),
-                               normalized_title(item[1].get("title",""))))
-    return [r for _,r in rows[:9]]
+            page=row.get("pagePath")
+            has_local_page=(isinstance(page,str) and page.startswith("/") and
+                            not page.startswith("//") and (ROOT/page.lstrip("/")).is_file())
+            # An exact title match is mandatory; among valid titles, prefer our
+            # actual local resource page to uncertain remote file links.
+            rows.append((has_local_page,score,row))
+    rows.sort(key=lambda item:(not item[0],-item[1],
+                                normalized_title(item[2].get("title",""))))
+    return [row for _,_,row in rows[:9]]
 def source_cards(slug):
     cards=[]
     count=0
