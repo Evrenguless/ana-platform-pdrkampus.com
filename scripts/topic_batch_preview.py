@@ -42,6 +42,9 @@ def topic_terms(slug, metadata):
     names = [slug.replace("-", " ")]
     if metadata:
         names += [metadata.get("name", ""), *metadata.get("aliases", [])]
+    # Subtopics inherit the parent topic but preserve the grade/role context.
+    if "zorbalig" in slug or "zorbalik" in slug:
+        names.append("akran zorbalığı")
     return names
 
 
@@ -93,6 +96,12 @@ def get_matches(slug, metadata, rows, links, previews, limit):
                 and len(term & (topic_words | title_words)) / len(term) >= 0.67 else 0.0)
             for term in term_sets
         ), default=0)
+        # Grade-specific subtopics should prioritize grade-compatible materials.
+        levels = {"ilkokul": "ilkokul", "ortaokul": "ortaokul", "lise": "lise"}
+        grade = next((value for key, value in levels.items() if key in slug), None)
+        resource_level = norm(row.get("level", "") + " " + title)
+        if grade and grade in resource_level:
+            score += 0.2
         if score < 0.8:
             continue
         href = resource_url(row, links)
