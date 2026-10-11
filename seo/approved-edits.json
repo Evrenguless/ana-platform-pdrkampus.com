@@ -659,9 +659,9 @@
     },
     "konu/akran-zorbaligi/index.html": {
       "baseline_sha256": "c0ff1221f2b36925e0d207f47e40fcbe6b63e4a52724721476718261a055d68f",
-      "reviewed_sha256": "d54f6c0da972c8e5af04e2e95d0b97c05d643cbf140e6fac00a58e1ceaf9a0f0",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
-      "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed"
+      "reviewed_sha256": "4a22c6d6d92c0094a4cf8297270012da12d921295a570bc45a0009d07127e8c8",
+      "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
+      "reason": "Reviewed topic guide enhancement: existing article and SEO metadata preserved; contextual guidance and verified resource cards added."
     },
     "konu/bep/index.html": {
       "baseline_sha256": "d1f0930efc0db047cca5eb8d2dbcf659101643f62debaf6637933cb1643f81f7",
