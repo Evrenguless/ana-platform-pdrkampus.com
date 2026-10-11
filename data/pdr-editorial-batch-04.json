@@ -25,7 +25,7 @@
         "Dönemlik izleme yaparak planın etkisini ve güncel kurum gereklerini gözden geçir."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Her hedefe uygun etkinlik, görüşme veya bilgilendirme türünü seç. Ardından dönemlik izleme yaparak planın etkisini ve güncel kurum gereklerini gözden geçir.",
+    "example": "Bir ortaokulda devamsızlık ve akran çatışması bildirimleri artıyor. Rehberlik servisi öğretmen gözlemlerini ve öğrenci geri bildirimlerini iki önceliğe ayırıyor; kasım ayına sınıf çalışması, aralık ayına veli oturumu koyuyor. Dönem sonunda devam ve katılım göstergelerini yeniden değerlendiriyor.",
     "check": [
       "Öğrenci, öğretmen ve veli geri bildiriminden okulun en önemli ihtiyaçlarını belirle.",
       "Her hedefe uygun etkinlik, görüşme veya bilgilendirme türünü seç.",
@@ -73,7 +73,7 @@
         "Katılım ve geri bildirime göre sonraki veli çalışmasını düzenle."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Kurgusal aile örnekleriyle kısa bir oturum akışı oluştur. Ardından katılım ve geri bildirime göre sonraki veli çalışmasını düzenle.",
+    "example": "Altıncı sınıf velileri ekran kullanımı konusunda destek istiyor. Seminerin ilk bölümünde iki kurgusal aile konuşması karşılaştırılıyor; ardından veliler evde deneyebilecekleri bir iletişim cümlesi seçiyor. Anonim sorular sonraki veli buluşmasının konusunu belirliyor.",
     "check": [
       "Velilerin gerçek sorularını ve okulun ihtiyaçlarını önceden topla.",
       "Kurgusal aile örnekleriyle kısa bir oturum akışı oluştur.",
@@ -121,7 +121,7 @@
         "İzleme kaydını yeni destek kararlarıyla ilişkilendir."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Formu tarih, gözlem, destek ve takip alanlarıyla sınırlı tut. Ardından i̇zleme kaydını yeni destek kararlarıyla ilişkilendir.",
+    "example": "Derse başlamakta zorlanan bir öğrenci için formda haftada üç gün ilk etkinliğe başlama süresi, denenen destek ve öğrencinin geri bildirimi tutuluyor. İki hafta sonra öğretmenle veriler gözden geçirilerek yönergeyi kısaltma uygulamasının sürdürülmesine karar veriliyor.",
     "check": [
       "İzlenecek davranışı yorum değil gözlenebilir olay olarak tanımla.",
       "Formu tarih, gözlem, destek ve takip alanlarıyla sınırlı tut.",
@@ -169,7 +169,7 @@
         "Bir sonraki etkinlik için davranış hedefi ve geri bildirim planla."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Grupların birden fazla çözüm seçeneği üretmesini sağla. Ardından bir sonraki etkinlik için davranış hedefi ve geri bildirim planla.",
+    "example": "Yedinci sınıfa iki arkadaşın grup ödevinde görevleri paylaşamadığı kurgusal bir olay sunuluyor. Öğrenciler sorunu kişilere yüklemeden tanımlıyor, üç çözüm öneriyor ve her birinin adil olup olmadığını tartışıyor. Çıkış kartına uygulanabilir bir adım yazıyorlar.",
     "check": [
       "Gerçek öğrencileri hedef göstermeyen kurgusal bir sınıf sorunu seç.",
       "Grupların birden fazla çözüm seçeneği üretmesini sağla.",
@@ -217,7 +217,7 @@
         "Değişimi izlerken güvenlik ve koruma yükümlülüklerini gözet."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Güvenilir yetişkin ve olumlu akran ilişkileri gibi koruyucu kaynakları bul. Ardından değişimi izlerken güvenlik ve koruma yükümlülüklerini gözet.",
+    "example": "Dokuzuncu sınıfta devamsızlığı artan öğrenciyle görüşüldüğünde sabah ulaşım sorunu ve sınıfa ait hissedememe ortaya çıkıyor. Aile ve okul yönetimi ulaşım seçeneğini değerlendirirken öğrenci güven duyduğu öğretmenle haftalık kısa görüşme yapıyor; dört hafta sonra devam verileri inceleniyor.",
     "check": [
       "Devam, katılım ve okula aidiyet verilerini birlikte değerlendir.",
       "Güvenilir yetişkin ve olumlu akran ilişkileri gibi koruyucu kaynakları bul.",
@@ -265,7 +265,7 @@
         "Kararları uygun usulle kaydedip yeniden değerlendirme tarihi koyun."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Hedeflerin koşulunu, davranışını ve başarı ölçütünü değerlendirin. Ardından kararları uygun usulle kaydedip yeniden değerlendirme tarihi koyun.",
+    "example": "BEP toplantısında öğrencinin mevcut okuma performansı örnek çalışmalarla gösteriliyor. Ekip, çok geniş yazılmış hedefi koşulu ve başarı ölçütü belli iki küçük hedefe ayırıyor; sınıf öğretmeni materyal uyarlamasını üstleniyor ve bir sonraki veri inceleme tarihi belirleniyor.",
     "check": [
       "Güncel mevzuata göre toplantı katılımcılarını ve amacı netleştir.",
       "Hedeflerin koşulunu, davranışını ve başarı ölçütünü değerlendirin.",
@@ -313,7 +313,7 @@
         "Gerekli değerlendirme ve yönlendirmeyi ilgili uzman ve kurum süreçleriyle yürüt."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Yönergeleri küçük ve görünür adımlara ayırmayı öğretmenle dene. Ardından gerekli değerlendirme ve yönlendirmeyi ilgili uzman ve kurum süreçleriyle yürüt.",
+    "example": "Öğrenci sözlü olarak anlattığı bilgiyi uzun yazılı yönergede gösteremiyor. Öğretmen aynı kazanımı koruyarak yönergeyi numaralı adımlara ayırıyor ve örnek cevap sunuyor. Öğrenciyle iki haftalık uygulamanın hangi bölümünün işe yaradığı konuşuluyor; tanı çıkarılmıyor.",
     "check": [
       "Güçlüğün hangi okuma, yazma veya matematik görevlerinde görüldüğünü gözle.",
       "Yönergeleri küçük ve görünür adımlara ayırmayı öğretmenle dene.",
@@ -361,7 +361,7 @@
         "Öğrencinin aidiyet deneyimini ve güvenliğini takip görüşmelerinde değerlendir."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Gönüllü ve kapsayıcı küçük grup etkileşimleri oluştur. Ardından öğrencinin aidiyet deneyimini ve güvenliğini takip görüşmelerinde değerlendir.",
+    "example": "Beşinci sınıfta teneffüste yalnız kaldığını söyleyen öğrenciyle özel görüşme yapılıyor. Öğretmen kimseyi işaret etmeden gönüllü küçük grup oyunları düzenliyor; rehberlik servisi öğrencinin kendini güvende hissettiği anları bir sonraki görüşmede soruyor.",
     "check": [
       "Dışlanmayı tekil olaydan ve zorbalık örüntüsünden ayırmak için öğrencileri ayrı dinle.",
       "Gönüllü ve kapsayıcı küçük grup etkileşimleri oluştur.",
@@ -409,7 +409,7 @@
         "İş birliği planını öğrenci ve veliyle yeniden değerlendir."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Uyku, mola ve aile iletişimi için uygulanabilir ortak düzen belirle. Ardından i̇ş birliği planını öğrenci ve veliyle yeniden değerlendir.",
+    "example": "LGS'ye hazırlanan öğrencinin ailesi her akşam deneme netlerini soruyor; tartışmalar artıyor. Görüşmede aile haftada bir kısa değerlendirme zamanı belirliyor ve günlük konuşmalara ders dışı konular ekliyor. İki hafta sonra öğrenci ve veli ayrı ayrı bu değişimin etkisini anlatıyor.",
     "check": [
       "Öğrencinin ve velinin sınav beklentilerini ayrı ayrı dinle.",
       "Uyku, mola ve aile iletişimi için uygulanabilir ortak düzen belirle.",
@@ -457,7 +457,7 @@
         "Kesin meslek seçtirmeden yeni araştırma soruları oluştur."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Cinsiyet ve başarıya dayalı meslek kalıplarını kurgusal örneklerle sorgula. Ardından kesin meslek seçtirmeden yeni araştırma soruları oluştur.",
+    "example": "Sekizinci sınıf öğrencileri ilgilerini çeken iki mesleğin günlük görevlerini ve eğitim yollarını güvenilir kaynaklardan araştırıyor. Küçük gruplarda mesleklerle ilgili kalıp yargıları tartışıyor, etkinliği 'hangisini seçeceğim?' yerine yeni bir araştırma sorusuyla bitiriyorlar.",
     "check": [
       "Meslek farkındalığı veya araştırma becerisinden hangisini hedeflediğini seç.",
       "Cinsiyet ve başarıya dayalı meslek kalıplarını kurgusal örneklerle sorgula.",
@@ -505,7 +505,7 @@
         "Kişisel travma paylaşımı zorlamadan güvenli kapanış yap."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Aynı zorluk için birden fazla baş etme seçeneği üret. Ardından kişisel travma paylaşımı zorlamadan güvenli kapanış yap.",
+    "example": "Kurgusal bir öğrenci okul değişikliği sonrası kendini yalnız hissediyor. Altıncı sınıf grupları bu öğrencinin başvurabileceği yetişkinleri, arkadaşlık fırsatlarını ve kendi güçlü yönlerini belirliyor. Kimsenin gerçek kayıp veya travma deneyimini paylaşması istenmiyor.",
     "check": [
       "Psikolojik sağlamlığın hiç zorlanmamak demek olmadığını açıklığa kavuştur.",
       "Aynı zorluk için birden fazla baş etme seçeneği üret.",
@@ -553,7 +553,7 @@
         "Bir hafta sonraki görüşmede işe yarayan düzenlemeleri değerlendir."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Öğrenciyle çok küçük bir başlangıç adımı seç. Ardından bir hafta sonraki görüşmede işe yarayan düzenlemeleri değerlendir.",
+    "example": "Öğrenci fen ödevini sürekli geceye bırakıyor. Birlikte yapılan incelemede ilk sorunun yönergesini anlamadığı için başlamaktan kaçındığı görülüyor. İlk hafta hedefi ödevi bitirmek değil, okuldan çıkmadan öğretmene ilk adımı sormak ve evde beş dakika denemek oluyor.",
     "check": [
       "Ertelemenin yaşandığı görev, zaman ve ortamı somutlaştır.",
       "Öğrenciyle çok küçük bir başlangıç adımı seç.",
@@ -601,7 +601,7 @@
         "Bir haftalık somut iletişim hedefi ve takip belirle."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Kurgusal kartlarla etkin dinleme ve duyduğunu özetleme çalış. Ardından bir haftalık somut iletişim hedefi ve takip belirle.",
+    "example": "Sınıfa yeni katılan öğrenciler için gönüllü küçük grup etkinliği hazırlanıyor. Gruplar bir arkadaşın sözünü kesmeden dinleme ve söylediklerini kendi sözcükleriyle özetleme pratiği yapıyor. Kimsenin kişisel aile deneyimini açıklaması gerekmiyor.",
     "check": [
       "Dinleme, tanışma veya farklı fikre saygı kazanımlarından birini seç.",
       "Kurgusal kartlarla etkin dinleme ve duyduğunu özetleme çalış.",
@@ -649,7 +649,7 @@
         "Gereksiz tekrar anlatımı önleyerek okul içi güvenli desteği koordine et."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Gizliliğin güvenlik ve bildirim yükümlülükleriyle sınırlı olduğunu açıkla. Ardından gereksiz tekrar anlatımı önleyerek okul içi güvenli desteği koordine et.",
+    "example": "Öğrenci okulda kendisini güvende hissetmediği bir durumdan söz ediyor. Personel yönlendirici sorularla ayrıntı toplamaya veya iddiayı kendi başına kanıtlamaya çalışmıyor; öğrencinin acil güvenliğini değerlendirip yürürlükteki bildirim ve koruma süreçlerini gecikmeden işletiyor.",
     "check": [
       "Olası acil tehlikede öğrencinin güvenliğini sağlayıp yetkili süreçleri gecikmeden işlet.",
       "Gizliliğin güvenlik ve bildirim yükümlülükleriyle sınırlı olduğunu açıkla.",
@@ -697,7 +697,7 @@
         "Dönem sonunda işlevsiz kayıtları ve arşiv düzenini gözden geçir."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Gereksiz kişisel bilgi ve tekrar belgeler oluşturmaktan kaçın. Ardından dönem sonunda işlevsiz kayıtları ve arşiv düzenini gözden geçir.",
+    "example": "Dönem sonunda rehberlik servisi aynı sınıf etkinliğini üç ayrı belgede tekrar kaydettiğini fark ediyor. Güncel kurum usulleri inceleniyor; faaliyet takibi için gerekli alanlar korunurken gereksiz kopyalar azaltılıyor. Bireysel öğrenci kayıtlarının erişimi ayrıca sınırlandırılıyor.",
     "check": [
       "Yıllık plan, faaliyet, görüşme ve kurum yazışmalarını amaçlarına göre ayır.",
       "Gereksiz kişisel bilgi ve tekrar belgeler oluşturmaktan kaçın.",
@@ -745,7 +745,7 @@
         "Aile ve ilgili birimlerle bireyselleştirilmiş destek planla."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Öğretmenle derinleşme ve zenginleştirme seçenekleri değerlendir. Ardından aile ve ilgili birimlerle bireyselleştirilmiş destek planla.",
+    "example": "Ders görevlerini erken bitiren öğrenci grup çalışmalarında kendini dışarıda hissediyor. Öğretmenle ilgi alanına uygun derinleşme görevi planlanırken rehberlik görüşmesinde arkadaşlık ve aidiyet ihtiyacı konuşuluyor; destek yalnızca akademik başarıya indirgenmiyor.",
     "check": [
       "Öğrencinin gelişimsel ve sosyal ihtiyaçlarını yüksek başarıyla eşitleme.",
       "Öğretmenle derinleşme ve zenginleştirme seçenekleri değerlendir.",
@@ -793,7 +793,7 @@
         "Güvenli izleme ve yeniden görüşme tarihi planla."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Velinin evde gözlemlediği değişimleri yargılamadan dinle. Ardından güvenli izleme ve yeniden görüşme tarihi planla.",
+    "example": "Veli, çocuğunun teneffüslerde sürekli alay edildiğini bildiriyor. Görüşmede başka öğrencilerin özel bilgileri paylaşılmadan güvenlik adımları açıklanıyor. Öğrenciyle ayrı görüşme, öğretmen gözlemi ve takip tarihi planlanıyor; aileler otomatik olarak karşı karşıya getirilmiyor.",
     "check": [
       "Görüşmenin önceliğinin güvenlik ve destek olduğunu belirt.",
       "Velinin evde gözlemlediği değişimleri yargılamadan dinle.",
@@ -841,7 +841,7 @@
         "Kazanıma uygun kısa geri bildirim toplayıp sonraki oturumu düzenle."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Açılış, kurgusal etkinlik, uygulama ve kapanış sürelerini planla. Ardından kazanıma uygun kısa geri bildirim toplayıp sonraki oturumu düzenle.",
+    "example": "Altıncı sınıfta yardım isteme becerisi için 30 dakikalık grup oturumu hazırlanıyor: beş dakika açılış, on dakika kurgusal senaryo, on dakika seçenekleri deneme ve beş dakika kapanış. Katılımcılar özel yaşantılarını anlatmaya zorlanmıyor.",
     "check": [
       "Psikoeğitim ve terapi hedeflerini karıştırmadan oturum amacını yaz.",
       "Açılış, kurgusal etkinlik, uygulama ve kapanış sürelerini planla.",
@@ -889,7 +889,7 @@
         "Öğrencileri suçlamadan güvenli davranış seçeneklerini tekrarla."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Fotoğraf paylaşırken izin isteme ve sınır kavramını tartış. Ardından öğrencileri suçlamadan güvenli davranış seçeneklerini tekrarla.",
+    "example": "Dördüncü sınıfta bir arkadaşın fotoğrafının izin alınmadan paylaşılacağı kurgusal durum tartışılıyor. Gruplar fotoğrafı paylaşmadan önce sorulabilecek cümleyi ve izinsiz paylaşım yaşandığında başvurulacak güvenilir yetişkini belirliyor.",
     "check": [
       "Kişisel bilgi, fotoğraf ve konum kavramlarını yaşa uygun tanıt.",
       "Fotoğraf paylaşırken izin isteme ve sınır kavramını tartış.",
@@ -937,7 +937,7 @@
         "Etkinlik sonunda her öğrencinin yardım yolunu bildiğini değerlendir."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Kurgusal günlük olaylar üzerinden başvuru seçenekleri üret. Ardından etkinlik sonunda her öğrencinin yardım yolunu bildiğini değerlendir.",
+    "example": "Üçüncü sınıfta teneffüste kendini güvende hissetmeyen kurgusal bir çocuk anlatılıyor. Öğrenciler okul krokisinde ulaşılabilecek yetişkinleri gösteriyor ve 'Yardıma ihtiyacım var' cümlesini gönüllü eşli çalışmada deniyor.",
     "check": [
       "Yardım istemenin olağan bir beceri olduğunu çocuklara açıkla.",
       "Kurgusal günlük olaylar üzerinden başvuru seçenekleri üret.",
@@ -985,7 +985,7 @@
         "Öğretmenle bir haftalık gözlem ve geri bildirim planla."
       ]
     ],
-    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Kurgusal karakterlerin farklı ihtiyaçlarını birlikte değerlendir. Ardından öğretmenle bir haftalık gözlem ve geri bildirim planla.",
+    "example": "Beşinci sınıf öğrencileri aynı oyunu oynamak istemeyen iki kurgusal arkadaşın hikâyesini okuyor. Farklı tercihleri küçümsemeden ifade eden cümleler üretiyor ve sınıfça 'söz kesmeden dinlemek' davranışını bir hafta boyunca izliyor.",
     "check": [
       "Farklı görüşü dinlemek gibi gözlenebilir bir kazanım seç.",
       "Kurgusal karakterlerin farklı ihtiyaçlarını birlikte değerlendir.",
