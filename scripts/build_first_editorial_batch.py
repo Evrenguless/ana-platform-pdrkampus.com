@@ -163,7 +163,27 @@ def main():
         .guide2-card-body{padding:15px;display:grid;gap:8px}
         .guide2-visual img{width:100%;height:160px;object-fit:cover}
         .topic-quick ul{line-height:1.85}
+        .pdr-sidebar{display:flex;flex-direction:column;gap:16px;min-width:0}
+        .pdr-sidebar .topic-card{margin:0;padding:18px;border:1px solid #dce7de;border-radius:16px;background:#fff}
+        .pdr-sidebar .pdr-side-note:nth-child(even){background:#f1f7f2}
+        .pdr-sidebar h3{font-size:17px;line-height:1.4;margin:0 0 8px}
+        .pdr-sidebar p{font-size:14px;line-height:1.7;margin:0}
+        .pdr-side-note small{font-size:11px;letter-spacing:.09em;color:#317459;font-weight:700}
+        .pdr-side-links .topic-links{display:grid;gap:8px}
+        @media(max-width:850px){.pdr-sidebar{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}}
+        @media(max-width:560px){.pdr-sidebar{grid-template-columns:1fr}}
         </style></head>''',1)
+
+        rail_note_data = {
+            "ogrenme-motivasyonu-okul-rehberligi": ["Öğrencinin güçlü yönlerini öğren.", "Küçük bir haftalık hedef seç.", "İlerlemeyi bir hafta sonra izle."],
+            "dikkat-odaklanma-okulda-destek": ["Zorlanmanın hangi görevlerde oluştuğunu gözle.", "Yönergeleri görünür adımlara böl.", "Sınıf gözleminden tanı çıkarma."],
+            "bep-hazirlama-okul-ekibi": ["Mevcut performansı somut yaz.", "Hedefin başarı ölçütünü belirt.", "Ekibin görevlerini birlikte netleştir."],
+            "okula-uyum-ilk-haftalar": ["Güvenilir yetişkinleri tanıt.", "Gönüllü akran desteği düzenle.", "İlk haftaları birlikte değerlendir."],
+            "veli-gorusmesi-hazirlik-izleme": ["Görüşmenin amacını açıkla.", "Yargı yerine gözlem paylaş.", "Takip tarihini birlikte kararlaştır."],
+        }
+        notes = "".join('<div class="topic-card pdr-side-note"><small>UYGULAMA İPUCU</small><h3>Adım '+str(i)+'</h3><p>'+esc(note)+'</p></div>' for i,note in enumerate(rail_note_data[slug],1))
+        quick = '<div class="topic-card pdr-side-links"><h3>Hızlı erişim</h3><div class="topic-links"><a href="#adim-1">Uygulama adımları</a><a href="#ornek">Örnek senaryo</a><a href="#materyaller">Kaynak önizlemeleri</a><a href="'+esc(search)+'">Kütüphanede ara</a></div></div>'
+        sidebar_cards = quick + notes
         toc=''.join(f'<li><a href="#adim-{i}">{esc(a)}</a></li>' for i,(a,_) in enumerate(g["sections"],1))
         sections=''.join(f'<section class="topic-section" id="adim-{i}"><h2>{esc(a)}</h2><p>{esc(b)}</p></section>' for i,(a,b) in enumerate(g["sections"],1))
         checklist=''.join('<li>'+esc(x)+'</li>' for x in extra["check"])
@@ -181,7 +201,7 @@ def main():
         <section class="topic-section"><h2>Sık sorulan sorular</h2>{faq}</section>
         <section class="guide2" id="materyaller"><h2>İlgili kütüphane materyalleri</h2><p class="guide2-intro">Katalog başlık ve etiketlerinden seçilen aday kaynaklardır. İçerikleri tek tek incelenmeden konuya tam uygunlukları kesinleştirilmiş sayılmaz.</p>{source_cards(slug)}<p><a href="{esc(search)}">Kütüphanedeki diğer materyalleri gör →</a></p></section>
         <section class="topic-section"><h2>İçerik ve kullanım notu</h2><p>Bu sayfa PDR Kampüs editoryal taslağıdır. Kurumun güncel mevzuatı, öğrenci güvenliği, gizlilik ve gerekli uzman yönlendirmesi esastır.</p></section>
-        </article><aside class="topic-sidebar"><div class="topic-card"><h3>İlgili sayfalar</h3><div class="topic-links"><a href="/konular.html">Bütün konu rehberleri</a><a href="{esc(search)}">Kütüphane kaynakları</a><a href="/materyaller/sunumlar/">Rehberlik sunumları</a></div></div></aside></section>
+        </article><aside class="topic-sidebar pdr-sidebar">{sidebar_cards}<div class="topic-card"><h3>İlgili sayfalar</h3><div class="topic-links"><a href="/konular.html">Bütün konu rehberleri</a><a href="{esc(search)}">Kütüphane kaynakları</a><a href="/materyaller/sunumlar/">Rehberlik sunumları</a></div></div></aside></section>
         </main>'''
         dest=OUTPUT/(slug+".html")
         dest.write_text(h+page+foot,encoding="utf-8")
