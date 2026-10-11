@@ -6,6 +6,7 @@ import re
 import unicodedata
 from collections import Counter
 from pathlib import Path
+from topic_source_aliases import TOPIC_ALIASES
 
 ROOT = Path(__file__).resolve().parents[1]
 STOP = {"rehberlik","ogrenci","okul","icin","formu","form","sunumu","sunum","etkinligi","etkinlik","nasil","nedir","ile","ve","bir","ornegi","hazirlama","calismalari","gorusme","dosyasi","pdf","word","meb"}
@@ -65,6 +66,7 @@ def main():
     stats["catalogue_with_pagePath"] = sum(bool(row.get("pagePath")) for row in rows)
     stats["catalogue_with_file"] = sum(bool(row.get("file")) for row in rows)
     stats["catalogue_with_topic"] = sum(bool(row.get("topic")) for row in rows)
+    stats["topics_with_curated_aliases"] = 0
     stats["matched_subject_before_link_check"] = 0
     stats["matched_subject_distinct_topics"] = 0
     for item in plan:
@@ -76,6 +78,11 @@ def main():
         title_words = tokens(label)
         if not main_words:
             main_words = title_words
+        concept = normalize(parent.strip('/').split('/')[-1].replace('-', ' '))
+        alias_phrases = TOPIC_ALIASES.get(concept, [])
+        alias_words = [tokens(phrase) for phrase in alias_phrases if tokens(phrase)]
+        if alias_words:
+            stats["topics_with_curated_aliases"] += 1
         candidates = []
         used = set()
         subject_matches = 0
@@ -87,6 +94,8 @@ def main():
             if not main_words:
                 continue
             subject_match = main_words <= tagged or main_words <= headline
+            if not subject_match:
+                subject_match = any(alias <= tagged or alias <= headline for alias in alias_words)
             if not subject_match and len(main_words) >= 2:
                 subject_match = len(main_words & (tagged | headline)) / len(main_words) >= 0.75
             if not subject_match:
