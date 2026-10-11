@@ -62,6 +62,7 @@ def main():
         p.error("Output must be a JSON file inside checkout")
     results = []
     stats = Counter()
+    distinct_selected = set()
     stats["catalogue_unique_ids"] = len(rows)
     stats["catalogue_with_pagePath"] = sum(bool(row.get("pagePath")) for row in rows)
     stats["catalogue_with_file"] = sum(bool(row.get("file")) for row in rows)
@@ -76,9 +77,9 @@ def main():
         parent = str(item.get("ana_konu", "")).strip()
         generic_parent = parent in ("/konular.html", "/konular.html/", "/", "")
         main_words = tokens(parent.strip("/").split("/")[-1].replace("-", " ")) if parent.startswith("/") else tokens(parent)
+        title_words = tokens(label)
         if generic_parent:
             main_words = title_words
-        title_words = tokens(label)
         if not main_words:
             main_words = title_words
         concept = normalize(parent.strip('/').split('/')[-1].replace('-', ' ')) if not generic_parent else ""
@@ -129,7 +130,9 @@ def main():
         if chosen: stats["topics_with_candidates"] += 1
         else: stats["topics_without_candidates"] += 1
         stats["candidate_links"] += len(chosen)
+        distinct_selected.update(x["sayfa"] for x in chosen)
         results.append({"id": item["id"], "slug": slug, "kaynak_adaylari": chosen})
+    stats["unique_selected_resource_pages"] = len(distinct_selected)
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(json.dumps(results, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps({"topics": len(plan), **dict(stats), "report": str(output), "published": 0}, ensure_ascii=False, indent=2))
