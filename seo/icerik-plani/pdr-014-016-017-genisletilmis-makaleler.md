@@ -96,7 +96,7 @@ Veliye yalnızca devamsızlık gün sayısını değil, okula dönüşü zorlaş
 ## Kaynaklar
 
 - [MEB · İYEP Rehberlik Hizmetleri Kılavuzu](https://tegm.meb.gov.tr/meb_iys_dosyalar/2023_09/11150641_YYEP_REHBERLYK_HYZMETLERY_KILAVUZU_06.09.2023.pdf) — okula devam, okul bağlılığı ve aile/çevre kaynaklı farklı nedenleri ele alır.
-- [PDR Kampüs kayıtlı · Okul Reddi Veli Bilgilendirme Materyali](https://www.google.com/search?q=site%3Ameb.k12.tr+%22Okul+Reddi%22+%22Veli%22) — *not: katalog kaydının gerçek dosya adresi yayın şablonuna geçerken library.json üzerinden bağlanacak, bu arama bağlantısı kaynak kartı olarak kullanılmayacak.*
+- **Kütüphane kayıtları:** Okul reddi konusunda veli bilgilendirme materyalleri mevcuttur; tam dosya adresleri ve belge içeriği editoryal doğrulama sırasında `data/library.json` üzerinden eşleştirilecektir.
 
 ---
 
