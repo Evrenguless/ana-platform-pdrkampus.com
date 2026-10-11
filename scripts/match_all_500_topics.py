@@ -44,7 +44,16 @@ def main():
     if not 0.5 <= args.min_score <= 1 or not 1 <= args.limit_per_topic <= 20:
         p.error("Invalid matching thresholds")
     plan = read("seo/icerik-plani/500-konu-listesi.json")
-    rows = read("data/library.json") + read("data/collected-resources.json")
+    rows = []
+    seen_ids = set()
+    for filename in ("data/library.json", "data/collected-resources.json",
+                     "data/new-resources-batch.json", "data/library-reviewed-batch-20261010.json"):
+        for row in read(filename):
+            rid = str(row.get("id", ""))
+            if not rid or rid in seen_ids:
+                continue
+            seen_ids.add(rid)
+            rows.append(row)
     links_txt = (ROOT / "src/resource-page-links.js").read_text(encoding="utf-8")
     links = dict(re.findall(r'"([^"]+)"\s*:\s*"(/[^"]+)"', links_txt))
     output = (ROOT / args.output).resolve()
@@ -52,6 +61,10 @@ def main():
         p.error("Output must be a JSON file inside checkout")
     results = []
     stats = Counter()
+    stats["catalogue_unique_ids"] = len(rows)
+    stats["catalogue_with_pagePath"] = sum(bool(row.get("pagePath")) for row in rows)
+    stats["catalogue_with_file"] = sum(bool(row.get("file")) for row in rows)
+    stats["catalogue_with_topic"] = sum(bool(row.get("topic")) for row in rows)
     for item in plan:
         label = str(item.get("baslik", ""))
         slug = str(item.get("slug", ""))
@@ -80,7 +93,10 @@ def main():
             if score < args.min_score:
                 continue
             url = row.get("pagePath") or links.get(rid, "")
-            if not local_page(url) or url in used:
+            if not local_page(url):
+                stats["matched_but_no_local_page"] += 1
+                continue
+            if url in used:
                 continue
             used.add(url)
             candidates.append((score, {"baslik": title, "tur": row.get("type", "Materyal"), "sayfa": url, "eslesme_puani": round(score, 3), "belge_icerigi_dogrulandi": False}))
