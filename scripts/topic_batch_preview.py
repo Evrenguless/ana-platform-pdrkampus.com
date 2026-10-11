@@ -141,10 +141,13 @@ def section(matches):
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--apply", action="store_true", help="Update eligible existing pages only")
+    p.add_argument("--dry-run", action="store_true", help="Explicitly report without modifying pages")
     p.add_argument("--limit", type=int, default=50)
     p.add_argument("--min-resources", type=int, default=2)
     p.add_argument("--report", default="/tmp/pdr-topic-batch-report.json")
     args = p.parse_args()
+    if args.apply and args.dry_run:
+        p.error("--apply and --dry-run are mutually exclusive")
     if not (1 <= args.limit <= 500 and 1 <= args.min_resources <= 12):
         p.error("Invalid limit or min-resources")
     topic_data = load("data/topics.json", {})
