@@ -131,10 +131,10 @@ def usable_resource_target(row):
 # An empty result is preferable to suggesting the wrong school document.
 FOCUSED_TITLE_TERMS = {
     "lgs-sinav-sonrasi-tercih-destegi": ("lgs", "lise tercih", "ortaogretime gecis", "yerlestirme tercihi"),
-    "yks-tercih-gorusmesi-hazirligi": ("yks", "universite tercih", "yuksekogretim tercih", "meslek tercihi"),
+    "yks-tercih-gorusmesi-hazirligi": ("yks", "tyt", "ayt", "universite tercih", "universite bolum", "yuksekogretim tercih", "tercih kilavuz", "meslek tercihi"),
     "okulda-problem-cozme-becerisi": ("problem cozme", "sorun cozme", "problem cozum", "catisma cozme"),
     "okulda-empati-gelistirme": ("empati", "bakis acisi", "duygulari anlama"),
-    "okulda-yardim-isteme-becerisi": ("yardim isteme", "yardim arama", "guvenilir yetiskin"),
+    "okulda-yardim-isteme-becerisi": ("yardim isteme", "yardim arama", "guvenilir yetiskin", "guvenli okul", "guvenli davranis", "cocuk guvenligi"),
     "sosyometri-uygulama-ve-etik": ("sosyometri", "sosyometrik", "sosyal iliski olc"),
     "okulda-ogretmen-musahade-gorusmesi": ("ogretmen gorus", "ogretmen gozlem", "sinif ici gozlem"),
     "ogrenci-izleme-formu-hazirlama": ("ogrenci izleme", "ogrenci takip", "gelisim izleme", "gozlem formu", "takip cizelge"),
@@ -188,7 +188,11 @@ def source_cards(slug):
         visual=f'<img src="{esc(preview)}" alt="{title} belge önizlemesi" loading="lazy">' if preview else '<span class="guide2-card-fallback" aria-hidden="true">PDF / MATERYAL</span>'
         cards.append(f'<a class="guide2-card" href="{esc(url)}" target="_blank" rel="noopener noreferrer"><span class="guide2-visual">{visual}</span><span class="guide2-card-body"><span class="guide2-meta">{esc(r.get("level",""))} · {esc(r.get("type","Materyal"))}</span><strong>{title}</strong><small>{esc(r.get("source","Kaynak kurum"))}</small><span class="guide2-action">Kaynağı incele →</span></span></a>')
         count+=1
-    return '<div class="guide2-grid">'+"".join(cards)+'</div>' if cards else '<p>Bu konu için belge düzeyinde uygun materyal henüz doğrulanmadı.</p>'
+    if cards:
+        return '<div class="guide2-grid">'+"".join(cards)+'</div>'
+    from urllib.parse import quote
+    query=quote(next((g["title"] for g in GUIDES if g["slug"]==slug),slug))
+    return '<p>Bu rehber için doğrudan ilgili bir belge henüz seçilemedi. <a href="/kutuphane.html?q='+query+'">Kütüphanede ilgili kaynakları ara →</a></p>'
 def load_editorial_batches():
     """Append new, topic-specific manuscripts; preserve existing first five guides."""
     for filename in ("data/pdr-editorial-batch-02.json", "data/pdr-editorial-batch-03.json", "data/pdr-editorial-batch-04.json"):
