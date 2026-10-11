@@ -1,0 +1,159 @@
+{
+  "updated": [
+    [
+      "akademik-motivasyon",
+      9,
+      8
+    ],
+    [
+      "bep",
+      9,
+      9
+    ],
+    [
+      "bireysel-gorusme",
+      5,
+      5
+    ],
+    [
+      "devamsizlik",
+      9,
+      7
+    ],
+    [
+      "dijital-denge",
+      9,
+      9
+    ],
+    [
+      "duygu-duzenleme",
+      9,
+      9
+    ],
+    [
+      "ergenlik",
+      6,
+      6
+    ],
+    [
+      "guvenli-okul-iklimi",
+      7,
+      7
+    ],
+    [
+      "kariyer-gelisimi",
+      9,
+      9
+    ],
+    [
+      "mahremiyet-beden-guvenligi",
+      7,
+      7
+    ],
+    [
+      "ogrenci-esenligi-psikoegitim",
+      9,
+      9
+    ],
+    [
+      "ogrenciyi-tanima",
+      9,
+      9
+    ],
+    [
+      "okula-uyum",
+      9,
+      9
+    ],
+    [
+      "psikolojik-saglamlik",
+      9,
+      9
+    ],
+    [
+      "rehberlik-formlari",
+      7,
+      7
+    ],
+    [
+      "rehberlik-hizmetleri",
+      9,
+      9
+    ],
+    [
+      "siber-zorbalik",
+      9,
+      9
+    ],
+    [
+      "sinav-kaygisi",
+      9,
+      9
+    ],
+    [
+      "sinif-rehberligi-etkinlikleri",
+      6,
+      6
+    ],
+    [
+      "sosyal-duygusal",
+      9,
+      9
+    ],
+    [
+      "sosyometri",
+      6,
+      4
+    ],
+    [
+      "veli-gorusmesi",
+      5,
+      5
+    ],
+    [
+      "zaman-yonetimi",
+      9,
+      8
+    ]
+  ],
+  "skipped": [
+    [
+      "akran-catismasi",
+      "Yalnızca 0 kaynak eşleşti"
+    ],
+    [
+      "akran-zorbaligi",
+      "Mevcut galeri korunuyor"
+    ],
+    [
+      "arkadaslik-iliskileri",
+      "HTML yapısı kontrol edilmeli"
+    ],
+    [
+      "ofke-yonetimi",
+      "Yalnızca 0 kaynak eşleşti"
+    ],
+    [
+      "okul-aidiyeti",
+      "HTML yapısı kontrol edilmeli"
+    ],
+    [
+      "okul-reddi",
+      "Yalnızca 2 kaynak eşleşti"
+    ],
+    [
+      "ozguven",
+      "HTML yapısı kontrol edilmeli"
+    ],
+    [
+      "problem-cozme-becerileri",
+      "Yalnızca 2 kaynak eşleşti"
+    ],
+    [
+      "sinifta-iletisim-becerileri",
+      "Yalnızca 0 kaynak eşleşti"
+    ]
+  ],
+  "total_cards": 184,
+  "real_previews": 178
+}

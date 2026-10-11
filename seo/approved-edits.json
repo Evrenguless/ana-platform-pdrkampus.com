@@ -27,15 +27,15 @@
     },
     "konu/dijital-denge/index.html": {
       "baseline_sha256": "a420ccac4fa0a0f101c820fce5589f7490a8983fc3427b7cc23b99b2ffbfe6ba",
-      "reviewed_sha256": "a81b4bcc6702d9f0961528f346ce6898602c1c5acb6a73aab859ebebb6f240ae",
+      "reviewed_sha256": "20b3f627885ddb50c408a16651cd5ca03923e6d7786dc822b65cab33c93e9e0d",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/ogrenciyi-tanima/index.html": {
       "baseline_sha256": "600c9b2bcb7e1a7a4657b343d224350518eb5d987ab95fc86dd083a1ec15d55e",
-      "reviewed_sha256": "496c8ca6b744b694e9fda3d7435cb6e57523adaa85db509d56d0c9784abfc86c",
+      "reviewed_sha256": "e2ce29e98926c62ffb6729c6890f81b86ee04935f46f3cd60690fa66c83a3f9b",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "kutuphane/katalog/index.html": {
       "baseline_sha256": "addf69ca652a06f2563051b8700ee7d9d1b2c73da10d56c9a752635143fe57b1",
@@ -653,9 +653,9 @@
     },
     "konu/akademik-motivasyon/index.html": {
       "baseline_sha256": "81da849af5afdd24d91e5035161ad185c277ee70d6cdf9df2785c16ff3c01c6d",
-      "reviewed_sha256": "046b5455a02e1b99a5e762d5614cee1b0edeba1eab25cfa60bae7be8281809ad",
+      "reviewed_sha256": "59705dcae333c25182915fedb73e72b8d6d5496fcd12e2d2e54a41629332adac",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/akran-zorbaligi/index.html": {
       "baseline_sha256": "c0ff1221f2b36925e0d207f47e40fcbe6b63e4a52724721476718261a055d68f",
@@ -665,117 +665,117 @@
     },
     "konu/bep/index.html": {
       "baseline_sha256": "d1f0930efc0db047cca5eb8d2dbcf659101643f62debaf6637933cb1643f81f7",
-      "reviewed_sha256": "ddafe63eeceb3a9f70d692235cf6d5c61da8a4f464af87d2833607abf8f696f1",
+      "reviewed_sha256": "86751735c3bcd2ceb9fe871efb5d938a782f0aa4aa073dc9c647808039996450",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/bireysel-gorusme/index.html": {
       "baseline_sha256": "1a72800ab7ee01211d80038b3c4bfc5e1dd789616de175bb1547323185ed6cbe",
-      "reviewed_sha256": "2f41d6131baf0cf18ce206aad831e1b737551e44a74b490b800581c2db103373",
+      "reviewed_sha256": "f5f28035e75b7d1e7db1024f28976ec38a052773b010e0bc46d918dd23863a2f",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/devamsizlik/index.html": {
       "baseline_sha256": "fef16143416edba56ffb6c77e9a855c47db74ef835c0ae014172d3a11aa07430",
-      "reviewed_sha256": "59e162a2dd6a708f497787ef5800f70ded65103720a11dc8e9be1b08c2780084",
+      "reviewed_sha256": "1336fbc145a7005a1bcb364606106db291da08bcd513781a2789aa429f3fabdb",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/ergenlik/index.html": {
       "baseline_sha256": "486b1cb06cfee35d87068b557a7202610d4ac265833a8315829ae60909cb236e",
-      "reviewed_sha256": "fab1fc61a3f34880851ce842223b90698f7c8bb264a1d4837c129e389a0f34a5",
+      "reviewed_sha256": "f9b85e6412d7689353bf06fdf772ff95e2b15a669d8312e6b488a57879ed2d44",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/guvenli-okul-iklimi/index.html": {
       "baseline_sha256": "5906cfcf839db135154f02b06ca47fbe7b700d7297511f185bd4e62ef0de8cbf",
-      "reviewed_sha256": "aed9b4f7454f27a694649041e3c36e3e584161fb33bddc30ffff2d6dfccc811d",
+      "reviewed_sha256": "7f6f6fc8135706acddcb9ed517f5eac78805cd6a6d06a068519fca51cece6546",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/kariyer-gelisimi/index.html": {
       "baseline_sha256": "9f56e1135dfaf5835b31fb9de332b34da9d211080162e9506338ff073d95513a",
-      "reviewed_sha256": "31d28b76d9e734fbc8f7bcc05e0659f9d4d7083cabcd9e26bbc747bbb33b7fd2",
+      "reviewed_sha256": "86d06dce95dc353f995307dc5b0fba6c8865aa0c8feeef095583ee76feee2994",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/mahremiyet-beden-guvenligi/index.html": {
       "baseline_sha256": "4bf7bb3b80c9f9f240469cb458b31348b4e1eff78723b1e939f3fd8dbe5c4c9e",
-      "reviewed_sha256": "6fd7e930ea744184ee1f57cbd90dc8671d59b0f2411cc7fd628e688e861ed2f8",
+      "reviewed_sha256": "6c2b401195bdb28dd066f58e025b44ed56c10c176354a5de2a4575401bfeabe2",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/ogrenci-esenligi-psikoegitim/index.html": {
       "baseline_sha256": "215341b08cbd4ad933e7e92b96cbe6a1f8d26f8f9311166c85993d3236b296c3",
-      "reviewed_sha256": "4778bf7c1e0f6d9cdaaf19aaa33144650822dd318be6bb4b3c42a859067c12c9",
+      "reviewed_sha256": "3f82e1f94ec503d3b33a0618887cead04f93b2119d55ac4a48b4f589210a6024",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/okul-reddi/index.html": {
       "baseline_sha256": "ad935586fb16e0b923ad4064acb3250663a2171dca4236f4f76d01a652460437",
-      "reviewed_sha256": "b291ea7d71b779b203da3fc08abe0ace3837df3ba70684d82000f5b5649e91ee",
+      "reviewed_sha256": "6e2d51692c858c4dc985ee6350a684cd28b5523e40f4eb74379397e4e55f0fbe",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic gallery completion with verified relevant resource detail links and existing previews."
     },
     "konu/okula-uyum/index.html": {
       "baseline_sha256": "f075d8cf902fa8077210b2e29c0672502e398428c02ed091a894a96ee81bbdd2",
-      "reviewed_sha256": "7c1ce4a3b2c5a3094f65953040f17a0b4b269f9aa149e9001a4cd5726a7c5db5",
+      "reviewed_sha256": "d1c6ed838c7c86a6276ddb141b75ac92f3a6b06d3270911b489016d7b380da4f",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/psikolojik-saglamlik/index.html": {
       "baseline_sha256": "7bc6bf60c8e6cadd8bf9406850713a8f80d134e8fc1aca14bdb0a7392d1a6222",
-      "reviewed_sha256": "287b86dcf08435f1b85c61278078d5ebf623661cb9f2f285b5c9e6c4fca0e33a",
+      "reviewed_sha256": "f1b8e3b541d8af66e822f2744dd5b1ac340c3aea9f9ab950a42e2181216af948",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/rehberlik-formlari/index.html": {
       "baseline_sha256": "872ffaa72e3a96f964567b4709e7a21cc169097b8ac0afd6c965a56e21f8b167",
-      "reviewed_sha256": "572206071f1bca8f9386f7f14d6926a69eb265eb37973de90d5a04d48e33ea56",
+      "reviewed_sha256": "c28739662fb975427a2e5370a9f50e206b9f6c532ed6c2ec8f8323c224bd4706",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/rehberlik-hizmetleri/index.html": {
       "baseline_sha256": "54e8ad7dfd68e97b574ebc1561ae475036362edbdc9e982c1256898e3c28570d",
-      "reviewed_sha256": "f824b30c2b94ba4b5266013f7a0721886baff1f64d2ff83d4e0ea6c49fff5288",
+      "reviewed_sha256": "030ae26274bef1dd511941aa9057544342bd222e27824b5b49be1a69879d3256",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/siber-zorbalik/index.html": {
       "baseline_sha256": "1ce88c058beee4e63b13d54fcaf7217c6bb0fdc99382e150f076fce7c8e97bee",
-      "reviewed_sha256": "9e55067a49efc7f70331bb44b2661e26b176c0debe7bbf1b4618ae790c341ab2",
+      "reviewed_sha256": "281f99ca263fdd860e3e5fb4f5196cd36790e308a700326637e837c0b849a1e9",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/sinav-kaygisi/index.html": {
       "baseline_sha256": "18b848287752efbdb211cdcd6f00e134829e0967dceed0c9b71f861b82a75fb9",
-      "reviewed_sha256": "1f64067cc23b8df177979c4a6995b625ff8afdd74406574c264a1cd0647ba209",
+      "reviewed_sha256": "63a714266eb54036e311988c395e809dfa29b684cb8dfc1da6af3520667ad32a",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/sinif-rehberligi-etkinlikleri/index.html": {
       "baseline_sha256": "f9ad5cc8697bcb806131882841d588ba2d53d49ec2bd74e32734f7bcf91ebb33",
-      "reviewed_sha256": "b75e6ae986041a4ac1d95aaf81fd11d475d8d7c226f06aaa46b5df96f99029c9",
+      "reviewed_sha256": "71095760596894f71a202bff4fb1661dc5b5da5aa808579e731616f76ca67cb7",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/sosyal-duygusal/index.html": {
       "baseline_sha256": "ac5fb1b26cb6a01f9c158e70c964098e2d03a9de6ee8f6bfe52f38444ba403ba",
-      "reviewed_sha256": "a41d9732bc1b41ce8ba61a043b02b442e7ce41f5375570e42a8e9307472d28dd",
+      "reviewed_sha256": "3d1fb9736ae9b903920eebf4414b898665779763d2e300a88ddcbc502c759ede",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/sosyometri/index.html": {
       "baseline_sha256": "e850cb4cd6930fbcc8d5e4252f7694059fcdb05488ca7e6f829befc7d80cafd6",
-      "reviewed_sha256": "cb535ac4bd931d31ba6ec5412c504a7d1c53fd08082ae050fa7a0022a2e2e4f6",
+      "reviewed_sha256": "2862c3e1880c42d002c0505ef1e2469db4f4ccd6891c0abdb7138597afcda323",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konu/veli-gorusmesi/index.html": {
       "baseline_sha256": "571ce55d4ad4c2d451defbc633a2c74789a4b09ab0f2c5dfe84543faad2cbc21",
-      "reviewed_sha256": "6cf2bfe1f298d2b5f10ea04b234fe244fc164cd4ef3275ed4848ddc000d0f606",
+      "reviewed_sha256": "de180d29b1b69188284cb6c4abf063903aca4e81c95c7fe4b514c110c080498d",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: existing library fragment links replaced with verified resource detail pages; SEO metadata preserved."
+      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
     },
     "konular.html": {
       "baseline_sha256": "f24fac3cc39ffaa58b5620754c91439a94a14a0d4d83aeba3f0e7ca2a9cb8458",
