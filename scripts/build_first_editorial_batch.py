@@ -174,6 +174,8 @@ def main():
         @media(max-width:560px){.pdr-sidebar{grid-template-columns:1fr}}
         </style></head>''',1)
 
+        from urllib.parse import quote
+        search='/kutuphane.html?q='+quote(t.split(':')[0])
         rail_note_data = {
             "ogrenme-motivasyonu-okul-rehberligi": ["Öğrencinin güçlü yönlerini öğren.", "Küçük bir haftalık hedef seç.", "İlerlemeyi bir hafta sonra izle."],
             "dikkat-odaklanma-okulda-destek": ["Zorlanmanın hangi görevlerde oluştuğunu gözle.", "Yönergeleri görünür adımlara böl.", "Sınıf gözleminden tanı çıkarma."],
@@ -188,8 +190,7 @@ def main():
         sections=''.join(f'<section class="topic-section" id="adim-{i}"><h2>{esc(a)}</h2><p>{esc(b)}</p></section>' for i,(a,b) in enumerate(g["sections"],1))
         checklist=''.join('<li>'+esc(x)+'</li>' for x in extra["check"])
         faq=''.join('<details class="topic-section"><summary><strong>'+esc(q)+'</strong></summary><p>'+esc(a)+'</p></details>' for q,a in extra["faq"])
-        from urllib.parse import quote
-        search='/kutuphane.html?q='+quote(t.split(':')[0])
+
         page=f'''<main class="topic-shell">
         <nav class="topic-breadcrumb" aria-label="İçerik haritası"><a href="/">PDR Kampüs</a><span>/</span><a href="/konular.html">Konular</a><span>/</span>{esc(t)}</nav>
         <section class="topic-hero"><div><p class="topic-kicker">OKUL PDR · UYGULAMA REHBERİ</p><h1>{esc(t)}</h1><p class="topic-lead">{esc(desc)}</p><div class="topic-actions"><a class="primary" href="{esc(search)}">Kütüphanede ara</a></div></div><aside class="topic-quick"><strong>Bu sayfada</strong><ul><li>Okulda uygulama adımları</li><li>Somut örnek senaryo</li><li>Kontrol listesi ve sık sorulanlar</li><li>Materyal ve önizleme kartları</li></ul></aside></section>
