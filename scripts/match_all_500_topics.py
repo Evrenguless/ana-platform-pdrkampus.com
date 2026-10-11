@@ -57,7 +57,7 @@ def main():
         slug = str(item.get("slug", ""))
         # Use the canonical root concept, when present, rather than the whole long-tail title.
         parent = str(item.get("ana_konu", "")).strip()
-        main_words = tokens(parent) if parent.startswith("/") is False else set()
+        main_words = tokens(parent.strip("/").split("/")[-1].replace("-", " ")) if parent.startswith("/") else tokens(parent)
         title_words = tokens(label)
         if not main_words:
             main_words = title_words
@@ -70,10 +70,13 @@ def main():
             headline = tokens(title)
             if not main_words:
                 continue
-            topic_score = len(main_words & tagged) / len(main_words)
-            headline_score = len(main_words & headline) / len(main_words)
+            subject_match = main_words <= tagged or main_words <= headline
+            if not subject_match and len(main_words) >= 2:
+                subject_match = len(main_words & (tagged | headline)) / len(main_words) >= 0.75
+            if not subject_match:
+                continue
             detail_score = len(title_words & (headline | tagged)) / max(1, len(title_words))
-            score = max(topic_score, headline_score) * 0.8 + detail_score * 0.2
+            score = 0.8 + 0.2 * detail_score
             if score < args.min_score:
                 continue
             url = row.get("pagePath") or links.get(rid, "")
