@@ -73,7 +73,7 @@ def main():
         if not parser.title.strip(): problems.append("missing_title")
         if not any("noindex" in value for value in parser.robots): problems.append("draft_not_noindex")
         if "<main" not in raw or "</main>" not in raw: problems.append("missing_main")
-        normalized = re.sub(r"\\s+", " ", re.sub(r"<[^>]+>", " ", raw)).casefold()
+        normalized = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", raw)).casefold()
         shared = sum(text in normalized for text in GENERIC)
         if shared >= 3: problems.append("repeated_generic_guide")
         if "pdr-topic-resource-file\">KAYNAK" in raw: problems.append("placeholder_resource_card")
@@ -83,7 +83,7 @@ def main():
         body = raw.split('<article class="topic-article">', 1)
         if len(body) == 2:
             content = body[1].split("</article>", 1)[0]
-            clean = re.sub(r"\\s+", " ", re.sub(r"<[^>]+>", " ", content)).strip()
+            clean = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", content)).strip()
             fingerprints[hashlib.sha256(clean.encode()).hexdigest()].append(path.name)
         rows.append({"file": path.name, "problems": problems, "images": parser.images})
     duplicates = [group for group in fingerprints.values() if len(group) > 1]
