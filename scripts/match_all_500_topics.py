@@ -74,15 +74,20 @@ def main():
         slug = str(item.get("slug", ""))
         # Use the canonical root concept, when present, rather than the whole long-tail title.
         parent = str(item.get("ana_konu", "")).strip()
+        generic_parent = parent in ("/konular.html", "/konular.html/", "/", "")
         main_words = tokens(parent.strip("/").split("/")[-1].replace("-", " ")) if parent.startswith("/") else tokens(parent)
+        if generic_parent:
+            main_words = title_words
         title_words = tokens(label)
         if not main_words:
             main_words = title_words
-        concept = normalize(parent.strip('/').split('/')[-1].replace('-', ' '))
+        concept = normalize(parent.strip('/').split('/')[-1].replace('-', ' ')) if not generic_parent else ""
         alias_phrases = TOPIC_ALIASES.get(concept, [])
         alias_words = [tokens(phrase) for phrase in alias_phrases if tokens(phrase)]
         if alias_words:
             stats["topics_with_curated_aliases"] += 1
+        if generic_parent:
+            stats["topics_with_generic_parent"] += 1
         candidates = []
         used = set()
         subject_matches = 0
@@ -94,6 +99,9 @@ def main():
             if not main_words:
                 continue
             subject_match = main_words <= tagged or main_words <= headline
+            if generic_parent:
+                # Require two meaningful title terms to avoid matching broad single words.
+                subject_match = len(main_words) >= 2 and len(main_words & (tagged | headline)) >= 2 and len(main_words & (tagged | headline)) / len(main_words) >= 0.55
             if not subject_match:
                 subject_match = any(alias <= tagged or alias <= headline for alias in alias_words)
             if not subject_match and len(main_words) >= 2:
