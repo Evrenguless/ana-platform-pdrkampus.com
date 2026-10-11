@@ -115,8 +115,11 @@ def resources(slug):
             hay=(" "+str(row.get("title",""))+" "+str(row.get("topic",""))).casefold()
             score=max((3 if term in str(row.get("title","")).casefold() else 1 if term in hay else 0) for term in terms)
             if score: rows.append((score,row))
+    # Favor direct title matches; a broad category tag alone is not enough
+    # to present an unrelated item as a recommended document.
     rows.sort(key=lambda item:(-item[0],str(item[1].get("title",""))))
-    return [r for _,r in rows[:9]]
+    strong=[row for score,row in rows if score>=3]
+    return strong[:9]
 def source_cards(slug):
     cards=[]
     count=0
