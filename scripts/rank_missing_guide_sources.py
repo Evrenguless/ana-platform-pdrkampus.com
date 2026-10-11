@@ -36,6 +36,14 @@ def main():
             page=row.get("pagePath")
             file=row.get("file")
             preview=row.get("preview")
+            # The HTML builder can discover previews by resource ID even if
+            # the catalogue has no previewImage field.
+            if not local_preview(preview):
+                rid=str(row.get("id") or "")
+                if rid and re.fullmatch(r"[a-zA-Z0-9_-]+",rid):
+                    folder=ROOT/"assets/resource-previews"
+                    matches=sorted(folder.glob(rid+"-*.jpg"))+sorted(folder.glob(rid+"*.png"))
+                    if matches:preview="/"+str(matches[0].relative_to(ROOT))
             ranked.append({
                 "id":row.get("id"),"title":row.get("title"),"topic":row.get("topic"),
                 "direct_title_match":direct,"matching_phrases":hit,
