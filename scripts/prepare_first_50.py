@@ -54,7 +54,8 @@ def main():
     issues=set(quality.get("issues_by_kind",{}))|set(seo.get("issues_by_kind",{}))
     if issues & serious:raise SystemExit("Structural gate failed: "+", ".join(sorted(issues & serious)))
     # Not an approval to publish: PDFs, source relevance and mobile UI still need review.
-    cards={p["slug"]:p["source_cards"] for p in seo["pages"]}
+    detailed_seo=json.loads((REPORT/"ilk-50-yayin-kapisi.json").read_text(encoding="utf-8"))
+    cards={p["slug"]:p["source_cards"] for p in detailed_seo["pages"]}
     items=[]
     for index,slug in enumerate(slugs,1):
         page=DRAFTS/(slug+".html")
