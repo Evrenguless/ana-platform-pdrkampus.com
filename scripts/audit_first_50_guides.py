@@ -38,7 +38,7 @@ def local_exists(url):
     return dest.is_file()
 
 def main():
-    files=sorted(FOLDER.glob("*.html"))
+    files=sorted(p for p in FOLDER.glob("*.html") if p.name != "index.html")
     findings=[]; overview=Counter()
     for p in files:
         src=p.read_text(encoding="utf-8")
