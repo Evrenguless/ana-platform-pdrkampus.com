@@ -1,0 +1,1010 @@
+[
+  {
+    "slug": "rehberlik-yillik-plan-hazirlama",
+    "title": "Yıllık Rehberlik Planı Hazırlama",
+    "summary": "Yıllık Rehberlik Planı Hazırlama konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Öğrenci, öğretmen ve veli geri bildiriminden okulun en önemli ihtiyaçlarını belirle."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Hedefleri risk, yaygınlık ve uygulanabilirlik bakımından sırala."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Her hedefe uygun etkinlik, görüşme veya bilgilendirme türünü seç."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Takvim, sorumlu kişi ve hedef grubu açıkça kaydet."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Dönemlik izleme yaparak planın etkisini ve güncel kurum gereklerini gözden geçir."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Her hedefe uygun etkinlik, görüşme veya bilgilendirme türünü seç. Ardından dönemlik izleme yaparak planın etkisini ve güncel kurum gereklerini gözden geçir.",
+    "check": [
+      "Öğrenci, öğretmen ve veli geri bildiriminden okulun en önemli ihtiyaçlarını belirle.",
+      "Her hedefe uygun etkinlik, görüşme veya bilgilendirme türünü seç.",
+      "Takvim, sorumlu kişi ve hedef grubu açıkça kaydet.",
+      "Dönemlik izleme yaparak planın etkisini ve güncel kurum gereklerini gözden geçir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Öğrenci, öğretmen ve veli geri bildiriminden okulun en önemli ihtiyaçlarını belirle."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Dönemlik izleme yaparak planın etkisini ve güncel kurum gereklerini gözden geçir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik planlaması",
+      "yıllık rehberlik planı"
+    ]
+  },
+  {
+    "slug": "veli-semineri-planlama",
+    "title": "Veli Semineri Nasıl Planlanır?",
+    "summary": "Veli Semineri Nasıl Planlanır? konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Velilerin gerçek sorularını ve okulun ihtiyaçlarını önceden topla."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Seminer sonunda kullanılabilecek iki somut kazanım yaz."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Kurgusal aile örnekleriyle kısa bir oturum akışı oluştur."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Anonim soru hakkı ve özel görüşme seçeneği sun."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Katılım ve geri bildirime göre sonraki veli çalışmasını düzenle."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Kurgusal aile örnekleriyle kısa bir oturum akışı oluştur. Ardından katılım ve geri bildirime göre sonraki veli çalışmasını düzenle.",
+    "check": [
+      "Velilerin gerçek sorularını ve okulun ihtiyaçlarını önceden topla.",
+      "Kurgusal aile örnekleriyle kısa bir oturum akışı oluştur.",
+      "Anonim soru hakkı ve özel görüşme seçeneği sun.",
+      "Katılım ve geri bildirime göre sonraki veli çalışmasını düzenle."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Velilerin gerçek sorularını ve okulun ihtiyaçlarını önceden topla."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Katılım ve geri bildirime göre sonraki veli çalışmasını düzenle."
+      ]
+    ],
+    "search_terms": [
+      "veli rehberliği",
+      "veli semineri"
+    ]
+  },
+  {
+    "slug": "ogrenci-izleme-formu-hazirlama",
+    "title": "Öğrenci İzleme Formu Hazırlama",
+    "summary": "Öğrenci İzleme Formu Hazırlama konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "İzlenecek davranışı yorum değil gözlenebilir olay olarak tanımla."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Başlangıç düzeyi ve bağlamı öğrenciyle birlikte belirle."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Formu tarih, gözlem, destek ve takip alanlarıyla sınırlı tut."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Kişisel veriye erişimi ve saklama biçimini kurum usullerine göre düzenle."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "İzleme kaydını yeni destek kararlarıyla ilişkilendir."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Formu tarih, gözlem, destek ve takip alanlarıyla sınırlı tut. Ardından i̇zleme kaydını yeni destek kararlarıyla ilişkilendir.",
+    "check": [
+      "İzlenecek davranışı yorum değil gözlenebilir olay olarak tanımla.",
+      "Formu tarih, gözlem, destek ve takip alanlarıyla sınırlı tut.",
+      "Kişisel veriye erişimi ve saklama biçimini kurum usullerine göre düzenle.",
+      "İzleme kaydını yeni destek kararlarıyla ilişkilendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "İzlenecek davranışı yorum değil gözlenebilir olay olarak tanımla."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "İzleme kaydını yeni destek kararlarıyla ilişkilendir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik formları",
+      "öğrenci takibi"
+    ]
+  },
+  {
+    "slug": "okulda-problem-cozme-becerisi",
+    "title": "Problem Çözme: Sınıf Rehberliği Etkinliği",
+    "summary": "Problem Çözme: Sınıf Rehberliği Etkinliği konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Gerçek öğrencileri hedef göstermeyen kurgusal bir sınıf sorunu seç."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Olayı, varsayımı ve çözülmek istenen problemi ayrı yazdır."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Grupların birden fazla çözüm seçeneği üretmesini sağla."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Her seçeneği güvenlik, uygulanabilirlik ve başkalarına etkisiyle karşılaştır."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Bir sonraki etkinlik için davranış hedefi ve geri bildirim planla."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Grupların birden fazla çözüm seçeneği üretmesini sağla. Ardından bir sonraki etkinlik için davranış hedefi ve geri bildirim planla.",
+    "check": [
+      "Gerçek öğrencileri hedef göstermeyen kurgusal bir sınıf sorunu seç.",
+      "Grupların birden fazla çözüm seçeneği üretmesini sağla.",
+      "Her seçeneği güvenlik, uygulanabilirlik ve başkalarına etkisiyle karşılaştır.",
+      "Bir sonraki etkinlik için davranış hedefi ve geri bildirim planla."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Gerçek öğrencileri hedef göstermeyen kurgusal bir sınıf sorunu seç."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Bir sonraki etkinlik için davranış hedefi ve geri bildirim planla."
+      ]
+    ],
+    "search_terms": [
+      "sosyal duygusal beceriler",
+      "problem çözme"
+    ]
+  },
+  {
+    "slug": "okul-terki-risk-isaretleri",
+    "title": "Okul Terki Riski ve Erken Destek",
+    "summary": "Okul Terki Riski ve Erken Destek konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Devam, katılım ve okula aidiyet verilerini birlikte değerlendir."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Öğrencinin okulda karşılaştığı engelleri yargılamadan dinle."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Güvenilir yetişkin ve olumlu akran ilişkileri gibi koruyucu kaynakları bul."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Aile ve öğretmenle küçük destek adımları planla."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Değişimi izlerken güvenlik ve koruma yükümlülüklerini gözet."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Güvenilir yetişkin ve olumlu akran ilişkileri gibi koruyucu kaynakları bul. Ardından değişimi izlerken güvenlik ve koruma yükümlülüklerini gözet.",
+    "check": [
+      "Devam, katılım ve okula aidiyet verilerini birlikte değerlendir.",
+      "Güvenilir yetişkin ve olumlu akran ilişkileri gibi koruyucu kaynakları bul.",
+      "Aile ve öğretmenle küçük destek adımları planla.",
+      "Değişimi izlerken güvenlik ve koruma yükümlülüklerini gözet."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Devam, katılım ve okula aidiyet verilerini birlikte değerlendir."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Değişimi izlerken güvenlik ve koruma yükümlülüklerini gözet."
+      ]
+    ],
+    "search_terms": [
+      "okul terki",
+      "devamsızlık"
+    ]
+  },
+  {
+    "slug": "bep-toplantisi-gundemi",
+    "title": "BEP Toplantısı: Gündem ve Ekip Kararları",
+    "summary": "BEP Toplantısı: Gündem ve Ekip Kararları konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Güncel mevzuata göre toplantı katılımcılarını ve amacı netleştir."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Öğrencinin güçlü yönlerini ve mevcut performansını veriyle sun."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Hedeflerin koşulunu, davranışını ve başarı ölçütünü değerlendirin."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Uyarlama ve izleme sorumluluklarını ekip üyeleri arasında belirleyin."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Kararları uygun usulle kaydedip yeniden değerlendirme tarihi koyun."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Hedeflerin koşulunu, davranışını ve başarı ölçütünü değerlendirin. Ardından kararları uygun usulle kaydedip yeniden değerlendirme tarihi koyun.",
+    "check": [
+      "Güncel mevzuata göre toplantı katılımcılarını ve amacı netleştir.",
+      "Hedeflerin koşulunu, davranışını ve başarı ölçütünü değerlendirin.",
+      "Uyarlama ve izleme sorumluluklarını ekip üyeleri arasında belirleyin.",
+      "Kararları uygun usulle kaydedip yeniden değerlendirme tarihi koyun."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Güncel mevzuata göre toplantı katılımcılarını ve amacı netleştir."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Kararları uygun usulle kaydedip yeniden değerlendirme tarihi koyun."
+      ]
+    ],
+    "search_terms": [
+      "bep",
+      "özel eğitim"
+    ]
+  },
+  {
+    "slug": "ozel-ogrenme-guclugu-okul-destegi",
+    "title": "Öğrenme Güçlüğü Yaşayan Öğrenciyi Destekleme",
+    "summary": "Öğrenme Güçlüğü Yaşayan Öğrenciyi Destekleme konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Güçlüğün hangi okuma, yazma veya matematik görevlerinde görüldüğünü gözle."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Öğrencinin güçlü yönleriyle görev koşullarını birlikte değerlendir."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Yönergeleri küçük ve görünür adımlara ayırmayı öğretmenle dene."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Öğrenciyi akranlarıyla kıyaslamadan kendi ilerlemesini izle."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Gerekli değerlendirme ve yönlendirmeyi ilgili uzman ve kurum süreçleriyle yürüt."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Yönergeleri küçük ve görünür adımlara ayırmayı öğretmenle dene. Ardından gerekli değerlendirme ve yönlendirmeyi ilgili uzman ve kurum süreçleriyle yürüt.",
+    "check": [
+      "Güçlüğün hangi okuma, yazma veya matematik görevlerinde görüldüğünü gözle.",
+      "Yönergeleri küçük ve görünür adımlara ayırmayı öğretmenle dene.",
+      "Öğrenciyi akranlarıyla kıyaslamadan kendi ilerlemesini izle.",
+      "Gerekli değerlendirme ve yönlendirmeyi ilgili uzman ve kurum süreçleriyle yürüt."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Güçlüğün hangi okuma, yazma veya matematik görevlerinde görüldüğünü gözle."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Gerekli değerlendirme ve yönlendirmeyi ilgili uzman ve kurum süreçleriyle yürüt."
+      ]
+    ],
+    "search_terms": [
+      "özel eğitim",
+      "öğrenme güçlüğü"
+    ]
+  },
+  {
+    "slug": "okulda-akran-dislanmasi",
+    "title": "Akran Dışlanmasında Okul Müdahalesi",
+    "summary": "Akran Dışlanmasında Okul Müdahalesi konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Dışlanmayı tekil olaydan ve zorbalık örüntüsünden ayırmak için öğrencileri ayrı dinle."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Öğrenciyi sınıf önünde dışlanan kişi olarak etiketleme."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Gönüllü ve kapsayıcı küçük grup etkileşimleri oluştur."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Öğretmenle grup kurma biçimlerini gözden geçir."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Öğrencinin aidiyet deneyimini ve güvenliğini takip görüşmelerinde değerlendir."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Gönüllü ve kapsayıcı küçük grup etkileşimleri oluştur. Ardından öğrencinin aidiyet deneyimini ve güvenliğini takip görüşmelerinde değerlendir.",
+    "check": [
+      "Dışlanmayı tekil olaydan ve zorbalık örüntüsünden ayırmak için öğrencileri ayrı dinle.",
+      "Gönüllü ve kapsayıcı küçük grup etkileşimleri oluştur.",
+      "Öğretmenle grup kurma biçimlerini gözden geçir.",
+      "Öğrencinin aidiyet deneyimini ve güvenliğini takip görüşmelerinde değerlendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Dışlanmayı tekil olaydan ve zorbalık örüntüsünden ayırmak için öğrencileri ayrı dinle."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Öğrencinin aidiyet deneyimini ve güvenliğini takip görüşmelerinde değerlendir."
+      ]
+    ],
+    "search_terms": [
+      "akran zorbalığı",
+      "sosyal duygusal gelişim"
+    ]
+  },
+  {
+    "slug": "sinav-donemi-veli-iletisimi",
+    "title": "Sınav Döneminde Veli İletişimi",
+    "summary": "Sınav Döneminde Veli İletişimi konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Öğrencinin ve velinin sınav beklentilerini ayrı ayrı dinle."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Sürekli net karşılaştırması yerine süreç odaklı geri bildirimi konuş."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Uyku, mola ve aile iletişimi için uygulanabilir ortak düzen belirle."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Gerilim yükseldiğinde tartışmaya ara verme seçenekleri oluştur."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "İş birliği planını öğrenci ve veliyle yeniden değerlendir."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Uyku, mola ve aile iletişimi için uygulanabilir ortak düzen belirle. Ardından i̇ş birliği planını öğrenci ve veliyle yeniden değerlendir.",
+    "check": [
+      "Öğrencinin ve velinin sınav beklentilerini ayrı ayrı dinle.",
+      "Uyku, mola ve aile iletişimi için uygulanabilir ortak düzen belirle.",
+      "Gerilim yükseldiğinde tartışmaya ara verme seçenekleri oluştur.",
+      "İş birliği planını öğrenci ve veliyle yeniden değerlendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Öğrencinin ve velinin sınav beklentilerini ayrı ayrı dinle."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "İş birliği planını öğrenci ve veliyle yeniden değerlendir."
+      ]
+    ],
+    "search_terms": [
+      "sınav kaygısı",
+      "veli rehberliği"
+    ]
+  },
+  {
+    "slug": "meslek-tanitim-etkinligi",
+    "title": "Meslek Tanıtımı Etkinliği Hazırlama",
+    "summary": "Meslek Tanıtımı Etkinliği Hazırlama konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Meslek farkındalığı veya araştırma becerisinden hangisini hedeflediğini seç."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Meslek bilgisi için güncel ve güvenilir kaynaklar kullan."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Cinsiyet ve başarıya dayalı meslek kalıplarını kurgusal örneklerle sorgula."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Öğrencilerden iki mesleğin görev ve eğitim yollarını karşılaştırmasını iste."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Kesin meslek seçtirmeden yeni araştırma soruları oluştur."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Cinsiyet ve başarıya dayalı meslek kalıplarını kurgusal örneklerle sorgula. Ardından kesin meslek seçtirmeden yeni araştırma soruları oluştur.",
+    "check": [
+      "Meslek farkındalığı veya araştırma becerisinden hangisini hedeflediğini seç.",
+      "Cinsiyet ve başarıya dayalı meslek kalıplarını kurgusal örneklerle sorgula.",
+      "Öğrencilerden iki mesleğin görev ve eğitim yollarını karşılaştırmasını iste.",
+      "Kesin meslek seçtirmeden yeni araştırma soruları oluştur."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Meslek farkındalığı veya araştırma becerisinden hangisini hedeflediğini seç."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Kesin meslek seçtirmeden yeni araştırma soruları oluştur."
+      ]
+    ],
+    "search_terms": [
+      "mesleki rehberlik",
+      "kariyer"
+    ]
+  },
+  {
+    "slug": "psikolojik-saglamlik-sinif-calismasi",
+    "title": "Psikolojik Sağlamlık Sınıf Çalışması",
+    "summary": "Psikolojik Sağlamlık Sınıf Çalışması konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Psikolojik sağlamlığın hiç zorlanmamak demek olmadığını açıklığa kavuştur."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Kurgusal bir öğrencinin yararlanabileceği destek kişilerini ve kaynakları haritala."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Aynı zorluk için birden fazla baş etme seçeneği üret."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Güvenilir yetişkinden yardım istemenin önemini örnekle."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Kişisel travma paylaşımı zorlamadan güvenli kapanış yap."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Aynı zorluk için birden fazla baş etme seçeneği üret. Ardından kişisel travma paylaşımı zorlamadan güvenli kapanış yap.",
+    "check": [
+      "Psikolojik sağlamlığın hiç zorlanmamak demek olmadığını açıklığa kavuştur.",
+      "Aynı zorluk için birden fazla baş etme seçeneği üret.",
+      "Güvenilir yetişkinden yardım istemenin önemini örnekle.",
+      "Kişisel travma paylaşımı zorlamadan güvenli kapanış yap."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Psikolojik sağlamlığın hiç zorlanmamak demek olmadığını açıklığa kavuştur."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Kişisel travma paylaşımı zorlamadan güvenli kapanış yap."
+      ]
+    ],
+    "search_terms": [
+      "psikolojik sağlamlık",
+      "sosyal duygusal"
+    ]
+  },
+  {
+    "slug": "akademik-erteleme-ogrenci-gorusmesi",
+    "title": "Akademik Erteleme: Öğrenci Görüşmesi",
+    "summary": "Akademik Erteleme: Öğrenci Görüşmesi konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Ertelemenin yaşandığı görev, zaman ve ortamı somutlaştır."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Görev belirsizliği, kaygı ve dikkat dağıtıcı koşulları ayrı değerlendir."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Öğrenciyle çok küçük bir başlangıç adımı seç."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Çalışma ortamı ve görev listesini gerekiyorsa sadeleştir."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Bir hafta sonraki görüşmede işe yarayan düzenlemeleri değerlendir."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Öğrenciyle çok küçük bir başlangıç adımı seç. Ardından bir hafta sonraki görüşmede işe yarayan düzenlemeleri değerlendir.",
+    "check": [
+      "Ertelemenin yaşandığı görev, zaman ve ortamı somutlaştır.",
+      "Öğrenciyle çok küçük bir başlangıç adımı seç.",
+      "Çalışma ortamı ve görev listesini gerekiyorsa sadeleştir.",
+      "Bir hafta sonraki görüşmede işe yarayan düzenlemeleri değerlendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Ertelemenin yaşandığı görev, zaman ve ortamı somutlaştır."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Bir hafta sonraki görüşmede işe yarayan düzenlemeleri değerlendir."
+      ]
+    ],
+    "search_terms": [
+      "verimli ders çalışma",
+      "motivasyon"
+    ]
+  },
+  {
+    "slug": "ortaokulda-arkadaslik-becerileri",
+    "title": "Ortaokulda Arkadaşlık Becerileri",
+    "summary": "Ortaokulda Arkadaşlık Becerileri konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Dinleme, tanışma veya farklı fikre saygı kazanımlarından birini seç."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Öğrencileri özel yaşamlarını anlatmaya zorlamayan küçük gruplar oluştur."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Kurgusal kartlarla etkin dinleme ve duyduğunu özetleme çalış."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Arkadaşlıkta yakınlığın zorunlu olmadığını, saygının temel olduğunu konuş."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Bir haftalık somut iletişim hedefi ve takip belirle."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Kurgusal kartlarla etkin dinleme ve duyduğunu özetleme çalış. Ardından bir haftalık somut iletişim hedefi ve takip belirle.",
+    "check": [
+      "Dinleme, tanışma veya farklı fikre saygı kazanımlarından birini seç.",
+      "Kurgusal kartlarla etkin dinleme ve duyduğunu özetleme çalış.",
+      "Arkadaşlıkta yakınlığın zorunlu olmadığını, saygının temel olduğunu konuş.",
+      "Bir haftalık somut iletişim hedefi ve takip belirle."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Dinleme, tanışma veya farklı fikre saygı kazanımlarından birini seç."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Bir haftalık somut iletişim hedefi ve takip belirle."
+      ]
+    ],
+    "search_terms": [
+      "akran ilişkileri",
+      "ortaokul"
+    ]
+  },
+  {
+    "slug": "okulda-ihmal-istismar-bildirimi",
+    "title": "İhmal ve İstismar Şüphesinde İlk Okul Adımları",
+    "summary": "İhmal ve İstismar Şüphesinde İlk Okul Adımları konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Olası acil tehlikede öğrencinin güvenliğini sağlayıp yetkili süreçleri gecikmeden işlet."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Öğrenciyi yönlendirici sorularla sorgulama veya olayı kendin soruşturma."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Gizliliğin güvenlik ve bildirim yükümlülükleriyle sınırlı olduğunu açıkla."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Güncel kurum ve mevzuat çerçevesindeki bildirim sorumluluklarını yerine getir."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Gereksiz tekrar anlatımı önleyerek okul içi güvenli desteği koordine et."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Gizliliğin güvenlik ve bildirim yükümlülükleriyle sınırlı olduğunu açıkla. Ardından gereksiz tekrar anlatımı önleyerek okul içi güvenli desteği koordine et.",
+    "check": [
+      "Olası acil tehlikede öğrencinin güvenliğini sağlayıp yetkili süreçleri gecikmeden işlet.",
+      "Gizliliğin güvenlik ve bildirim yükümlülükleriyle sınırlı olduğunu açıkla.",
+      "Güncel kurum ve mevzuat çerçevesindeki bildirim sorumluluklarını yerine getir.",
+      "Gereksiz tekrar anlatımı önleyerek okul içi güvenli desteği koordine et."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Olası acil tehlikede öğrencinin güvenliğini sağlayıp yetkili süreçleri gecikmeden işlet."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Gereksiz tekrar anlatımı önleyerek okul içi güvenli desteği koordine et."
+      ]
+    ],
+    "search_terms": [
+      "ihmal istismar",
+      "çocuk koruma"
+    ]
+  },
+  {
+    "slug": "rehberlik-servisi-evrak-duzeni",
+    "title": "Rehberlik Servisi Evrak ve Arşiv Düzeni",
+    "summary": "Rehberlik Servisi Evrak ve Arşiv Düzeni konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Yıllık plan, faaliyet, görüşme ve kurum yazışmalarını amaçlarına göre ayır."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Güncel MEB ve okulun kayıt gerekliliklerini kontrol et."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Gereksiz kişisel bilgi ve tekrar belgeler oluşturmaktan kaçın."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Yetkili erişim ve dijital dosya güvenliğini belirle."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Dönem sonunda işlevsiz kayıtları ve arşiv düzenini gözden geçir."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Gereksiz kişisel bilgi ve tekrar belgeler oluşturmaktan kaçın. Ardından dönem sonunda işlevsiz kayıtları ve arşiv düzenini gözden geçir.",
+    "check": [
+      "Yıllık plan, faaliyet, görüşme ve kurum yazışmalarını amaçlarına göre ayır.",
+      "Gereksiz kişisel bilgi ve tekrar belgeler oluşturmaktan kaçın.",
+      "Yetkili erişim ve dijital dosya güvenliğini belirle.",
+      "Dönem sonunda işlevsiz kayıtları ve arşiv düzenini gözden geçir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Yıllık plan, faaliyet, görüşme ve kurum yazışmalarını amaçlarına göre ayır."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Dönem sonunda işlevsiz kayıtları ve arşiv düzenini gözden geçir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik evrakları",
+      "rehberlik planlaması"
+    ]
+  },
+  {
+    "slug": "ustun-yetenekli-ogrenci-destegi",
+    "title": "Üstün Yetenekli Öğrenciye Okul Desteği",
+    "summary": "Üstün Yetenekli Öğrenciye Okul Desteği konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Öğrencinin gelişimsel ve sosyal ihtiyaçlarını yüksek başarıyla eşitleme."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Merak, güçlü yönler ve zorlanmaları öğrencinin kendi anlatımından öğren."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Öğretmenle derinleşme ve zenginleştirme seçenekleri değerlendir."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Aidiyet, akran ilişkisi ve mükemmeliyetçilik baskısını ayrı izle."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Aile ve ilgili birimlerle bireyselleştirilmiş destek planla."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Öğretmenle derinleşme ve zenginleştirme seçenekleri değerlendir. Ardından aile ve ilgili birimlerle bireyselleştirilmiş destek planla.",
+    "check": [
+      "Öğrencinin gelişimsel ve sosyal ihtiyaçlarını yüksek başarıyla eşitleme.",
+      "Öğretmenle derinleşme ve zenginleştirme seçenekleri değerlendir.",
+      "Aidiyet, akran ilişkisi ve mükemmeliyetçilik baskısını ayrı izle.",
+      "Aile ve ilgili birimlerle bireyselleştirilmiş destek planla."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Öğrencinin gelişimsel ve sosyal ihtiyaçlarını yüksek başarıyla eşitleme."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Aile ve ilgili birimlerle bireyselleştirilmiş destek planla."
+      ]
+    ],
+    "search_terms": [
+      "özel eğitim",
+      "üstün yetenekli"
+    ]
+  },
+  {
+    "slug": "veliye-akran-zorbaligi-bilgilendirme",
+    "title": "Akran Zorbalığında Veli Görüşmesi",
+    "summary": "Akran Zorbalığında Veli Görüşmesi konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Görüşmenin önceliğinin güvenlik ve destek olduğunu belirt."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Kesinleşmemiş iddiaları veya başka öğrencilerin kişisel bilgilerini paylaşma."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Velinin evde gözlemlediği değişimleri yargılamadan dinle."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Okul ve ailenin atabileceği somut adımları ayrı belirle."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Güvenli izleme ve yeniden görüşme tarihi planla."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Velinin evde gözlemlediği değişimleri yargılamadan dinle. Ardından güvenli izleme ve yeniden görüşme tarihi planla.",
+    "check": [
+      "Görüşmenin önceliğinin güvenlik ve destek olduğunu belirt.",
+      "Velinin evde gözlemlediği değişimleri yargılamadan dinle.",
+      "Okul ve ailenin atabileceği somut adımları ayrı belirle.",
+      "Güvenli izleme ve yeniden görüşme tarihi planla."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Görüşmenin önceliğinin güvenlik ve destek olduğunu belirt."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Güvenli izleme ve yeniden görüşme tarihi planla."
+      ]
+    ],
+    "search_terms": [
+      "akran zorbalığı",
+      "veli görüşmesi"
+    ]
+  },
+  {
+    "slug": "grup-rehberligi-oturum-planlama",
+    "title": "Grup Rehberliği Oturumu Planlama",
+    "summary": "Grup Rehberliği Oturumu Planlama konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Psikoeğitim ve terapi hedeflerini karıştırmadan oturum amacını yaz."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Yaş, gönüllülük ve ihtiyaç bakımından katılımcı uygunluğunu değerlendir."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Açılış, kurgusal etkinlik, uygulama ve kapanış sürelerini planla."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Grup gizliliğinin sınırlarını açıkla ve özel paylaşımı zorunlu tutma."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Kazanıma uygun kısa geri bildirim toplayıp sonraki oturumu düzenle."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Açılış, kurgusal etkinlik, uygulama ve kapanış sürelerini planla. Ardından kazanıma uygun kısa geri bildirim toplayıp sonraki oturumu düzenle.",
+    "check": [
+      "Psikoeğitim ve terapi hedeflerini karıştırmadan oturum amacını yaz.",
+      "Açılış, kurgusal etkinlik, uygulama ve kapanış sürelerini planla.",
+      "Grup gizliliğinin sınırlarını açıkla ve özel paylaşımı zorunlu tutma.",
+      "Kazanıma uygun kısa geri bildirim toplayıp sonraki oturumu düzenle."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Psikoeğitim ve terapi hedeflerini karıştırmadan oturum amacını yaz."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Kazanıma uygun kısa geri bildirim toplayıp sonraki oturumu düzenle."
+      ]
+    ],
+    "search_terms": [
+      "grup rehberliği",
+      "psikoeğitim"
+    ]
+  },
+  {
+    "slug": "cocuklarda-dijital-mahremiyet",
+    "title": "Çocuklarda Dijital Mahremiyet Etkinliği",
+    "summary": "Çocuklarda Dijital Mahremiyet Etkinliği konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Kişisel bilgi, fotoğraf ve konum kavramlarını yaşa uygun tanıt."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Gerçek öğrenci verisi yerine kurgusal paylaşım örnekleri kullan."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Fotoğraf paylaşırken izin isteme ve sınır kavramını tartış."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Güvensiz bir paylaşımda yetişkinden yardım istemeyi öğret."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Öğrencileri suçlamadan güvenli davranış seçeneklerini tekrarla."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Fotoğraf paylaşırken izin isteme ve sınır kavramını tartış. Ardından öğrencileri suçlamadan güvenli davranış seçeneklerini tekrarla.",
+    "check": [
+      "Kişisel bilgi, fotoğraf ve konum kavramlarını yaşa uygun tanıt.",
+      "Fotoğraf paylaşırken izin isteme ve sınır kavramını tartış.",
+      "Güvensiz bir paylaşımda yetişkinden yardım istemeyi öğret.",
+      "Öğrencileri suçlamadan güvenli davranış seçeneklerini tekrarla."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Kişisel bilgi, fotoğraf ve konum kavramlarını yaşa uygun tanıt."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Öğrencileri suçlamadan güvenli davranış seçeneklerini tekrarla."
+      ]
+    ],
+    "search_terms": [
+      "dijital güvenlik",
+      "dijital yaşam"
+    ]
+  },
+  {
+    "slug": "okulda-yardim-isteme-becerisi",
+    "title": "İlkokulda Yardım İsteme Becerisi",
+    "summary": "İlkokulda Yardım İsteme Becerisi konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Yardım istemenin olağan bir beceri olduğunu çocuklara açıkla."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Okulda ulaşılabilecek güvenilir yetişkinleri tanıt."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Kurgusal günlük olaylar üzerinden başvuru seçenekleri üret."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Yardıma ihtiyacım var gibi açık ifadeleri gönüllü olarak denet."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Etkinlik sonunda her öğrencinin yardım yolunu bildiğini değerlendir."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Kurgusal günlük olaylar üzerinden başvuru seçenekleri üret. Ardından etkinlik sonunda her öğrencinin yardım yolunu bildiğini değerlendir.",
+    "check": [
+      "Yardım istemenin olağan bir beceri olduğunu çocuklara açıkla.",
+      "Kurgusal günlük olaylar üzerinden başvuru seçenekleri üret.",
+      "Yardıma ihtiyacım var gibi açık ifadeleri gönüllü olarak denet.",
+      "Etkinlik sonunda her öğrencinin yardım yolunu bildiğini değerlendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Yardım istemenin olağan bir beceri olduğunu çocuklara açıkla."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Etkinlik sonunda her öğrencinin yardım yolunu bildiğini değerlendir."
+      ]
+    ],
+    "search_terms": [
+      "sınıf rehberliği",
+      "güvenli okul"
+    ]
+  },
+  {
+    "slug": "sinifta-degerler-egitimi-saygi",
+    "title": "Saygı ve Farklılıklar Sınıf Etkinliği",
+    "summary": "Saygı ve Farklılıklar Sınıf Etkinliği konusunda okul rehberlik servisinin ihtiyaç belirleme, uygulama, iş birliği ve izleme aşamalarına yönelik pratik rehber.",
+    "sections": [
+      [
+        "İhtiyacı tanımla",
+        "Farklı görüşü dinlemek gibi gözlenebilir bir kazanım seç."
+      ],
+      [
+        "Bağlamı değerlendir",
+        "Gerçek sınıf anlaşmazlıklarını isim vererek tartışma konusu yapma."
+      ],
+      [
+        "Uygulama planını oluştur",
+        "Kurgusal karakterlerin farklı ihtiyaçlarını birlikte değerlendir."
+      ],
+      [
+        "İş birliği ve güvenlik",
+        "Katılmadığı görüşe saygılı yanıt verme cümleleri çalış."
+      ],
+      [
+        "İzleme ve değerlendirme",
+        "Öğretmenle bir haftalık gözlem ve geri bildirim planla."
+      ]
+    ],
+    "example": "Örnek uygulama: Okul ekibi bu konuda bir ihtiyaç belirlediğinde önce öğrenci deneyimi ve somut gözlemleri birlikte değerlendirir. Kurgusal karakterlerin farklı ihtiyaçlarını birlikte değerlendir. Ardından öğretmenle bir haftalık gözlem ve geri bildirim planla.",
+    "check": [
+      "Farklı görüşü dinlemek gibi gözlenebilir bir kazanım seç.",
+      "Kurgusal karakterlerin farklı ihtiyaçlarını birlikte değerlendir.",
+      "Katılmadığı görüşe saygılı yanıt verme cümleleri çalış.",
+      "Öğretmenle bir haftalık gözlem ve geri bildirim planla."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Farklı görüşü dinlemek gibi gözlenebilir bir kazanım seç."
+      ],
+      [
+        "Çalışmayı nasıl değerlendirmeliyiz?",
+        "Öğretmenle bir haftalık gözlem ve geri bildirim planla."
+      ]
+    ],
+    "search_terms": [
+      "değerler eğitimi",
+      "sosyal duygusal"
+    ]
+  }
+]
