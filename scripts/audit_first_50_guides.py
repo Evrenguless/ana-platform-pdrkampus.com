@@ -59,7 +59,8 @@ def main():
         if len(set(problems))!=len(problems):problems=list(dict.fromkeys(problems))
         overview.update(x.split(":",1)[0] for x in problems)
         findings.append({"file":str(p.relative_to(ROOT)),"title":html.unescape(reader.title),"issues":problems,"resource_cards":src.count('class="guide2-card"'),"preview_images":src.count("belge önizlemesi")})
-    output={"files_checked":len(files),"issues_by_kind":dict(overview),"publish_ready_claimed":0,
+    needs_attention=[{"file":x["file"],"issues":[issue for issue in x["issues"] if issue in ("no_resource_cards","no_preview_images")]} for x in findings if any(issue in ("no_resource_cards","no_preview_images") for issue in x["issues"])]
+    output={"files_checked":len(files),"issues_by_kind":dict(overview),"source_gaps":needs_attention,"publish_ready_claimed":0,
         "note":"External URLs and PDF content were not checked; source relevancy remains editorial review.",
         "pages":findings}
     OUTPUT.parent.mkdir(parents=True,exist_ok=True)
