@@ -1753,6 +1753,231 @@
         "bireysel-gorusme"
       ],
       "officialSources": []
+    },
+    {
+      "id": "topic_zorbaliga_maruz_kalan_ogrenciyle_nasil_gorusulur",
+      "slug": "zorbaliga-maruz-kalan-ogrenciyle-nasil-gorusulur",
+      "name": "Zorbalığa Maruz Kalan Öğrenciyle Nasıl Görüşülür?",
+      "categoryId": "cat-risk-safety",
+      "aliases": [],
+      "useCases": [
+        "okul PDR uygulaması"
+      ],
+      "indexable": true,
+      "contentStatus": "published",
+      "canonicalPath": "/konu/zorbaliga-maruz-kalan-ogrenciyle-nasil-gorusulur/",
+      "relatedTopics": [
+        "akran-zorbaligi",
+        "akran-catismasi"
+      ],
+      "officialSources": [
+        "https://orgm.meb.gov.tr/www/akran-zorbaligi/icerik/3132"
+      ],
+      "seo": {
+        "title": "Zorbalığa Maruz Kalan Öğrenciyle Nasıl Görüşülür? | PDR Kampüs",
+        "description": "Zorbalığa Maruz Kalan Öğrenciyle Nasıl Görüşülür? hakkında okul PDR uygulama adımları, güvenlik ve takip önerileri.",
+        "primaryQuery": "Zorbalığa Maruz Kalan Öğrenciyle Nasıl Görüşülür?"
+      }
+    },
+    {
+      "id": "topic_zorbalik_davranisi_gosteren_ogrenciyle_gorusme",
+      "slug": "zorbalik-davranisi-gosteren-ogrenciyle-gorusme",
+      "name": "Zorbalık Davranışı Gösteren Öğrenciyle Görüşme",
+      "categoryId": "cat-risk-safety",
+      "aliases": [],
+      "useCases": [
+        "okul PDR uygulaması"
+      ],
+      "indexable": true,
+      "contentStatus": "published",
+      "canonicalPath": "/konu/zorbalik-davranisi-gosteren-ogrenciyle-gorusme/",
+      "relatedTopics": [
+        "akran-zorbaligi",
+        "akran-catismasi"
+      ],
+      "officialSources": [
+        "https://orgm.meb.gov.tr/www/akran-zorbaligi/icerik/3132"
+      ],
+      "seo": {
+        "title": "Zorbalık Davranışı Gösteren Öğrenciyle Görüşme | PDR Kampüs",
+        "description": "Zorbalık Davranışı Gösteren Öğrenciyle Görüşme hakkında okul PDR uygulama adımları, güvenlik ve takip önerileri.",
+        "primaryQuery": "Zorbalık Davranışı Gösteren Öğrenciyle Görüşme"
+      }
+    },
+    {
+      "id": "topic_akran_zorbaliginda_veli_gorusmesi_nasil_yapilir",
+      "slug": "akran-zorbaliginda-veli-gorusmesi-nasil-yapilir",
+      "name": "Akran Zorbalığında Veli Görüşmesi Nasıl Yapılır?",
+      "categoryId": "cat-risk-safety",
+      "aliases": [],
+      "useCases": [
+        "okul PDR uygulaması"
+      ],
+      "indexable": true,
+      "contentStatus": "published",
+      "canonicalPath": "/konu/akran-zorbaliginda-veli-gorusmesi-nasil-yapilir/",
+      "relatedTopics": [
+        "akran-zorbaligi",
+        "akran-catismasi"
+      ],
+      "officialSources": [
+        "https://orgm.meb.gov.tr/www/akran-zorbaligi/icerik/3132"
+      ],
+      "seo": {
+        "title": "Akran Zorbalığında Veli Görüşmesi Nasıl Yapılır? | PDR Kampüs",
+        "description": "Akran Zorbalığında Veli Görüşmesi Nasıl Yapılır? hakkında okul PDR uygulama adımları, güvenlik ve takip önerileri.",
+        "primaryQuery": "Akran Zorbalığında Veli Görüşmesi Nasıl Yapılır?"
+      }
+    },
+    {
+      "id": "topic_akran_zorbaligi_mudahale_plani_hazirlama",
+      "slug": "akran-zorbaligi-mudahale-plani-hazirlama",
+      "name": "Akran Zorbalığı Müdahale Planı Hazırlama",
+      "categoryId": "cat-risk-safety",
+      "aliases": [],
+      "useCases": [
+        "okul PDR uygulaması"
+      ],
+      "indexable": true,
+      "contentStatus": "published",
+      "canonicalPath": "/konu/akran-zorbaligi-mudahale-plani-hazirlama/",
+      "relatedTopics": [
+        "akran-zorbaligi",
+        "akran-catismasi"
+      ],
+      "officialSources": [
+        "https://orgm.meb.gov.tr/www/akran-zorbaligi/icerik/3132"
+      ],
+      "seo": {
+        "title": "Akran Zorbalığı Müdahale Planı Hazırlama | PDR Kampüs",
+        "description": "Akran Zorbalığı Müdahale Planı Hazırlama hakkında okul PDR uygulama adımları, güvenlik ve takip önerileri.",
+        "primaryQuery": "Akran Zorbalığı Müdahale Planı Hazırlama"
+      }
+    },
+    {
+      "id": "topic_ilkokulda_akran_zorbaligi_etkinlikleri",
+      "slug": "ilkokulda-akran-zorbaligi-etkinlikleri",
+      "name": "İlkokulda Akran Zorbalığı Etkinlikleri",
+      "categoryId": "cat-risk-safety",
+      "aliases": [],
+      "useCases": [
+        "okul PDR uygulaması"
+      ],
+      "indexable": true,
+      "contentStatus": "published",
+      "canonicalPath": "/konu/ilkokulda-akran-zorbaligi-etkinlikleri/",
+      "relatedTopics": [
+        "akran-zorbaligi",
+        "akran-catismasi"
+      ],
+      "officialSources": [
+        "https://orgm.meb.gov.tr/www/akran-zorbaligi/icerik/3132"
+      ],
+      "seo": {
+        "title": "İlkokulda Akran Zorbalığı Etkinlikleri | PDR Kampüs",
+        "description": "İlkokulda Akran Zorbalığı Etkinlikleri hakkında okul PDR uygulama adımları, güvenlik ve takip önerileri.",
+        "primaryQuery": "İlkokulda Akran Zorbalığı Etkinlikleri"
+      }
+    },
+    {
+      "id": "topic_ortaokulda_akran_zorbaligi_etkinlikleri",
+      "slug": "ortaokulda-akran-zorbaligi-etkinlikleri",
+      "name": "Ortaokulda Akran Zorbalığı Etkinlikleri",
+      "categoryId": "cat-risk-safety",
+      "aliases": [],
+      "useCases": [
+        "okul PDR uygulaması"
+      ],
+      "indexable": true,
+      "contentStatus": "published",
+      "canonicalPath": "/konu/ortaokulda-akran-zorbaligi-etkinlikleri/",
+      "relatedTopics": [
+        "akran-zorbaligi",
+        "akran-catismasi"
+      ],
+      "officialSources": [
+        "https://orgm.meb.gov.tr/www/akran-zorbaligi/icerik/3132"
+      ],
+      "seo": {
+        "title": "Ortaokulda Akran Zorbalığı Etkinlikleri | PDR Kampüs",
+        "description": "Ortaokulda Akran Zorbalığı Etkinlikleri hakkında okul PDR uygulama adımları, güvenlik ve takip önerileri.",
+        "primaryQuery": "Ortaokulda Akran Zorbalığı Etkinlikleri"
+      }
+    },
+    {
+      "id": "topic_lisede_akran_zorbaligi_farkindalik_calismalari",
+      "slug": "lisede-akran-zorbaligi-farkindalik-calismalari",
+      "name": "Lisede Akran Zorbalığı Farkındalık Çalışmaları",
+      "categoryId": "cat-risk-safety",
+      "aliases": [],
+      "useCases": [
+        "okul PDR uygulaması"
+      ],
+      "indexable": true,
+      "contentStatus": "published",
+      "canonicalPath": "/konu/lisede-akran-zorbaligi-farkindalik-calismalari/",
+      "relatedTopics": [
+        "akran-zorbaligi",
+        "akran-catismasi"
+      ],
+      "officialSources": [
+        "https://orgm.meb.gov.tr/www/akran-zorbaligi/icerik/3132"
+      ],
+      "seo": {
+        "title": "Lisede Akran Zorbalığı Farkındalık Çalışmaları | PDR Kampüs",
+        "description": "Lisede Akran Zorbalığı Farkındalık Çalışmaları hakkında okul PDR uygulama adımları, güvenlik ve takip önerileri.",
+        "primaryQuery": "Lisede Akran Zorbalığı Farkındalık Çalışmaları"
+      }
+    },
+    {
+      "id": "topic_akran_zorbaliginda_ogretmenlerin_yapabilecekleri",
+      "slug": "akran-zorbaliginda-ogretmenlerin-yapabilecekleri",
+      "name": "Akran Zorbalığında Öğretmenlerin Yapabilecekleri",
+      "categoryId": "cat-risk-safety",
+      "aliases": [],
+      "useCases": [
+        "okul PDR uygulaması"
+      ],
+      "indexable": true,
+      "contentStatus": "published",
+      "canonicalPath": "/konu/akran-zorbaliginda-ogretmenlerin-yapabilecekleri/",
+      "relatedTopics": [
+        "akran-zorbaligi",
+        "akran-catismasi"
+      ],
+      "officialSources": [
+        "https://orgm.meb.gov.tr/www/akran-zorbaligi/icerik/3132"
+      ],
+      "seo": {
+        "title": "Akran Zorbalığında Öğretmenlerin Yapabilecekleri | PDR Kampüs",
+        "description": "Akran Zorbalığında Öğretmenlerin Yapabilecekleri hakkında okul PDR uygulama adımları, güvenlik ve takip önerileri.",
+        "primaryQuery": "Akran Zorbalığında Öğretmenlerin Yapabilecekleri"
+      }
+    },
+    {
+      "id": "topic_akran_zorbaligi_sonrasi_ogrenci_takibi",
+      "slug": "akran-zorbaligi-sonrasi-ogrenci-takibi",
+      "name": "Akran Zorbalığı Sonrası Öğrenci Takibi",
+      "categoryId": "cat-risk-safety",
+      "aliases": [],
+      "useCases": [
+        "okul PDR uygulaması"
+      ],
+      "indexable": true,
+      "contentStatus": "published",
+      "canonicalPath": "/konu/akran-zorbaligi-sonrasi-ogrenci-takibi/",
+      "relatedTopics": [
+        "akran-zorbaligi",
+        "akran-catismasi"
+      ],
+      "officialSources": [
+        "https://orgm.meb.gov.tr/www/akran-zorbaligi/icerik/3132"
+      ],
+      "seo": {
+        "title": "Akran Zorbalığı Sonrası Öğrenci Takibi | PDR Kampüs",
+        "description": "Akran Zorbalığı Sonrası Öğrenci Takibi hakkında okul PDR uygulama adımları, güvenlik ve takip önerileri.",
+        "primaryQuery": "Akran Zorbalığı Sonrası Öğrenci Takibi"
+      }
     }
   ]
 }
