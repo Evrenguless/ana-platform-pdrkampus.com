@@ -1,0 +1,504 @@
+[
+  {
+    "slug": "sinav-kaygisi-ogrenci-destegi",
+    "title": "Sınav Kaygısı: Öğrenciyle Görüşme ve Destek Planı",
+    "summary": "Sınav öncesi zorlanma yaşayan öğrenciyle yapılan görüşmeyi, okul içi desteği ve takip adımlarını düzenlemek için uygulama rehberi.",
+    "sections": [
+      [
+        "Kaygıyı adlandırın",
+        "Öğrencinin sınav öncesinde ne düşündüğünü, bedeninde neler hissettiğini ve nasıl davrandığını ayrı ayrı konuşun. Kaygıyı yalnızca başarısızlık korkusu olarak açıklamayın."
+      ],
+      [
+        "Güvenli görüşme ortamı kurun",
+        "Kaygıyı küçümseyen ya da sınav sonucunu öğrencinin değerine bağlayan ifadelerden kaçının. Öğrencinin anlatımına ve kendi belirlediği güçlü yönlere alan açın."
+      ],
+      [
+        "Çalışma düzenini gözden geçirin",
+        "Uyku, mola, çalışma süresi, hedeflerin gerçekçiliği ve deneme sınavı deneyimini ele alın. Gerekli değişiklikleri öğrencinin seçmesine destek olun."
+      ],
+      [
+        "Sınav günü için plan hazırlayın",
+        "Sınav öncesi hazırlık, zaman yönetimi ve destek alınabilecek kişiler üzerine somut bir plan oluşturun; tek bir rahatlama tekniğini herkes için zorunlu kılmayın."
+      ],
+      [
+        "Takip ve yönlendirme",
+        "Yoğun kaygı okul yaşamını belirgin biçimde etkiliyorsa aileyle uygun iş birliği ve gerekli uzman yönlendirmesini değerlendirin."
+      ]
+    ],
+    "example": "Öğrenci deneme sınavında süreyi yetiştiremediği için paniklediğini söyler. Görüşmede tetikleyici düşünceyi belirleyip bir sonraki denemede ilk beş dakikalık uygulama planı yapar; sonuçtan çok denediği strateji üzerine konuşursunuz.",
+    "check": [
+      "Öğrencinin kaygı deneyimi dinlendi mi?",
+      "Çalışma ve uyku koşulları değerlendirildi mi?",
+      "Öğrencinin seçtiği uygulanabilir plan var mı?",
+      "Takip zamanı belirlendi mi?"
+    ],
+    "faq": [
+      [
+        "Sınav kaygısı tamamen ortadan kalkmalı mı?",
+        "Hayır. Amaç kaygıyı sıfırlamak değil, öğrencinin işlevselliğini ve baş etme becerilerini desteklemektir."
+      ],
+      [
+        "Ne zaman yönlendirme gerekir?",
+        "Yoğun belirtiler uzun sürüyor veya günlük yaşamı belirgin etkiliyorsa uygun uzman değerlendirmesi gündeme alınmalıdır."
+      ]
+    ],
+    "search_terms": [
+      "sınav kaygısı",
+      "sınav ve çalışma becerileri",
+      "psikolojik sağlamlık"
+    ]
+  },
+  {
+    "slug": "devamsizlik-erken-mudahale",
+    "title": "Devamsızlık: Okulda Erken Müdahale ve Öğrenci Takibi",
+    "summary": "Tekrarlayan devamsızlığı cezalandırıcı olmayan bir yaklaşımla anlamak ve okul-aile iş birliğinde izlemek için rehber.",
+    "sections": [
+      [
+        "Devamsızlığın örüntüsünü belirleyin",
+        "Gün, ders, dönem ve yaşanan olaylarla ilişkileri inceleyin. Devamsızlığı sadece motivasyon eksikliği olarak yorumlamayın."
+      ],
+      [
+        "Öğrenciyi dinleyin",
+        "Ulaşım, sağlık, akran ilişkileri, okulda güvenlik, aile koşulları ve öğrenme güçlüklerini yargılamadan değerlendirin."
+      ],
+      [
+        "Aileyle ortak plan kurun",
+        "Aileyle ulaşılabilir bir görüşme yapın. Suçlama yerine somut gözlemler ve öğrencinin okula erişimini kolaylaştıracak destekleri konuşun."
+      ],
+      [
+        "Küçük geri dönüş hedefleri belirleyin",
+        "Tam devam beklentisini tek başına yeterli görmeyin. Gerekli okul içi düzenlemeler ve kademeli takip planını ilgili personelle koordine edin."
+      ],
+      [
+        "Riski ve sonucu izleyin",
+        "Devamsızlıkla birlikte ihmal, güvenlik veya ruhsal zorlanma kuşkusu varsa güncel koruma ve yönlendirme süreçlerini izleyin."
+      ]
+    ],
+    "example": "Öğrenci özellikle pazartesi günleri gelmiyor. İlk görüşmede hafta sonu rutini, sınıf ilişkileri ve ilk ders deneyimi ele alınır; öğretmen ve aileyle iki haftalık izleme takvimi oluşturulur.",
+    "check": [
+      "Devamsızlık örüntüsü incelendi mi?",
+      "Öğrencinin açıklaması alındı mı?",
+      "Aile ve okul sorumlulukları açık mı?",
+      "Risk ve takip prosedürü belirlendi mi?"
+    ],
+    "faq": [
+      [
+        "Her devamsız öğrenci isteksiz midir?",
+        "Hayır. Sağlık, güvenlik, aile ve okul etkenleri ayrı ayrı değerlendirilmelidir."
+      ],
+      [
+        "Devamsızlık takip görüşmesi nasıl yapılır?",
+        "Somut gözlemler, öğrencinin deneyimi ve işe yarayan destekler üzerinden kısa aralıklarla izlenir."
+      ]
+    ],
+    "search_terms": [
+      "devamsızlık",
+      "okul terki",
+      "okula uyum"
+    ]
+  },
+  {
+    "slug": "sinif-rehberligi-etkinlik-tasarimi",
+    "title": "Sınıf Rehberliği Etkinliği Nasıl Tasarlanır?",
+    "summary": "Yaş grubuna ve sınıf ihtiyacına uygun, güvenli ve değerlendirilebilir rehberlik etkinliği hazırlama rehberi.",
+    "sections": [
+      [
+        "İhtiyaç belirleyin",
+        "Öğretmen gözlemi, öğrenci geri bildirimi ve okul hedeflerinden yola çıkarak tek bir öğrenme amacı seçin."
+      ],
+      [
+        "Kazanımı somutlaştırın",
+        "Etkinlik sonunda öğrencinin neyi fark edeceğini veya hangi beceriyi deneyeceğini anlaşılır bir cümleyle tanımlayın."
+      ],
+      [
+        "Yaşa uygun yöntem seçin",
+        "Küçük yaşlarda somut örnek ve kısa etkinlikler, üst kademelerde tartışma ve senaryo kullanımı planlayın; öğrenciyi kişisel deneyim paylaşmaya zorlamayın."
+      ],
+      [
+        "Güvenli uygulama yapın",
+        "Sınıf kurallarını açıklayın; gerçek öğrencileri örnek göstermeyin. Riskli açıklamalarda bireysel destek yollarını koruyun."
+      ],
+      [
+        "Etkiyi değerlendirin",
+        "Kısa çıkış sorusu veya anonim geri bildirimle kazanıma ilişkin işaretleri toplayın; gerektiğinde sonraki etkinliği uyarlayın."
+      ]
+    ],
+    "example": "Yedinci sınıfta yardım isteme becerisi için kurgusal bir olay kartı hazırlanır. Öğrenciler güvenilir yetişkin seçeneklerini tartışır; etkinlik sonunda herkes kendisi için bir başvuru yolu yazar.",
+    "check": [
+      "Hedef davranış net mi?",
+      "Etkinlik gelişim düzeyine uygun mu?",
+      "Gönüllü katılım ve gizlilik korundu mu?",
+      "Kısa değerlendirme yapıldı mı?"
+    ],
+    "faq": [
+      [
+        "Her sınıfta aynı etkinlik uygulanabilir mi?",
+        "Etkinlik hedefi ortak olsa da süre, dil ve örnekler sınıfın gelişim düzeyine uyarlanmalıdır."
+      ],
+      [
+        "Kişisel paylaşım istemek doğru mu?",
+        "Öğrencileri hassas deneyimlerini topluluk önünde açıklamaya zorlamamak gerekir."
+      ]
+    ],
+    "search_terms": [
+      "sınıf rehberliği",
+      "rehberlik etkinliği",
+      "sosyal duygusal"
+    ]
+  },
+  {
+    "slug": "sosyometri-uygulama-ve-etik",
+    "title": "Sosyometri Uygulaması: Hazırlık, Yorumlama ve Etik",
+    "summary": "Akran ilişkilerini anlamak için sosyometriyi sınıfta güvenli ve mahremiyete duyarlı biçimde değerlendirme rehberi.",
+    "sections": [
+      [
+        "Amaç ve gerekliliği belirleyin",
+        "Sosyometriyi merak amaçlı değil, açık bir rehberlik ihtiyacı olduğunda ve uygun mesleki çerçevede değerlendirin."
+      ],
+      [
+        "Uygulama koşullarını planlayın",
+        "Yaş grubu, yönergenin anlaşılırlığı, gönüllülük ve gizlilik koşullarını önceden ele alın; güncel kurum süreçlerine uyun."
+      ],
+      [
+        "Sonuçları tek başına etiket olarak kullanmayın",
+        "Seçilme sayısı öğrencinin kişiliğini veya sosyal değerini göstermez. Sonuçları gözlem ve görüşme gibi başka bilgilerle birlikte yorumlayın."
+      ],
+      [
+        "Sınıf içinde sonuç açıklamayın",
+        "Öğrencilerin isimlerini ve tercihlerini sınıfla paylaşmayın. Dışlanma veya utandırılma riskini değerlendirin."
+      ],
+      [
+        "Destek planına dönüştürün",
+        "Amaç sosyal ilişkileri güçlendirmekse kapsayıcı sınıf etkinlikleri, uygun bireysel destek ve takip görüşmelerini planlayın."
+      ]
+    ],
+    "example": "Öğretmen sınıfta bazı öğrencilerin oyun gruplarına katılamadığını bildirir. Rehberlik servisi, öğrencileri etiketlemeden farklı gözlem kaynaklarını toplar; kapsayıcı bir sınıf çalışması ve takip planı hazırlar.",
+    "check": [
+      "Uygulamanın gerekçesi açık mı?",
+      "Mahremiyet ve veri güvenliği düşünüldü mü?",
+      "Sonuçlar tek bir ölçü gibi kullanılmıyor mu?",
+      "Destek planı öğrencileri etiketlemiyor mu?"
+    ],
+    "faq": [
+      [
+        "Sosyometri sonucu sınıfa açıklanır mı?",
+        "Öğrencilerin bireysel seçimlerini ve sonuçlarını sınıf önünde açıklamak uygun değildir."
+      ],
+      [
+        "Tek uygulama yeterli midir?",
+        "Hayır. Sonuçlar bağlama, döneme ve diğer gözlemlere göre yorumlanmalıdır."
+      ]
+    ],
+    "search_terms": [
+      "sosyometri",
+      "bireyi tanıma",
+      "sınıf rehberliği"
+    ]
+  },
+  {
+    "slug": "ergenlik-ogrenci-veli-rehberligi",
+    "title": "Ergenlik Döneminde Öğrenci ve Veli Rehberliği",
+    "summary": "Ergenlikte değişen ihtiyaçlar, iletişim ve özerklik alanlarında öğrenciyi ve aileyi desteklemek için okul temelli rehber.",
+    "sections": [
+      [
+        "Gelişimsel değişimi normalleştirin",
+        "Bedensel, bilişsel ve sosyal değişimlerin öğrenciden öğrenciye farklı yaşanabileceğini hatırlayın; genellemelerden kaçının."
+      ],
+      [
+        "Öğrencinin sesine alan açın",
+        "Akran ilişkileri, aile beklentileri, okul baskısı ve kendi sınırları üzerine öğrencinin anlatımını dinleyin."
+      ],
+      [
+        "Veliyle iletişim dilini ele alın",
+        "Karşılaştırma, alay ve sürekli kontrol yerine açık soru sorma, dinleme ve tutarlı sınırlar üzerinde çalışın."
+      ],
+      [
+        "Mahremiyet ve güvenliği dengeleyin",
+        "Öğrencinin özel alanına saygı gösterirken güvenlik riski ve ilgili bildirim yükümlülüklerini gözetin."
+      ],
+      [
+        "Süreç boyunca destek sunun",
+        "Tek seferlik seminer yerine gerektiğinde öğrenci görüşmeleri, veli iş birliği ve sınıf çalışmalarıyla izlemeyi sürdürün."
+      ]
+    ],
+    "example": "Veli, çocuğunun odasında daha fazla zaman geçirmesini iletişim kopması olarak yorumlar. Görüşmede ergenin mahremiyet ihtiyacı ve aileyle birlikte zaman geçirme konusunda iki tarafın beklentileri ayrı ayrı konuşulur.",
+    "check": [
+      "Bireysel farklılıklar gözetiliyor mu?",
+      "Öğrenci kendi görüşünü ifade edebiliyor mu?",
+      "Veliye somut iletişim seçenekleri sunuldu mu?",
+      "Güvenlik değerlendirmesi yapıldı mı?"
+    ],
+    "faq": [
+      [
+        "Ergenlikte her çatışma normal midir?",
+        "Fikir ayrılıkları görülebilir"
+      ],
+      [
+        " ancak zarar, şiddet veya ciddi işlev kaybı ayrıca değerlendirilmelidir",
+        " ancak zarar, şiddet veya ciddi işlev kaybı ayrıca değerlendirilmelidir."
+      ],
+      [
+        "Veliye ilk öneri ne olmalı?",
+        "Çocuğu dinlemek, somut örneklerle konuşmak ve sınırları birlikte netleştirmek iyi bir başlangıçtır."
+      ]
+    ],
+    "search_terms": [
+      "ergenlik",
+      "veli rehberliği",
+      "aile iletişimi"
+    ]
+  },
+  {
+    "slug": "kariyer-ilgi-yetenek-kesfi",
+    "title": "Mesleki Rehberlikte İlgi ve Yetenekleri Keşfetme",
+    "summary": "Öğrencinin meslek seçimini tek bir teste indirgemeden ilgi, değer, deneyim ve fırsatları birlikte değerlendirme rehberi.",
+    "sections": [
+      [
+        "Öğrencinin deneyimlerini dinleyin",
+        "Sevdiği dersleri değil, zaman içinde sürdürmekten hoşlandığı etkinlikleri, değerlerini ve merak ettiği alanları konuşun."
+      ],
+      [
+        "İlgi ile beceriyi ayırın",
+        "Bir etkinliği sevmek ve onda güçlü olmak aynı şey değildir; gelişebilecek becerilere de yer verin."
+      ],
+      [
+        "Bilgi kaynaklarını çeşitlendirin",
+        "Mesleklerin eğitim yolları, iş görevleri ve çalışma koşulları için güvenilir ve güncel kaynaklar belirleyin."
+      ],
+      [
+        "Seçenekleri karşılaştırın",
+        "Tek bir 'doğru meslek' yerine birkaç olası yolun gereklerini ve öğrencinin önceliklerini tablo hâlinde değerlendirin."
+      ],
+      [
+        "Deneyim ve izleme fırsatı sağlayın",
+        "Meslek tanıtımları, uzman görüşmeleri ve küçük araştırma ödevleriyle öğrencinin bilgisini genişletin."
+      ]
+    ],
+    "example": "Dokuzuncu sınıf öğrencisi yalnızca arkadaşlarıyla aynı alanı seçmek istiyor. Görüşmede üç ilgi alanı belirlenir; öğrenci bu alanların eğitim ve çalışma koşullarını araştırıp ikinci görüşmede karşılaştırır.",
+    "check": [
+      "Öğrencinin kendi değerleri konuşuldu mu?",
+      "İlgi ve beceri birbirinden ayrıldı mı?",
+      "Güncel ve güvenilir kaynaklar kullanıldı mı?",
+      "Birden fazla seçenek değerlendirildi mi?"
+    ],
+    "faq": [
+      [
+        "Meslek seçimi tek testle yapılabilir mi?",
+        "Hayır. Test sonuçları ancak görüşme ve diğer bilgilerle birlikte yorumlanabilecek yardımcı veriler olabilir."
+      ],
+      [
+        "Kararsız öğrenciye ne söylenmeli?",
+        "Seçenek araştırmasını ve küçük deneme adımlarını desteklemek, acele karar dayatmaktan daha yararlıdır."
+      ]
+    ],
+    "search_terms": [
+      "mesleki rehberlik",
+      "kariyer",
+      "meslek seçimi"
+    ]
+  },
+  {
+    "slug": "siber-zorbalik-okul-mudahalesi",
+    "title": "Siber Zorbalık: Okulda Güvenlik ve Müdahale",
+    "summary": "Dijital ortamda zarar verici akran davranışlarını değerlendirmek ve okulun güvenlik odaklı desteğini planlamak için rehber.",
+    "sections": [
+      [
+        "Güvenliği önceleyin",
+        "Öğrencinin acil güvenliğini ve tehdidin sürüp sürmediğini değerlendirin. Olayı sınıf önünde tartışmaya açmayın."
+      ],
+      [
+        "Olayın niteliğini anlamaya çalışın",
+        "Paylaşımın kapsamını, tekrarını, güç dengesini ve öğrencinin yaşadığı etkiyi yargılamadan ele alın."
+      ],
+      [
+        "Kanıt ve mahremiyeti koruyun",
+        "Gerekli kayıt süreçlerini güncel okul ve hukuki yükümlülüklere uygun yürütün; içerikleri başkalarına gereksiz aktarmayın."
+      ],
+      [
+        "Aile ve okul iş birliğini planlayın",
+        "Zarar gören ve zarar verici davranış gösteren öğrenciler için farklı destek ihtiyaçlarını gözetin."
+      ],
+      [
+        "Önleme ve takip",
+        "Güvenli dijital davranış, yardım isteme ve sınıf iklimi çalışmaları planlayın; olayın tekrarını ve öğrencinin iyi oluşunu izleyin."
+      ]
+    ],
+    "example": "Bir öğrencinin fotoğrafı izinsiz paylaşılıyor. Rehberlik servisi öğrenciyi güvenli ortamda dinler; ilgili okul prosedürüne uygun bildirim ve destek adımlarını planlar, paylaşımı sınıfta görünür kılmaz.",
+    "check": [
+      "Acil güvenlik değerlendirildi mi?",
+      "Öğrencinin mahremiyeti korundu mu?",
+      "İlgili kurum süreçleri izlendi mi?",
+      "Takip görüşmesi planlandı mı?"
+    ],
+    "faq": [
+      [
+        "Siber zorbalık yalnızca okul dışında olursa okul ilgilenir mi?",
+        "Okul yaşamını ve öğrenci güvenliğini etkileyen durumlarda okulun ilgili destek ve bildirim süreçleri değerlendirilir."
+      ],
+      [
+        "Öğrencileri hemen yüzleştirmek doğru mu?",
+        "Otomatik yüzleştirme, güvenlik ve güç dengesizliği nedeniyle zarar verebilir"
+      ],
+      [
+        " durum ayrı ayrı değerlendirilmelidir",
+        " durum ayrı ayrı değerlendirilmelidir."
+      ]
+    ],
+    "search_terms": [
+      "siber zorbalık",
+      "dijital güvenlik",
+      "akran zorbalığı"
+    ]
+  },
+  {
+    "slug": "sinav-sonrasi-ogrenci-gorusmesi",
+    "title": "Sınav Sonrası Öğrenci Görüşmesi: Sonuçları Değerlendirme",
+    "summary": "Sınav sonucu sonrası öğrencinin duygu, öğrenme süreci ve sonraki adımlarını yargılamadan değerlendirmek için görüşme akışı.",
+    "sections": [
+      [
+        "Duygusal durumu sorun",
+        "Öğrencinin beklediği ve gördüğü sonuç arasında nasıl hissettiğini dinleyin; yalnızca puana odaklanmayın."
+      ],
+      [
+        "Sonucu bağlama yerleştirin",
+        "Hazırlık koşulları, sınav sırasındaki deneyim, hedefler ve mevcut seçenekleri birlikte ele alın."
+      ],
+      [
+        "Yararlı davranışları ayırın",
+        "İyi işleyen çalışma alışkanlıklarını ve değiştirilebilir noktaları öğrenciyle belirleyin; etiketleyici ifadelerden kaçının."
+      ],
+      [
+        "Gerçekçi sonraki adımı planlayın",
+        "Yeni çalışma düzeni, tercih araştırması veya destek görüşmesi gibi öğrencinin kendi seçtiği adımlar oluşturun."
+      ],
+      [
+        "Aileyle iletişim ve takip",
+        "Sonuçların aile içinde baskıya dönüşmemesi için uygun bilgilendirme planlayın; öğrencinin güvenliği ve mahremiyetini koruyun."
+      ]
+    ],
+    "example": "Sınavdan beklediğinin altında alan öğrenci 'artık yapamam' diyor. Görüşmede bu düşüncenin ne zaman yoğunlaştığı konuşulur; güçlü yanlar ve bir haftalık uygulanabilir seçenek araştırması planlanır.",
+    "check": [
+      "Öğrencinin duygusu dinlendi mi?",
+      "Sonuca tek neden atfedilmedi mi?",
+      "Kontrol edilebilir adımlar belirlendi mi?",
+      "Takip ve gerekli destek planlandı mı?"
+    ],
+    "faq": [
+      [
+        "Düşük sonuç başarısızlık anlamına gelir mi?",
+        "Tek bir sınav sonucu öğrencinin kapasitesini veya geleceğini belirlemez."
+      ],
+      [
+        "Veliye sonuç nasıl aktarılır?",
+        "Somut durum, öğrencinin çabası ve planlanan destek üzerinden, suçlamadan konuşulur."
+      ]
+    ],
+    "search_terms": [
+      "sınav kaygısı",
+      "sınav ve çalışma becerileri",
+      "öğrenci görüşmesi"
+    ]
+  },
+  {
+    "slug": "ozel-egitim-kaynastirma-sinif-destegi",
+    "title": "Kaynaştırma Öğrencisi İçin Sınıf İçi Destek ve Uyarlamalar",
+    "summary": "Kapsayıcı eğitim ortamında öğrencinin katılımını artırmaya yönelik sınıf içi uyarlama ve ekip iş birliği rehberi.",
+    "sections": [
+      [
+        "Katılım engellerini belirleyin",
+        "Öğrencinin yapabildiklerini ve zorlandığı durumları ders, ortam ve görev düzeyinde gözlemleyin."
+      ],
+      [
+        "Öğretimi erişilebilir düzenleyin",
+        "Yönergeleri netleştirme, materyali uyarlama, alternatif yanıt biçimleri ve uygun süre düzenlemelerini öğretmenle birlikte değerlendirin."
+      ],
+      [
+        "Akran ilişkilerini destekleyin",
+        "Öğrenciyi ayrı bir kategori olarak görünür kılmayan, iş birliği fırsatı sunan etkinlikler tasarlayın."
+      ],
+      [
+        "Ekip koordinasyonunu güçlendirin",
+        "BEP ve uygun destek süreçlerini ilgili öğretmen, aile ve okul ekibiyle birlikte yürütün."
+      ],
+      [
+        "İlerlemeyi gözden geçirin",
+        "Uyarlamaların katılım ve öğrenme üzerindeki etkisini somut veriyle izleyip gerektiğinde değiştirin."
+      ]
+    ],
+    "example": "Öğrenci uzun yazılı yönergeleri takip edemiyor. Öğretmen görevi küçük görsel adımlara ayırıyor; aynı kazanım için uygun alternatif yanıt biçimini değerlendiriyor ve iki hafta sonra ilerlemeyi gözden geçiriyor.",
+    "check": [
+      "Öğrencinin güçlü yönleri tanımlandı mı?",
+      "Uyarlama ders hedefiyle uyumlu mu?",
+      "Akran etkileşimi kapsayıcı mı?",
+      "İlerleme göstergesi seçildi mi?"
+    ],
+    "faq": [
+      [
+        "Kaynaştırma öğrencisine her zaman farklı sınav gerekir mi?",
+        "Uyarlamalar bireysel ihtiyaç ve güncel eğitim düzenlemelerine göre değerlendirilir."
+      ],
+      [
+        "Uyarlamayı yalnızca rehber öğretmen mi yapar?",
+        "Öğretmen ve ilgili ekip koordinasyonu gereklidir"
+      ],
+      [
+        " sorumluluklar kurum süreçlerine göre paylaşılır",
+        " sorumluluklar kurum süreçlerine göre paylaşılır."
+      ]
+    ],
+    "search_terms": [
+      "özel eğitim",
+      "kaynaştırma",
+      "bep"
+    ]
+  },
+  {
+    "slug": "okulda-kriz-ilk-degerlendirme",
+    "title": "Okulda Kriz Bildirimi: İlk Değerlendirme ve Güvenli Yönlendirme",
+    "summary": "Kriz niteliğinde bir bildirim geldiğinde güvenliği, görev paylaşımını ve destek süreçlerini düzenleyen ilk yaklaşım rehberi.",
+    "sections": [
+      [
+        "Güvenliği değerlendirin",
+        "Bildirimde acil tehdit, yaralanma veya kendine zarar riski olasılığı varsa öğrenciyi yalnız bırakmadan okulun acil prosedürlerini ve yetkili acil yardım kanallarını devreye alın."
+      ],
+      [
+        "Olayı doğrulayın, ayrıntıyı yaymayın",
+        "Durumla ilgili gerekli bilgileri ilgili kişilerden alın; söylenti ve tanınabilir öğrenci bilgilerinin dolaşmasını önleyin."
+      ],
+      [
+        "Görev paylaşımını netleştirin",
+        "Okul yönetimi, ilgili birimler ve gerektiğinde acil yardım/uzman ekipleriyle yetki ve sorumlulukları belirleyin."
+      ],
+      [
+        "Psikososyal destek planlayın",
+        "Etkilenen öğrencilerin farklı ihtiyaçlarını gözetin; zorla toplu paylaşım veya ayrıntılı olay anlatımı istemeyin."
+      ],
+      [
+        "Takip ve kayıt",
+        "Gerekli kayıtları ilgili usullere göre sınırlı tutun, güvenlik ve yönlendirme adımlarını izleyin."
+      ]
+    ],
+    "example": "Okula ciddi tehdit içeren bir mesaj bildiriliyor. İlgili yetişkinler öğrencinin güvenliğini sağlar, yetkili birimlere okul prosedürü doğrultusunda başvurur ve kriz bilgilerini sınıf sohbet gruplarında yaymaz.",
+    "check": [
+      "Acil güvenlik kontrol edildi mi?",
+      "Yetkili birimler bilgilendirildi mi?",
+      "Gizlilik sınırları korundu mu?",
+      "Etkilenenler için takip planı var mı?"
+    ],
+    "faq": [
+      [
+        "Kriz sırasında ilk iş grup etkinliği midir?",
+        "Hayır. Öncelik acil güvenlik ve yetkili süreçlerin işletilmesidir."
+      ],
+      [
+        "Herkesin olay hakkında konuşması istenir mi?",
+        "Hayır. Zorlayıcı toplu anlatım yerine ihtiyaca uygun güvenli destek sunulur."
+      ]
+    ],
+    "search_terms": [
+      "kriz müdahalesi",
+      "psikososyal destek",
+      "kriz ve yas"
+    ]
+  }
+]
