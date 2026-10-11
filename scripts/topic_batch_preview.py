@@ -83,8 +83,17 @@ def get_matches(slug, metadata, rows, links, previews, limit):
     for row in rows:
         title = str(row.get("title", ""))
         haystack = words(" ".join(str(row.get(k, "")) for k in ("title", "topic", "category", "description")))
-        score = max((len(term & haystack) / len(term) for term in term_sets), default=0)
-        if score < 0.75:
+        topic_words = words(row.get("topic", ""))
+        title_words = words(title)
+        # Canonical topic labels are stronger than generic keyword overlap.
+        score = max((
+            (1.0 if term <= topic_words else 0.0)
+            or (0.9 if term <= title_words else 0.0)
+            or (0.8 if len(term & (topic_words | title_words)) >= 2
+                and len(term & (topic_words | title_words)) / len(term) >= 0.67 else 0.0)
+            for term in term_sets
+        ), default=0)
+        if score < 0.8:
             continue
         href = resource_url(row, links)
         if not href or href in used:
@@ -124,7 +133,7 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--apply", action="store_true", help="Update eligible existing pages only")
     p.add_argument("--limit", type=int, default=50)
-    p.add_argument("--min-resources", type=int, default=3)
+    p.add_argument("--min-resources", type=int, default=2)
     p.add_argument("--report", default="/tmp/pdr-topic-batch-report.json")
     args = p.parse_args()
     if not (1 <= args.limit <= 500 and 1 <= args.min_resources <= 12):
@@ -148,7 +157,10 @@ def main():
         if slug in SPECIAL:
             continue
         original = page.read_text(encoding="utf-8")
-        if '<link rel="canonical"' not in original or "PDR-KONU-REHBERI-2-START" in original or "TOPIC-RESOURCE-CARDS-START" in original:
+        if '<link rel="canonical"' not in original:
+            continue
+        if "PDR-KONU-REHBERI-2-START" in original or "TOPIC-RESOURCE-CARDS-START" in original:
+            report.append({"slug": slug, "state": "existing_gallery", "matched": 0, "resources": []})
             continue
         matches = get_matches(slug, metadata.get(slug), rows, links, previews, 9)
         state = "insufficient_sources" if len(matches) < args.min_resources else "ready"
