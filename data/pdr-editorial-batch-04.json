@@ -35,10 +35,7 @@
     "faq": [
       [
         "Geçen yılın planını aynen kullanabilir miyiz?",
-        "Eski plan başlangıç noktası olabilir"
-      ],
-      [
-        " ancak yeni öğrenci, veli ve öğretmen ihtiyaçlarıyla ve güncel çerçeveyle yeniden değerlendirilmelidir."
+        "Eski plan başlangıç noktası olabilir; ancak yeni öğrenci, veli ve öğretmen ihtiyaçlarıyla ve güncel çerçeveyle yeniden değerlendirilmelidir."
       ],
       [
         "Planı hazırlarken neyi ölçmeliyiz?",
@@ -86,10 +83,7 @@
     "faq": [
       [
         "Seminerde bireysel aile sorunlarını konuşmalı mıyız?",
-        "Özel bilgileri topluluk önünde tartışmayın"
-      ],
-      [
-        " ihtiyaç duyan velilere özel görüşme seçeneği sunun."
+        "Özel bilgileri topluluk önünde tartışmayın; ihtiyaç duyan velilere özel görüşme seçeneği sunun."
       ],
       [
         "Sunum kaç konu içermeli?",
@@ -137,10 +131,7 @@
     "faq": [
       [
         "Formda tanı veya kişilik yorumu bulunmalı mı?",
-        "Gözlenebilir davranış, zaman ve koşul yazılmalı"
-      ],
-      [
-        " yalnızca bir izleme formuyla tanı konulmamalıdır."
+        "Gözlenebilir davranış, zaman ve koşul yazılmalı; yalnızca bir izleme formuyla tanı konulmamalıdır."
       ],
       [
         "Her hafta aynı veriyi toplamak gerekir mi?",
@@ -236,10 +227,7 @@
     "faq": [
       [
         "Devamsızlık tek başına okul terki göstergesi mi?",
-        "Hayır"
-      ],
-      [
-        " okul bağlılığı, öğrenme güçlüğü, güvenlik ve aile koşullarıyla birlikte yorumlanmalıdır."
+        "Hayır; okul bağlılığı, öğrenme güçlüğü, güvenlik ve aile koşullarıyla birlikte yorumlanmalıdır."
       ],
       [
         "İlk görüşmede öğrenciye ne sorulabilir?",
@@ -287,10 +275,7 @@
     "faq": [
       [
         "Toplantıda yalnızca hedefler mi konuşulur?",
-        "Hayır"
-      ],
-      [
-        " mevcut performans, güçlü yönler, sınıf düzenlemeleri, destekler ve izleme biçimi de görüşülmelidir."
+        "Hayır; mevcut performans, güçlü yönler, sınıf düzenlemeleri, destekler ve izleme biçimi de görüşülmelidir."
       ],
       [
         "Hedef işlemiyorsa ne yapılmalı?",
@@ -342,10 +327,7 @@
       ],
       [
         "Bu gözlemlerle tanı konur mu?",
-        "Hayır"
-      ],
-      [
-        " tanı ve gerekli değerlendirme yetkili uzman ve kurum süreçlerindedir."
+        "Hayır; tanı ve gerekli değerlendirme yetkili uzman ve kurum süreçlerindedir."
       ]
     ],
     "search_terms": [
@@ -393,10 +375,7 @@
       ],
       [
         "Dışlanma mutlaka zorbalık mı?",
-        "Hayır"
-      ],
-      [
-        " tekrar, kasıt, güç dengesi ve zarar durumu ayrıca değerlendirilir."
+        "Hayır; tekrar, kasıt, güç dengesi ve zarar durumu ayrıca değerlendirilir."
       ]
     ],
     "search_terms": [
@@ -440,10 +419,7 @@
     "faq": [
       [
         "Her gün net sormak motivasyonu artırır mı?",
-        "Her öğrencide aynı etkiyi yaratmaz"
-      ],
-      [
-        " kaygı ve çatışma artıyorsa konuşmanın sıklığı ve biçimi yeniden düzenlenebilir."
+        "Her öğrencide aynı etkiyi yaratmaz; kaygı ve çatışma artıyorsa konuşmanın sıklığı ve biçimi yeniden düzenlenebilir."
       ],
       [
         "Veli hiç sınav konuşmamalı mı?",
@@ -491,10 +467,7 @@
     "faq": [
       [
         "Etkinlik sonunda meslek seçimi yaptırmalı mıyız?",
-        "Hayır"
-      ],
-      [
-        " öncelik seçenekleri tanımak ve araştırma becerisini geliştirmektir."
+        "Hayır; öncelik seçenekleri tanımak ve araştırma becerisini geliştirmektir."
       ],
       [
         "Meslek hakkında hangi bilgiler karşılaştırılır?",
@@ -542,17 +515,11 @@
     "faq": [
       [
         "Sağlamlık üzülmemek anlamına mı gelir?",
-        "Hayır"
-      ],
-      [
-        " güçlük yaşamak olağandır ve uygun destek kullanmak sağlamlığın bir parçası olabilir."
+        "Hayır; güçlük yaşamak olağandır ve uygun destek kullanmak sağlamlığın bir parçası olabilir."
       ],
       [
         "Öğrenciler travmalarını paylaşmalı mı?",
-        "Hayır"
-      ],
-      [
-        " sınıf etkinliğinde kişisel açıklama zorlanmamalı, kurgusal durumlar kullanılmalıdır."
+        "Hayır; sınıf etkinliğinde kişisel açıklama zorlanmamalı, kurgusal durumlar kullanılmalıdır."
       ]
     ],
     "search_terms": [
@@ -596,10 +563,7 @@
     "faq": [
       [
         "Erteleme her zaman motivasyon eksikliği mi?",
-        "Hayır"
-      ],
-      [
-        " kaygı, görevin anlaşılmaması ve çevresel koşullar da rol oynayabilir."
+        "Hayır; kaygı, görevin anlaşılmaması ve çevresel koşullar da rol oynayabilir."
       ],
       [
         "İlk hedef ödevi tamamen bitirmek olmalı mı?",
@@ -647,17 +611,11 @@
     "faq": [
       [
         "Sessiz öğrencileri konuşturmaya zorlamalı mıyız?",
-        "Hayır"
-      ],
-      [
-        " yazılı cevap veya küçük grup gibi farklı katılım yolları sunulabilir."
+        "Hayır; yazılı cevap veya küçük grup gibi farklı katılım yolları sunulabilir."
       ],
       [
         "Herkesin yakın arkadaş olması gerekir mi?",
-        "Hayır"
-      ],
-      [
-        " yakınlık zorunlu değildir, temel beklenti saygılı ilişkidir."
+        "Hayır; yakınlık zorunlu değildir, temel beklenti saygılı ilişkidir."
       ]
     ],
     "search_terms": [
@@ -701,17 +659,11 @@
     "faq": [
       [
         "Okul kendi soruşturmasını yapmalı mı?",
-        "Hayır"
-      ],
-      [
-        " yetkili kurum süreçleri esas alınır ve öğrenci ayrıntılı tekrar anlatımlara zorlanmaz."
+        "Hayır; yetkili kurum süreçleri esas alınır ve öğrenci ayrıntılı tekrar anlatımlara zorlanmaz."
       ],
       [
         "Tam gizlilik sözü vermek doğru mu?",
-        "Hayır"
-      ],
-      [
-        " güvenlik ve yasal bildirim yükümlülüklerinin sınırları açıkça anlatılmalıdır."
+        "Hayır; güvenlik ve yasal bildirim yükümlülüklerinin sınırları açıkça anlatılmalıdır."
       ]
     ],
     "search_terms": [
@@ -899,17 +851,11 @@
     "faq": [
       [
         "Grup rehberliği psikoterapi ile aynı mıdır?",
-        "Hayır"
-      ],
-      [
-        " psikoeğitsel grup etkinlikleri klinik müdahalenin yerine geçmez."
+        "Hayır; psikoeğitsel grup etkinlikleri klinik müdahalenin yerine geçmez."
       ],
       [
         "Öğrenciler kişisel deneyimlerini anlatmak zorunda mı?",
-        "Hayır"
-      ],
-      [
-        " gönüllülük ve güvenlik ilkeleri korunmalıdır."
+        "Hayır; gönüllülük ve güvenlik ilkeleri korunmalıdır."
       ]
     ],
     "search_terms": [
@@ -953,17 +899,11 @@
     "faq": [
       [
         "Arkadaşının fotoğrafını paylaşmadan önce ne yapılır?",
-        "İzin alınmalı"
-      ],
-      [
-        " kişisel sınırlar ve okulun ilgili kuralları gözetilmelidir."
+        "İzin alınmalı; kişisel sınırlar ve okulun ilgili kuralları gözetilmelidir."
       ],
       [
         "Bir fotoğraf izinsiz paylaşılırsa çocuk suçlanmalı mı?",
-        "Hayır"
-      ],
-      [
-        " güvenliği sağlama, uygun yetişkin desteği ve gerekirse koruma süreçleri önceliklidir."
+        "Hayır; güvenliği sağlama, uygun yetişkin desteği ve gerekirse koruma süreçleri önceliklidir."
       ]
     ],
     "search_terms": [
@@ -1007,10 +947,7 @@
     "faq": [
       [
         "Çocuk her sorunu kendi başına mı çözmeli?",
-        "Hayır"
-      ],
-      [
-        " özellikle güvenlikle ilgili konularda yetişkin desteği almak önemlidir."
+        "Hayır; özellikle güvenlikle ilgili konularda yetişkin desteği almak önemlidir."
       ],
       [
         "Öğrenci kime başvuracağını bilmiyorsa?",
@@ -1058,10 +995,7 @@
     "faq": [
       [
         "Saygı aynı fikirde olmak demek midir?",
-        "Hayır"
-      ],
-      [
-        " farklı görüşlerde de kırıcı olmayan iletişim ve sınırları gözetme mümkündür."
+        "Hayır; farklı görüşlerde de kırıcı olmayan iletişim ve sınırları gözetme mümkündür."
       ],
       [
         "Etkinlik sonrası ne takip edilebilir?",
