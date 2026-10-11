@@ -65,6 +65,8 @@ def main():
     stats["catalogue_with_pagePath"] = sum(bool(row.get("pagePath")) for row in rows)
     stats["catalogue_with_file"] = sum(bool(row.get("file")) for row in rows)
     stats["catalogue_with_topic"] = sum(bool(row.get("topic")) for row in rows)
+    stats["matched_subject_before_link_check"] = 0
+    stats["matched_subject_distinct_topics"] = 0
     for item in plan:
         label = str(item.get("baslik", ""))
         slug = str(item.get("slug", ""))
@@ -76,6 +78,7 @@ def main():
             main_words = title_words
         candidates = []
         used = set()
+        subject_matches = 0
         for row in rows:
             rid = str(row.get("id", ""))
             title = str(row.get("title", ""))
@@ -92,6 +95,7 @@ def main():
             score = 0.8 + 0.2 * detail_score
             if score < args.min_score:
                 continue
+            subject_matches += 1
             url = row.get("pagePath") or links.get(rid, "")
             if not local_page(url):
                 stats["matched_but_no_local_page"] += 1
@@ -100,6 +104,9 @@ def main():
                 continue
             used.add(url)
             candidates.append((score, {"baslik": title, "tur": row.get("type", "Materyal"), "sayfa": url, "eslesme_puani": round(score, 3), "belge_icerigi_dogrulandi": False}))
+        stats["matched_subject_before_link_check"] += subject_matches
+        if subject_matches:
+            stats["matched_subject_distinct_topics"] += 1
         candidates.sort(key=lambda x: (-x[0], x[1]["baslik"]))
         chosen = [x[1] for x in candidates[:args.limit_per_topic]]
         if chosen: stats["topics_with_candidates"] += 1
