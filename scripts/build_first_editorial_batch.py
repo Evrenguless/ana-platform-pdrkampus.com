@@ -101,25 +101,51 @@ EXTRA = {
  "check": ["Görüşmenin amacı ve sınırı açıklandı mı?", "Veli görüşüne yeterince yer verildi mi?", "Çocuğun özel bilgileri gereksiz yere paylaşılmadı mı?", "Kararlar, sorumlular ve takip zamanı net mi?"],
  "faq": [("Veliye öğrencinin tüm görüşme notları verilir mi?", "Hayır. Gizlilik, çocuğun yararı ve yürürlükteki yükümlülükler doğrultusunda yalnızca gerekli bilgiler paylaşılır."), ("Veliyle anlaşma sağlanamazsa?", "Ortak hedefleri yeniden tanımlayın, somut gözlemleri paylaşın ve uygun okul içi iş birliği süreçlerini değerlendirin.")]},
 }
+# Specific alternative catalogue-title terms for previously empty guides.
+# These are candidates, not editorial or PDF-content verification.
+TITLE_ALIASES = {
+    "aile-okul-iletisimi-zor-gorusmeler": ("veli görüş", "aile iletişim", "veli iletişim", "aile görüş"),
+    "cocuklarda-dijital-mahremiyet": ("dijital mahremiyet", "dijital güvenlik", "güvenli internet", "kişisel veri", "siber güvenlik"),
+    "ogrenci-izleme-formu-hazirlama": ("öğrenci takip", "öğrenci izleme", "izleme form", "takip çizelge", "gözlem form", "gelişim takip"),
+    "okulda-ihmal-istismar-bildirimi": ("ihmal", "istismar", "çocuk koruma", "çocuk güvenli"),
+    "rehberlik-servisi-evrak-duzeni": ("rehberlik form", "rehberlik dosya", "rehberlik plan", "çalışma dosya", "rehberlik evrak"),
+}
+
+def normalized_title(text):
+    # Compare Turkish casing and common accents consistently.
+    import unicodedata
+    value=str(text or "").casefold().replace("ı","i")
+    return "".join(char for char in unicodedata.normalize("NFKD",value)
+                   if not unicodedata.combining(char))
+
+def usable_resource_target(row):
+    page=row.get("pagePath")
+    if isinstance(page,str) and page.startswith("/") and not page.startswith("//"):
+        if (ROOT/page.lstrip("/")).is_file():return True
+    file=row.get("file")
+    if not isinstance(file,str):return False
+    if file.startswith(("https://","http://")):return True
+    return file.startswith("/") and not file.startswith("//") and (ROOT/file.lstrip("/")).is_file()
+
 def resources(slug):
-    terms=SEARCH_TERMS[slug]
-    rows=[]
-    seen=set()
+    terms=tuple(SEARCH_TERMS[slug])+TITLE_ALIASES.get(slug,())
+    normalized_terms=tuple(normalized_title(term) for term in terms if len(normalized_title(term))>=4)
+    rows=[];seen=set()
     for name in ("data/library.json","data/collected-resources.json","data/new-resources-batch.json","data/library-reviewed-batch-20261010.json"):
         file=ROOT/name
-        if not file.exists(): continue
+        if not file.exists():continue
         for row in json.loads(file.read_text(encoding="utf-8")):
             rid=str(row.get("id",""))
             if not rid or rid in seen:continue
             seen.add(rid)
-            hay=(" "+str(row.get("title",""))+" "+str(row.get("topic",""))).casefold()
-            score=max((3 if term in str(row.get("title","")).casefold() else 1 if term in hay else 0) for term in terms)
-            if score: rows.append((score,row))
-    # Favor direct title matches; a broad category tag alone is not enough
-    # to present an unrelated item as a recommended document.
-    rows.sort(key=lambda item:(-item[0],str(item[1].get("title",""))))
-    strong=[row for score,row in rows if score>=3]
-    return strong[:9]
+            title=normalized_title(row.get("title",""))
+            hits=[term for term in normalized_terms if term in title]
+            if not hits or not usable_resource_target(row):continue
+            # Longer title phrases outrank broad single-word matches.
+            score=max(len(term) for term in hits)
+            rows.append((score,row))
+    rows.sort(key=lambda item:(-item[0],normalized_title(item[1].get("title",""))))
+    return [r for _,r in rows[:9]]
 def source_cards(slug):
     cards=[]
     count=0
