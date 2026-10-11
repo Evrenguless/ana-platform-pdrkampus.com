@@ -144,7 +144,14 @@ def resources(slug):
             # Longer title phrases outrank broad single-word matches.
             score=max(len(term) for term in hits)
             rows.append((score,row))
-    rows.sort(key=lambda item:(-item[0],normalized_title(item[1].get("title",""))))
+    # Prefer an existing PDR Kampüs landing page when title relevance is equal.
+    # It remains accessible even when the source institution blocks automated HTTP.
+    def has_local_page(row):
+        page=row.get("pagePath")
+        return (isinstance(page,str) and page.startswith("/") and
+                not page.startswith("//") and (ROOT/page.lstrip("/")).is_file())
+    rows.sort(key=lambda item:(-item[0],not has_local_page(item[1]),
+                               normalized_title(item[1].get("title",""))))
     return [r for _,r in rows[:9]]
 def source_cards(slug):
     cards=[]
