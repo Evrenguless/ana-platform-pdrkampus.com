@@ -142,6 +142,31 @@ FOCUSED_TITLE_TERMS = {
     "rehberlik-yillik-plan-hazirlama": ("rehberlik yillik plan", "cerceve plan", "rehberlik plani", "yillik calisma plani"),
 }
 
+def resource_detail_links():
+    """Resolve catalogue IDs to existing PDR Kampüs detail pages only."""
+    mapping = {}
+    source = ROOT / "src/resource-page-links.js"
+    if source.is_file():
+        for rid, url in re.findall(r'"([^"]+)"\s*:\s*"(/(?:kutuphane|kaynak)/[^"]+)"', source.read_text(encoding="utf-8")):
+            mapping[rid] = url
+    return mapping
+
+DETAIL_LINKS = resource_detail_links()
+
+def valid_detail_page(url):
+    if not isinstance(url, str) or not url.startswith(("/kutuphane/", "/kaynak/")) or url.startswith("//"):
+        return False
+    if "?" in url or "#" in url or ".." in url:
+        return False
+    path = ROOT / url.lstrip("/")
+    return (path / "index.html").is_file() if url.endswith("/") else path.is_file()
+
+def detail_page(row):
+    for url in (row.get("pagePath"), DETAIL_LINKS.get(str(row.get("id", "")))):
+        if valid_detail_page(url):
+            return url
+    return None
+
 def resources(slug):
     # Prefer narrowly relevant titles for topics with known false positives.
     focused=FOCUSED_TITLE_TERMS.get(slug)
@@ -159,12 +184,12 @@ def resources(slug):
             hits=[term for term in normalized_terms if term in title]
             if not hits or not usable_resource_target(row):continue
             score=max(len(term) for term in hits)
-            page=row.get("pagePath")
-            has_local_page=(isinstance(page,str) and page.startswith("/") and
-                            not page.startswith("//") and (ROOT/page.lstrip("/")).is_file())
-            # An exact title match is mandatory; among valid titles, prefer our
-            # actual local resource page to uncertain remote file links.
-            rows.append((has_local_page,score,row))
+            detail = detail_page(row)
+            # Only show cards that lead to a real PDR Kampüs detail page.
+            # Never fall back to a raw PDF/DOCX download.
+            if not detail:
+                continue
+            rows.append((True,score,row))
     rows.sort(key=lambda item:(not item[0],-item[1],
                                 normalized_title(item[2].get("title",""))))
     return [row for _,_,row in rows[:9]]
@@ -174,11 +199,8 @@ def source_cards(slug):
     for r in resources(slug):
         title=esc(r.get("title","Kaynak"))
         rid=str(r.get("id",""))
-        url=r.get("pagePath","")
-        if not (isinstance(url,str) and url.startswith("/") and (ROOT/url.lstrip("/")).exists()):
-            # A genuine file is preferable to a fabricated local landing page.
-            url=r.get("file","")
-        if not (isinstance(url,str) and url.startswith(("https://","http://","/"))):continue
+        url=detail_page(r)
+        if not url:continue
         preview=r.get("previewImage") or r.get("preview") or ""
         if not preview:
             files=list((ROOT/"assets/resource-previews").glob(rid+"-*.jpg"))
