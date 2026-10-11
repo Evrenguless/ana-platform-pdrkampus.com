@@ -138,7 +138,23 @@ def source_cards(slug):
         cards.append(f'<a class="guide2-card" href="{esc(url)}" target="_blank" rel="noopener noreferrer"><span class="guide2-visual">{visual}</span><span class="guide2-card-body"><span class="guide2-meta">{esc(r.get("level",""))} · {esc(r.get("type","Materyal"))}</span><strong>{title}</strong><small>{esc(r.get("source","Kaynak kurum"))}</small><span class="guide2-action">Kaynağı incele →</span></span></a>')
         count+=1
     return '<div class="guide2-grid">'+"".join(cards)+'</div>' if cards else '<p>Bu konu için belge düzeyinde uygun materyal henüz doğrulanmadı.</p>'
+def load_editorial_batches():
+    """Append new, topic-specific manuscripts; preserve existing first five guides."""
+    path = ROOT / "data/pdr-editorial-batch-02.json"
+    if not path.is_file():
+        return
+    for record in json.loads(path.read_text(encoding="utf-8")):
+        slug = record["slug"]
+        if any(existing["slug"] == slug for existing in GUIDES):
+            raise ValueError("Duplicate editorial slug: " + slug)
+        if len(record["sections"]) < 5 or len(record["faq"]) < 2 or len(record["check"]) < 3:
+            raise ValueError("Incomplete editorial guide: " + slug)
+        GUIDES.append({key: record[key] for key in ("slug", "title", "summary", "sections")})
+        EXTRA[slug] = {key: record[key] for key in ("example", "check", "faq")}
+        SEARCH_TERMS[slug] = record["search_terms"]
+
 def main():
+    load_editorial_batches()
     source=REFERENCE.read_text(encoding="utf-8")
     if '<main' not in source or '</main>' not in source:raise SystemExit("Missing main in reference")
     head,tail=source.split("<main",1)
