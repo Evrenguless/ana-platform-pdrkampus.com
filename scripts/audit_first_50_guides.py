@@ -50,8 +50,11 @@ def main():
         for image in reader.images:
             if image.startswith("/") and local_exists(image) is False:problems.append("missing_local_image:"+image)
         if not reader.meta.get("robots","").startswith("noindex"):problems.append("missing_preview_noindex")
-        if src.count('class="guide2-card"')==0:problems.append("no_resource_cards")
-        if "belge önizlemesi" not in src:problems.append("no_preview_images")
+        # Missing matching documents is an editorial gap, not a broken HTML page.
+        # Do not count a missing image if there are no material cards at all.
+        card_count=src.count('class="guide2-card"')
+        if card_count==0:problems.append("needs_editorial_source")
+        elif "belge önizlemesi" not in src:problems.append("cards_without_preview_images")
         if src.count('class="topic-section"')<7:problems.append("limited_content_sections")
         if len(re.findall(r'<details',src))<2:problems.append("limited_faq")
         if "Katalog başlık ve etiketlerinden seçilen aday kaynaklardır" in src:problems.append("source_relevance_unverified")
@@ -59,7 +62,7 @@ def main():
         if len(set(problems))!=len(problems):problems=list(dict.fromkeys(problems))
         overview.update(x.split(":",1)[0] for x in problems)
         findings.append({"file":str(p.relative_to(ROOT)),"title":html.unescape(reader.title),"issues":problems,"resource_cards":src.count('class="guide2-card"'),"preview_images":src.count("belge önizlemesi")})
-    needs_attention=[{"file":x["file"],"issues":[issue for issue in x["issues"] if issue in ("no_resource_cards","no_preview_images")]} for x in findings if any(issue in ("no_resource_cards","no_preview_images") for issue in x["issues"])]
+    needs_attention=[{"file":x["file"],"issues":[issue for issue in x["issues"] if issue in ("needs_editorial_source","cards_without_preview_images")]} for x in findings if any(issue in ("no_resource_cards","no_preview_images") for issue in x["issues"])]
     output={"files_checked":len(files),"issues_by_kind":dict(overview),"source_gaps":needs_attention,"publish_ready_claimed":0,
         "note":"External URLs and PDF content were not checked; source relevancy remains editorial review.",
         "pages":findings}
