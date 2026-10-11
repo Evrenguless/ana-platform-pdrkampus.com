@@ -1405,6 +1405,11 @@
       "baseline_sha256": "7a297c1899cc4fe65fb1154dc45192d3323eb0aae397eb6741f95adcb23e7581",
       "reviewed_sha256": "eaad57681596219a5481d68465302135d14e654715239aada48ae787795fb659",
       "reason": "User-requested sitemap tests added to the existing read-only SEO audit workflow; no permission changes."
+    },
+    ".github/workflows/link-audit.yml": {
+      "baseline_sha256": "e992b68a700b455062f92d2be6284cfc33a8bcd996aec7021caffd0b4123965b",
+      "reviewed_sha256": "7336a453bdfd39806d97edb27127b6b1dc5c2996fb7861dd85ea62cc617c1965",
+      "reason": "Reviewed workflow change: internal link checks on PRs and scheduled external link audit."
     }
   }
 }
