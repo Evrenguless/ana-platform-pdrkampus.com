@@ -5,16 +5,35 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * 0'
+
+permissions:
+  contents: read
 
 jobs:
-  link-audit:
+  internal-links:
+    name: Internal Link Audit
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-      - name: Run link audit
+          python-version: '3.12'
+      - name: Check internal links
+        run: python scripts/check_links.py --internal-only
+
+  external-links:
+    name: Weekly External Link Audit
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check all links
         run: python scripts/check_links.py

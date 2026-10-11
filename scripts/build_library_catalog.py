@@ -1,4 +1,5 @@
 from sitemap_tools import read_urlset, eligible_outputs
+from seo_title_policy import approved_title
 # -*- coding: utf-8 -*-
 """Build crawlable official resource catalog; member documents are never exported."""
 import html, json, re, unicodedata, sys
@@ -62,6 +63,7 @@ outputs = {}
 contexts = json.loads((ROOT/'seo/resource-context.json').read_text()) if (ROOT/'seo/resource-context.json').exists() else {}
 def page(path, title, desc, body, schema=None):
     url = BASE + path
+    title = approved_title(path, title)
     structured = '<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace('<','\\u003c')+'</script>' if schema else ''
     outputs[path.lstrip('/')+'index.html'] = f'''<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(desc)}"><link rel="canonical" href="{url}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{url}"><meta property="og:type" content="website"><link rel="stylesheet" href="/src/style.css"><link rel="stylesheet" href="/src/shell-refresh.css"><link rel="stylesheet" href="/src/design-system.css"><link rel="stylesheet" href="/src/resource-catalog.css">{structured}</head><body id="top">{header}<main class="catalog-shell">{body}</main>{footer}<script type="module" src="/src/menu.js?v=20261005-2"></script></body></html>'''
 def file_url(item):

@@ -1,3 +1,4 @@
+from seo_title_policy import approved_title
 """Compact source-preserving public resource layouts and editorial usage suggestions."""
 import html,json,re
 from pathlib import Path
@@ -121,7 +122,7 @@ def decorate(root,source,row=None):
  if row and row.get('pagePath','').startswith('/kaynak/yeni/'):
   publisher=(row.get('source') or 'MEB').replace('Rehberlik ve Araştırma Merkezi','RAM')
   info=row.get('documentInfo',{});extent=str(info['page_count'])+' sayfa' if info.get('page_count') else str(info['slide_count'])+' slayt' if info.get('slide_count') else ''
-  page_title=row['title']+' · '+row['fileType']+' · '+publisher+' | PDR Kampüs'
+  page_title=approved_title(row['pagePath'], row['title']+' · '+row['fileType']+' · '+publisher+' | PDR Kampüs')
   description=row['title']+' — '+publisher+'. '+row['fileType']+(' · '+extent if extent else '')+'; belge önizlemesi ve kullanım önerileri.'
   source=re.sub(r'<title>.*?</title>','<title>'+E(page_title)+'</title>',source,count=1,flags=re.S)
   for attribute,value in [('name="description"',description),('property="og:title"',page_title),('property="og:description"',description)]:

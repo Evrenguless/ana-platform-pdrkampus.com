@@ -8,6 +8,8 @@ import re
 import unicodedata
 import xml.etree.ElementTree as ET
 
+from seo_title_policy import approved_title
+
 BASE = 'https://pdrkampus.com'
 HUB = '/kaynak/yeni/'
 
@@ -38,6 +40,7 @@ def build_pages(root, resources):
     outputs = {}
     def page(route, title, description, body, schema=None, noindex=False):
         url = BASE + route
+        title = approved_title(route, title)
         nodes = [{'@context': 'https://schema.org', '@type': 'WebPage', 'name': title, 'url': url, 'inLanguage': 'tr'}, {'@context': 'https://schema.org', '@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Kütüphane', 'item': BASE + '/kutuphane.html'}, {'@type': 'ListItem', 'position': 2, 'name': 'Yeni kaynaklar', 'item': BASE + HUB}]}]
         if schema: nodes.append(schema)
         structured = json.dumps(nodes, ensure_ascii=False).replace('<', '\\u003c')
