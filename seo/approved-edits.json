@@ -1241,8 +1241,8 @@
     },
     "sitemap.xml": {
       "baseline_sha256": "d3cc7b7448ac4ba6d3ae809821b6e5298b14d509f8f7844b48c09fd2715701c2",
-      "reviewed_sha256": "1be59324f7280a0c3e87682802662b55cc79375b6d6488398c2e8815c4c98bb3",
-      "reason": "Reviewed nine new PDR guides and sitemap addition for first publication batch."
+      "reviewed_sha256": "e40617d838f367c07f8f792ed490742353d5d490051a3453d6aa36dc42da0546",
+      "reason": "Regenerated canonical sitemap with nine new PDR guides."
     },
     "topluluk.html": {
       "baseline_sha256": "e73b19a12fd7d33801327f61799969e46685844e3504de5c4e9835352c14d1b9",
