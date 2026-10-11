@@ -205,6 +205,8 @@ def load_editorial_batches():
                 raise ValueError("Duplicate editorial slug: " + slug)
             if len(record["sections"]) < 5 or len(record["faq"]) < 2 or len(record["check"]) < 3:
                 raise ValueError("Incomplete editorial guide: " + slug)
+            if any(not isinstance(pair, list) or len(pair) != 2 or not all(isinstance(v, str) and v.strip() for v in pair) for pair in record["faq"]):
+                raise ValueError("Invalid FAQ question-answer pair in: " + slug)
             GUIDES.append({key: record[key] for key in ("slug", "title", "summary", "sections")})
             EXTRA[slug] = {key: record[key] for key in ("example", "check", "faq")}
             SEARCH_TERMS[slug] = record["search_terms"]
