@@ -140,7 +140,7 @@ def source_cards(slug):
     return '<div class="guide2-grid">'+"".join(cards)+'</div>' if cards else '<p>Bu konu için belge düzeyinde uygun materyal henüz doğrulanmadı.</p>'
 def load_editorial_batches():
     """Append new, topic-specific manuscripts; preserve existing first five guides."""
-    for filename in ("data/pdr-editorial-batch-02.json", "data/pdr-editorial-batch-03.json"):
+    for filename in ("data/pdr-editorial-batch-02.json", "data/pdr-editorial-batch-03.json", "data/pdr-editorial-batch-04.json"):
         path = ROOT / filename
         if not path.is_file():
             raise FileNotFoundError(path)
