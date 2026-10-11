@@ -67,8 +67,14 @@ def main():
     rows=[dict(t,**results[t["url"]]) for t in targets]
     summary=dict(Counter(x["status"] for x in rows))
     blocked=[x for x in rows if x["status"] not in ("http_ok","local_ok")]
+    failed_unique=sorted({x["url"] for x in blocked})
+    failed_domains=dict(Counter(urlparse(u).netloc.lower() for u in failed_unique))
+    failures_by_page={}
+    for x in blocked:
+        failures_by_page.setdefault(x["slug"],[]).append({"position":x["position"],"url":x["url"],"status":x["status"]})
+
     output={"guides":len({x["slug"] for x in rows}),"cards_checked":len(rows),
-            "unique_urls_checked":len(unique),"status_counts":summary,"needs_review":blocked,
+            "unique_urls_checked":len(unique),"status_counts":summary,"failed_unique_urls":len(failed_unique),"failed_domains":failed_domains,"failures_by_page":failures_by_page,"needs_review":blocked,
             "limitations":["HTTP 403 and 429 may be access restrictions rather than broken links.",
                            "HTTP success does not establish document relevance, PDF quality, or content accuracy.",
                            "Mobile rendering still requires a browser check."],"approved_for_publication":False}
