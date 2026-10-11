@@ -1241,8 +1241,8 @@
     },
     "sitemap.xml": {
       "baseline_sha256": "d3cc7b7448ac4ba6d3ae809821b6e5298b14d509f8f7844b48c09fd2715701c2",
-      "reviewed_sha256": "e40617d838f367c07f8f792ed490742353d5d490051a3453d6aa36dc42da0546",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved."
+      "reviewed_sha256": "1be59324f7280a0c3e87682802662b55cc79375b6d6488398c2e8815c4c98bb3",
+      "reason": "Reviewed nine new PDR guides and sitemap addition for first publication batch."
     },
     "topluluk.html": {
       "baseline_sha256": "e73b19a12fd7d33801327f61799969e46685844e3504de5c4e9835352c14d1b9",
@@ -1410,6 +1410,11 @@
       "baseline_sha256": "e992b68a700b455062f92d2be6284cfc33a8bcd996aec7021caffd0b4123965b",
       "reviewed_sha256": "7336a453bdfd39806d97edb27127b6b1dc5c2996fb7861dd85ea62cc617c1965",
       "reason": "Reviewed workflow change: internal link checks on PRs and scheduled external link audit."
+    },
+    "data/topics.json": {
+      "baseline_sha256": "1a7aed26ebfd1b911f2adc0141fbee555e8dc954ea3b7965dafd4de2ad58ad6c",
+      "reviewed_sha256": "2c3115ab271be2963fec354c78c84272326e3bf0f9c91fadbe2be23f35810907",
+      "reason": "Reviewed topic dictionary for first publication batch."
     }
   }
 }
