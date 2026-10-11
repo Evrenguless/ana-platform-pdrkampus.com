@@ -186,7 +186,7 @@ def source_cards(slug):
             if files:preview="/"+str(files[0].relative_to(ROOT))
         if isinstance(preview,str) and preview.startswith("/") and not (ROOT/preview.lstrip("/")).is_file():preview=""
         visual=f'<img src="{esc(preview)}" alt="{title} belge önizlemesi" loading="lazy">' if preview else '<span class="guide2-card-fallback" aria-hidden="true">PDF / MATERYAL</span>'
-        cards.append(f'<a class="guide2-card" href="{esc(url)}" target="_blank" rel="noopener noreferrer"><span class="guide2-visual">{visual}</span><span class="guide2-card-body"><span class="guide2-meta">{esc(r.get("level",""))} · {esc(r.get("type","Materyal"))}</span><strong>{title}</strong><small>{esc(r.get("source","Kaynak kurum"))}</small><span class="guide2-action">Kaynağı incele →</span></span></a>')
+        cards.append(f'<a class="guide2-card" href="{esc(url)}" ><span class="guide2-visual">{visual}</span><span class="guide2-card-body"><span class="guide2-meta">{esc(r.get("level",""))} · {esc(r.get("type","Materyal"))}</span><strong>{title}</strong><small>{esc(r.get("source","Kaynak kurum"))}</small><span class="guide2-action">Kaynağı incele →</span></span></a>')
         count+=1
     if cards:
         return '<div class="guide2-grid">'+"".join(cards)+'</div>'
