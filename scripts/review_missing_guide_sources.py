@@ -21,7 +21,7 @@ def main():
     results={}
     for slug,categories in TOPICS.items():
         pool=[r for r in rows.values() if str(r.get("topic","")).casefold() in [x.casefold() for x in categories]]
-        results[slug]=[{"id":r.get("id"),"title":r.get("title"),"topic":r.get("topic"),"source":r.get("source"),"pagePath":r.get("pagePath"),"file":r.get("file"),"preview":r.get("previewImage") or r.get("preview"),"reviewed":False} for r in pool]]
+        results[slug]=[{"id":r.get("id"),"title":r.get("title"),"topic":r.get("topic"),"source":r.get("source"),"pagePath":r.get("pagePath"),"file":r.get("file"),"preview":r.get("previewImage") or r.get("preview"),"reviewed":False} for r in pool]
     report=ROOT/"seo/icerik-plani/ilk-50-eksik-kaynak-adaylari.json"
     report.parent.mkdir(parents=True,exist_ok=True)
     report.write_text(json.dumps(results,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
