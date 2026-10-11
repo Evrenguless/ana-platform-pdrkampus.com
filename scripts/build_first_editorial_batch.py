@@ -199,7 +199,7 @@ def main():
             "okula-uyum-ilk-haftalar": ["Güvenilir yetişkinleri tanıt.", "Gönüllü akran desteği düzenle.", "İlk haftaları birlikte değerlendir."],
             "veli-gorusmesi-hazirlik-izleme": ["Görüşmenin amacını açıkla.", "Yargı yerine gözlem paylaş.", "Takip tarihini birlikte kararlaştır."],
         }
-        notes = "".join('<div class="topic-card pdr-side-note"><small>UYGULAMA İPUCU</small><h3>Adım '+str(i)+'</h3><p>'+esc(note)+'</p></div>' for i,note in enumerate(rail_note_data[slug],1))
+        notes = "".join('<div class="topic-card pdr-side-note"><small>UYGULAMA İPUCU</small><h3>Adım '+str(i)+'</h3><p>'+esc(note)+'</p></div>' for i,note in enumerate(rail_note_data.get(slug, [section[1] for section in g["sections"][:3]]),1))
         quick = '<div class="topic-card pdr-side-links"><h3>Hızlı erişim</h3><div class="topic-links"><a href="#adim-1">Uygulama adımları</a><a href="#ornek">Örnek senaryo</a><a href="#materyaller">Kaynak önizlemeleri</a><a href="'+esc(search)+'">Kütüphanede ara</a></div></div>'
         sidebar_cards = quick + notes
         toc=''.join(f'<li><a href="#adim-{i}">{esc(a)}</a></li>' for i,(a,_) in enumerate(g["sections"],1))
