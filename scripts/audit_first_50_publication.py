@@ -34,7 +34,7 @@ class Page(HTMLParser):
         if tag=="h1":self._h1=False;self.h1.append(self._h1text.strip())
 
 def main():
-    files=sorted(DRAFTS.glob("*.html"))
+    files=sorted(p for p in DRAFTS.glob("*.html") if p.name != "index.html")
     all_titles=defaultdict(list);all_descriptions=defaultdict(list)
     per_page=[];totals=Counter();external=Counter()
     for path in files:
