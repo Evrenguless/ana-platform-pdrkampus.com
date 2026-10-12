@@ -217,7 +217,7 @@ def source_cards(slug):
     return '<p>Bu rehber için doğrudan ilgili bir belge henüz seçilemedi. <a href="/kutuphane.html?q='+query+'">Kütüphanede ilgili kaynakları ara →</a></p>'
 def load_editorial_batches():
     """Append new, topic-specific manuscripts; preserve existing first five guides."""
-    for filename in ("data/pdr-editorial-batch-02.json", "data/pdr-editorial-batch-03.json", "data/pdr-editorial-batch-04.json", "data/pdr-editorial-batch-05.json", "data/pdr-editorial-batch-06.json"):
+    for filename in ("data/pdr-editorial-batch-02.json", "data/pdr-editorial-batch-03.json", "data/pdr-editorial-batch-04.json", "data/pdr-editorial-batch-05.json", "data/pdr-editorial-batch-06.json", "data/pdr-editorial-batch-07.json", "data/pdr-editorial-batch-08.json"):
         path = ROOT / filename
         if not path.is_file():
             raise FileNotFoundError(path)
