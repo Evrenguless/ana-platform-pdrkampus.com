@@ -2,44 +2,44 @@
   {
     "slug": "sinav-sinav-kaygisi-erken-belirtiler",
     "title": "Sınav kaygısı erken belirtiler | Sınav Rehberliği",
-    "summary": "Sınav kaygısı erken belirtiler konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınav kaygısı erken belirtiler: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınav kaygısı erken belirtiler konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Kaygının davranış ve bedensel işaretlerini ayırma",
+        "Öğrenci deneme günü karın ağrısından, uyku güçlüğünden ve sınava girmeyi erteleme isteğinden söz edebilir. Belirtileri tek bir nedene bağlamadan ne zaman arttıklarını sorun."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınav kaygısı erken belirtiler ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İki haftalık güvenli gözlem",
+        "Öğrencinin katılmayı kabul ettiği kısa gözlemde sınav öncesi düşünceyi, bedensel yakınmayı ve günlük işlevini ayrı not edin. Süreğen veya ağır belirtilerde uygun sağlık değerlendirmesini önerin."
       ],
       [
-        "Uygulama",
-        "Sınav kaygısı erken belirtiler hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden sınav kaygısı erken belirtiler deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Sınav kaygısı erken belirtiler için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Sınav kaygısı erken belirtiler çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "İki haftalık güvenli gözlem adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede sınav kaygısı erken belirtiler açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınav kaygısı erken belirtiler konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Deneme sabahları okula gelmek istemeyen öğrenciyle görüşmede belirtilerin sadece sınav saatlerinde arttığı öğrenilir. Aileyle suçlayıcı olmayan iletişim ve takip kararlaştırılır.",
     "check": [
-      "Öğrencinin sınav kaygısı erken belirtiler hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenci deneme günü karın ağrısından, uyku güçlüğünden ve sınava girmeyi erteleme isteğinden söz edebilir.",
+      "Öğrencinin katılmayı kabul ettiği kısa gözlemde sınav öncesi düşünceyi, bedensel yakınmayı ve günlük işlevini ayrı not edin.",
+      "Öğrenciyle sınav kaygısı erken belirtiler için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Sınav kaygısı erken belirtiler için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınav kaygısı erken belirtiler konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrenci deneme günü karın ağrısından, uyku güçlüğünden ve sınava girmeyi erteleme isteğinden söz edebilir. Belirtileri tek bir nedene bağlamadan ne zaman arttıklarını sorun."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Sınav kaygısı erken belirtiler için hangi ilk uygulama denenebilir?",
+        "Öğrencinin katılmayı kabul ettiği kısa gözlemde sınav öncesi düşünceyi, bedensel yakınmayı ve günlük işlevini ayrı not edin. Süreğen veya ağır belirtilerde uygun sağlık değerlendirmesini önerin."
       ]
     ],
     "search_terms": [
@@ -50,44 +50,44 @@
   {
     "slug": "sinav-sinav-oncesi-kaygi-dusunceleri",
     "title": "Sınav öncesi kaygı düşünceleri | Sınav Rehberliği",
-    "summary": "Sınav öncesi kaygı düşünceleri konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınav öncesi kaygı düşünceleri: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınav öncesi kaygı düşünceleri konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Felaketleştirme cümlelerini somutlaştırma",
+        "'Bir yanlış yaparsam hiçbir yere giremem' gibi ifadeleri doğrudan olumlu düşünceyle bastırmak yerine bu düşüncenin dayandığı kanıtı ve öğrencide yarattığı etkiyi sorun."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınav öncesi kaygı düşünceleri ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Gerçekçi alternatif üretme",
+        "Kurgusal bir deneme sonucuyla tahmin, kesin bilgi ve kontrol edilebilir hazırlık adımlarını ayırın. Öğrencinin kendi söyleyebileceği dengeli cümleyi seçmesine fırsat verin."
       ],
       [
-        "Uygulama",
-        "Sınav öncesi kaygı düşünceleri hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden sınav öncesi kaygı düşünceleri deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Sınav öncesi kaygı düşünceleri için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Sınav öncesi kaygı düşünceleri çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Gerçekçi alternatif üretme adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede sınav öncesi kaygı düşünceleri açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınav öncesi kaygı düşünceleri konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci ilk soruyu yapamayınca tüm sınavın kötü geçeceğine inanır; görüşmede ilk soruyu işaretleyip daha sonra geri dönme stratejisi konuşulur.",
     "check": [
-      "Öğrencinin sınav öncesi kaygı düşünceleri hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "'Bir yanlış yaparsam hiçbir yere giremem' gibi ifadeleri doğrudan olumlu düşünceyle bastırmak yerine bu düşüncenin dayandığı kanıtı ve öğrencide yarattığı etkiyi sorun.",
+      "Kurgusal bir deneme sonucuyla tahmin, kesin bilgi ve kontrol edilebilir hazırlık adımlarını ayırın.",
+      "Öğrenciyle sınav öncesi kaygı düşünceleri için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Sınav öncesi kaygı düşünceleri için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınav öncesi kaygı düşünceleri konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "'Bir yanlış yaparsam hiçbir yere giremem' gibi ifadeleri doğrudan olumlu düşünceyle bastırmak yerine bu düşüncenin dayandığı kanıtı ve öğrencide yarattığı etkiyi sorun."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Sınav öncesi kaygı düşünceleri için hangi ilk uygulama denenebilir?",
+        "Kurgusal bir deneme sonucuyla tahmin, kesin bilgi ve kontrol edilebilir hazırlık adımlarını ayırın. Öğrencinin kendi söyleyebileceği dengeli cümleyi seçmesine fırsat verin."
       ]
     ],
     "search_terms": [
@@ -98,44 +98,44 @@
   {
     "slug": "sinav-sinav-gunu-hazirligi",
     "title": "Sınav günü hazırlığı | Sınav Rehberliği",
-    "summary": "Sınav günü hazırlığı konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınav günü hazırlığı: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınav günü hazırlığı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sınav sabahındaki belirsizlikleri azaltma",
+        "Giriş belgesi, kimlik, ulaşım ve kapı saati gibi gereklilikleri öğrencinin sınavına ait güncel resmî duyurudan doğrulayın; eski yıl kurallarını tekrar etmeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınav günü hazırlığı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Önceden kontrol listesi",
+        "Öğrenciyle bir gün önceden hazırlanacak eşyaları ve sınav yerine ulaşım planını yazın. Sınav günü son dakika konu yetiştirme baskısını artırmamaya özen gösterin."
       ],
       [
-        "Uygulama",
-        "Sınav günü hazırlığı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden sınav günü hazırlığı deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Sınav günü hazırlığı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Sınav günü hazırlığı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Önceden kontrol listesi adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede sınav günü hazırlığı açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınav günü hazırlığı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Sınav merkezini hiç görmediği için kaygılanan öğrenciyle ulaşım rotası ve resmî giriş koşulları önceden kontrol edilir.",
     "check": [
-      "Öğrencinin sınav günü hazırlığı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Giriş belgesi, kimlik, ulaşım ve kapı saati gibi gereklilikleri öğrencinin sınavına ait güncel resmî duyurudan doğrulayın; eski yıl kurallarını tekrar etmeyin.",
+      "Öğrenciyle bir gün önceden hazırlanacak eşyaları ve sınav yerine ulaşım planını yazın.",
+      "Öğrenciyle sınav günü hazırlığı için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Sınav günü hazırlığı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınav günü hazırlığı konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Giriş belgesi, kimlik, ulaşım ve kapı saati gibi gereklilikleri öğrencinin sınavına ait güncel resmî duyurudan doğrulayın; eski yıl kurallarını tekrar etmeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Sınav günü hazırlığı için hangi ilk uygulama denenebilir?",
+        "Öğrenciyle bir gün önceden hazırlanacak eşyaları ve sınav yerine ulaşım planını yazın. Sınav günü son dakika konu yetiştirme baskısını artırmamaya özen gösterin."
       ]
     ],
     "search_terms": [
@@ -146,44 +146,44 @@
   {
     "slug": "sinav-deneme-analizi-gorusmesi",
     "title": "Deneme analizi görüşmesi | Sınav Rehberliği",
-    "summary": "Deneme analizi görüşmesi konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Deneme analizi görüşmesi: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Deneme analizi görüşmesi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Denemede hangi hata tekrar ediyor?",
+        "Toplam net kadar hata türünü de inceleyin: bilgi eksikliği, yönergeyi yanlış okuma, işlem ve süre baskısı farklı destek gerektirir."
       ],
       [
-        "Güvenlik ve etik",
-        "Deneme analizi görüşmesi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Hata türü tablosu",
+        "Öğrenci üç denemede tekrarlanan bir hata türünü belirler; öğretmenle buna uygun tek bir strateji seçer. Deneme sonuçlarını sınıf önünde karşılaştırmayın."
       ],
       [
-        "Uygulama",
-        "Deneme analizi görüşmesi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden deneme analizi görüşmesi deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Deneme analizi görüşmesi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Deneme analizi görüşmesi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Hata türü tablosu adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede deneme analizi görüşmesi açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında deneme analizi görüşmesi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrencinin fen neti düşüktür, fakat yanlışların çoğu grafik sorularında yoğunlaşır. Haftalık grafik yorumlama alıştırması planlanır.",
     "check": [
-      "Öğrencinin deneme analizi görüşmesi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Toplam net kadar hata türünü de inceleyin: bilgi eksikliği, yönergeyi yanlış okuma, işlem ve süre baskısı farklı destek gerektirir.",
+      "Öğrenci üç denemede tekrarlanan bir hata türünü belirler; öğretmenle buna uygun tek bir strateji seçer.",
+      "Öğrenciyle deneme analizi görüşmesi için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Deneme analizi görüşmesi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Deneme analizi görüşmesi konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Toplam net kadar hata türünü de inceleyin: bilgi eksikliği, yönergeyi yanlış okuma, işlem ve süre baskısı farklı destek gerektirir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Deneme analizi görüşmesi için hangi ilk uygulama denenebilir?",
+        "Öğrenci üç denemede tekrarlanan bir hata türünü belirler; öğretmenle buna uygun tek bir strateji seçer. Deneme sonuçlarını sınıf önünde karşılaştırmayın."
       ]
     ],
     "search_terms": [
@@ -194,44 +194,44 @@
   {
     "slug": "sinav-zaman-baskisini-yonetme",
     "title": "Zaman baskısını yönetme | Sınav Rehberliği",
-    "summary": "Zaman baskısını yönetme konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Zaman baskısını yönetme: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Zaman baskısını yönetme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Zaman kaybının gerçekleştiği soru tipi",
+        "Öğrencinin süreyi hangi bölümde kaybettiğini deneme deneyiminden öğrenin; yalnızca 'hızlan' tavsiyesi vermeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Zaman baskısını yönetme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Soru sıralama denemesi",
+        "Öğrenci zorlandığı soruyu işaretleyip geçmeyi ve kalan sürede geri dönmeyi deneme ortamında test eder. Gerçek sınav kuralları güncel yönergeyle uyumlu olmalıdır."
       ],
       [
-        "Uygulama",
-        "Zaman baskısını yönetme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden zaman baskısını yönetme deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Zaman baskısını yönetme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Zaman baskısını yönetme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Soru sıralama denemesi adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede zaman baskısını yönetme açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında zaman baskısını yönetme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci uzun matematik sorusunda dakikalarca takılıp diğer soruları yetiştiremez; iki denemede geçiş stratejisinin etkisini karşılaştırır.",
     "check": [
-      "Öğrencinin zaman baskısını yönetme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin süreyi hangi bölümde kaybettiğini deneme deneyiminden öğrenin; yalnızca 'hızlan' tavsiyesi vermeyin.",
+      "Öğrenci zorlandığı soruyu işaretleyip geçmeyi ve kalan sürede geri dönmeyi deneme ortamında test eder.",
+      "Öğrenciyle zaman baskısını yönetme için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Zaman baskısını yönetme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Zaman baskısını yönetme konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrencinin süreyi hangi bölümde kaybettiğini deneme deneyiminden öğrenin; yalnızca 'hızlan' tavsiyesi vermeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Zaman baskısını yönetme için hangi ilk uygulama denenebilir?",
+        "Öğrenci zorlandığı soruyu işaretleyip geçmeyi ve kalan sürede geri dönmeyi deneme ortamında test eder. Gerçek sınav kuralları güncel yönergeyle uyumlu olmalıdır."
       ]
     ],
     "search_terms": [
@@ -242,44 +242,44 @@
   {
     "slug": "sinav-yanlis-sorulari-siniflandirma",
     "title": "Yanlış soruları sınıflandırma | Sınav Rehberliği",
-    "summary": "Yanlış soruları sınıflandırma konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Yanlış soruları sınıflandırma: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Yanlış soruları sınıflandırma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Yanlışların kaynağını ayrıştırma",
+        "Yanlış soruları konu eksiği, kavram yanılgısı, işlem, okuduğunu anlama ve süre olarak ayırmak tekrar planını daha kullanışlı kılar."
       ],
       [
-        "Güvenlik ve etik",
-        "Yanlış soruları sınıflandırma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Üç yanlış üzerinden inceleme",
+        "Her kategoriden örnek soruya bakın; öğrenciden yanlışı kendi sözüyle açıklamasını isteyin. Sadece doğru cevabı ezberletmek yerine çözüm adımlarını inceleyin."
       ],
       [
-        "Uygulama",
-        "Yanlış soruları sınıflandırma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden yanlış soruları sınıflandırma deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Yanlış soruları sınıflandırma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Yanlış soruları sınıflandırma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Üç yanlış üzerinden inceleme adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede yanlış soruları sınıflandırma açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında yanlış soruları sınıflandırma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci aynı konuya ait beş soruyu yanlış sanırken ikisinin yönerge hatası olduğu belirlenir; tekrar programı buna göre değişir.",
     "check": [
-      "Öğrencinin yanlış soruları sınıflandırma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Yanlış soruları konu eksiği, kavram yanılgısı, işlem, okuduğunu anlama ve süre olarak ayırmak tekrar planını daha kullanışlı kılar.",
+      "Her kategoriden örnek soruya bakın; öğrenciden yanlışı kendi sözüyle açıklamasını isteyin.",
+      "Öğrenciyle yanlış soruları sınıflandırma için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Yanlış soruları sınıflandırma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Yanlış soruları sınıflandırma konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Yanlış soruları konu eksiği, kavram yanılgısı, işlem, okuduğunu anlama ve süre olarak ayırmak tekrar planını daha kullanışlı kılar."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Yanlış soruları sınıflandırma için hangi ilk uygulama denenebilir?",
+        "Her kategoriden örnek soruya bakın; öğrenciden yanlışı kendi sözüyle açıklamasını isteyin. Sadece doğru cevabı ezberletmek yerine çözüm adımlarını inceleyin."
       ]
     ],
     "search_terms": [
@@ -290,44 +290,44 @@
   {
     "slug": "sinav-konu-eksiklerini-belirleme",
     "title": "Konu eksiklerini belirleme | Sınav Rehberliği",
-    "summary": "Konu eksiklerini belirleme konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Konu eksiklerini belirleme: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Konu eksiklerini belirleme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Konu eksiğini netten tahmin etmemek",
+        "Tek bir düşük net sonucu tüm konuların bilinmediğini göstermez. Kazanım bazında hangi tür soru ve görevlerde güçlük yaşandığını inceleyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Konu eksiklerini belirleme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Öğrenme ihtiyaç listesi",
+        "Öğretmenle birlikte öncelikli iki kazanım belirleyin, her biri için kısa çalışma ve geri bildirim tarihi seçin. Öğrencinin yetişemeyeceği geniş listeler oluşturmayın."
       ],
       [
-        "Uygulama",
-        "Konu eksiklerini belirleme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden konu eksiklerini belirleme deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Konu eksiklerini belirleme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Konu eksiklerini belirleme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Öğrenme ihtiyaç listesi adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede konu eksiklerini belirleme açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında konu eksiklerini belirleme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci geometride tüm üniteyi çalışmak ister; analizde üçgenlerde açı ilişkileri sorularında zorlandığı görülür.",
     "check": [
-      "Öğrencinin konu eksiklerini belirleme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Tek bir düşük net sonucu tüm konuların bilinmediğini göstermez.",
+      "Öğretmenle birlikte öncelikli iki kazanım belirleyin, her biri için kısa çalışma ve geri bildirim tarihi seçin.",
+      "Öğrenciyle konu eksiklerini belirleme için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Konu eksiklerini belirleme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Konu eksiklerini belirleme konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Tek bir düşük net sonucu tüm konuların bilinmediğini göstermez. Kazanım bazında hangi tür soru ve görevlerde güçlük yaşandığını inceleyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Konu eksiklerini belirleme için hangi ilk uygulama denenebilir?",
+        "Öğretmenle birlikte öncelikli iki kazanım belirleyin, her biri için kısa çalışma ve geri bildirim tarihi seçin. Öğrencinin yetişemeyeceği geniş listeler oluşturmayın."
       ]
     ],
     "search_terms": [
@@ -338,44 +338,44 @@
   {
     "slug": "sinav-tekrara-baslama-stratejisi",
     "title": "Tekrara başlama stratejisi | Sınav Rehberliği",
-    "summary": "Tekrara başlama stratejisi konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Tekrara başlama stratejisi: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Tekrara başlama stratejisi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Yeniden başlamanın ilk engeli",
+        "Uzun ara sonrası çalışmaya başlayamama durumunda görev belirsizliği, kaygı ve günlük koşulları ayrı sorun."
       ],
       [
-        "Güvenlik ve etik",
-        "Tekrara başlama stratejisi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kısa geri dönüş adımı",
+        "Öğrencinin seçtiği konudan ilk beş dakikalık gözden geçirme ve iki soru çözme adımıyla başlayın. İlk hafta başarıyı toplam saatle değil başlama düzeniyle izleyin."
       ],
       [
-        "Uygulama",
-        "Tekrara başlama stratejisi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden tekrara başlama stratejisi deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Tekrara başlama stratejisi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Tekrara başlama stratejisi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Kısa geri dönüş adımı adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede tekrara başlama stratejisi açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında tekrara başlama stratejisi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Tatil sonrası ders kitabını açamayan öğrenci kısa kavram kartı hazırlama görevini seçer; ikinci görüşmede sürdürülebilirliği değerlendirilir.",
     "check": [
-      "Öğrencinin tekrara başlama stratejisi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Uzun ara sonrası çalışmaya başlayamama durumunda görev belirsizliği, kaygı ve günlük koşulları ayrı sorun.",
+      "Öğrencinin seçtiği konudan ilk beş dakikalık gözden geçirme ve iki soru çözme adımıyla başlayın.",
+      "Öğrenciyle tekrara başlama stratejisi için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Tekrara başlama stratejisi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Tekrara başlama stratejisi konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Uzun ara sonrası çalışmaya başlayamama durumunda görev belirsizliği, kaygı ve günlük koşulları ayrı sorun."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Tekrara başlama stratejisi için hangi ilk uygulama denenebilir?",
+        "Öğrencinin seçtiği konudan ilk beş dakikalık gözden geçirme ve iki soru çözme adımıyla başlayın. İlk hafta başarıyı toplam saatle değil başlama düzeniyle izleyin."
       ]
     ],
     "search_terms": [
@@ -386,44 +386,44 @@
   {
     "slug": "sinav-dusuk-puan-sonrasi-destek",
     "title": "Düşük puan sonrası destek | Sınav Rehberliği",
-    "summary": "Düşük puan sonrası destek konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Düşük puan sonrası destek: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Düşük puan sonrası destek konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sonuçla benlik değerini ayırma",
+        "Öğrenci 'Ben başarısızım' dediğinde sınav puanını kişisel kimliğiyle eşitlemeyin; hayal kırıklığını ifade etmesi için alan tanıyın."
       ],
       [
-        "Güvenlik ve etik",
-        "Düşük puan sonrası destek ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Sonuç sonrası yol haritası",
+        "Yanlış türlerini incelemeye hemen zorlamadan öğrencinin hazır oluşunu sorun. Daha sonra bir öğrenme stratejisi ve kısa takip hedefi seçin."
       ],
       [
-        "Uygulama",
-        "Düşük puan sonrası destek hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden düşük puan sonrası destek deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Düşük puan sonrası destek için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Düşük puan sonrası destek çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Sonuç sonrası yol haritası adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede düşük puan sonrası destek açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında düşük puan sonrası destek konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Beklediğinden düşük puan alan öğrenci ailesinin yüzüne bakamayacağını söyler. Önce duygusal destek verilir; ardından güvenli aile iletişimi konuşulur.",
     "check": [
-      "Öğrencinin düşük puan sonrası destek hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenci 'Ben başarısızım' dediğinde sınav puanını kişisel kimliğiyle eşitlemeyin; hayal kırıklığını ifade etmesi için alan tanıyın.",
+      "Yanlış türlerini incelemeye hemen zorlamadan öğrencinin hazır oluşunu sorun.",
+      "Öğrenciyle düşük puan sonrası destek için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Düşük puan sonrası destek için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Düşük puan sonrası destek konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrenci 'Ben başarısızım' dediğinde sınav puanını kişisel kimliğiyle eşitlemeyin; hayal kırıklığını ifade etmesi için alan tanıyın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Düşük puan sonrası destek için hangi ilk uygulama denenebilir?",
+        "Yanlış türlerini incelemeye hemen zorlamadan öğrencinin hazır oluşunu sorun. Daha sonra bir öğrenme stratejisi ve kısa takip hedefi seçin."
       ]
     ],
     "search_terms": [
@@ -434,44 +434,44 @@
   {
     "slug": "sinav-yuksek-beklenti-baskisi",
     "title": "Yüksek beklenti baskısı | Sınav Rehberliği",
-    "summary": "Yüksek beklenti baskısı konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Yüksek beklenti baskısı: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Yüksek beklenti baskısı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Kimin beklentisi, hangi baskı?",
+        "Öğrencinin kendi hedefiyle ailenin, öğretmenin veya akranların beklentilerini ayırın. Yüksek beklentiyi otomatik motivasyon saymayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Yüksek beklenti baskısı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Beklenti konuşması hazırlama",
+        "Öğrencinin kontrol edebildiği davranışları ve istemediği kıyaslama cümlelerini belirleyin. Uygun durumda veliye süreç odaklı destek önerin."
       ],
       [
-        "Uygulama",
-        "Yüksek beklenti baskısı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden yüksek beklenti baskısı deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Yüksek beklenti baskısı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Yüksek beklenti baskısı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Beklenti konuşması hazırlama adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede yüksek beklenti baskısı açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında yüksek beklenti baskısı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci her denemede birinci olmak zorunda hisseder; kendisinin seçtiği çalışma hedefi ile aile beklentisi ayrı not edilir.",
     "check": [
-      "Öğrencinin yüksek beklenti baskısı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin kendi hedefiyle ailenin, öğretmenin veya akranların beklentilerini ayırın.",
+      "Öğrencinin kontrol edebildiği davranışları ve istemediği kıyaslama cümlelerini belirleyin.",
+      "Öğrenciyle yüksek beklenti baskısı için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Yüksek beklenti baskısı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Yüksek beklenti baskısı konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrencinin kendi hedefiyle ailenin, öğretmenin veya akranların beklentilerini ayırın. Yüksek beklentiyi otomatik motivasyon saymayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Yüksek beklenti baskısı için hangi ilk uygulama denenebilir?",
+        "Öğrencinin kontrol edebildiği davranışları ve istemediği kıyaslama cümlelerini belirleyin. Uygun durumda veliye süreç odaklı destek önerin."
       ]
     ],
     "search_terms": [
@@ -482,44 +482,44 @@
   {
     "slug": "sinav-aile-deneme-sonucu-iletisimi",
     "title": "Aile deneme sonucu iletişimi | Sınav Rehberliği",
-    "summary": "Aile deneme sonucu iletişimi konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Aile deneme sonucu iletişimi: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Aile deneme sonucu iletişimi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Deneme sonrasında kullanılan aile dili",
+        "Veliye 'Kaçıncı oldun?' sorusunun öğrencide yarattığı baskıyı yargılamadan açıklayın. Her aile için aynı iletişim kuralını dayatmayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Aile deneme sonucu iletişimi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İki destek sorusu",
+        "Aileyle 'Neyi öğrenmekte zorlandın?' ve 'Nasıl destek olabilirim?' gibi açık uçlu sorular üzerinde çalışın; özel danışma görüşmesini paylaşmayın."
       ],
       [
-        "Uygulama",
-        "Aile deneme sonucu iletişimi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden aile deneme sonucu iletişimi deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Aile deneme sonucu iletişimi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Aile deneme sonucu iletişimi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "İki destek sorusu adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede aile deneme sonucu iletişimi açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında aile deneme sonucu iletişimi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Veli deneme sonuçlarından sonra öğrenciyi kardeşiyle karşılaştırır. Ortak görüşmede ilerleme ve destek ihtiyacı konuşan yeni bir rutin denenir.",
     "check": [
-      "Öğrencinin aile deneme sonucu iletişimi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Veliye 'Kaçıncı oldun?' sorusunun öğrencide yarattığı baskıyı yargılamadan açıklayın.",
+      "Aileyle 'Neyi öğrenmekte zorlandın?' ve 'Nasıl destek olabilirim?' gibi açık uçlu sorular üzerinde çalışın; özel danışma görüşmesini paylaşmayın.",
+      "Öğrenciyle aile deneme sonucu iletişimi için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Aile deneme sonucu iletişimi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Aile deneme sonucu iletişimi konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Veliye 'Kaçıncı oldun?' sorusunun öğrencide yarattığı baskıyı yargılamadan açıklayın. Her aile için aynı iletişim kuralını dayatmayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Aile deneme sonucu iletişimi için hangi ilk uygulama denenebilir?",
+        "Aileyle 'Neyi öğrenmekte zorlandın?' ve 'Nasıl destek olabilirim?' gibi açık uçlu sorular üzerinde çalışın; özel danışma görüşmesini paylaşmayın."
       ]
     ],
     "search_terms": [
@@ -530,44 +530,44 @@
   {
     "slug": "sinav-uyku-ve-dinlenme-plani",
     "title": "Uyku ve dinlenme planı | Sınav Rehberliği",
-    "summary": "Uyku ve dinlenme planı konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Uyku ve dinlenme planı: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Uyku ve dinlenme planı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Yorgunluğu yalnızca isteksizlik saymamak",
+        "Sınav döneminde uyku, ulaşım, kurs ve ev koşullarını bir arada değerlendirin. Kalıcı uyku sorunu ve belirgin gündüz işlev kaybında sağlık desteğini düşünün."
       ],
       [
-        "Güvenlik ve etik",
-        "Uyku ve dinlenme planı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Gerçekçi akşam planı",
+        "Öğrenciyle ödev ve tekrar saatlerini dinlenme gereksinimini koruyacak biçimde düzenleyin. Bir hafta sonra uykudan dinlenmiş kalkma deneyimini sorun."
       ],
       [
-        "Uygulama",
-        "Uyku ve dinlenme planı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden uyku ve dinlenme planı deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Uyku ve dinlenme planı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Uyku ve dinlenme planı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Gerçekçi akşam planı adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede uyku ve dinlenme planı açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında uyku ve dinlenme planı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Gece yarısından sonra test çözen öğrenci sabah dersinde uyuklar; son tekrar saati öne alınarak bir haftalık deneme yapılır.",
     "check": [
-      "Öğrencinin uyku ve dinlenme planı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sınav döneminde uyku, ulaşım, kurs ve ev koşullarını bir arada değerlendirin.",
+      "Öğrenciyle ödev ve tekrar saatlerini dinlenme gereksinimini koruyacak biçimde düzenleyin.",
+      "Öğrenciyle uyku ve dinlenme planı için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Uyku ve dinlenme planı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Uyku ve dinlenme planı konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Sınav döneminde uyku, ulaşım, kurs ve ev koşullarını bir arada değerlendirin. Kalıcı uyku sorunu ve belirgin gündüz işlev kaybında sağlık desteğini düşünün."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Uyku ve dinlenme planı için hangi ilk uygulama denenebilir?",
+        "Öğrenciyle ödev ve tekrar saatlerini dinlenme gereksinimini koruyacak biçimde düzenleyin. Bir hafta sonra uykudan dinlenmiş kalkma deneyimini sorun."
       ]
     ],
     "search_terms": [
@@ -578,44 +578,44 @@
   {
     "slug": "sinav-kiyaslama-dilini-azaltma",
     "title": "Kıyaslama dilini azaltma | Sınav Rehberliği",
-    "summary": "Kıyaslama dilini azaltma konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Kıyaslama dilini azaltma: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Kıyaslama dilini azaltma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Kıyaslamanın yapıldığı ortamı belirleme",
+        "Akran ve kardeşle net kıyaslaması farklı ilişki sonuçları doğurabilir. Öğrencinin baskıyı nerede yaşadığını ve nasıl etkilendiğini dinleyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Kıyaslama dilini azaltma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kendi başlangıcına bakma",
+        "Başkasının sıralaması yerine öğrenciye önceki denemedeki hata türü ve çalışma stratejisiyle ilgili karşılaştırma yaptırın."
       ],
       [
-        "Uygulama",
-        "Kıyaslama dilini azaltma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden kıyaslama dilini azaltma deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Kıyaslama dilini azaltma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Kıyaslama dilini azaltma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Kendi başlangıcına bakma adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede kıyaslama dilini azaltma açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında kıyaslama dilini azaltma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Sınıfta sıralamalar yüksek sesle konuşulunca öğrenci soru sormayı bırakır; öğretmen kişisel geri bildirim biçimini değiştirir.",
     "check": [
-      "Öğrencinin kıyaslama dilini azaltma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Akran ve kardeşle net kıyaslaması farklı ilişki sonuçları doğurabilir.",
+      "Başkasının sıralaması yerine öğrenciye önceki denemedeki hata türü ve çalışma stratejisiyle ilgili karşılaştırma yaptırın.",
+      "Öğrenciyle kıyaslama dilini azaltma için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Kıyaslama dilini azaltma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Kıyaslama dilini azaltma konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Akran ve kardeşle net kıyaslaması farklı ilişki sonuçları doğurabilir. Öğrencinin baskıyı nerede yaşadığını ve nasıl etkilendiğini dinleyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Kıyaslama dilini azaltma için hangi ilk uygulama denenebilir?",
+        "Başkasının sıralaması yerine öğrenciye önceki denemedeki hata türü ve çalışma stratejisiyle ilgili karşılaştırma yaptırın."
       ]
     ],
     "search_terms": [
@@ -626,44 +626,44 @@
   {
     "slug": "sinav-gercekci-net-hedefi",
     "title": "Gerçekçi net hedefi | Sınav Rehberliği",
-    "summary": "Gerçekçi net hedefi konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Gerçekçi net hedefi: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Gerçekçi net hedefi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Net hedefinin dayanağı",
+        "Öğrenciye hedefin hangi deneme verisine ve hangi koşula dayandığını sorun. Ulaşılması zor bir sayıyı tek başarı ölçütü hâline getirmeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Gerçekçi net hedefi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Süreç hedefiyle eşleştirme",
+        "Net hedefinin yanına bir konu öğrenme ve bir süre yönetimi davranışı ekleyin. Bir sonraki denemede yalnızca net değişimini değil yöntemin uygulanmasını inceleyin."
       ],
       [
-        "Uygulama",
-        "Gerçekçi net hedefi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden gerçekçi net hedefi deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Gerçekçi net hedefi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Gerçekçi net hedefi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Süreç hedefiyle eşleştirme adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede gerçekçi net hedefi açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında gerçekçi net hedefi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci bir haftada on net artırmak ister; danışman günlük yapılabilir soru analizi ve bir öğrenme hedefiyle planı küçültür.",
     "check": [
-      "Öğrencinin gerçekçi net hedefi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenciye hedefin hangi deneme verisine ve hangi koşula dayandığını sorun.",
+      "Net hedefinin yanına bir konu öğrenme ve bir süre yönetimi davranışı ekleyin.",
+      "Öğrenciyle gerçekçi net hedefi için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Gerçekçi net hedefi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Gerçekçi net hedefi konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrenciye hedefin hangi deneme verisine ve hangi koşula dayandığını sorun. Ulaşılması zor bir sayıyı tek başarı ölçütü hâline getirmeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Gerçekçi net hedefi için hangi ilk uygulama denenebilir?",
+        "Net hedefinin yanına bir konu öğrenme ve bir süre yönetimi davranışı ekleyin. Bir sonraki denemede yalnızca net değişimini değil yöntemin uygulanmasını inceleyin."
       ]
     ],
     "search_terms": [
@@ -674,44 +674,44 @@
   {
     "slug": "sinav-kucuk-calisma-oturumlari",
     "title": "Küçük çalışma oturumları | Sınav Rehberliği",
-    "summary": "Küçük çalışma oturumları konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Küçük çalışma oturumları: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Küçük çalışma oturumları konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Çalışma oturumunun başlangıcı",
+        "Öğrencinin ne zaman ve hangi görevde başlayamadığını belirleyin. 'İki saat çalış' yönergesinden önce görevi tanımlayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Küçük çalışma oturumları ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Küçük oturum çizelgesi",
+        "Öğrencinin seçtiği görevle kısa çalışma ve dinlenme aralığı planlayın. İşaretleme listesi baskı aracına dönüşürse sadeleştirin."
       ],
       [
-        "Uygulama",
-        "Küçük çalışma oturumları hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden küçük çalışma oturumları deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Küçük çalışma oturumları için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Küçük çalışma oturumları çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Küçük oturum çizelgesi adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede küçük çalışma oturumları açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında küçük çalışma oturumları konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci tüm biyoloji ünitesini bitiremediği için çalışmayı erteler; yalnızca iki kavramı karşılaştırma hedefiyle ilk oturuma başlar.",
     "check": [
-      "Öğrencinin küçük çalışma oturumları hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin ne zaman ve hangi görevde başlayamadığını belirleyin.",
+      "Öğrencinin seçtiği görevle kısa çalışma ve dinlenme aralığı planlayın.",
+      "Öğrenciyle küçük çalışma oturumları için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Küçük çalışma oturumları için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Küçük çalışma oturumları konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrencinin ne zaman ve hangi görevde başlayamadığını belirleyin. 'İki saat çalış' yönergesinden önce görevi tanımlayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Küçük çalışma oturumları için hangi ilk uygulama denenebilir?",
+        "Öğrencinin seçtiği görevle kısa çalışma ve dinlenme aralığı planlayın. İşaretleme listesi baskı aracına dönüşürse sadeleştirin."
       ]
     ],
     "search_terms": [
@@ -722,44 +722,44 @@
   {
     "slug": "sinav-sinavda-yardim-isteme",
     "title": "Sınavda yardım isteme | Sınav Rehberliği",
-    "summary": "Sınavda yardım isteme konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınavda yardım isteme: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınavda yardım isteme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sınav sırasında destek beklentisini açıklama",
+        "Sınavın resmî kuralları gereği görevlilerden alınabilecek idari yardımla soruların çözümüne ilişkin yardım farklıdır. Yanlış güvence vermeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınavda yardım isteme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kurallara uygun başvuru",
+        "Öğrenciye sınav yönergesini ve acil durumlarda görevliye nasıl sesleneceğini resmî kurallara dayanarak açıklayın."
       ],
       [
-        "Uygulama",
-        "Sınavda yardım isteme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden sınavda yardım isteme deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Sınavda yardım isteme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Sınavda yardım isteme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Kurallara uygun başvuru adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede sınavda yardım isteme açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınavda yardım isteme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci kitapçığıyla ilgili bir sorun yaşarsa ne yapacağını bilmez; deneme sırasında görevliye uygun başvuru cümlesi prova edilir.",
     "check": [
-      "Öğrencinin sınavda yardım isteme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sınavın resmî kuralları gereği görevlilerden alınabilecek idari yardımla soruların çözümüne ilişkin yardım farklıdır.",
+      "Öğrenciye sınav yönergesini ve acil durumlarda görevliye nasıl sesleneceğini resmî kurallara dayanarak açıklayın.",
+      "Öğrenciyle sınavda yardım isteme için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Sınavda yardım isteme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınavda yardım isteme konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Sınavın resmî kuralları gereği görevlilerden alınabilecek idari yardımla soruların çözümüne ilişkin yardım farklıdır. Yanlış güvence vermeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Sınavda yardım isteme için hangi ilk uygulama denenebilir?",
+        "Öğrenciye sınav yönergesini ve acil durumlarda görevliye nasıl sesleneceğini resmî kurallara dayanarak açıklayın."
       ]
     ],
     "search_terms": [
@@ -770,44 +770,44 @@
   {
     "slug": "sinav-ogrenme-stratejisi-secme",
     "title": "Öğrenme stratejisi seçme | Sınav Rehberliği",
-    "summary": "Öğrenme stratejisi seçme konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Öğrenme stratejisi seçme: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Öğrenme stratejisi seçme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Strateji ile öğrenme hedefinin uyumu",
+        "Tekrar okuma, soru çözme ve kendini test etme farklı öğrenme amaçlarına hizmet eder. Öğrencinin hangi kazanımı öğrenmesi gerektiğini önce belirleyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Öğrenme stratejisi seçme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İki yöntemi karşılaştırma",
+        "Aynı küçük kazanım için iki öğrenme yöntemi deneyin; öğrencinin neyi hatırlayıp uygulayabildiğine bakın."
       ],
       [
-        "Uygulama",
-        "Öğrenme stratejisi seçme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden öğrenme stratejisi seçme deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Öğrenme stratejisi seçme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Öğrenme stratejisi seçme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "İki yöntemi karşılaştırma adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede öğrenme stratejisi seçme açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında öğrenme stratejisi seçme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci tarih notlarını defalarca okur fakat kavramları ayıramaz; kısa geri çağırma kartıyla yöntemini karşılaştırır.",
     "check": [
-      "Öğrencinin öğrenme stratejisi seçme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Tekrar okuma, soru çözme ve kendini test etme farklı öğrenme amaçlarına hizmet eder.",
+      "Aynı küçük kazanım için iki öğrenme yöntemi deneyin; öğrencinin neyi hatırlayıp uygulayabildiğine bakın.",
+      "Öğrenciyle öğrenme stratejisi seçme için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Öğrenme stratejisi seçme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Öğrenme stratejisi seçme konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Tekrar okuma, soru çözme ve kendini test etme farklı öğrenme amaçlarına hizmet eder. Öğrencinin hangi kazanımı öğrenmesi gerektiğini önce belirleyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenme stratejisi seçme için hangi ilk uygulama denenebilir?",
+        "Aynı küçük kazanım için iki öğrenme yöntemi deneyin; öğrencinin neyi hatırlayıp uygulayabildiğine bakın."
       ]
     ],
     "search_terms": [
@@ -818,44 +818,44 @@
   {
     "slug": "sinav-okul-ve-kurs-yuk-dengesi",
     "title": "Okul ve kurs yük dengesi | Sınav Rehberliği",
-    "summary": "Okul ve kurs yük dengesi konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Okul ve kurs yük dengesi: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Okul ve kurs yük dengesi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Okul ve kurs toplam yükü",
+        "Öğrencinin ulaşım, ödev, kurs ve dinlenme sürelerini aynı haftalık tabloda görünür kılın. Çakışan yükü motivasyon eksikliği saymayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Okul ve kurs yük dengesi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Öncelik ve boş zaman alanı",
+        "Öğrencinin gerekli tekrarları koruyup bazı düşük öncelikli görevleri yeniden planlamasına yardımcı olun. Aile ve öğretmenle baskısız görev koordinasyonu kurun."
       ],
       [
-        "Uygulama",
-        "Okul ve kurs yük dengesi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden okul ve kurs yük dengesi deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Okul ve kurs yük dengesi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Okul ve kurs yük dengesi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Öncelik ve boş zaman alanı adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede okul ve kurs yük dengesi açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında okul ve kurs yük dengesi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci kurs dönüşü gece geç ödev yapar; hafta içi tekrarları kısaltıp öğretmenle yoğun görev zamanları gözden geçirilir.",
     "check": [
-      "Öğrencinin okul ve kurs yük dengesi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin ulaşım, ödev, kurs ve dinlenme sürelerini aynı haftalık tabloda görünür kılın.",
+      "Öğrencinin gerekli tekrarları koruyup bazı düşük öncelikli görevleri yeniden planlamasına yardımcı olun.",
+      "Öğrenciyle okul ve kurs yük dengesi için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Okul ve kurs yük dengesi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Okul ve kurs yük dengesi konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrencinin ulaşım, ödev, kurs ve dinlenme sürelerini aynı haftalık tabloda görünür kılın. Çakışan yükü motivasyon eksikliği saymayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Okul ve kurs yük dengesi için hangi ilk uygulama denenebilir?",
+        "Öğrencinin gerekli tekrarları koruyup bazı düşük öncelikli görevleri yeniden planlamasına yardımcı olun. Aile ve öğretmenle baskısız görev koordinasyonu kurun."
       ]
     ],
     "search_terms": [
@@ -866,44 +866,44 @@
   {
     "slug": "sinav-tercih-bilgi-kaynagi",
     "title": "Tercih bilgi kaynağı | Sınav Rehberliği",
-    "summary": "Tercih bilgi kaynağı konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Tercih bilgi kaynağı: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Tercih bilgi kaynağı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Hangi bilginin güncel olduğunu sorma",
+        "Tercih bilgisi geçen yılın sosyal medya görsellerinde eski kalabilir. Öğrenciye bilgi kaynağının kurumunu, tarihini ve programını sorun."
       ],
       [
-        "Güvenlik ve etik",
-        "Tercih bilgi kaynağı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Resmî kaynaktan doğrulama",
+        "LGS ve YKS için ilgili yılın resmî kılavuzunu temel alın; koşul, takvim veya kod değişikliklerini kesin bilgi gibi eski örneklerden aktarmayın."
       ],
       [
-        "Uygulama",
-        "Tercih bilgi kaynağı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden tercih bilgi kaynağı deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Tercih bilgi kaynağı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Tercih bilgi kaynağı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Resmî kaynaktan doğrulama adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede tercih bilgi kaynağı açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında tercih bilgi kaynağı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci bir internet paylaşımında gördüğü kontenjanı kullanmak ister; öğretmen güncel resmî kaynakla farkı kontrol ettirir.",
     "check": [
-      "Öğrencinin tercih bilgi kaynağı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Tercih bilgisi geçen yılın sosyal medya görsellerinde eski kalabilir.",
+      "LGS ve YKS için ilgili yılın resmî kılavuzunu temel alın; koşul, takvim veya kod değişikliklerini kesin bilgi gibi eski örneklerden aktarmayın.",
+      "Öğrenciyle tercih bilgi kaynağı için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Tercih bilgi kaynağı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Tercih bilgi kaynağı konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Tercih bilgisi geçen yılın sosyal medya görsellerinde eski kalabilir. Öğrenciye bilgi kaynağının kurumunu, tarihini ve programını sorun."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Tercih bilgi kaynağı için hangi ilk uygulama denenebilir?",
+        "LGS ve YKS için ilgili yılın resmî kılavuzunu temel alın; koşul, takvim veya kod değişikliklerini kesin bilgi gibi eski örneklerden aktarmayın."
       ]
     ],
     "search_terms": [
@@ -914,44 +914,44 @@
   {
     "slug": "sinav-program-kosulu-inceleme",
     "title": "Program koşulu inceleme | Sınav Rehberliği",
-    "summary": "Program koşulu inceleme konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Program koşulu inceleme: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Program koşulu inceleme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Özel koşulları kararın parçası yapmak",
+        "Bölüm adı tek başına eğitim dili, başarı sırası koşulu veya diğer özel şartları açıklamaz. Öğrencinin baktığı programa ait güncel kılavuz maddesini inceleyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Program koşulu inceleme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Program kontrol tablosu",
+        "Program kodu, öğrenim türü, özel koşul ve bilgi tarihi sütunlarını doldurun; doğrulanmayan alanı boş bırakıp ayrıca araştırın."
       ],
       [
-        "Uygulama",
-        "Program koşulu inceleme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden program koşulu inceleme deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Program koşulu inceleme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Program koşulu inceleme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Program kontrol tablosu adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede program koşulu inceleme açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında program koşulu inceleme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci benzer adlı iki programın eğitim dilinin farklı olduğunu fark eder; tercih öncesi özel koşulları resmî kılavuzda kontrol eder.",
     "check": [
-      "Öğrencinin program koşulu inceleme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Bölüm adı tek başına eğitim dili, başarı sırası koşulu veya diğer özel şartları açıklamaz.",
+      "Program kodu, öğrenim türü, özel koşul ve bilgi tarihi sütunlarını doldurun; doğrulanmayan alanı boş bırakıp ayrıca araştırın.",
+      "Öğrenciyle program koşulu inceleme için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Program koşulu inceleme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Program koşulu inceleme konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Bölüm adı tek başına eğitim dili, başarı sırası koşulu veya diğer özel şartları açıklamaz. Öğrencinin baktığı programa ait güncel kılavuz maddesini inceleyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Program koşulu inceleme için hangi ilk uygulama denenebilir?",
+        "Program kodu, öğrenim türü, özel koşul ve bilgi tarihi sütunlarını doldurun; doğrulanmayan alanı boş bırakıp ayrıca araştırın."
       ]
     ],
     "search_terms": [
@@ -962,44 +962,44 @@
   {
     "slug": "sinav-lgs-yerlestirme-bilgisi",
     "title": "LGS yerleştirme bilgisi | Sınav Rehberliği",
-    "summary": "LGS yerleştirme bilgisi konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "LGS yerleştirme bilgisi: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "LGS yerleştirme bilgisi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Yerleştirme türlerini karıştırmamak",
+        "Merkezî sınav puanı, yerel yerleştirme ve nakil gibi süreçleri ilgili yılın resmî yönergesinden kontrol edin. Her okulun kabul biçimini ayrı doğrulayın."
       ],
       [
-        "Güvenlik ve etik",
-        "LGS yerleştirme bilgisi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Öğrenci tercih ölçütleri",
+        "Öğrencinin okul ortamı, ulaşım ve ilgi ölçütlerini dinleyin; güncel takvim ve tercih ekranı koşullarını resmî kaynakla karşılaştırın."
       ],
       [
-        "Uygulama",
-        "LGS yerleştirme bilgisi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden lgs yerleştirme bilgisi deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "LGS yerleştirme bilgisi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "LGS yerleştirme bilgisi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Öğrenci tercih ölçütleri adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede lgs yerleştirme bilgisi açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında lgs yerleştirme bilgisi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Veli geçen yılın yüzdelik dilimiyle kesin yerleşme bekler; danışman değişebilen koşulları ve güncel resmî bilgiyi açıklar.",
     "check": [
-      "Öğrencinin lgs yerleştirme bilgisi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Merkezî sınav puanı, yerel yerleştirme ve nakil gibi süreçleri ilgili yılın resmî yönergesinden kontrol edin.",
+      "Öğrencinin okul ortamı, ulaşım ve ilgi ölçütlerini dinleyin; güncel takvim ve tercih ekranı koşullarını resmî kaynakla karşılaştırın.",
+      "Öğrenciyle lgs yerleştirme bilgisi için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "LGS yerleştirme bilgisi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "LGS yerleştirme bilgisi konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Merkezî sınav puanı, yerel yerleştirme ve nakil gibi süreçleri ilgili yılın resmî yönergesinden kontrol edin. Her okulun kabul biçimini ayrı doğrulayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "LGS yerleştirme bilgisi için hangi ilk uygulama denenebilir?",
+        "Öğrencinin okul ortamı, ulaşım ve ilgi ölçütlerini dinleyin; güncel takvim ve tercih ekranı koşullarını resmî kaynakla karşılaştırın."
       ]
     ],
     "search_terms": [
@@ -1010,44 +1010,44 @@
   {
     "slug": "sinav-yks-tercih-sirasi-degerlendirme",
     "title": "YKS tercih sırası değerlendirme | Sınav Rehberliği",
-    "summary": "YKS tercih sırası değerlendirme konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "YKS tercih sırası değerlendirme: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "YKS tercih sırası değerlendirme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sıra ve program isteğini birbirinden ayırma",
+        "Öğrencinin hangi programı daha çok istediğini ve bilgi düzeyini belirleyin. Önceki yıl taban verilerini kesin yerleşme tahmini saymayın."
       ],
       [
-        "Güvenlik ve etik",
-        "YKS tercih sırası değerlendirme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Tercih sırası görüşmesi",
+        "Güncel resmî kılavuzdaki tercih kurallarını açıklayın. Öğrencinin koşullarını sağladığı programlar arasında kendi tercih sırasını oluşturmasına destek olun."
       ],
       [
-        "Uygulama",
-        "YKS tercih sırası değerlendirme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden yks tercih sırası değerlendirme deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "YKS tercih sırası değerlendirme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "YKS tercih sırası değerlendirme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Tercih sırası görüşmesi adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede yks tercih sırası değerlendirme açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında yks tercih sırası değerlendirme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci yalnızca taban puanı düşük diye ilk sıraya istemediği programı koyar; gerçek ilgi sırası üzerine yeniden düşünür.",
     "check": [
-      "Öğrencinin yks tercih sırası değerlendirme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin hangi programı daha çok istediğini ve bilgi düzeyini belirleyin.",
+      "Güncel resmî kılavuzdaki tercih kurallarını açıklayın.",
+      "Öğrenciyle yks tercih sırası değerlendirme için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "YKS tercih sırası değerlendirme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "YKS tercih sırası değerlendirme konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrencinin hangi programı daha çok istediğini ve bilgi düzeyini belirleyin. Önceki yıl taban verilerini kesin yerleşme tahmini saymayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "YKS tercih sırası değerlendirme için hangi ilk uygulama denenebilir?",
+        "Güncel resmî kılavuzdaki tercih kurallarını açıklayın. Öğrencinin koşullarını sağladığı programlar arasında kendi tercih sırasını oluşturmasına destek olun."
       ]
     ],
     "search_terms": [
@@ -1058,44 +1058,44 @@
   {
     "slug": "sinav-sinav-sonrasi-belirsizlik",
     "title": "Sınav sonrası belirsizlik | Sınav Rehberliği",
-    "summary": "Sınav sonrası belirsizlik konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınav sonrası belirsizlik: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınav sonrası belirsizlik konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sonuç beklerken belirsizlik",
+        "Öğrencinin en çok neyi kontrol edemediğini ve hangi bilgilere ihtiyacı olduğunu sorun; kesin sonuç sözü vermeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınav sonrası belirsizlik ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Bekleme dönemi planı",
+        "Duyuru tarihi ve güvenilir sonuç erişim yolunu resmî kaynaktan belirleyin; günlük yaşamın tamamını sonuç kontrolüne bağlamayan rutin seçin."
       ],
       [
-        "Uygulama",
-        "Sınav sonrası belirsizlik hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden sınav sonrası belirsizlik deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Sınav sonrası belirsizlik için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Sınav sonrası belirsizlik çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Bekleme dönemi planı adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede sınav sonrası belirsizlik açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınav sonrası belirsizlik konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci sonuç sayfasını sürekli yeniler; açıklama takvimini kontrol edip günlük etkinliklerine zaman ayırma planı yapar.",
     "check": [
-      "Öğrencinin sınav sonrası belirsizlik hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin en çok neyi kontrol edemediğini ve hangi bilgilere ihtiyacı olduğunu sorun; kesin sonuç sözü vermeyin.",
+      "Duyuru tarihi ve güvenilir sonuç erişim yolunu resmî kaynaktan belirleyin; günlük yaşamın tamamını sonuç kontrolüne bağlamayan rutin seçin.",
+      "Öğrenciyle sınav sonrası belirsizlik için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Sınav sonrası belirsizlik için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınav sonrası belirsizlik konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrencinin en çok neyi kontrol edemediğini ve hangi bilgilere ihtiyacı olduğunu sorun; kesin sonuç sözü vermeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Sınav sonrası belirsizlik için hangi ilk uygulama denenebilir?",
+        "Duyuru tarihi ve güvenilir sonuç erişim yolunu resmî kaynaktan belirleyin; günlük yaşamın tamamını sonuç kontrolüne bağlamayan rutin seçin."
       ]
     ],
     "search_terms": [
@@ -1106,44 +1106,44 @@
   {
     "slug": "sinav-sinav-sonucunu-aileye-aciklama",
     "title": "Sınav sonucunu aileye açıklama | Sınav Rehberliği",
-    "summary": "Sınav sonucunu aileye açıklama konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınav sonucunu aileye açıklama: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınav sonucunu aileye açıklama konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Aileyle paylaşımın güvenliği",
+        "Öğrencinin sonucu açıklarken korktuğu tepkiyi ve ev içi güvenlik ihtiyacını değerlendirin. Tehdit veya şiddet riski varsa bunu sıradan iletişim problemi saymayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınav sonucunu aileye açıklama ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Hazırlanmış konuşma",
+        "Güvenli koşullarda öğrenci sonuç, his ve bir sonraki destek ihtiyacını üç kısa cümleyle ifade etmeyi deneyebilir."
       ],
       [
-        "Uygulama",
-        "Sınav sonucunu aileye açıklama hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden sınav sonucunu aileye açıklama deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Sınav sonucunu aileye açıklama için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Sınav sonucunu aileye açıklama çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Hazırlanmış konuşma adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede sınav sonucunu aileye açıklama açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınav sonucunu aileye açıklama konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci düşük sonucunu eve söylemekten korkar; önce aile tepkisi değerlendirilir, güvenli destek kişisi ve konuşma zamanı belirlenir.",
     "check": [
-      "Öğrencinin sınav sonucunu aileye açıklama hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin sonucu açıklarken korktuğu tepkiyi ve ev içi güvenlik ihtiyacını değerlendirin.",
+      "Güvenli koşullarda öğrenci sonuç, his ve bir sonraki destek ihtiyacını üç kısa cümleyle ifade etmeyi deneyebilir.",
+      "Öğrenciyle sınav sonucunu aileye açıklama için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Sınav sonucunu aileye açıklama için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınav sonucunu aileye açıklama konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrencinin sonucu açıklarken korktuğu tepkiyi ve ev içi güvenlik ihtiyacını değerlendirin. Tehdit veya şiddet riski varsa bunu sıradan iletişim problemi saymayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Sınav sonucunu aileye açıklama için hangi ilk uygulama denenebilir?",
+        "Güvenli koşullarda öğrenci sonuç, his ve bir sonraki destek ihtiyacını üç kısa cümleyle ifade etmeyi deneyebilir."
       ]
     ],
     "search_terms": [
@@ -1154,44 +1154,44 @@
   {
     "slug": "sinav-yeni-doneme-gecis-hedefi",
     "title": "Yeni döneme geçiş hedefi | Sınav Rehberliği",
-    "summary": "Yeni döneme geçiş hedefi konusunda sınav rehberliği kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Yeni döneme geçiş hedefi: sınav sürecinde öğrencinin gerçek deneyimini değerlendirme, okul temelli uygulanabilir destek ve izleme adımları.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Yeni döneme geçiş hedefi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Yeni döneme taşınacak deneyim",
+        "Öğrencinin yalnızca son puanını değil işe yarayan öğrenme davranışını, destekleri ve zorlandığı koşulları da değerlendirin."
       ],
       [
-        "Güvenlik ve etik",
-        "Yeni döneme geçiş hedefi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Üç parçalı geçiş hedefi",
+        "Bir öğrenme davranışı, bir yardım isteme kanalı ve bir dinlenme rutini belirleyin; hedefleri ilk ay içinde gözden geçirin."
       ],
       [
-        "Uygulama",
-        "Yeni döneme geçiş hedefi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciyle ilk görüşmenin soruları",
+        "Öğrenciden yeni döneme geçiş hedefi deneyimini somut bir gün veya görev üzerinden anlatmasını isteyin. Hangi kısmı değiştirebileceğini, hangi desteği beklediğini ve daha önce neyin işe yaradığını birbirinden ayırın."
       ],
       [
-        "İş birliği",
-        "Yeni döneme geçiş hedefi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Okul ve aileyle sınırları korumak",
+        "Öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. Aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar önerin; güncel sınav kurallarında resmî kaynak dışı kesinlik iddiasından kaçının."
       ],
       [
-        "Takip",
-        "Yeni döneme geçiş hedefi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Somut izleme",
+        "Üç parçalı geçiş hedefi adımını öğrencinin seçtiği kısa bir süre için deneyin. Bir sonraki görüşmede yeni döneme geçiş hedefi açısından neyin değiştiğini, hangi koşulun engel olduğunu ve yeni desteğin gerekip gerekmediğini değerlendirin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında yeni döneme geçiş hedefi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci yeni sınıfa geçtiğinde aynı çalışma planını sürdürmek ister; ders yükünü inceleyerek hedeflerini yeniden ayarlar.",
     "check": [
-      "Öğrencinin yeni döneme geçiş hedefi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin yalnızca son puanını değil işe yarayan öğrenme davranışını, destekleri ve zorlandığı koşulları da değerlendirin.",
+      "Bir öğrenme davranışı, bir yardım isteme kanalı ve bir dinlenme rutini belirleyin; hedefleri ilk ay içinde gözden geçirin.",
+      "Öğrenciyle yeni döneme geçiş hedefi için izlenecek tek davranışı belirleyin.",
+      "Görüşme tarihi ve destek sorumlusunu kaydedin."
     ],
     "faq": [
       [
-        "Yeni döneme geçiş hedefi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Yeni döneme geçiş hedefi konusunda hangi bilgiyi önce öğrenmeliyiz?",
+        "Öğrencinin yalnızca son puanını değil işe yarayan öğrenme davranışını, destekleri ve zorlandığı koşulları da değerlendirin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Yeni döneme geçiş hedefi için hangi ilk uygulama denenebilir?",
+        "Bir öğrenme davranışı, bir yardım isteme kanalı ve bir dinlenme rutini belirleyin; hedefleri ilk ay içinde gözden geçirin."
       ]
     ],
     "search_terms": [
