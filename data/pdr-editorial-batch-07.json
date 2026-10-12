@@ -1,0 +1,1177 @@
+[
+  {
+    "slug": "devamsizlik-ogrenci-ilk-gorusme",
+    "title": "Devamsızlık Yapan Öğrenciyle İlk Görüşme",
+    "summary": "Devamsızlık Yapan Öğrenciyle İlk Görüşme konusunda devamsızlık.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Devamsızlığın hangi günlerde yoğunlaştığını sor."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Okula gitmeyi zorlaştıran koşulları ayrı ayrı dinle."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Ulaşım, öğrenme ve güvenlik engellerini ayır."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Öğrencinin seçtiği küçük devam hedefini belirle."
+      ],
+      [
+        "İzleme ve takip",
+        "Bir hafta sonra devam durumunu ve güvenliği kontrol et."
+      ]
+    ],
+    "example": "Pazartesi devamsızlığı artan öğrencinin o günlerde akran dışlanması yaşadığı anlaşılır.",
+    "check": [
+      "Devamsızlığın hangi günlerde yoğunlaştığını sor.",
+      "Ulaşım, öğrenme ve güvenlik engellerini ayır.",
+      "Öğrencinin seçtiği küçük devam hedefini belirle.",
+      "Bir hafta sonra devam durumunu ve güvenliği kontrol et."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Devamsızlığın hangi günlerde yoğunlaştığını sor."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Bir hafta sonra devam durumunu ve güvenliği kontrol et."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "ogrenciye-yapici-geri-bildirim",
+    "title": "Öğrenciye Yapıcı Geri Bildirim Verme",
+    "summary": "Öğrenciye Yapıcı Geri Bildirim Verme konusunda geri bildirim.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Öğrencinin hedefini öğren."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Kişisel etiket yerine somut davranışı belirt."
+      ],
+      [
+        "İlk uygulama adımı",
+        "İşe yarayan uygulamayı görünür kıl."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Bir sonraki deneme için tek adım seç."
+      ],
+      [
+        "İzleme ve takip",
+        "Öğrenciyle değişimin sonucunu konuş."
+      ]
+    ],
+    "example": "Sunumda zorlanan öğrenci için genel başarısızlık yargısı yerine konuşma hızı ve hazırlık biçimi ele alınır.",
+    "check": [
+      "Öğrencinin hedefini öğren.",
+      "İşe yarayan uygulamayı görünür kıl.",
+      "Bir sonraki deneme için tek adım seç.",
+      "Öğrenciyle değişimin sonucunu konuş."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Öğrencinin hedefini öğren."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Öğrenciyle değişimin sonucunu konuş."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "okulda-guvenli-basvuru-yollari",
+    "title": "Okulda Güvenli Başvuru Yolları",
+    "summary": "Okulda Güvenli Başvuru Yolları konusunda güvenli okul.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Başvuru engellerini öğrenciye sor."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Güvenilir yetişkin ve birimleri tanıt."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Acil durum akışını olağan randevudan ayır."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Mahrem görüşmeye erişimi düzenle."
+      ],
+      [
+        "İzleme ve takip",
+        "Öğrenci geri bildiriminden başvuru düzenini geliştir."
+      ]
+    ],
+    "example": "Öğrenciler rehberlik servisine nasıl ulaşacaklarını bilmediklerini belirtince başvuru yolları sınıflarda tanıtılır.",
+    "check": [
+      "Başvuru engellerini öğrenciye sor.",
+      "Acil durum akışını olağan randevudan ayır.",
+      "Mahrem görüşmeye erişimi düzenle.",
+      "Öğrenci geri bildiriminden başvuru düzenini geliştir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Başvuru engellerini öğrenciye sor."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Öğrenci geri bildiriminden başvuru düzenini geliştir."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "etik-ikilem-okul-psikolojik-danisma",
+    "title": "Okul Psikolojik Danışmanlığında Etik İkilemler",
+    "summary": "Okul Psikolojik Danışmanlığında Etik İkilemler konusunda meslek etiği.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Etik sorunun taraflarını tanımla."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Güvenlik ve mevzuat yükümlülüğünü önce değerlendir."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Gereksiz öğrenci bilgisini koru."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Uygun mesleki danışmayı gizlilikle yürüt."
+      ],
+      [
+        "İzleme ve takip",
+        "Karar gerekçesini gerekli düzeyde kaydet."
+      ]
+    ],
+    "example": "Öğretmen özel görüşme içeriğini ister; öğrenci güvenliği ve gereksiz bilgi paylaşımının sınırları değerlendirilir.",
+    "check": [
+      "Etik sorunun taraflarını tanımla.",
+      "Gereksiz öğrenci bilgisini koru.",
+      "Uygun mesleki danışmayı gizlilikle yürüt.",
+      "Karar gerekçesini gerekli düzeyde kaydet."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Etik sorunun taraflarını tanımla."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Karar gerekçesini gerekli düzeyde kaydet."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "okulda-sosyal-kaygi-gozlemi",
+    "title": "Okulda Sosyal Kaygı Gözlemi",
+    "summary": "Okulda Sosyal Kaygı Gözlemi konusunda sosyal kaygı.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Zorlanılan ortamları birbirinden ayır."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Öğrenciyi sınıf önünde etiketleme."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Gönüllü küçük katılım adımı seç."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Öğretmenle destekleyici geri bildirim planla."
+      ],
+      [
+        "İzleme ve takip",
+        "Belirgin işlev kaybında uzman desteğini değerlendir."
+      ]
+    ],
+    "example": "Yedinci sınıf öğrencisi grup sunumundan kaçınır; eşli çalışmadan küçük gruba geçiş gönüllü planlanır.",
+    "check": [
+      "Zorlanılan ortamları birbirinden ayır.",
+      "Gönüllü küçük katılım adımı seç.",
+      "Öğretmenle destekleyici geri bildirim planla.",
+      "Belirgin işlev kaybında uzman desteğini değerlendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Zorlanılan ortamları birbirinden ayır."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Belirgin işlev kaybında uzman desteğini değerlendir."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "sinav-hazirliginda-gercekci-program",
+    "title": "Sınava Hazırlıkta Gerçekçi Program",
+    "summary": "Sınava Hazırlıkta Gerçekçi Program konusunda verimli ders.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Okul ve ev yükünü haftalık haritala."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Öğrencinin öncelikli öğrenme ihtiyaçlarını dinle."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Başlanabilir kısa oturumlar planla."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Dinlenmeyi ve aile sınırlarını koru."
+      ],
+      [
+        "İzleme ve takip",
+        "Bir hafta sonunda programı öğrenciyle düzelt."
+      ]
+    ],
+    "example": "Her gün dört saat çalışmayı hedefleyip başlayamayan öğrenciyle kısa ve uygulanabilir oturumlar belirlenir.",
+    "check": [
+      "Okul ve ev yükünü haftalık haritala.",
+      "Başlanabilir kısa oturumlar planla.",
+      "Dinlenmeyi ve aile sınırlarını koru.",
+      "Bir hafta sonunda programı öğrenciyle düzelt."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Okul ve ev yükünü haftalık haritala."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Bir hafta sonunda programı öğrenciyle düzelt."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "uzun-devamsizlik-sonrasi-donus",
+    "title": "Uzun Devamsızlık Sonrası Okula Dönüş",
+    "summary": "Uzun Devamsızlık Sonrası Okula Dönüş konusunda okula uyum.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Öğrencinin dönüş kaygısını dinle."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Ders açığıyla sosyal güvenliği ayrı değerlendir."
+      ],
+      [
+        "İlk uygulama adımı",
+        "İlk gün için küçük katılım hedefi koy."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Öğretmenlerle mahremiyeti koruyan uyarlama yap."
+      ],
+      [
+        "İzleme ve takip",
+        "İlk hafta sonunda yeniden görüş."
+      ]
+    ],
+    "example": "Hastalık nedeniyle uzak kalan öğrenci için ders yükü ve sınıfa dönüş ayrı düzenlenir.",
+    "check": [
+      "Öğrencinin dönüş kaygısını dinle.",
+      "İlk gün için küçük katılım hedefi koy.",
+      "Öğretmenlerle mahremiyeti koruyan uyarlama yap.",
+      "İlk hafta sonunda yeniden görüş."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Öğrencinin dönüş kaygısını dinle."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "İlk hafta sonunda yeniden görüş."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "nakille-gelen-ogrenci-uyumu",
+    "title": "Nakille Gelen Öğrencinin Okula Uyumu",
+    "summary": "Nakille Gelen Öğrencinin Okula Uyumu konusunda okula uyum.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Öğrencinin önceki ve yeni okul deneyimini dinle."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Sınıf ve teneffüs güvenliğini açıkla."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Gönüllü akran ve kulüp seçenekleri sun."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Sınıf öğretmeniyle görev paylaş."
+      ],
+      [
+        "İzleme ve takip",
+        "İki hafta sonra aidiyeti yeniden değerlendir."
+      ]
+    ],
+    "example": "Dönem ortasında gelen öğrenci öğle arasında yalnız kalır; gönüllü kulüp katılımı ve takip planlanır.",
+    "check": [
+      "Öğrencinin önceki ve yeni okul deneyimini dinle.",
+      "Gönüllü akran ve kulüp seçenekleri sun.",
+      "Sınıf öğretmeniyle görev paylaş.",
+      "İki hafta sonra aidiyeti yeniden değerlendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Öğrencinin önceki ve yeni okul deneyimini dinle."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "İki hafta sonra aidiyeti yeniden değerlendir."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "ogrencide-karar-verme-etkinligi",
+    "title": "Öğrencilerde Karar Verme Etkinliği",
+    "summary": "Öğrencilerde Karar Verme Etkinliği konusunda karar verme.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Yaşa uygun kurgusal karar seç."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "En az iki güvenli seçenek üret."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Olası sonuçları karşılaştır."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Başka kişilerin haklarına etkiyi konuş."
+      ],
+      [
+        "İzleme ve takip",
+        "Seçilen kararı gözden geçir."
+      ]
+    ],
+    "example": "Öğrenci iki kulüp arasında kalır; ilgi, ulaşım ve zaman ölçütlerini karşılaştırır.",
+    "check": [
+      "Yaşa uygun kurgusal karar seç.",
+      "Olası sonuçları karşılaştır.",
+      "Başka kişilerin haklarına etkiyi konuş.",
+      "Seçilen kararı gözden geçir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Yaşa uygun kurgusal karar seç."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Seçilen kararı gözden geçir."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "guclu-yon-kesfi-sinifta",
+    "title": "Sınıfta Güçlü Yön Keşfi",
+    "summary": "Sınıfta Güçlü Yön Keşfi konusunda güçlü yönler.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Başarıyı yalnızca notla sınırlama."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Farklı becerileri içeren kurgu kullan."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Öğrencinin gönüllü katılımını sağla."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Akranları güçlü yönlere göre sıralama."
+      ],
+      [
+        "İzleme ve takip",
+        "Bir haftalık güçlü yön kullanma hedefi seç."
+      ]
+    ],
+    "example": "Öğrenciler ortak proje sırasında çizim, planlama ve anlatımın birlikte değer taşıdığını keşfeder.",
+    "check": [
+      "Başarıyı yalnızca notla sınırlama.",
+      "Öğrencinin gönüllü katılımını sağla.",
+      "Akranları güçlü yönlere göre sıralama.",
+      "Bir haftalık güçlü yön kullanma hedefi seç."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Başarıyı yalnızca notla sınırlama."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Bir haftalık güçlü yön kullanma hedefi seç."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "guvenli-internet-veliler-icin",
+    "title": "Veliler İçin Güvenli İnternet Rehberi",
+    "summary": "Veliler İçin Güvenli İnternet Rehberi konusunda güvenli internet.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Ailenin dijital kullanım deneyimini dinle."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Kişisel bilgi ve fotoğraf sınırlarını ele al."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Rahatsız edici içerikte suçlayıcı tepkiyi önle."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Yetişkin modelini ve ortak kuralları konuş."
+      ],
+      [
+        "İzleme ve takip",
+        "Evde denenebilir tek adımı takip et."
+      ]
+    ],
+    "example": "Çocuk tanımadığı kişiden mesaj alır; aile suçlama yerine güvenli yardım isteme yolunu konuşur.",
+    "check": [
+      "Ailenin dijital kullanım deneyimini dinle.",
+      "Rahatsız edici içerikte suçlayıcı tepkiyi önle.",
+      "Yetişkin modelini ve ortak kuralları konuş.",
+      "Evde denenebilir tek adımı takip et."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Ailenin dijital kullanım deneyimini dinle."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Evde denenebilir tek adımı takip et."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "bep-hedef-izleme-toplantisi",
+    "title": "BEP Hedef İzleme Toplantısı",
+    "summary": "BEP Hedef İzleme Toplantısı konusunda bep.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Başlangıç performansını yeniden oku."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Farklı ortamlardan ölçüm verisini karşılaştır."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Hedef ve kullanılan desteği ayrı değerlendir."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Ekip kararını görevliyle eşleştir."
+      ],
+      [
+        "İzleme ve takip",
+        "Yeni izleme tarihini kararlaştır."
+      ]
+    ],
+    "example": "Öğrenci görsel ipucuyla görevi tamamlar; ekip sözlü yönergede zorlanmayı ayrıca değerlendirir.",
+    "check": [
+      "Başlangıç performansını yeniden oku.",
+      "Hedef ve kullanılan desteği ayrı değerlendir.",
+      "Ekip kararını görevliyle eşleştir.",
+      "Yeni izleme tarihini kararlaştır."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Başlangıç performansını yeniden oku."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Yeni izleme tarihini kararlaştır."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "sinifta-akran-destegi-planlama",
+    "title": "Sınıfta Akran Desteği Planlama",
+    "summary": "Sınıfta Akran Desteği Planlama konusunda akran desteği.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Desteğin ders hedefini netleştir."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Katılımı gönüllülükle düzenle."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Sabit yardımcı öğrenci etiketi oluşturma."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Öğretmen gözetiminde rol dağıt."
+      ],
+      [
+        "İzleme ve takip",
+        "Akran ilişkilerindeki değişimi izle."
+      ]
+    ],
+    "example": "Grup çalışmasında roller dönüşümlü verilir; bir öğrencinin sürekli yardım alan olarak kalması önlenir.",
+    "check": [
+      "Desteğin ders hedefini netleştir.",
+      "Sabit yardımcı öğrenci etiketi oluşturma.",
+      "Öğretmen gözetiminde rol dağıt.",
+      "Akran ilişkilerindeki değişimi izle."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Desteğin ders hedefini netleştir."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Akran ilişkilerindeki değişimi izle."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "veli-gorusmesinde-ogrencinin-sesi",
+    "title": "Veli Görüşmesinde Öğrencinin Sesi",
+    "summary": "Veli Görüşmesinde Öğrencinin Sesi konusunda veli görüşmesi.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Veli ve öğrencinin amaçlarını ayrı dinle."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Öğrencinin katılım sınırlarını belirle."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Mahrem bilgi paylaşımını açıkla."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Yetişkin beklentisiyle öğrenci ihtiyacını ayır."
+      ],
+      [
+        "İzleme ve takip",
+        "Kararı öğrenci açısından tekrar değerlendir."
+      ]
+    ],
+    "example": "Aile seçmeli ders değişikliği ister; öğrencinin ilgisi ve zorlandığı alanlar da kararda dikkate alınır.",
+    "check": [
+      "Veli ve öğrencinin amaçlarını ayrı dinle.",
+      "Mahrem bilgi paylaşımını açıkla.",
+      "Yetişkin beklentisiyle öğrenci ihtiyacını ayır.",
+      "Kararı öğrenci açısından tekrar değerlendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Veli ve öğrencinin amaçlarını ayrı dinle."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Kararı öğrenci açısından tekrar değerlendir."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "sinif-iklimi-anketi",
+    "title": "Sınıf İklimi Anketi Hazırlama",
+    "summary": "Sınıf İklimi Anketi Hazırlama konusunda sınıf iklimi.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Anketin güvenlik ve aidiyet hedefini seç."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Kişiyi tanıtacak yanıtları gereksiz toplama."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Kısa ve tek anlamlı sorular yaz."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Sonucu grup düzeyinde paylaş."
+      ],
+      [
+        "İzleme ve takip",
+        "Belirlenen sınıf düzenlemesinin etkisini izle."
+      ]
+    ],
+    "example": "Öğrenciler teneffüste güvende hissetmediklerini bildirir; okul isim açıklamadan gözetimi güçlendirir.",
+    "check": [
+      "Anketin güvenlik ve aidiyet hedefini seç.",
+      "Kısa ve tek anlamlı sorular yaz.",
+      "Sonucu grup düzeyinde paylaş.",
+      "Belirlenen sınıf düzenlemesinin etkisini izle."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Anketin güvenlik ve aidiyet hedefini seç."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Belirlenen sınıf düzenlemesinin etkisini izle."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "cocuklarda-kisisel-sinirlar",
+    "title": "Çocuklarda Kişisel Sınırlar",
+    "summary": "Çocuklarda Kişisel Sınırlar konusunda kişisel sınırlar.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "İzin ve sınır kavramını yaşa uygun tanıt."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Özel öykü yerine kurgu durum kullan."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Güvenli hayır deme cümlesi çalış."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Uzaklaşma ve yetişkin desteğini anlat."
+      ],
+      [
+        "İzleme ve takip",
+        "Çocukları kişisel açıklamaya zorlama."
+      ]
+    ],
+    "example": "Oyunda itilerek katılmaya zorlanan kurgusal öğrenci için hayır deme ve yetişkinden destek seçenekleri çalışılır.",
+    "check": [
+      "İzin ve sınır kavramını yaşa uygun tanıt.",
+      "Güvenli hayır deme cümlesi çalış.",
+      "Uzaklaşma ve yetişkin desteğini anlat.",
+      "Çocukları kişisel açıklamaya zorlama."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "İzin ve sınır kavramını yaşa uygun tanıt."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Çocukları kişisel açıklamaya zorlama."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "okulda-oz-yeterlik",
+    "title": "Okulda Öz Yeterlik Becerisini Destekleme",
+    "summary": "Okulda Öz Yeterlik Becerisini Destekleme konusunda öz yeterlik.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Başarı ve güçlük koşullarını somutlaştır."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Öğrencinin daha önce başardığı küçük adımı bul."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Ulaşılabilir bir deneme davranışı seç."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Sonuç yerine stratejiye geri bildirim ver."
+      ],
+      [
+        "İzleme ve takip",
+        "İlerlemeyi öğrencinin kendi başlangıcıyla karşılaştır."
+      ]
+    ],
+    "example": "Yazılı anlatımda zorlanan öğrenci kısa paragraflarla ilerleyip çabasını izler.",
+    "check": [
+      "Başarı ve güçlük koşullarını somutlaştır.",
+      "Ulaşılabilir bir deneme davranışı seç.",
+      "Sonuç yerine stratejiye geri bildirim ver.",
+      "İlerlemeyi öğrencinin kendi başlangıcıyla karşılaştır."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Başarı ve güçlük koşullarını somutlaştır."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "İlerlemeyi öğrencinin kendi başlangıcıyla karşılaştır."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "ogrencilerde-dijital-iz-farkindaligi",
+    "title": "Dijital İz Farkındalığı Etkinliği",
+    "summary": "Dijital İz Farkındalığı Etkinliği konusunda dijital mahremiyet.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Dijital izin örneklerini öğrencilerin yaşına uyarla."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Gerçek hesap ve özel fotoğraf isteme."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Paylaşımın yeniden yayılma olasılığını göster."
+      ],
+      [
+        "Destek ve iş birliği",
+        "İzinsiz içerikte yardım yolunu netleştir."
+      ],
+      [
+        "İzleme ve takip",
+        "Bir güvenli paylaşım davranışı belirle."
+      ]
+    ],
+    "example": "Kurgusal bir fotoğraf paylaşımı üzerinden izin, kalıcılık ve başvuru yolları tartışılır.",
+    "check": [
+      "Dijital izin örneklerini öğrencilerin yaşına uyarla.",
+      "Paylaşımın yeniden yayılma olasılığını göster.",
+      "İzinsiz içerikte yardım yolunu netleştir.",
+      "Bir güvenli paylaşım davranışı belirle."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Dijital izin örneklerini öğrencilerin yaşına uyarla."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Bir güvenli paylaşım davranışı belirle."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "okulda-psikososyal-destek-basvurusu",
+    "title": "Okulda Psikososyal Destek Başvurusu",
+    "summary": "Okulda Psikososyal Destek Başvurusu konusunda psikososyal destek.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Öğrenci güvenliğini öncelikle değerlendir."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Olayı ayrıntılı anlatmaya zorlama."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Okulun yetkili destek akışını açıkla."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Gizlilik ve koruma sınırlarını konuş."
+      ],
+      [
+        "İzleme ve takip",
+        "Belirgin zorlanmada uygun yönlendirmeyi sürdür."
+      ]
+    ],
+    "example": "Zorlayıcı olay sonrası öğrenci sınıfta konuşmak istemez; bireysel başvuru seçeneği sunulur.",
+    "check": [
+      "Öğrenci güvenliğini öncelikle değerlendir.",
+      "Okulun yetkili destek akışını açıkla.",
+      "Gizlilik ve koruma sınırlarını konuş.",
+      "Belirgin zorlanmada uygun yönlendirmeyi sürdür."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Öğrenci güvenliğini öncelikle değerlendir."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Belirgin zorlanmada uygun yönlendirmeyi sürdür."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "ogrencide-sosyal-sorumluluk",
+    "title": "Öğrencide Sosyal Sorumluluk",
+    "summary": "Öğrencide Sosyal Sorumluluk konusunda sosyal sorumluluk.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Sınıf ihtiyacını birlikte belirle."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Gönüllü ve yaşa uygun görev seçenekleri sun."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Görevi ölçülebilir küçük parçalara ayır."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Bir öğrenciye sürekli görev yükleme."
+      ],
+      [
+        "İzleme ve takip",
+        "Katılım deneyimini birlikte değerlendir."
+      ]
+    ],
+    "example": "Sınıf ortak kitaplık düzenler; öğrenciler kendi seçtikleri görevle gönüllü katkıda bulunur.",
+    "check": [
+      "Sınıf ihtiyacını birlikte belirle.",
+      "Görevi ölçülebilir küçük parçalara ayır.",
+      "Bir öğrenciye sürekli görev yükleme.",
+      "Katılım deneyimini birlikte değerlendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Sınıf ihtiyacını birlikte belirle."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Katılım deneyimini birlikte değerlendir."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "saglikli-sinav-hedefleri",
+    "title": "Sağlıklı Sınav Hedefleri Belirleme",
+    "summary": "Sağlıklı Sınav Hedefleri Belirleme konusunda sınav başarısı.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Öğrencinin kendi amacını dinle."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Sonuç hedefiyle süreç davranışını ayır."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Ulaşılabilir haftalık görev seç."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Aile kıyaslamasının etkisini konuş."
+      ],
+      [
+        "İzleme ve takip",
+        "Denemeler sonrası yöntemi yeniden değerlendir."
+      ]
+    ],
+    "example": "Öğrenci net hedefinin yanında süreci yönetebileceği bir tekrar hedefi belirler.",
+    "check": [
+      "Öğrencinin kendi amacını dinle.",
+      "Ulaşılabilir haftalık görev seç.",
+      "Aile kıyaslamasının etkisini konuş.",
+      "Denemeler sonrası yöntemi yeniden değerlendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Öğrencinin kendi amacını dinle."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Denemeler sonrası yöntemi yeniden değerlendir."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "ortaokulda-guvenli-arkadas-secimi",
+    "title": "Ortaokulda Güvenli Arkadaşlık",
+    "summary": "Ortaokulda Güvenli Arkadaşlık konusunda arkadaşlık becerileri.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Yakınlık ve saygıyı birbirinden ayır."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "İstenmeyen davranışı kurgu üzerinden konuş."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Kişisel sınır ve karşılıklılığı tanımla."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Güvenilir yetişkin desteğini görünür kıl."
+      ],
+      [
+        "İzleme ve takip",
+        "Öğrencinin ilişki deneyimini gizlilikle izle."
+      ]
+    ],
+    "example": "Arkadaşları şaka adıyla öğrencinin sınırlarını ihlal eder; öğrenci saygılı ilişki ölçütlerini tartışır.",
+    "check": [
+      "Yakınlık ve saygıyı birbirinden ayır.",
+      "Kişisel sınır ve karşılıklılığı tanımla.",
+      "Güvenilir yetişkin desteğini görünür kıl.",
+      "Öğrencinin ilişki deneyimini gizlilikle izle."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Yakınlık ve saygıyı birbirinden ayır."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Öğrencinin ilişki deneyimini gizlilikle izle."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "okulda-motivasyon-dalgalanmasi",
+    "title": "Öğrenme Motivasyonu Dalgalanması",
+    "summary": "Öğrenme Motivasyonu Dalgalanması konusunda öğrenme motivasyonu.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Katılım değişiminin zamanını belirle."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Motivasyonu yalnızca karakter özelliği sayma."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Öğrencinin seçtiği küçük ders hedefi belirle."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Öğretmenden davranışa odaklı destek iste."
+      ],
+      [
+        "İzleme ve takip",
+        "Bir hafta sonra katılım örüntüsünü karşılaştır."
+      ]
+    ],
+    "example": "Öğrencinin bir derse katılımı gün içinde değişir; görev güçlüğü ve ortam koşulları birlikte değerlendirilir.",
+    "check": [
+      "Katılım değişiminin zamanını belirle.",
+      "Öğrencinin seçtiği küçük ders hedefi belirle.",
+      "Öğretmenden davranışa odaklı destek iste.",
+      "Bir hafta sonra katılım örüntüsünü karşılaştır."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Katılım değişiminin zamanını belirle."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Bir hafta sonra katılım örüntüsünü karşılaştır."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "ogrencilerde-zaman-yonetimi",
+    "title": "Öğrenciler İçin Zaman Yönetimi",
+    "summary": "Öğrenciler İçin Zaman Yönetimi konusunda zaman yönetimi.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Haftanın sabit zamanlarını birlikte yaz."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Ertelemenin yoğunlaştığı görevleri belirle."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Görevi görünür küçük parçalara böl."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Mola ve uyku sürelerini koru."
+      ],
+      [
+        "İzleme ve takip",
+        "Planın gerçekçi kısımlarını takip et."
+      ]
+    ],
+    "example": "Öğrenci büyük bir projeye başlamaz; teslim tarihinden geriye doğru küçük görevler planlar.",
+    "check": [
+      "Haftanın sabit zamanlarını birlikte yaz.",
+      "Görevi görünür küçük parçalara böl.",
+      "Mola ve uyku sürelerini koru.",
+      "Planın gerçekçi kısımlarını takip et."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Haftanın sabit zamanlarını birlikte yaz."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Planın gerçekçi kısımlarını takip et."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  },
+  {
+    "slug": "okulda-guvenilir-yetiskin-haritasi",
+    "title": "Güvenilir Yetişkin Haritası Etkinliği",
+    "summary": "Güvenilir Yetişkin Haritası Etkinliği konusunda yardım isteme.",
+    "sections": [
+      [
+        "İhtiyacı somutlaştırma",
+        "Farklı yardım ihtiyaçlarını kurguyla tanıt."
+      ],
+      [
+        "Güvenli değerlendirme",
+        "Öğrencilerin gerçek özel ilişkilerini açıklatmadan çalış."
+      ],
+      [
+        "İlk uygulama adımı",
+        "Okuldaki yetkili kişilere ulaşma yolunu göster."
+      ],
+      [
+        "Destek ve iş birliği",
+        "Acil güvenlik durumunda hızlı destek yolunu anlat."
+      ],
+      [
+        "İzleme ve takip",
+        "Herkesin yardım yolunu anlayıp anlamadığını değerlendir."
+      ]
+    ],
+    "example": "Öğrenciler kurgusal bir güvenlik durumunda okul içi ve dışı uygun destek kişilerini belirler.",
+    "check": [
+      "Farklı yardım ihtiyaçlarını kurguyla tanıt.",
+      "Okuldaki yetkili kişilere ulaşma yolunu göster.",
+      "Acil güvenlik durumunda hızlı destek yolunu anlat.",
+      "Herkesin yardım yolunu anlayıp anlamadığını değerlendir."
+    ],
+    "faq": [
+      [
+        "İlk adım ne olmalı?",
+        "Farklı yardım ihtiyaçlarını kurguyla tanıt."
+      ],
+      [
+        "Nasıl takip edilmeli?",
+        "Herkesin yardım yolunu anlayıp anlamadığını değerlendir."
+      ]
+    ],
+    "search_terms": [
+      null
+    ]
+  }
+]
