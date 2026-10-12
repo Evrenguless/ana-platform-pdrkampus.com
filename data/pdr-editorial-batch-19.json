@@ -2,44 +2,44 @@
   {
     "slug": "zorbalik-sozlu-zorbalik-bildirimi",
     "title": "Sözlü zorbalık bildirimi | Akran Zorbalığı",
-    "summary": "Sözlü zorbalık bildirimi konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sözlü zorbalık bildirimi için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sözlü zorbalık bildirimi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Öğrencinin aktardığı sözleri kişisel etiket koymadan kaydedin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Sözlü zorbalık bildirimi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Sözlü davranışın tekrarını ve güç dengesizliğini değerlendirin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Sözlü zorbalık bildirimi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Sözlü zorbalık bildirimi: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Sözlü davranışın tekrarını ve güç dengesizliğini değerlendirin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Sözlü zorbalık bildirimi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Sözlü zorbalık bildirimi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci her teneffüste aşağılayıcı lakap duyduğunu bildirir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sözlü zorbalık bildirimi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci her teneffüste aşağılayıcı lakap duyduğunu bildirir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin sözlü zorbalık bildirimi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin aktardığı sözleri kişisel etiket koymadan kaydedin.",
+      "Sözlü davranışın tekrarını ve güç dengesizliğini değerlendirin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Sözlü zorbalık bildirimi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sözlü zorbalık bildirimi konusunda ilk önce hangi bilgi gerekir?",
+        "Öğrencinin aktardığı sözleri kişisel etiket koymadan kaydedin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci her teneffüste aşağılayıcı lakap duyduğunu bildirir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -50,44 +50,44 @@
   {
     "slug": "zorbalik-fiziksel-zorbalikta-guvenlik",
     "title": "Fiziksel zorbalıkta güvenlik | Akran Zorbalığı",
-    "summary": "Fiziksel zorbalıkta güvenlik konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Fiziksel zorbalıkta güvenlik için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Fiziksel zorbalıkta güvenlik konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "İtme veya vurma olayı sonrası öğrencilerin anlık güvenliğini sağlayın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Fiziksel zorbalıkta güvenlik ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Olayı tarafları yüzleştirmeden ayrı dinleyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Fiziksel zorbalıkta güvenlik hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Fiziksel zorbalıkta güvenlik: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Olayı tarafları yüzleştirmeden ayrı dinleyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Fiziksel zorbalıkta güvenlik için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Fiziksel zorbalıkta güvenlik çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Bahçede tekrar eden itme davranışı için nöbet alanı yeniden düzenlenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında fiziksel zorbalıkta güvenlik konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Bahçede tekrar eden itme davranışı için nöbet alanı yeniden düzenlenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin fiziksel zorbalıkta güvenlik hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "İtme veya vurma olayı sonrası öğrencilerin anlık güvenliğini sağlayın.",
+      "Olayı tarafları yüzleştirmeden ayrı dinleyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Fiziksel zorbalıkta güvenlik için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Fiziksel zorbalıkta güvenlik konusunda ilk önce hangi bilgi gerekir?",
+        "İtme veya vurma olayı sonrası öğrencilerin anlık güvenliğini sağlayın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Bahçede tekrar eden itme davranışı için nöbet alanı yeniden düzenlenir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -98,44 +98,44 @@
   {
     "slug": "zorbalik-sosyal-dislama-davranisi",
     "title": "Sosyal dışlama davranışı | Akran Zorbalığı",
-    "summary": "Sosyal dışlama davranışı konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sosyal dışlama davranışı için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sosyal dışlama davranışı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Oyuna veya gruba alınmama örüntüsünü somut ortamlarla inceleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Sosyal dışlama davranışı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Dışlanmayı hedef öğrencinin arkadaş edinme eksikliğine indirgemeyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Sosyal dışlama davranışı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Sosyal dışlama davranışı: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Dışlanmayı hedef öğrencinin arkadaş edinme eksikliğine indirgemeyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Sosyal dışlama davranışı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Sosyal dışlama davranışı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Bir öğrenci haftalarca proje gruplarına alınmaz. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sosyal dışlama davranışı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Bir öğrenci haftalarca proje gruplarına alınmaz. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin sosyal dışlama davranışı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Oyuna veya gruba alınmama örüntüsünü somut ortamlarla inceleyin.",
+      "Dışlanmayı hedef öğrencinin arkadaş edinme eksikliğine indirgemeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Sosyal dışlama davranışı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sosyal dışlama davranışı konusunda ilk önce hangi bilgi gerekir?",
+        "Oyuna veya gruba alınmama örüntüsünü somut ortamlarla inceleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Bir öğrenci haftalarca proje gruplarına alınmaz. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -146,44 +146,44 @@
   {
     "slug": "zorbalik-grup-sohbetinde-alay",
     "title": "Grup sohbetinde alay | Akran Zorbalığı",
-    "summary": "Grup sohbetinde alay konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Grup sohbetinde alay için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Grup sohbetinde alay konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Çevrim içi alayın okul ilişkilerini nasıl etkilediğini dinleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Grup sohbetinde alay ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Özel mesajları sınıf önünde göstermeyin ve zararlı içeriği yaymayın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Grup sohbetinde alay hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Grup sohbetinde alay: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Özel mesajları sınıf önünde göstermeyin ve zararlı içeriği yaymayın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Grup sohbetinde alay için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Grup sohbetinde alay çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Sınıf sohbetindeki aşağılayıcı görsel teneffüste de alaya dönüşür. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında grup sohbetinde alay konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Sınıf sohbetindeki aşağılayıcı görsel teneffüste de alaya dönüşür. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin grup sohbetinde alay hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Çevrim içi alayın okul ilişkilerini nasıl etkilediğini dinleyin.",
+      "Özel mesajları sınıf önünde göstermeyin ve zararlı içeriği yaymayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Grup sohbetinde alay için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Grup sohbetinde alay konusunda ilk önce hangi bilgi gerekir?",
+        "Çevrim içi alayın okul ilişkilerini nasıl etkilediğini dinleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Sınıf sohbetindeki aşağılayıcı görsel teneffüste de alaya dönüşür. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -194,44 +194,44 @@
   {
     "slug": "zorbalik-lakapla-hedef-gosterme",
     "title": "Lakapla hedef gösterme | Akran Zorbalığı",
-    "summary": "Lakapla hedef gösterme konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Lakapla hedef gösterme için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Lakapla hedef gösterme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "İstenmeyen lakabın hedef öğrenci üzerindeki etkisini ciddiye alın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Lakapla hedef gösterme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "'şakaydı' savunmasını otomatik olarak kabul etmeyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Lakapla hedef gösterme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Lakapla hedef gösterme: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. 'şakaydı' savunmasını otomatik olarak kabul etmeyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Lakapla hedef gösterme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Lakapla hedef gösterme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci reddettiği hâlde aynı lakap her derste tekrarlanır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında lakapla hedef gösterme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci reddettiği hâlde aynı lakap her derste tekrarlanır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin lakapla hedef gösterme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "İstenmeyen lakabın hedef öğrenci üzerindeki etkisini ciddiye alın.",
+      "'şakaydı' savunmasını otomatik olarak kabul etmeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Lakapla hedef gösterme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Lakapla hedef gösterme konusunda ilk önce hangi bilgi gerekir?",
+        "İstenmeyen lakabın hedef öğrenci üzerindeki etkisini ciddiye alın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci reddettiği hâlde aynı lakap her derste tekrarlanır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -242,44 +242,44 @@
   {
     "slug": "zorbalik-akran-grubunda-guc-farki",
     "title": "Akran grubunda güç farkı | Akran Zorbalığı",
-    "summary": "Akran grubunda güç farkı konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Akran grubunda güç farkı için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Akran grubunda güç farkı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Öğrenciler arasında korku ve statü farkını ayrı sorun. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Akran grubunda güç farkı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Güç dengesizliğini eşit taraflı kavga gibi ele almayın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Akran grubunda güç farkı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Akran grubunda güç farkı: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Güç dengesizliğini eşit taraflı kavga gibi ele almayın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Akran grubunda güç farkı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Akran grubunda güç farkı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Yaşça büyük grup küçük öğrenciyi sürekli oyundan çıkarır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında akran grubunda güç farkı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Yaşça büyük grup küçük öğrenciyi sürekli oyundan çıkarır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin akran grubunda güç farkı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenciler arasında korku ve statü farkını ayrı sorun.",
+      "Güç dengesizliğini eşit taraflı kavga gibi ele almayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Akran grubunda güç farkı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Akran grubunda güç farkı konusunda ilk önce hangi bilgi gerekir?",
+        "Öğrenciler arasında korku ve statü farkını ayrı sorun. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Yaşça büyük grup küçük öğrenciyi sürekli oyundan çıkarır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -290,44 +290,44 @@
   {
     "slug": "zorbalik-tanik-ogrenciyi-destekleme",
     "title": "Tanık öğrenciyi destekleme | Akran Zorbalığı",
-    "summary": "Tanık öğrenciyi destekleme konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Tanık öğrenciyi destekleme için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Tanık öğrenciyi destekleme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Tanık öğrencinin misilleme korkusunu güvenli görüşmede öğrenin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Tanık öğrenciyi destekleme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Tanığı tek başına müdahale etmekle görevlendirmeyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Tanık öğrenciyi destekleme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Tanık öğrenciyi destekleme: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Tanığı tek başına müdahale etmekle görevlendirmeyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Tanık öğrenciyi destekleme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Tanık öğrenciyi destekleme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Tanık öğrenci gördüğünü söylemek ister ama hedef olacağından korkar. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında tanık öğrenciyi destekleme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Tanık öğrenci gördüğünü söylemek ister ama hedef olacağından korkar. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin tanık öğrenciyi destekleme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Tanık öğrencinin misilleme korkusunu güvenli görüşmede öğrenin.",
+      "Tanığı tek başına müdahale etmekle görevlendirmeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Tanık öğrenciyi destekleme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Tanık öğrenciyi destekleme konusunda ilk önce hangi bilgi gerekir?",
+        "Tanık öğrencinin misilleme korkusunu güvenli görüşmede öğrenin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Tanık öğrenci gördüğünü söylemek ister ama hedef olacağından korkar. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -338,44 +338,44 @@
   {
     "slug": "zorbalik-magdur-ogrenciyi-dinleme",
     "title": "Mağdur öğrenciyi dinleme | Akran Zorbalığı",
-    "summary": "Mağdur öğrenciyi dinleme konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Mağdur öğrenciyi dinleme için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Mağdur öğrenciyi dinleme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Hedef öğrencinin anlatımını sorgu gibi bölmeden dinleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Mağdur öğrenciyi dinleme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Kişiyi olayı herkesin önünde yeniden anlatmaya zorlamayın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Mağdur öğrenciyi dinleme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Mağdur öğrenciyi dinleme: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Kişiyi olayı herkesin önünde yeniden anlatmaya zorlamayın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Mağdur öğrenciyi dinleme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Mağdur öğrenciyi dinleme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci yemekhaneye girmekten korktuğunu ilk görüşmede ifade eder. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında mağdur öğrenciyi dinleme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci yemekhaneye girmekten korktuğunu ilk görüşmede ifade eder. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin mağdur öğrenciyi dinleme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Hedef öğrencinin anlatımını sorgu gibi bölmeden dinleyin.",
+      "Kişiyi olayı herkesin önünde yeniden anlatmaya zorlamayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Mağdur öğrenciyi dinleme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Mağdur öğrenciyi dinleme konusunda ilk önce hangi bilgi gerekir?",
+        "Hedef öğrencinin anlatımını sorgu gibi bölmeden dinleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci yemekhaneye girmekten korktuğunu ilk görüşmede ifade eder. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -386,44 +386,44 @@
   {
     "slug": "zorbalik-zarar-verici-davranis-gorusmesi",
     "title": "Zarar verici davranış görüşmesi | Akran Zorbalığı",
-    "summary": "Zarar verici davranış görüşmesi konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Zarar verici davranış görüşmesi için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Zarar verici davranış görüşmesi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Zarar veren davranışı tarihle ve bağlamıyla ele alın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Zarar verici davranış görüşmesi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Görüşmeyi utandırma veya zorunlu özür törenine dönüştürmeyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Zarar verici davranış görüşmesi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Zarar verici davranış görüşmesi: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Görüşmeyi utandırma veya zorunlu özür törenine dönüştürmeyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Zarar verici davranış görüşmesi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Zarar verici davranış görüşmesi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Bir öğrenci arkadaşını grup sohbetinden kasıtlı çıkarır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında zarar verici davranış görüşmesi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Bir öğrenci arkadaşını grup sohbetinden kasıtlı çıkarır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin zarar verici davranış görüşmesi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Zarar veren davranışı tarihle ve bağlamıyla ele alın.",
+      "Görüşmeyi utandırma veya zorunlu özür törenine dönüştürmeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Zarar verici davranış görüşmesi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Zarar verici davranış görüşmesi konusunda ilk önce hangi bilgi gerekir?",
+        "Zarar veren davranışı tarihle ve bağlamıyla ele alın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Bir öğrenci arkadaşını grup sohbetinden kasıtlı çıkarır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -434,44 +434,44 @@
   {
     "slug": "zorbalik-ogretmenden-gozlem-alma",
     "title": "Öğretmenden gözlem alma | Akran Zorbalığı",
-    "summary": "Öğretmenden gözlem alma konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Öğretmenden gözlem alma için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Öğretmenden gözlem alma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Öğretmenden zaman, yer ve gözlenen davranış örnekleri isteyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Öğretmenden gözlem alma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Yorum ile doğrudan tanık olunan olayı ayırın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Öğretmenden gözlem alma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğretmenden gözlem alma: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Yorum ile doğrudan tanık olunan olayı ayırın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Öğretmenden gözlem alma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Öğretmenden gözlem alma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğretmen üç teneffüste aynı öğrencinin itilmesini not eder. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında öğretmenden gözlem alma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğretmen üç teneffüste aynı öğrencinin itilmesini not eder. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin öğretmenden gözlem alma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğretmenden zaman, yer ve gözlenen davranış örnekleri isteyin.",
+      "Yorum ile doğrudan tanık olunan olayı ayırın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Öğretmenden gözlem alma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Öğretmenden gözlem alma konusunda ilk önce hangi bilgi gerekir?",
+        "Öğretmenden zaman, yer ve gözlenen davranış örnekleri isteyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğretmen üç teneffüste aynı öğrencinin itilmesini not eder. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -482,44 +482,44 @@
   {
     "slug": "zorbalik-veliye-guvenli-bilgilendirme",
     "title": "Veliye güvenli bilgilendirme | Akran Zorbalığı",
-    "summary": "Veliye güvenli bilgilendirme konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Veliye güvenli bilgilendirme için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Veliye güvenli bilgilendirme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Veliye doğrulanmış olguları ve güvenlik adımlarını açıklayın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Veliye güvenli bilgilendirme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Başka öğrencilerin özel bilgilerini paylaşmayın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Veliye güvenli bilgilendirme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Veliye güvenli bilgilendirme: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Başka öğrencilerin özel bilgilerini paylaşmayın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Veliye güvenli bilgilendirme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Veliye güvenli bilgilendirme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Veli çocuğunun okulda dışlandığını öğrenince diğer çocukların adını sorar. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında veliye güvenli bilgilendirme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Veli çocuğunun okulda dışlandığını öğrenince diğer çocukların adını sorar. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin veliye güvenli bilgilendirme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Veliye doğrulanmış olguları ve güvenlik adımlarını açıklayın.",
+      "Başka öğrencilerin özel bilgilerini paylaşmayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Veliye güvenli bilgilendirme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Veliye güvenli bilgilendirme konusunda ilk önce hangi bilgi gerekir?",
+        "Veliye doğrulanmış olguları ve güvenlik adımlarını açıklayın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Veli çocuğunun okulda dışlandığını öğrenince diğer çocukların adını sorar. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -530,44 +530,44 @@
   {
     "slug": "zorbalik-misilleme-riskini-izleme",
     "title": "Misilleme riskini izleme | Akran Zorbalığı",
-    "summary": "Misilleme riskini izleme konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Misilleme riskini izleme için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Misilleme riskini izleme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "İlk müdahaleden sonra yeni tehdit veya dışlama olup olmadığını sorun. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Misilleme riskini izleme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Bildirim yapan öğrencinin görünür şekilde hedef olmasını önleyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Misilleme riskini izleme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Misilleme riskini izleme: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Bildirim yapan öğrencinin görünür şekilde hedef olmasını önleyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Misilleme riskini izleme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Misilleme riskini izleme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci durumu bildirdikten sonra grup mesajlarında tehdit almaya başlar. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında misilleme riskini izleme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci durumu bildirdikten sonra grup mesajlarında tehdit almaya başlar. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin misilleme riskini izleme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "İlk müdahaleden sonra yeni tehdit veya dışlama olup olmadığını sorun.",
+      "Bildirim yapan öğrencinin görünür şekilde hedef olmasını önleyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Misilleme riskini izleme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Misilleme riskini izleme konusunda ilk önce hangi bilgi gerekir?",
+        "İlk müdahaleden sonra yeni tehdit veya dışlama olup olmadığını sorun. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci durumu bildirdikten sonra grup mesajlarında tehdit almaya başlar. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -578,44 +578,44 @@
   {
     "slug": "zorbalik-teneffus-guvenligi-plani",
     "title": "Teneffüs güvenliği planı | Akran Zorbalığı",
-    "summary": "Teneffüs güvenliği planı konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Teneffüs güvenliği planı için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Teneffüs güvenliği planı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Riskin yoğunlaştığı alan ve saatleri öğrencilerle belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Teneffüs güvenliği planı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Koruma görevini yalnızca hedef öğrenciye yüklemeyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Teneffüs güvenliği planı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Teneffüs güvenliği planı: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Koruma görevini yalnızca hedef öğrenciye yüklemeyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Teneffüs güvenliği planı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Teneffüs güvenliği planı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Oyun alanının kuytu bölümünde tekrar eden itişmeler bildirilir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında teneffüs güvenliği planı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Oyun alanının kuytu bölümünde tekrar eden itişmeler bildirilir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin teneffüs güvenliği planı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Riskin yoğunlaştığı alan ve saatleri öğrencilerle belirleyin.",
+      "Koruma görevini yalnızca hedef öğrenciye yüklemeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Teneffüs güvenliği planı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Teneffüs güvenliği planı konusunda ilk önce hangi bilgi gerekir?",
+        "Riskin yoğunlaştığı alan ve saatleri öğrencilerle belirleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Oyun alanının kuytu bölümünde tekrar eden itişmeler bildirilir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -626,44 +626,44 @@
   {
     "slug": "zorbalik-sinifta-soylenti-dongusu",
     "title": "Sınıfta söylenti döngüsü | Akran Zorbalığı",
-    "summary": "Sınıfta söylenti döngüsü konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınıfta söylenti döngüsü için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınıfta söylenti döngüsü konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Doğrulanmamış kişisel iddiaların tekrar paylaşımını sınırlayın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınıfta söylenti döngüsü ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Hedef öğrenciye kendini sınıf önünde savunma görevi vermeyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Sınıfta söylenti döngüsü hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Sınıfta söylenti döngüsü: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Hedef öğrenciye kendini sınıf önünde savunma görevi vermeyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Sınıfta söylenti döngüsü için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Sınıfta söylenti döngüsü çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Sınıfta bir öğrencinin ailesi hakkında söylenti dolaşır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınıfta söylenti döngüsü konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Sınıfta bir öğrencinin ailesi hakkında söylenti dolaşır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin sınıfta söylenti döngüsü hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Doğrulanmamış kişisel iddiaların tekrar paylaşımını sınırlayın.",
+      "Hedef öğrenciye kendini sınıf önünde savunma görevi vermeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Sınıfta söylenti döngüsü için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınıfta söylenti döngüsü konusunda ilk önce hangi bilgi gerekir?",
+        "Doğrulanmamış kişisel iddiaların tekrar paylaşımını sınırlayın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Sınıfta bir öğrencinin ailesi hakkında söylenti dolaşır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -674,44 +674,44 @@
   {
     "slug": "zorbalik-dijital-kaniti-koruma",
     "title": "Dijital kanıtı koruma | Akran Zorbalığı",
-    "summary": "Dijital kanıtı koruma konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Dijital kanıtı koruma için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Dijital kanıtı koruma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Gerekli kayıtların korunmasını okulun yetkili sürecine göre yönetin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Dijital kanıtı koruma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Zararlı mesajları çoğaltarak arkadaşlara dağıtmayın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Dijital kanıtı koruma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Dijital kanıtı koruma: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Zararlı mesajları çoğaltarak arkadaşlara dağıtmayın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Dijital kanıtı koruma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Dijital kanıtı koruma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci tehdit mesajını güvenilir yetişkine göstermek ister. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında dijital kanıtı koruma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci tehdit mesajını güvenilir yetişkine göstermek ister. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin dijital kanıtı koruma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Gerekli kayıtların korunmasını okulun yetkili sürecine göre yönetin.",
+      "Zararlı mesajları çoğaltarak arkadaşlara dağıtmayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Dijital kanıtı koruma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Dijital kanıtı koruma konusunda ilk önce hangi bilgi gerekir?",
+        "Gerekli kayıtların korunmasını okulun yetkili sürecine göre yönetin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci tehdit mesajını güvenilir yetişkine göstermek ister. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -722,44 +722,44 @@
   {
     "slug": "zorbalik-anonim-bildirim-sinirlari",
     "title": "Anonim bildirim sınırları | Akran Zorbalığı",
-    "summary": "Anonim bildirim sınırları konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Anonim bildirim sınırları için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Anonim bildirim sınırları konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Anonim başvurunun kapsamını ve sınırlarını açıkça belirtin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Anonim bildirim sınırları ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Acil güvenlik riskini yalnızca anonim form yanıtını bekleyerek ertelemeyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Anonim bildirim sınırları hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Anonim bildirim sınırları: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Acil güvenlik riskini yalnızca anonim form yanıtını bekleyerek ertelemeyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Anonim bildirim sınırları için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Anonim bildirim sınırları çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci ismini açıklamadan oyun alanındaki zorbalığı bildirmek ister. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında anonim bildirim sınırları konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci ismini açıklamadan oyun alanındaki zorbalığı bildirmek ister. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin anonim bildirim sınırları hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Anonim başvurunun kapsamını ve sınırlarını açıkça belirtin.",
+      "Acil güvenlik riskini yalnızca anonim form yanıtını bekleyerek ertelemeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Anonim bildirim sınırları için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Anonim bildirim sınırları konusunda ilk önce hangi bilgi gerekir?",
+        "Anonim başvurunun kapsamını ve sınırlarını açıkça belirtin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci ismini açıklamadan oyun alanındaki zorbalığı bildirmek ister. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -770,44 +770,44 @@
   {
     "slug": "zorbalik-okul-ici-koruyucu-ag",
     "title": "Okul içi koruyucu ağ | Akran Zorbalığı",
-    "summary": "Okul içi koruyucu ağ konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Okul içi koruyucu ağ için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Okul içi koruyucu ağ konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Öğrencinin başvurabileceği yetişkin ve mekânları belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Okul içi koruyucu ağ ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Görevler belirsiz kalacak şekilde genel 'dikkat edelim' kararı almayın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Okul içi koruyucu ağ hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Okul içi koruyucu ağ: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Görevler belirsiz kalacak şekilde genel 'dikkat edelim' kararı almayın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Okul içi koruyucu ağ için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Okul içi koruyucu ağ çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Nöbetçi öğretmen ve rehberlik servisi teneffüs koruma görevini paylaşır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında okul içi koruyucu ağ konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Nöbetçi öğretmen ve rehberlik servisi teneffüs koruma görevini paylaşır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin okul içi koruyucu ağ hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin başvurabileceği yetişkin ve mekânları belirleyin.",
+      "Görevler belirsiz kalacak şekilde genel 'dikkat edelim' kararı almayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Okul içi koruyucu ağ için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Okul içi koruyucu ağ konusunda ilk önce hangi bilgi gerekir?",
+        "Öğrencinin başvurabileceği yetişkin ve mekânları belirleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Nöbetçi öğretmen ve rehberlik servisi teneffüs koruma görevini paylaşır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -818,44 +818,44 @@
   {
     "slug": "zorbalik-zorbalik-sonrasi-aidiyet",
     "title": "Zorbalık sonrası aidiyet | Akran Zorbalığı",
-    "summary": "Zorbalık sonrası aidiyet konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Zorbalık sonrası aidiyet için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Zorbalık sonrası aidiyet konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Olay sonrası öğrencinin arkadaşlık ve sınıf katılımını dinleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Zorbalık sonrası aidiyet ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Zorunlu arkadaşlaştırma yerine gönüllü güvenli etkinlik düzenleyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Zorbalık sonrası aidiyet hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Zorbalık sonrası aidiyet: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Zorunlu arkadaşlaştırma yerine gönüllü güvenli etkinlik düzenleyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Zorbalık sonrası aidiyet için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Zorbalık sonrası aidiyet çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci zorbalık durduktan sonra bile grup çalışmalarına katılmak istemez. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında zorbalık sonrası aidiyet konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci zorbalık durduktan sonra bile grup çalışmalarına katılmak istemez. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin zorbalık sonrası aidiyet hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Olay sonrası öğrencinin arkadaşlık ve sınıf katılımını dinleyin.",
+      "Zorunlu arkadaşlaştırma yerine gönüllü güvenli etkinlik düzenleyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Zorbalık sonrası aidiyet için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Zorbalık sonrası aidiyet konusunda ilk önce hangi bilgi gerekir?",
+        "Olay sonrası öğrencinin arkadaşlık ve sınıf katılımını dinleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci zorbalık durduktan sonra bile grup çalışmalarına katılmak istemez. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -866,44 +866,44 @@
   {
     "slug": "zorbalik-tekrarlanan-olay-kayitlari",
     "title": "Tekrarlanan olay kayıtları | Akran Zorbalığı",
-    "summary": "Tekrarlanan olay kayıtları konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Tekrarlanan olay kayıtları için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Tekrarlanan olay kayıtları konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Farklı olayları tarih, yer, davranış ve alınan önlemle kaydedin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Tekrarlanan olay kayıtları ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Yorum veya tanı yerine gözlenebilir bilgiyi kullanın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Tekrarlanan olay kayıtları hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Tekrarlanan olay kayıtları: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Yorum veya tanı yerine gözlenebilir bilgiyi kullanın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Tekrarlanan olay kayıtları için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Tekrarlanan olay kayıtları çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Üç ayrı teneffüste tekrarlanan olaylar bir izleme tablosunda tutulur. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında tekrarlanan olay kayıtları konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Üç ayrı teneffüste tekrarlanan olaylar bir izleme tablosunda tutulur. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin tekrarlanan olay kayıtları hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Farklı olayları tarih, yer, davranış ve alınan önlemle kaydedin.",
+      "Yorum veya tanı yerine gözlenebilir bilgiyi kullanın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Tekrarlanan olay kayıtları için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Tekrarlanan olay kayıtları konusunda ilk önce hangi bilgi gerekir?",
+        "Farklı olayları tarih, yer, davranış ve alınan önlemle kaydedin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Üç ayrı teneffüste tekrarlanan olaylar bir izleme tablosunda tutulur. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -914,44 +914,44 @@
   {
     "slug": "zorbalik-grup-mudahalesi-sinirlari",
     "title": "Grup müdahalesi sınırları | Akran Zorbalığı",
-    "summary": "Grup müdahalesi sınırları konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Grup müdahalesi sınırları için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Grup müdahalesi sınırları konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Sınıf etkinliğinin hedef öğrenci için yeni baskı yaratıp yaratmayacağını değerlendirin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Grup müdahalesi sınırları ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Yaşanan olayı canlandırma veya mağduru açıklama zorunluluğu getirmeyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Grup müdahalesi sınırları hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Grup müdahalesi sınırları: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Yaşanan olayı canlandırma veya mağduru açıklama zorunluluğu getirmeyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Grup müdahalesi sınırları için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Grup müdahalesi sınırları çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğretmen zorbalığı durdurmak için öğrencileri zorunlu barıştırmak ister. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında grup müdahalesi sınırları konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğretmen zorbalığı durdurmak için öğrencileri zorunlu barıştırmak ister. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin grup müdahalesi sınırları hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sınıf etkinliğinin hedef öğrenci için yeni baskı yaratıp yaratmayacağını değerlendirin.",
+      "Yaşanan olayı canlandırma veya mağduru açıklama zorunluluğu getirmeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Grup müdahalesi sınırları için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Grup müdahalesi sınırları konusunda ilk önce hangi bilgi gerekir?",
+        "Sınıf etkinliğinin hedef öğrenci için yeni baskı yaratıp yaratmayacağını değerlendirin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğretmen zorbalığı durdurmak için öğrencileri zorunlu barıştırmak ister. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -962,44 +962,44 @@
   {
     "slug": "zorbalik-akran-arabuluculugu-ayrimi",
     "title": "Akran arabuluculuğu ayrımı | Akran Zorbalığı",
-    "summary": "Akran arabuluculuğu ayrımı konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Akran arabuluculuğu ayrımı için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Akran arabuluculuğu ayrımı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Tekrar, korku ve güç farkı belirtilerini değerlendirin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Akran arabuluculuğu ayrımı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Zorbalıkta tarafları eşit kabul eden akran arabuluculuğunu otomatik uygulamayın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Akran arabuluculuğu ayrımı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Akran arabuluculuğu ayrımı: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Zorbalıkta tarafları eşit kabul eden akran arabuluculuğunu otomatik uygulamayın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Akran arabuluculuğu ayrımı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Akran arabuluculuğu ayrımı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Sürekli tehdit edilen öğrenci ortak uzlaşma masasına çağrılır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında akran arabuluculuğu ayrımı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Sürekli tehdit edilen öğrenci ortak uzlaşma masasına çağrılır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin akran arabuluculuğu ayrımı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Tekrar, korku ve güç farkı belirtilerini değerlendirin.",
+      "Zorbalıkta tarafları eşit kabul eden akran arabuluculuğunu otomatik uygulamayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Akran arabuluculuğu ayrımı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Akran arabuluculuğu ayrımı konusunda ilk önce hangi bilgi gerekir?",
+        "Tekrar, korku ve güç farkı belirtilerini değerlendirin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Sürekli tehdit edilen öğrenci ortak uzlaşma masasına çağrılır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -1010,44 +1010,44 @@
   {
     "slug": "zorbalik-olay-sonrasi-izleme-tarihi",
     "title": "Olay sonrası izleme tarihi | Akran Zorbalığı",
-    "summary": "Olay sonrası izleme tarihi konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Olay sonrası izleme tarihi için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Olay sonrası izleme tarihi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "İzleme tarihini olayın ciddiyetine ve tekrar riskine göre belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Olay sonrası izleme tarihi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Tek bir özür sonrası dosyayı hemen kapatmayın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Olay sonrası izleme tarihi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Olay sonrası izleme tarihi: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Tek bir özür sonrası dosyayı hemen kapatmayın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Olay sonrası izleme tarihi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Olay sonrası izleme tarihi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Müdahaleden üç gün sonra öğrenci teneffüs güvenliği için ayrı görüşmeye alınır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında olay sonrası izleme tarihi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Müdahaleden üç gün sonra öğrenci teneffüs güvenliği için ayrı görüşmeye alınır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin olay sonrası izleme tarihi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "İzleme tarihini olayın ciddiyetine ve tekrar riskine göre belirleyin.",
+      "Tek bir özür sonrası dosyayı hemen kapatmayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Olay sonrası izleme tarihi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Olay sonrası izleme tarihi konusunda ilk önce hangi bilgi gerekir?",
+        "İzleme tarihini olayın ciddiyetine ve tekrar riskine göre belirleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Müdahaleden üç gün sonra öğrenci teneffüs güvenliği için ayrı görüşmeye alınır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -1058,44 +1058,44 @@
   {
     "slug": "zorbalik-sinif-dilinde-ayrimcilik",
     "title": "Sınıf dilinde ayrımcılık | Akran Zorbalığı",
-    "summary": "Sınıf dilinde ayrımcılık konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınıf dilinde ayrımcılık için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınıf dilinde ayrımcılık konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Ayrımcı sözün hedeflediği özelliği sınıf önünde yeniden ilan etmeyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınıf dilinde ayrımcılık ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Ayrımcılığa 'farklı fikir' muamelesi yapmayın. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Sınıf dilinde ayrımcılık hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Sınıf dilinde ayrımcılık: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Ayrımcılığa 'farklı fikir' muamelesi yapmayın; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Sınıf dilinde ayrımcılık için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Sınıf dilinde ayrımcılık çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrencinin konuşma biçimiyle alay edilir ve sınıfta dışlanır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınıf dilinde ayrımcılık konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrencinin konuşma biçimiyle alay edilir ve sınıfta dışlanır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin sınıf dilinde ayrımcılık hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Ayrımcı sözün hedeflediği özelliği sınıf önünde yeniden ilan etmeyin.",
+      "Ayrımcılığa 'farklı fikir' muamelesi yapmayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Sınıf dilinde ayrımcılık için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınıf dilinde ayrımcılık konusunda ilk önce hangi bilgi gerekir?",
+        "Ayrımcı sözün hedeflediği özelliği sınıf önünde yeniden ilan etmeyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrencinin konuşma biçimiyle alay edilir ve sınıfta dışlanır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -1106,44 +1106,44 @@
   {
     "slug": "zorbalik-oyun-alaninda-dislanma",
     "title": "Oyun alanında dışlanma | Akran Zorbalığı",
-    "summary": "Oyun alanında dışlanma konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Oyun alanında dışlanma için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Oyun alanında dışlanma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Oyun kurallarının kimleri sürekli dışarıda bıraktığını gözlemleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Oyun alanında dışlanma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Hedef öğrenciyi oynatmayı zorunlu dayanışma gösterisine çevirmeyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Oyun alanında dışlanma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Oyun alanında dışlanma: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Hedef öğrenciyi oynatmayı zorunlu dayanışma gösterisine çevirmeyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Oyun alanında dışlanma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Oyun alanında dışlanma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Futbol grubu her gün aynı öğrencinin katılımını engeller. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında oyun alanında dışlanma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Futbol grubu her gün aynı öğrencinin katılımını engeller. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin oyun alanında dışlanma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Oyun kurallarının kimleri sürekli dışarıda bıraktığını gözlemleyin.",
+      "Hedef öğrenciyi oynatmayı zorunlu dayanışma gösterisine çevirmeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Oyun alanında dışlanma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Oyun alanında dışlanma konusunda ilk önce hangi bilgi gerekir?",
+        "Oyun kurallarının kimleri sürekli dışarıda bıraktığını gözlemleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Futbol grubu her gün aynı öğrencinin katılımını engeller. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -1154,44 +1154,44 @@
   {
     "slug": "zorbalik-guvenli-okul-iklimi-geri-bildirimi",
     "title": "Güvenli okul iklimi geri bildirimi | Akran Zorbalığı",
-    "summary": "Güvenli okul iklimi geri bildirimi konusunda akran zorbalığı kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Güvenli okul iklimi geri bildirimi için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Güvenli okul iklimi geri bildirimi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Güvenlik ve aidiyet sorularını kişi tanıtmayacak biçimde sorun. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Güvenli okul iklimi geri bildirimi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Anket sonuçlarını tek öğrencinin bildirimine indirgemeyin. Güç dengesizliği, tekrar ve misilleme riski varsa öğrencileri yüzleştirmeden koruyucu okul sürecini işletin."
       ],
       [
-        "Uygulama",
-        "Güvenli okul iklimi geri bildirimi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Güvenli okul iklimi geri bildirimi: uygulama adımı",
+        "Önce güvenli başvuru ve yetişkin gözetimini düzenleyin. Anket sonuçlarını tek öğrencinin bildirimine indirgemeyin; öğrencinin kişisel yaşantısını sınıf etkinliğinde açıklamayın."
       ],
       [
-        "İş birliği",
-        "Güvenli okul iklimi geri bildirimi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "Öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. Öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
       ],
       [
-        "Takip",
-        "Güvenli okul iklimi geri bildirimi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Anonim sınıf yoklamasında teneffüs alanında korku yaşayanların arttığı görülür. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında güvenli okul iklimi geri bildirimi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Anonim sınıf yoklamasında teneffüs alanında korku yaşayanların arttığı görülür. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin güvenli okul iklimi geri bildirimi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Güvenlik ve aidiyet sorularını kişi tanıtmayacak biçimde sorun.",
+      "Anket sonuçlarını tek öğrencinin bildirimine indirgemeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Güvenli okul iklimi geri bildirimi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Güvenli okul iklimi geri bildirimi konusunda ilk önce hangi bilgi gerekir?",
+        "Güvenlik ve aidiyet sorularını kişi tanıtmayacak biçimde sorun. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Anonim sınıf yoklamasında teneffüs alanında korku yaşayanların arttığı görülür. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
