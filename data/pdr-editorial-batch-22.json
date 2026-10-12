@@ -2,44 +2,44 @@
   {
     "slug": "kariyer-ilgi-envanteri-sonuclarini-konusma",
     "title": "İlgi envanteri sonuçlarını konuşma | Kariyer ve Mesleki Rehberlik",
-    "summary": "İlgi envanteri sonuçlarını konuşma konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "İlgi envanteri sonuçlarını konuşma: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "İlgi envanteri sonuçlarını konuşma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Envanter sonucunu hüküm değil veri olarak ele almak",
+        "İlgi envanterinin hangi amaçla uygulandığını ve sonuçların hangi grupları betimlediğini öğrenciye açıklayın. Tek ölçümden 'şu mesleği seçmelisin' kararı çıkarmayın."
       ],
       [
-        "Güvenlik ve etik",
-        "İlgi envanteri sonuçlarını konuşma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Öğrencinin deneyimiyle karşılaştırmak",
+        "Yüksek görünen ilgi alanı için öğrenciden somut ders, hobi veya proje örneği isteyin; uyumsuz bulduğu sonuçlara ilişkin yorum hakkı tanıyın."
       ],
       [
-        "Uygulama",
-        "İlgi envanteri sonuçlarını konuşma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye ilgi envanteri sonuçlarını konuşma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "İlgi envanteri sonuçlarını konuşma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "İlgi envanteri sonuçlarını konuşma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Yüksek görünen ilgi alanı için öğrenciden somut ders, hobi veya proje örneği isteyin; uyumsuz bulduğu sonuçlara ilişkin yorum hakkı tanıyın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında ilgi envanteri sonuçlarını konuşma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci envanterde sosyal alanda yüksek puan alır, ancak bunun kendisini tanımlamadığını söyler. Sonuç kesin karar yerine yeni deneyim araştırmak için kullanılır.",
     "check": [
-      "Öğrencinin ilgi envanteri sonuçlarını konuşma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "İlgi envanterinin hangi amaçla uygulandığını ve sonuçların hangi grupları betimlediğini öğrenciye açıklayın.",
+      "Yüksek görünen ilgi alanı için öğrenciden somut ders, hobi veya proje örneği isteyin; uyumsuz bulduğu sonuçlara ilişkin yorum hakkı tanıyın.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "İlgi envanteri sonuçlarını konuşma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "İlgi envanteri sonuçlarını konuşma konusunda ilk hangi ayrım yapılmalı?",
+        "İlgi envanterinin hangi amaçla uygulandığını ve sonuçların hangi grupları betimlediğini öğrenciye açıklayın. Tek ölçümden 'şu mesleği seçmelisin' kararı çıkarmayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Yüksek görünen ilgi alanı için öğrenciden somut ders, hobi veya proje örneği isteyin; uyumsuz bulduğu sonuçlara ilişkin yorum hakkı tanıyın."
       ]
     ],
     "search_terms": [
@@ -50,44 +50,44 @@
   {
     "slug": "kariyer-mesleklerin-gunluk-gorevleri",
     "title": "Mesleklerin günlük görevleri | Kariyer ve Mesleki Rehberlik",
-    "summary": "Mesleklerin günlük görevleri konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Mesleklerin günlük görevleri: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Mesleklerin günlük görevleri konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Meslek adıyla iş gününü ayırmak",
+        "Bir mesleğin günlük çalışma görevleri, zaman düzeni ve ekip ilişkileri hakkındaki güvenilir bilgileri araştırın; yalnızca popüler tanıtım videosuyla yetinmeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Mesleklerin günlük görevleri ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Görev günlüğü karşılaştırması",
+        "Öğrenciden iki meslek için bir iş gününde yapılan üç somut görev ve zorlayıcı bir koşul yazmasını isteyin. Bilinmeyen alanları uzman görüşmesi için soru hâline getirin."
       ],
       [
-        "Uygulama",
-        "Mesleklerin günlük görevleri hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye mesleklerin günlük görevleri hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Mesleklerin günlük görevleri için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Mesleklerin günlük görevleri çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciden iki meslek için bir iş gününde yapılan üç somut görev ve zorlayıcı bir koşul yazmasını isteyin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında mesleklerin günlük görevleri konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci psikolog olmayı yalnızca danışanla konuşmak sanır; çalışma ortamları ve görev çeşitliliğini araştırınca daha ayrıntılı sorular üretir.",
     "check": [
-      "Öğrencinin mesleklerin günlük görevleri hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Bir mesleğin günlük çalışma görevleri, zaman düzeni ve ekip ilişkileri hakkındaki güvenilir bilgileri araştırın; yalnızca popüler tanıtım videosuyla yetinmeyin.",
+      "Öğrenciden iki meslek için bir iş gününde yapılan üç somut görev ve zorlayıcı bir koşul yazmasını isteyin.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Mesleklerin günlük görevleri için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Mesleklerin günlük görevleri konusunda ilk hangi ayrım yapılmalı?",
+        "Bir mesleğin günlük çalışma görevleri, zaman düzeni ve ekip ilişkileri hakkındaki güvenilir bilgileri araştırın; yalnızca popüler tanıtım videosuyla yetinmeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenciden iki meslek için bir iş gününde yapılan üç somut görev ve zorlayıcı bir koşul yazmasını isteyin. Bilinmeyen alanları uzman görüşmesi için soru hâline getirin."
       ]
     ],
     "search_terms": [
@@ -98,44 +98,44 @@
   {
     "slug": "kariyer-egitim-yolu-arastirma",
     "title": "Eğitim yolu araştırma | Kariyer ve Mesleki Rehberlik",
-    "summary": "Eğitim yolu araştırma konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Eğitim yolu araştırma: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Eğitim yolu araştırma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Mesleğe giden tek yol varsayımını sorgulamak",
+        "Bir iş alanına erişimin farklı eğitim, sertifika veya uygulama koşulları olabilir. Resmî ve güncel program bilgisi kullanılmadan yol garanti edilmemelidir."
       ],
       [
-        "Güvenlik ve etik",
-        "Eğitim yolu araştırma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Eğitim yolu haritası",
+        "Öğrenci ilgilendiği meslek için giriş koşulları, eğitim basamağı, uygulama gereksinimi ve güncel kaynak tarihini gösteren şema hazırlar."
       ],
       [
-        "Uygulama",
-        "Eğitim yolu araştırma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye eğitim yolu araştırma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Eğitim yolu araştırma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Eğitim yolu araştırma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci ilgilendiği meslek için giriş koşulları, eğitim basamağı, uygulama gereksinimi ve güncel kaynak tarihini gösteren şema hazırlar. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında eğitim yolu araştırma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci yazılımla ilgili meslekleri merak eder; farklı eğitim yollarının koşullarını araştırır ve tek okul adını zorunlu yol saymaz.",
     "check": [
-      "Öğrencinin eğitim yolu araştırma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Bir iş alanına erişimin farklı eğitim, sertifika veya uygulama koşulları olabilir.",
+      "Öğrenci ilgilendiği meslek için giriş koşulları, eğitim basamağı, uygulama gereksinimi ve güncel kaynak tarihini gösteren şema hazırlar.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Eğitim yolu araştırma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Eğitim yolu araştırma konusunda ilk hangi ayrım yapılmalı?",
+        "Bir iş alanına erişimin farklı eğitim, sertifika veya uygulama koşulları olabilir. Resmî ve güncel program bilgisi kullanılmadan yol garanti edilmemelidir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenci ilgilendiği meslek için giriş koşulları, eğitim basamağı, uygulama gereksinimi ve güncel kaynak tarihini gösteren şema hazırlar."
       ]
     ],
     "search_terms": [
@@ -146,44 +146,44 @@
   {
     "slug": "kariyer-mesleki-degerleri-karsilastirma",
     "title": "Mesleki değerleri karşılaştırma | Kariyer ve Mesleki Rehberlik",
-    "summary": "Mesleki değerleri karşılaştırma konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Mesleki değerleri karşılaştırma: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Mesleki değerleri karşılaştırma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Değerleri kişisel öncelik olarak belirlemek",
+        "Gelir, güvence, yaratıcılık, esneklik veya toplumsal katkı herkes için aynı önem sırasına sahip değildir. Ailenin sıralamasını öğrencininki yerine koymayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Mesleki değerleri karşılaştırma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İki meslek üzerinden değer analizi",
+        "Öğrenci üç değer seçerek iki iş ortamının bunlarla ilişkisini araştırır; mesleğe ait kanıtlanmamış genellemeleri veri gibi kullanmaz."
       ],
       [
-        "Uygulama",
-        "Mesleki değerleri karşılaştırma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye mesleki değerleri karşılaştırma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Mesleki değerleri karşılaştırma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Mesleki değerleri karşılaştırma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci üç değer seçerek iki iş ortamının bunlarla ilişkisini araştırır; mesleğe ait kanıtlanmamış genellemeleri veri gibi kullanmaz. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında mesleki değerleri karşılaştırma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci hem toplumsal katkıyı hem esnek saatleri önemser. İlgilendiği iki mesleğin gerçek çalışma koşullarını ayrı inceler.",
     "check": [
-      "Öğrencinin mesleki değerleri karşılaştırma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Gelir, güvence, yaratıcılık, esneklik veya toplumsal katkı herkes için aynı önem sırasına sahip değildir.",
+      "Öğrenci üç değer seçerek iki iş ortamının bunlarla ilişkisini araştırır; mesleğe ait kanıtlanmamış genellemeleri veri gibi kullanmaz.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Mesleki değerleri karşılaştırma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Mesleki değerleri karşılaştırma konusunda ilk hangi ayrım yapılmalı?",
+        "Gelir, güvence, yaratıcılık, esneklik veya toplumsal katkı herkes için aynı önem sırasına sahip değildir. Ailenin sıralamasını öğrencininki yerine koymayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenci üç değer seçerek iki iş ortamının bunlarla ilişkisini araştırır; mesleğe ait kanıtlanmamış genellemeleri veri gibi kullanmaz."
       ]
     ],
     "search_terms": [
@@ -194,44 +194,44 @@
   {
     "slug": "kariyer-gelecek-mesleklerini-arastirma",
     "title": "Gelecek mesleklerini araştırma | Kariyer ve Mesleki Rehberlik",
-    "summary": "Gelecek mesleklerini araştırma konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Gelecek mesleklerini araştırma: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Gelecek mesleklerini araştırma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Gelecek tahminlerini kesinlikten ayırmak",
+        "Yapay zekâ veya otomasyonla ilgili meslek tahminleri belirsizdir. 'Kesin yok olacak' veya 'garanti iş' söylemlerini sorgulayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Gelecek mesleklerini araştırma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Beceri dönüşümünü incelemek",
+        "Öğrenciden bir mesleğin bugün yapılan görevleri ve teknolojiden etkilenebilecek görevleri için doğrulanabilir örnekler bulmasını isteyin."
       ],
       [
-        "Uygulama",
-        "Gelecek mesleklerini araştırma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye gelecek mesleklerini araştırma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Gelecek mesleklerini araştırma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Gelecek mesleklerini araştırma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciden bir mesleğin bugün yapılan görevleri ve teknolojiden etkilenebilecek görevleri için doğrulanabilir örnekler bulmasını isteyin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında gelecek mesleklerini araştırma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci bir mesleğin tamamen biteceğini okur. Haberin tarihini ve kaynağını araştırır, o alandaki değişen becerileri inceler.",
     "check": [
-      "Öğrencinin gelecek mesleklerini araştırma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Yapay zekâ veya otomasyonla ilgili meslek tahminleri belirsizdir.",
+      "Öğrenciden bir mesleğin bugün yapılan görevleri ve teknolojiden etkilenebilecek görevleri için doğrulanabilir örnekler bulmasını isteyin.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Gelecek mesleklerini araştırma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Gelecek mesleklerini araştırma konusunda ilk hangi ayrım yapılmalı?",
+        "Yapay zekâ veya otomasyonla ilgili meslek tahminleri belirsizdir. 'Kesin yok olacak' veya 'garanti iş' söylemlerini sorgulayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenciden bir mesleğin bugün yapılan görevleri ve teknolojiden etkilenebilecek görevleri için doğrulanabilir örnekler bulmasını isteyin."
       ]
     ],
     "search_terms": [
@@ -242,44 +242,44 @@
   {
     "slug": "kariyer-mesleklere-iliskin-onyargi",
     "title": "Mesleklere ilişkin önyargı | Kariyer ve Mesleki Rehberlik",
-    "summary": "Mesleklere ilişkin önyargı konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Mesleklere ilişkin önyargı: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Mesleklere ilişkin önyargı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Meslek önyargısının biçimini tanımak",
+        "Cinsiyet, gelir, engellilik veya aile mesleği gibi etkenlere dayalı 'bu iş sana uygun değil' ifadelerini kurgusal örneklerle inceleyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Mesleklere ilişkin önyargı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Koşula dayalı araştırma",
+        "Bir mesleğin gerçek eğitim ve görev koşullarını kalıp yargılarından ayırın; tek kişilik örnekten bütün meslek grubuna hüküm çıkarmayın."
       ],
       [
-        "Uygulama",
-        "Mesleklere ilişkin önyargı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye mesleklere ilişkin önyargı hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Mesleklere ilişkin önyargı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Mesleklere ilişkin önyargı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Bir mesleğin gerçek eğitim ve görev koşullarını kalıp yargılarından ayırın; tek kişilik örnekten bütün meslek grubuna hüküm çıkarmayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında mesleklere ilişkin önyargı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Sınıfta teknik mesleklerin yalnızca bir cinsiyete uygun olduğu söylenir. Öğrenciler meslek gereklerini tarafsız kaynaklarla araştırır.",
     "check": [
-      "Öğrencinin mesleklere ilişkin önyargı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Cinsiyet, gelir, engellilik veya aile mesleği gibi etkenlere dayalı 'bu iş sana uygun değil' ifadelerini kurgusal örneklerle inceleyin.",
+      "Bir mesleğin gerçek eğitim ve görev koşullarını kalıp yargılarından ayırın; tek kişilik örnekten bütün meslek grubuna hüküm çıkarmayın.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Mesleklere ilişkin önyargı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Mesleklere ilişkin önyargı konusunda ilk hangi ayrım yapılmalı?",
+        "Cinsiyet, gelir, engellilik veya aile mesleği gibi etkenlere dayalı 'bu iş sana uygun değil' ifadelerini kurgusal örneklerle inceleyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Bir mesleğin gerçek eğitim ve görev koşullarını kalıp yargılarından ayırın; tek kişilik örnekten bütün meslek grubuna hüküm çıkarmayın."
       ]
     ],
     "search_terms": [
@@ -290,44 +290,44 @@
   {
     "slug": "kariyer-bolum-ders-planini-okuma",
     "title": "Bölüm ders planını okuma | Kariyer ve Mesleki Rehberlik",
-    "summary": "Bölüm ders planını okuma konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Bölüm ders planını okuma: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Bölüm ders planını okuma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Ders planında neye bakılır?",
+        "Aynı isimli programlarda zorunlu ders, seçmeli ders, uygulama ve eğitim dili değişebilir. Üniversitenin güncel ders planını temel alın."
       ],
       [
-        "Güvenlik ve etik",
-        "Bölüm ders planını okuma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İki programı yan yana okuma",
+        "Öğrenci ilk yıl derslerini ve uygulamalı ders oranını karşılaştırır; anlamadığı kavramlar için bölümün resmî açıklamalarını inceler."
       ],
       [
-        "Uygulama",
-        "Bölüm ders planını okuma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye bölüm ders planını okuma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Bölüm ders planını okuma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Bölüm ders planını okuma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci ilk yıl derslerini ve uygulamalı ders oranını karşılaştırır; anlamadığı kavramlar için bölümün resmî açıklamalarını inceler. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında bölüm ders planını okuma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci iki farklı üniversitede aynı bölüm adını görür; ders planları arasında zorunlu proje dersleri açısından fark bulur.",
     "check": [
-      "Öğrencinin bölüm ders planını okuma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Aynı isimli programlarda zorunlu ders, seçmeli ders, uygulama ve eğitim dili değişebilir.",
+      "Öğrenci ilk yıl derslerini ve uygulamalı ders oranını karşılaştırır; anlamadığı kavramlar için bölümün resmî açıklamalarını inceler.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Bölüm ders planını okuma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Bölüm ders planını okuma konusunda ilk hangi ayrım yapılmalı?",
+        "Aynı isimli programlarda zorunlu ders, seçmeli ders, uygulama ve eğitim dili değişebilir. Üniversitenin güncel ders planını temel alın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenci ilk yıl derslerini ve uygulamalı ders oranını karşılaştırır; anlamadığı kavramlar için bölümün resmî açıklamalarını inceler."
       ]
     ],
     "search_terms": [
@@ -338,44 +338,44 @@
   {
     "slug": "kariyer-resm-program-kosullari",
     "title": "Resmî program koşulları | Kariyer ve Mesleki Rehberlik",
-    "summary": "Resmî program koşulları konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Resmî program koşulları: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Resmî program koşulları konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Program koşulunu resmî metinden kontrol etmek",
+        "Öğrenim dili, özel koşullar, program kodu ve kontenjan için ilgili yılın resmî tercih kılavuzunu kontrol edin. Geçen yılın ekran görüntüsünü geçerli koşul saymayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Resmî program koşulları ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kontrol tablosu hazırlamak",
+        "Program kodu, koşul, bilginin kaynağı ve kontrol tarihi alanlarını doldurun. Eksik bilgiyi 'doğrulanmadı' olarak işaretleyin."
       ],
       [
-        "Uygulama",
-        "Resmî program koşulları hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye resmî program koşulları hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Resmî program koşulları için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Resmî program koşulları çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Program kodu, koşul, bilginin kaynağı ve kontrol tarihi alanlarını doldurun. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında resmî program koşulları konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci bölüm tanıtım sitesinde hazırlık sınıfı yazmadığını görür; güncel resmî koşulda zorunlu hazırlık bilgisi bulunduğunu fark eder.",
     "check": [
-      "Öğrencinin resmî program koşulları hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenim dili, özel koşullar, program kodu ve kontenjan için ilgili yılın resmî tercih kılavuzunu kontrol edin.",
+      "Program kodu, koşul, bilginin kaynağı ve kontrol tarihi alanlarını doldurun.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Resmî program koşulları için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Resmî program koşulları konusunda ilk hangi ayrım yapılmalı?",
+        "Öğrenim dili, özel koşullar, program kodu ve kontenjan için ilgili yılın resmî tercih kılavuzunu kontrol edin. Geçen yılın ekran görüntüsünü geçerli koşul saymayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Program kodu, koşul, bilginin kaynağı ve kontrol tarihi alanlarını doldurun. Eksik bilgiyi 'doğrulanmadı' olarak işaretleyin."
       ]
     ],
     "search_terms": [
@@ -386,44 +386,44 @@
   {
     "slug": "kariyer-aile-meslek-beklentisi",
     "title": "Aile meslek beklentisi | Kariyer ve Mesleki Rehberlik",
-    "summary": "Aile meslek beklentisi konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Aile meslek beklentisi: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Aile meslek beklentisi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Aile beklentisinin ardındaki ihtiyacı dinlemek",
+        "Ailenin meslek tercihi çoğu zaman gelir, iş güvencesi veya şehir kaygısıyla bağlantılı olabilir. Öğrencinin ilgisini de ayrı değerlendirin."
       ],
       [
-        "Güvenlik ve etik",
-        "Aile meslek beklentisi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Ölçütleri karşılaştırma",
+        "Aileyle ortak görüşmede her tarafın üç karar ölçütünü yazdırın; öğrenci kendi kararını açıklarken kesintiye uğratılmasın."
       ],
       [
-        "Uygulama",
-        "Aile meslek beklentisi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye aile meslek beklentisi hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Aile meslek beklentisi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Aile meslek beklentisi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Aileyle ortak görüşmede her tarafın üç karar ölçütünü yazdırın; öğrenci kendi kararını açıklarken kesintiye uğratılmasın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında aile meslek beklentisi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci tasarım alanına ilgi duyar, aile iş güvencesinden kaygılanır. Program ve meslek seçenekleri ortak ölçütlerle araştırılır.",
     "check": [
-      "Öğrencinin aile meslek beklentisi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Ailenin meslek tercihi çoğu zaman gelir, iş güvencesi veya şehir kaygısıyla bağlantılı olabilir.",
+      "Aileyle ortak görüşmede her tarafın üç karar ölçütünü yazdırın; öğrenci kendi kararını açıklarken kesintiye uğratılmasın.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Aile meslek beklentisi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Aile meslek beklentisi konusunda ilk hangi ayrım yapılmalı?",
+        "Ailenin meslek tercihi çoğu zaman gelir, iş güvencesi veya şehir kaygısıyla bağlantılı olabilir. Öğrencinin ilgisini de ayrı değerlendirin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Aileyle ortak görüşmede her tarafın üç karar ölçütünü yazdırın; öğrenci kendi kararını açıklarken kesintiye uğratılmasın."
       ]
     ],
     "search_terms": [
@@ -434,44 +434,44 @@
   {
     "slug": "kariyer-meslek-seciminde-akran-etkisi",
     "title": "Meslek seçiminde akran etkisi | Kariyer ve Mesleki Rehberlik",
-    "summary": "Meslek seçiminde akran etkisi konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Meslek seçiminde akran etkisi: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Meslek seçiminde akran etkisi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Arkadaş etkisini öğrenci tercihinden ayırmak",
+        "Öğrencinin bir mesleğe ilgisinin nereden başladığını ve neyi merak ettiğini sorun; arkadaş grubunun seçimini yanlış diye damgalamayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Meslek seçiminde akran etkisi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Bağımsız karar ölçütü",
+        "Aynı mesleği seçen arkadaşlarından bağımsız olarak görev, eğitim yolu ve çalışma ortamı için bilgi toplama görevi verin."
       ],
       [
-        "Uygulama",
-        "Meslek seçiminde akran etkisi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye meslek seçiminde akran etkisi hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Meslek seçiminde akran etkisi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Meslek seçiminde akran etkisi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Aynı mesleği seçen arkadaşlarından bağımsız olarak görev, eğitim yolu ve çalışma ortamı için bilgi toplama görevi verin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında meslek seçiminde akran etkisi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci üç arkadaşıyla aynı bölüme gitmek ister; ders planını araştırınca kendi ilgisinin başka alanlara da uzandığını görür.",
     "check": [
-      "Öğrencinin meslek seçiminde akran etkisi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin bir mesleğe ilgisinin nereden başladığını ve neyi merak ettiğini sorun; arkadaş grubunun seçimini yanlış diye damgalamayın.",
+      "Aynı mesleği seçen arkadaşlarından bağımsız olarak görev, eğitim yolu ve çalışma ortamı için bilgi toplama görevi verin.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Meslek seçiminde akran etkisi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Meslek seçiminde akran etkisi konusunda ilk hangi ayrım yapılmalı?",
+        "Öğrencinin bir mesleğe ilgisinin nereden başladığını ve neyi merak ettiğini sorun; arkadaş grubunun seçimini yanlış diye damgalamayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Aynı mesleği seçen arkadaşlarından bağımsız olarak görev, eğitim yolu ve çalışma ortamı için bilgi toplama görevi verin."
       ]
     ],
     "search_terms": [
@@ -482,44 +482,44 @@
   {
     "slug": "kariyer-guclu-yon-ve-beceri-eslestirme",
     "title": "Güçlü yön ve beceri eşleştirme | Kariyer ve Mesleki Rehberlik",
-    "summary": "Güçlü yön ve beceri eşleştirme konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Güçlü yön ve beceri eşleştirme: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Güçlü yön ve beceri eşleştirme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Beceriyi yalnızca notla ölçmemek",
+        "Ders başarısının yanında problem çözme, dinleme, örgütleme ve üretim gibi somut deneyimleri sorgulayın. 'Doğuştan yetenek' etiketlerinden kaçının."
       ],
       [
-        "Güvenlik ve etik",
-        "Güçlü yön ve beceri eşleştirme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Deneyim-beceri eşleştirme",
+        "Öğrenci yaptığı üç etkinliği ve bu etkinliklerde kullandığı davranışları yazar; meslek araştırmasında bu becerilerin kullanımını inceler."
       ],
       [
-        "Uygulama",
-        "Güçlü yön ve beceri eşleştirme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye güçlü yön ve beceri eşleştirme hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Güçlü yön ve beceri eşleştirme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Güçlü yön ve beceri eşleştirme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci yaptığı üç etkinliği ve bu etkinliklerde kullandığı davranışları yazar; meslek araştırmasında bu becerilerin kullanımını inceler. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında güçlü yön ve beceri eşleştirme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Okul etkinliği organize eden öğrenci planlama becerisini fark eder; farklı mesleklerin hangi görevlerinde bu beceriyi kullandığını araştırır.",
     "check": [
-      "Öğrencinin güçlü yön ve beceri eşleştirme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Ders başarısının yanında problem çözme, dinleme, örgütleme ve üretim gibi somut deneyimleri sorgulayın.",
+      "Öğrenci yaptığı üç etkinliği ve bu etkinliklerde kullandığı davranışları yazar; meslek araştırmasında bu becerilerin kullanımını inceler.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Güçlü yön ve beceri eşleştirme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Güçlü yön ve beceri eşleştirme konusunda ilk hangi ayrım yapılmalı?",
+        "Ders başarısının yanında problem çözme, dinleme, örgütleme ve üretim gibi somut deneyimleri sorgulayın. 'Doğuştan yetenek' etiketlerinden kaçının."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenci yaptığı üç etkinliği ve bu etkinliklerde kullandığı davranışları yazar; meslek araştırmasında bu becerilerin kullanımını inceler."
       ]
     ],
     "search_terms": [
@@ -530,44 +530,44 @@
   {
     "slug": "kariyer-is-ortami-tercihleri",
     "title": "İş ortamı tercihleri | Kariyer ve Mesleki Rehberlik",
-    "summary": "İş ortamı tercihleri konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "İş ortamı tercihleri: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "İş ortamı tercihleri konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Tercih edilen iş ortamını tanımlamak",
+        "Sessiz ofis, hareketli saha, ekip çalışması veya bağımsız görev gibi tercihleri gerçek görev koşullarından ayırarak sorun."
       ],
       [
-        "Güvenlik ve etik",
-        "İş ortamı tercihleri ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İş ortamı haritası",
+        "İki mesleğin çalışma yeri, insan ilişkisi, mesai ve hareketlilik özelliklerini doğrulanabilir bilgiye göre karşılaştırın."
       ],
       [
-        "Uygulama",
-        "İş ortamı tercihleri hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye iş ortamı tercihleri hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "İş ortamı tercihleri için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "İş ortamı tercihleri çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. İki mesleğin çalışma yeri, insan ilişkisi, mesai ve hareketlilik özelliklerini doğrulanabilir bilgiye göre karşılaştırın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında iş ortamı tercihleri konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci masa başı iş istemediğini söyler, ancak merak ettiği mesleğin hem saha hem ofis görevleri olduğunu öğrenir.",
     "check": [
-      "Öğrencinin iş ortamı tercihleri hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sessiz ofis, hareketli saha, ekip çalışması veya bağımsız görev gibi tercihleri gerçek görev koşullarından ayırarak sorun.",
+      "İki mesleğin çalışma yeri, insan ilişkisi, mesai ve hareketlilik özelliklerini doğrulanabilir bilgiye göre karşılaştırın.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "İş ortamı tercihleri için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "İş ortamı tercihleri konusunda ilk hangi ayrım yapılmalı?",
+        "Sessiz ofis, hareketli saha, ekip çalışması veya bağımsız görev gibi tercihleri gerçek görev koşullarından ayırarak sorun."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "İki mesleğin çalışma yeri, insan ilişkisi, mesai ve hareketlilik özelliklerini doğrulanabilir bilgiye göre karşılaştırın."
       ]
     ],
     "search_terms": [
@@ -578,44 +578,44 @@
   {
     "slug": "kariyer-universite-yasami-beklentileri",
     "title": "Üniversite yaşamı beklentileri | Kariyer ve Mesleki Rehberlik",
-    "summary": "Üniversite yaşamı beklentileri konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Üniversite yaşamı beklentileri: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Üniversite yaşamı beklentileri konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Üniversiteyi yalnızca derslerle tanımlamamak",
+        "Ulaşım, barınma, sosyal katılım, akademik destek ve bağımsız yaşam becerileri öğrencinin deneyimini etkileyebilir."
       ],
       [
-        "Güvenlik ve etik",
-        "Üniversite yaşamı beklentileri ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İhtiyaç kontrol listesi",
+        "Öğrenci yeni ortam için hangi bilgilere ihtiyaç duyduğunu belirler; üniversitenin resmî öğrenci hizmetlerinden araştırma yapar."
       ],
       [
-        "Uygulama",
-        "Üniversite yaşamı beklentileri hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye üniversite yaşamı beklentileri hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Üniversite yaşamı beklentileri için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Üniversite yaşamı beklentileri çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci yeni ortam için hangi bilgilere ihtiyaç duyduğunu belirler; üniversitenin resmî öğrenci hizmetlerinden araştırma yapar. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında üniversite yaşamı beklentileri konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Başka şehirde okumak isteyen öğrenci yalnızca bölüm listesi hazırlamıştır; barınma ve akademik destek olanaklarını da araştırır.",
     "check": [
-      "Öğrencinin üniversite yaşamı beklentileri hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Ulaşım, barınma, sosyal katılım, akademik destek ve bağımsız yaşam becerileri öğrencinin deneyimini etkileyebilir.",
+      "Öğrenci yeni ortam için hangi bilgilere ihtiyaç duyduğunu belirler; üniversitenin resmî öğrenci hizmetlerinden araştırma yapar.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Üniversite yaşamı beklentileri için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Üniversite yaşamı beklentileri konusunda ilk hangi ayrım yapılmalı?",
+        "Ulaşım, barınma, sosyal katılım, akademik destek ve bağımsız yaşam becerileri öğrencinin deneyimini etkileyebilir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenci yeni ortam için hangi bilgilere ihtiyaç duyduğunu belirler; üniversitenin resmî öğrenci hizmetlerinden araştırma yapar."
       ]
     ],
     "search_terms": [
@@ -626,44 +626,44 @@
   {
     "slug": "kariyer-ogrenim-maliyetini-arastirma",
     "title": "Öğrenim maliyetini araştırma | Kariyer ve Mesleki Rehberlik",
-    "summary": "Öğrenim maliyetini araştırma konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Öğrenim maliyetini araştırma: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Öğrenim maliyetini araştırma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Toplam maliyeti doğru tanımlamak",
+        "Öğrenim ücreti tek gider değildir; barınma, ulaşım, beslenme ve materyal harcamaları da olabilir. Fiyatların değişebileceğini belirtin."
       ],
       [
-        "Güvenlik ve etik",
-        "Öğrenim maliyetini araştırma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Senaryolu bütçe karşılaştırması",
+        "Öğrenci iki şehir için maliyet kalemlerini yazar ve güncel resmî burs/yurt bilgilerini kontrol eder; belirsiz tutarı tahmin olarak işaretler."
       ],
       [
-        "Uygulama",
-        "Öğrenim maliyetini araştırma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye öğrenim maliyetini araştırma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Öğrenim maliyetini araştırma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Öğrenim maliyetini araştırma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci iki şehir için maliyet kalemlerini yazar ve güncel resmî burs/yurt bilgilerini kontrol eder; belirsiz tutarı tahmin olarak işaretler. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında öğrenim maliyetini araştırma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci burslu programı ücretsiz yaşam anlamına getirir; aylık barınma ve ulaşım giderlerini ayrı hesaplar.",
     "check": [
-      "Öğrencinin öğrenim maliyetini araştırma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenim ücreti tek gider değildir; barınma, ulaşım, beslenme ve materyal harcamaları da olabilir.",
+      "Öğrenci iki şehir için maliyet kalemlerini yazar ve güncel resmî burs/yurt bilgilerini kontrol eder; belirsiz tutarı tahmin olarak işaretler.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Öğrenim maliyetini araştırma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Öğrenim maliyetini araştırma konusunda ilk hangi ayrım yapılmalı?",
+        "Öğrenim ücreti tek gider değildir; barınma, ulaşım, beslenme ve materyal harcamaları da olabilir. Fiyatların değişebileceğini belirtin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenci iki şehir için maliyet kalemlerini yazar ve güncel resmî burs/yurt bilgilerini kontrol eder; belirsiz tutarı tahmin olarak işaretler."
       ]
     ],
     "search_terms": [
@@ -674,44 +674,44 @@
   {
     "slug": "kariyer-sehir-ve-ulasim-kosullari",
     "title": "Şehir ve ulaşım koşulları | Kariyer ve Mesleki Rehberlik",
-    "summary": "Şehir ve ulaşım koşulları konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Şehir ve ulaşım koşulları: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Şehir ve ulaşım koşulları konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Şehir koşullarını programdan ayrı ele almak",
+        "Şehir tercihini yalnızca üniversitenin tanınırlığına bağlamayın. Öğrencinin ulaşım, erişilebilirlik, güvenlik ve aile koşullarını dinleyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Şehir ve ulaşım koşulları ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Ulaşım senaryosu karşılaştırması",
+        "İki seçenek için günlük ulaşım süresi, konaklama ve sosyal destek erişimi alanlarını resmî bilgilerle karşılaştırın."
       ],
       [
-        "Uygulama",
-        "Şehir ve ulaşım koşulları hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye şehir ve ulaşım koşulları hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Şehir ve ulaşım koşulları için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Şehir ve ulaşım koşulları çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. İki seçenek için günlük ulaşım süresi, konaklama ve sosyal destek erişimi alanlarını resmî bilgilerle karşılaştırın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında şehir ve ulaşım koşulları konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci uzak şehirdeki bölümü ister; barınma ve ulaşım olanaklarını araştırınca tercih ölçütlerini yeniden düzenler.",
     "check": [
-      "Öğrencinin şehir ve ulaşım koşulları hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Şehir tercihini yalnızca üniversitenin tanınırlığına bağlamayın.",
+      "İki seçenek için günlük ulaşım süresi, konaklama ve sosyal destek erişimi alanlarını resmî bilgilerle karşılaştırın.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Şehir ve ulaşım koşulları için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Şehir ve ulaşım koşulları konusunda ilk hangi ayrım yapılmalı?",
+        "Şehir tercihini yalnızca üniversitenin tanınırlığına bağlamayın. Öğrencinin ulaşım, erişilebilirlik, güvenlik ve aile koşullarını dinleyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "İki seçenek için günlük ulaşım süresi, konaklama ve sosyal destek erişimi alanlarını resmî bilgilerle karşılaştırın."
       ]
     ],
     "search_terms": [
@@ -722,44 +722,44 @@
   {
     "slug": "kariyer-staj-ve-gonulluluk-firsatlari",
     "title": "Staj ve gönüllülük fırsatları | Kariyer ve Mesleki Rehberlik",
-    "summary": "Staj ve gönüllülük fırsatları konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Staj ve gönüllülük fırsatları: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Staj ve gönüllülük fırsatları konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Deneyimin amacını belirlemek",
+        "Öğrenci bir fırsatı özgeçmiş satırı için değil hangi beceriyi veya iş ortamını tanımak istediği için seçtiğini açıklayabilmelidir."
       ],
       [
-        "Güvenlik ve etik",
-        "Staj ve gönüllülük fırsatları ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Güvenli fırsat seçimi",
+        "Yaş, kurum izni, güvenlik ve gönüllülük koşullarını doğrulayın; öğrenciye görevleri ve sorabileceği soruları önceden hazırlatın."
       ],
       [
-        "Uygulama",
-        "Staj ve gönüllülük fırsatları hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye staj ve gönüllülük fırsatları hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Staj ve gönüllülük fırsatları için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Staj ve gönüllülük fırsatları çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Yaş, kurum izni, güvenlik ve gönüllülük koşullarını doğrulayın; öğrenciye görevleri ve sorabileceği soruları önceden hazırlatın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında staj ve gönüllülük fırsatları konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci gönüllü kitaplık çalışmasında kataloglama ve ekip organizasyonu görevlerini görür; kendi ilgi alanını yeniden değerlendirir.",
     "check": [
-      "Öğrencinin staj ve gönüllülük fırsatları hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenci bir fırsatı özgeçmiş satırı için değil hangi beceriyi veya iş ortamını tanımak istediği için seçtiğini açıklayabilmelidir.",
+      "Yaş, kurum izni, güvenlik ve gönüllülük koşullarını doğrulayın; öğrenciye görevleri ve sorabileceği soruları önceden hazırlatın.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Staj ve gönüllülük fırsatları için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Staj ve gönüllülük fırsatları konusunda ilk hangi ayrım yapılmalı?",
+        "Öğrenci bir fırsatı özgeçmiş satırı için değil hangi beceriyi veya iş ortamını tanımak istediği için seçtiğini açıklayabilmelidir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Yaş, kurum izni, güvenlik ve gönüllülük koşullarını doğrulayın; öğrenciye görevleri ve sorabileceği soruları önceden hazırlatın."
       ]
     ],
     "search_terms": [
@@ -770,44 +770,44 @@
   {
     "slug": "kariyer-kariyer-kararinda-belirsizlik",
     "title": "Kariyer kararında belirsizlik | Kariyer ve Mesleki Rehberlik",
-    "summary": "Kariyer kararında belirsizlik konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Kariyer kararında belirsizlik: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Kariyer kararında belirsizlik konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Belirsizliğin hangi kararı etkilediğini sormak",
+        "Öğrencinin korktuğu şey yanlış bölüm, iş olanağı veya ailesinin tepkisi olabilir. Belirsizliği kişisel yetersizlik olarak çerçevelemeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Kariyer kararında belirsizlik ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kontrol edilebilir küçük kararlar",
+        "Bilinmeyenleri araştırılabilir sorulara dönüştürün; kesin garanti vermeden öğrenciye bir sonraki bilgi toplama adımını seçtirin."
       ],
       [
-        "Uygulama",
-        "Kariyer kararında belirsizlik hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye kariyer kararında belirsizlik hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Kariyer kararında belirsizlik için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Kariyer kararında belirsizlik çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Bilinmeyenleri araştırılabilir sorulara dönüştürün; kesin garanti vermeden öğrenciye bir sonraki bilgi toplama adımını seçtirin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında kariyer kararında belirsizlik konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci hangi mesleği ömür boyu sürdüreceğini bilemediği için tercih yapamaz; önce günlük görevler ve eğitim yollarını araştırır.",
     "check": [
-      "Öğrencinin kariyer kararında belirsizlik hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin korktuğu şey yanlış bölüm, iş olanağı veya ailesinin tepkisi olabilir.",
+      "Bilinmeyenleri araştırılabilir sorulara dönüştürün; kesin garanti vermeden öğrenciye bir sonraki bilgi toplama adımını seçtirin.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Kariyer kararında belirsizlik için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Kariyer kararında belirsizlik konusunda ilk hangi ayrım yapılmalı?",
+        "Öğrencinin korktuğu şey yanlış bölüm, iş olanağı veya ailesinin tepkisi olabilir. Belirsizliği kişisel yetersizlik olarak çerçevelemeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Bilinmeyenleri araştırılabilir sorulara dönüştürün; kesin garanti vermeden öğrenciye bir sonraki bilgi toplama adımını seçtirin."
       ]
     ],
     "search_terms": [
@@ -818,44 +818,44 @@
   {
     "slug": "kariyer-mesleki-karar-secenek-tablosu",
     "title": "Mesleki karar seçenek tablosu | Kariyer ve Mesleki Rehberlik",
-    "summary": "Mesleki karar seçenek tablosu konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Mesleki karar seçenek tablosu: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Mesleki karar seçenek tablosu konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Karar tablosunda ölçüt seçimi",
+        "Öğrenci için önemli üç ölçütü kendisi belirlesin. Programları yalnızca taban puana göre sıralamak ilgiyi ve koşulları göz ardı edebilir."
       ],
       [
-        "Güvenlik ve etik",
-        "Mesleki karar seçenek tablosu ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kanıt ve ağırlık kullanma",
+        "Her seçenek için güçlü yan, belirsizlik ve yeni araştırılacak bilgiyi tabloya yazın; doğrulanamayan alanları kesin puanlamayın."
       ],
       [
-        "Uygulama",
-        "Mesleki karar seçenek tablosu hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye mesleki karar seçenek tablosu hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Mesleki karar seçenek tablosu için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Mesleki karar seçenek tablosu çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Her seçenek için güçlü yan, belirsizlik ve yeni araştırılacak bilgiyi tabloya yazın; doğrulanamayan alanları kesin puanlamayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında mesleki karar seçenek tablosu konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci iki bölümü ilgi, ders planı ve şehir koşullarına göre değerlendirir; eksik bilgiyi tamamlamadan kararını kesinleştirmez.",
     "check": [
-      "Öğrencinin mesleki karar seçenek tablosu hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenci için önemli üç ölçütü kendisi belirlesin.",
+      "Her seçenek için güçlü yan, belirsizlik ve yeni araştırılacak bilgiyi tabloya yazın; doğrulanamayan alanları kesin puanlamayın.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Mesleki karar seçenek tablosu için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Mesleki karar seçenek tablosu konusunda ilk hangi ayrım yapılmalı?",
+        "Öğrenci için önemli üç ölçütü kendisi belirlesin. Programları yalnızca taban puana göre sıralamak ilgiyi ve koşulları göz ardı edebilir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Her seçenek için güçlü yan, belirsizlik ve yeni araştırılacak bilgiyi tabloya yazın; doğrulanamayan alanları kesin puanlamayın."
       ]
     ],
     "search_terms": [
@@ -866,44 +866,44 @@
   {
     "slug": "kariyer-mezuniyet-sonrasi-alternatifler",
     "title": "Mezuniyet sonrası alternatifler | Kariyer ve Mesleki Rehberlik",
-    "summary": "Mezuniyet sonrası alternatifler konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Mezuniyet sonrası alternatifler: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Mezuniyet sonrası alternatifler konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Alternatifleri başarısızlık gibi sunmamak",
+        "Tek bir sınav veya program sonucu tüm mesleki yolları kapatmaz. Geçiş ve başvuru olanaklarını ilgili yılın resmî koşullarıyla araştırın."
       ],
       [
-        "Güvenlik ve etik",
-        "Mezuniyet sonrası alternatifler ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Birincil ve alternatif plan",
+        "Öğrenciye ana hedefi yanında başka bir eğitim veya gelişim seçeneğini somut başvuru koşullarıyla araştırma görevi verin."
       ],
       [
-        "Uygulama",
-        "Mezuniyet sonrası alternatifler hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye mezuniyet sonrası alternatifler hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Mezuniyet sonrası alternatifler için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Mezuniyet sonrası alternatifler çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciye ana hedefi yanında başka bir eğitim veya gelişim seçeneğini somut başvuru koşullarıyla araştırma görevi verin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında mezuniyet sonrası alternatifler konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci istediği programa yerleşememe olasılığını düşünür; alternatif eğitim ve yeniden başvuru koşullarını öğrenerek seçenek listesi hazırlar.",
     "check": [
-      "Öğrencinin mezuniyet sonrası alternatifler hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Tek bir sınav veya program sonucu tüm mesleki yolları kapatmaz.",
+      "Öğrenciye ana hedefi yanında başka bir eğitim veya gelişim seçeneğini somut başvuru koşullarıyla araştırma görevi verin.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Mezuniyet sonrası alternatifler için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Mezuniyet sonrası alternatifler konusunda ilk hangi ayrım yapılmalı?",
+        "Tek bir sınav veya program sonucu tüm mesleki yolları kapatmaz. Geçiş ve başvuru olanaklarını ilgili yılın resmî koşullarıyla araştırın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenciye ana hedefi yanında başka bir eğitim veya gelişim seçeneğini somut başvuru koşullarıyla araştırma görevi verin."
       ]
     ],
     "search_terms": [
@@ -914,44 +914,44 @@
   {
     "slug": "kariyer-meslek-tanitim-semineri",
     "title": "Meslek tanıtım semineri | Kariyer ve Mesleki Rehberlik",
-    "summary": "Meslek tanıtım semineri konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Meslek tanıtım semineri: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Meslek tanıtım semineri konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Seminerin bilgi hedefini tanımlamak",
+        "Seminer tek mesleğin reklamı veya kesin iş garantisi sunumu olmamalıdır. Yaş düzeyine ve öğrencilerin gerçek sorularına göre planlayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Meslek tanıtım semineri ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Meslek anlatımına eleştirel sorular",
+        "Konuşmacıdan günlük görev, eğitim yolu, çalışma koşulu ve işin zorlayıcı yönleri üzerine somut örnekler isteyin."
       ],
       [
-        "Uygulama",
-        "Meslek tanıtım semineri hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye meslek tanıtım semineri hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Meslek tanıtım semineri için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Meslek tanıtım semineri çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Konuşmacıdan günlük görev, eğitim yolu, çalışma koşulu ve işin zorlayıcı yönleri üzerine somut örnekler isteyin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında meslek tanıtım semineri konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Meslek tanıtımında yalnızca başarı hikâyeleri anlatılır; öğrenciler mesleğin sıradan iş gününü öğrenmek için yeni sorular sorar.",
     "check": [
-      "Öğrencinin meslek tanıtım semineri hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Seminer tek mesleğin reklamı veya kesin iş garantisi sunumu olmamalıdır.",
+      "Konuşmacıdan günlük görev, eğitim yolu, çalışma koşulu ve işin zorlayıcı yönleri üzerine somut örnekler isteyin.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Meslek tanıtım semineri için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Meslek tanıtım semineri konusunda ilk hangi ayrım yapılmalı?",
+        "Seminer tek mesleğin reklamı veya kesin iş garantisi sunumu olmamalıdır. Yaş düzeyine ve öğrencilerin gerçek sorularına göre planlayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Konuşmacıdan günlük görev, eğitim yolu, çalışma koşulu ve işin zorlayıcı yönleri üzerine somut örnekler isteyin."
       ]
     ],
     "search_terms": [
@@ -962,44 +962,44 @@
   {
     "slug": "kariyer-meslek-uzmanina-soru-hazirlama",
     "title": "Meslek uzmanına soru hazırlama | Kariyer ve Mesleki Rehberlik",
-    "summary": "Meslek uzmanına soru hazırlama konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Meslek uzmanına soru hazırlama: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Meslek uzmanına soru hazırlama konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Uzmanla görüşmenin kapsamı",
+        "Öğrencinin merak ettiği meslek görevlerini belirleyin; konuşmacının kişisel veya kurumsal gizli bilgilerini istemekten kaçının."
       ],
       [
-        "Güvenlik ve etik",
-        "Meslek uzmanına soru hazırlama ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Beş açık uçlu soru hazırlama",
+        "Meslek uzmanına 'Bir iş gününüz nasıl geçiyor?' ve 'Bu alanda hangi beceriler kullanılıyor?' gibi deneyim odaklı sorular hazırlayın."
       ],
       [
-        "Uygulama",
-        "Meslek uzmanına soru hazırlama hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye meslek uzmanına soru hazırlama hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Meslek uzmanına soru hazırlama için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Meslek uzmanına soru hazırlama çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Meslek uzmanına 'Bir iş gününüz nasıl geçiyor?' ve 'Bu alanda hangi beceriler kullanılıyor?' gibi deneyim odaklı sorular hazırlayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında meslek uzmanına soru hazırlama konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci meslek sahibine yalnızca maaş sorusu yöneltmek ister; gerçek görevleri ve mesleğe hazırlık yollarını da öğrenmek için soru listesini genişletir.",
     "check": [
-      "Öğrencinin meslek uzmanına soru hazırlama hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin merak ettiği meslek görevlerini belirleyin; konuşmacının kişisel veya kurumsal gizli bilgilerini istemekten kaçının.",
+      "Meslek uzmanına 'Bir iş gününüz nasıl geçiyor?' ve 'Bu alanda hangi beceriler kullanılıyor?' gibi deneyim odaklı sorular hazırlayın.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Meslek uzmanına soru hazırlama için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Meslek uzmanına soru hazırlama konusunda ilk hangi ayrım yapılmalı?",
+        "Öğrencinin merak ettiği meslek görevlerini belirleyin; konuşmacının kişisel veya kurumsal gizli bilgilerini istemekten kaçının."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Meslek uzmanına 'Bir iş gününüz nasıl geçiyor?' ve 'Bu alanda hangi beceriler kullanılıyor?' gibi deneyim odaklı sorular hazırlayın."
       ]
     ],
     "search_terms": [
@@ -1010,44 +1010,44 @@
   {
     "slug": "kariyer-kariyer-plani-donemlik-izleme",
     "title": "Kariyer planı dönemlik izleme | Kariyer ve Mesleki Rehberlik",
-    "summary": "Kariyer planı dönemlik izleme konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Kariyer planı dönemlik izleme: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Kariyer planı dönemlik izleme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Kariyer planını yaşayan belge saymak",
+        "Dönem başında yazılan meslek hedefi değişebilir. Öğrencinin değişen ilgilerini başarısızlık olarak değerlendirmeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Kariyer planı dönemlik izleme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Dönemlik gözden geçirme",
+        "Öğrenci tamamladığı araştırma, yeni deneyim ve kalan soruları üç başlıkta inceler; gelecek döneme tek ulaşılabilir adım seçer."
       ],
       [
-        "Uygulama",
-        "Kariyer planı dönemlik izleme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye kariyer planı dönemlik izleme hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Kariyer planı dönemlik izleme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Kariyer planı dönemlik izleme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci tamamladığı araştırma, yeni deneyim ve kalan soruları üç başlıkta inceler; gelecek döneme tek ulaşılabilir adım seçer. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında kariyer planı dönemlik izleme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci sene başında hukuk isterken bir dönem sonra araştırma ilgisi gelişir; kariyer dosyası yeni sorularla güncellenir.",
     "check": [
-      "Öğrencinin kariyer planı dönemlik izleme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Dönem başında yazılan meslek hedefi değişebilir.",
+      "Öğrenci tamamladığı araştırma, yeni deneyim ve kalan soruları üç başlıkta inceler; gelecek döneme tek ulaşılabilir adım seçer.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Kariyer planı dönemlik izleme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Kariyer planı dönemlik izleme konusunda ilk hangi ayrım yapılmalı?",
+        "Dönem başında yazılan meslek hedefi değişebilir. Öğrencinin değişen ilgilerini başarısızlık olarak değerlendirmeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenci tamamladığı araştırma, yeni deneyim ve kalan soruları üç başlıkta inceler; gelecek döneme tek ulaşılabilir adım seçer."
       ]
     ],
     "search_terms": [
@@ -1058,44 +1058,44 @@
   {
     "slug": "kariyer-coklu-ilgi-alani-olan-ogrenci",
     "title": "Çoklu ilgi alanı olan öğrenci | Kariyer ve Mesleki Rehberlik",
-    "summary": "Çoklu ilgi alanı olan öğrenci konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Çoklu ilgi alanı olan öğrenci: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Çoklu ilgi alanı olan öğrenci konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Birden çok ilgiyi sorun olarak görmemek",
+        "Öğrenci hem yazılım hem sanat etkinliklerinden hoşlanabilir; erken dönemde tek seçenek dayatmayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Çoklu ilgi alanı olan öğrenci ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Ortak becerileri keşfetme",
+        "İki ilgi alanından örnek proje seçin ve hangi becerilerin birlikte kullanılabileceğini araştırın; ilgili eğitim yollarını resmî kaynakla doğrulayın."
       ],
       [
-        "Uygulama",
-        "Çoklu ilgi alanı olan öğrenci hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye çoklu ilgi alanı olan öğrenci hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Çoklu ilgi alanı olan öğrenci için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Çoklu ilgi alanı olan öğrenci çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. İki ilgi alanından örnek proje seçin ve hangi becerilerin birlikte kullanılabileceğini araştırın; ilgili eğitim yollarını resmî kaynakla doğrulayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında çoklu ilgi alanı olan öğrenci konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci çizim ve kodlama arasında kalır. Dijital tasarım projelerini araştırarak iki ilgiyi bir araya getiren deneyimler planlar.",
     "check": [
-      "Öğrencinin çoklu ilgi alanı olan öğrenci hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenci hem yazılım hem sanat etkinliklerinden hoşlanabilir; erken dönemde tek seçenek dayatmayın.",
+      "İki ilgi alanından örnek proje seçin ve hangi becerilerin birlikte kullanılabileceğini araştırın; ilgili eğitim yollarını resmî kaynakla doğrulayın.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Çoklu ilgi alanı olan öğrenci için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Çoklu ilgi alanı olan öğrenci konusunda ilk hangi ayrım yapılmalı?",
+        "Öğrenci hem yazılım hem sanat etkinliklerinden hoşlanabilir; erken dönemde tek seçenek dayatmayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "İki ilgi alanından örnek proje seçin ve hangi becerilerin birlikte kullanılabileceğini araştırın; ilgili eğitim yollarını resmî kaynakla doğrulayın."
       ]
     ],
     "search_terms": [
@@ -1106,44 +1106,44 @@
   {
     "slug": "kariyer-meslek-seciminde-tek-dogru-yanilgisi",
     "title": "Meslek seçiminde tek doğru yanılgısı | Kariyer ve Mesleki Rehberlik",
-    "summary": "Meslek seçiminde tek doğru yanılgısı konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Meslek seçiminde tek doğru yanılgısı: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Meslek seçiminde tek doğru yanılgısı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Tek doğru meslek düşüncesini sorgulamak",
+        "Meslek kararı yaşam boyunca değişebilir; öğrencinin tek bir seçimle bütün geleceğini kilitlediği düşüncesini küçümsemeden ele alın."
       ],
       [
-        "Güvenlik ve etik",
-        "Meslek seçiminde tek doğru yanılgısı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Alternatif senaryolar",
+        "Öğrenciye aynı güçlü yönleri kullanan iki farklı alanı araştırma görevi verin; bunları bir mesleğin garantili geleceği gibi sunmayın."
       ],
       [
-        "Uygulama",
-        "Meslek seçiminde tek doğru yanılgısı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye meslek seçiminde tek doğru yanılgısı hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Meslek seçiminde tek doğru yanılgısı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Meslek seçiminde tek doğru yanılgısı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciye aynı güçlü yönleri kullanan iki farklı alanı araştırma görevi verin; bunları bir mesleğin garantili geleceği gibi sunmayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında meslek seçiminde tek doğru yanılgısı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci tek bölümü kazanamazsa hayatının biteceğini söyler. Danışman seçenekleri ve karar ölçütlerini somut araştırmaya dönüştürür.",
     "check": [
-      "Öğrencinin meslek seçiminde tek doğru yanılgısı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Meslek kararı yaşam boyunca değişebilir; öğrencinin tek bir seçimle bütün geleceğini kilitlediği düşüncesini küçümsemeden ele alın.",
+      "Öğrenciye aynı güçlü yönleri kullanan iki farklı alanı araştırma görevi verin; bunları bir mesleğin garantili geleceği gibi sunmayın.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Meslek seçiminde tek doğru yanılgısı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Meslek seçiminde tek doğru yanılgısı konusunda ilk hangi ayrım yapılmalı?",
+        "Meslek kararı yaşam boyunca değişebilir; öğrencinin tek bir seçimle bütün geleceğini kilitlediği düşüncesini küçümsemeden ele alın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Öğrenciye aynı güçlü yönleri kullanan iki farklı alanı araştırma görevi verin; bunları bir mesleğin garantili geleceği gibi sunmayın."
       ]
     ],
     "search_terms": [
@@ -1154,44 +1154,44 @@
   {
     "slug": "kariyer-bolum-tanitiminda-bilgi-dogrulama",
     "title": "Bölüm tanıtımında bilgi doğrulama | Kariyer ve Mesleki Rehberlik",
-    "summary": "Bölüm tanıtımında bilgi doğrulama konusunda kariyer ve mesleki rehberlik kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Bölüm tanıtımında bilgi doğrulama: lise öğrencilerinin mesleki seçenekleri güncel bilgiyle araştırmasını ve kendi karar ölçütlerini geliştirmesini destekleyen uygulama rehberi.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Bölüm tanıtımında bilgi doğrulama konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Tanıtım metni ile bağlayıcı koşulları ayırmak",
+        "Üniversite reklamlarında yer alan olanaklarla resmî program koşulları aynı belge değildir. Güncel resmî kılavuz ve bölüm sayfasını karşılaştırın."
       ],
       [
-        "Güvenlik ve etik",
-        "Bölüm tanıtımında bilgi doğrulama ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Üç kaynak doğrulaması",
+        "Program kodu ve özel koşullar için resmî kılavuzu, ders planı için üniversite sayfasını, destek hizmeti için güncel kurum duyurusunu kontrol edin."
       ],
       [
-        "Uygulama",
-        "Bölüm tanıtımında bilgi doğrulama hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin karar ölçütlerini görünür kılmak",
+        "Öğrenciye bölüm tanıtımında bilgi doğrulama hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin."
       ],
       [
-        "İş birliği",
-        "Bölüm tanıtımında bilgi doğrulama için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Doğru kaynağa ulaşma ve etik sınırlar",
+        "Meslek ve eğitim koşullarında güncel, birincil ve resmî bilgiyi tercih edin. Aile veya okul görevlisiyle görüşürken öğrencinin özel bilgilerini gereksiz paylaşmayın. Meslek geleceği, yerleşme veya istihdam için kesin vaatlerde bulunmayın."
       ],
       [
-        "Takip",
-        "Bölüm tanıtımında bilgi doğrulama çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Kararı değil araştırma sürecini izlemek",
+        "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Program kodu ve özel koşullar için resmî kılavuzu, ders planı için üniversite sayfasını, destek hizmeti için güncel kurum duyurusunu kontrol edin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında bölüm tanıtımında bilgi doğrulama konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci tanıtım broşüründeki eğitim dili ifadesini esas alır; resmî program kaydındaki güncel koşulu ayrıca doğrular.",
     "check": [
-      "Öğrencinin bölüm tanıtımında bilgi doğrulama hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Üniversite reklamlarında yer alan olanaklarla resmî program koşulları aynı belge değildir.",
+      "Program kodu ve özel koşullar için resmî kılavuzu, ders planı için üniversite sayfasını, destek hizmeti için güncel kurum duyurusunu kontrol edin.",
+      "Araştırmada kullanılan kaynağın tarihini ve kurumunu not edin.",
+      "Öğrencinin bir sonraki araştırma adımını belirleyin."
     ],
     "faq": [
       [
-        "Bölüm tanıtımında bilgi doğrulama için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Bölüm tanıtımında bilgi doğrulama konusunda ilk hangi ayrım yapılmalı?",
+        "Üniversite reklamlarında yer alan olanaklarla resmî program koşulları aynı belge değildir. Güncel resmî kılavuz ve bölüm sayfasını karşılaştırın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci hangi uygulamayla ilerleyebilir?",
+        "Program kodu ve özel koşullar için resmî kılavuzu, ders planı için üniversite sayfasını, destek hizmeti için güncel kurum duyurusunu kontrol edin."
       ]
     ],
     "search_terms": [
