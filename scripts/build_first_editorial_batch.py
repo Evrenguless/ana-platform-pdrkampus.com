@@ -217,7 +217,7 @@ def source_cards(slug):
     return '<p>Bu rehber için doğrudan ilgili bir belge henüz seçilemedi. <a href="/kutuphane.html?q='+query+'">Kütüphanede ilgili kaynakları ara →</a></p>'
 def load_editorial_batches():
     """Append new, topic-specific manuscripts; preserve existing first five guides."""
-    for filename in ("data/pdr-editorial-batch-02.json", "data/pdr-editorial-batch-03.json", "data/pdr-editorial-batch-04.json", "data/pdr-editorial-batch-05.json", "data/pdr-editorial-batch-06.json", "data/pdr-editorial-batch-07.json", "data/pdr-editorial-batch-08.json", "data/pdr-editorial-batch-09.json", "data/pdr-editorial-batch-10.json"):
+    for filename in ("data/pdr-editorial-batch-02.json", "data/pdr-editorial-batch-03.json", "data/pdr-editorial-batch-04.json", "data/pdr-editorial-batch-05.json", "data/pdr-editorial-batch-06.json", "data/pdr-editorial-batch-07.json", "data/pdr-editorial-batch-08.json", "data/pdr-editorial-batch-09.json", "data/pdr-editorial-batch-10.json", "data/pdr-editorial-batch-11.json", "data/pdr-editorial-batch-12.json", "data/pdr-editorial-batch-13.json", "data/pdr-editorial-batch-14.json", "data/pdr-editorial-batch-15.json", "data/pdr-editorial-batch-16.json", "data/pdr-editorial-batch-17.json", "data/pdr-editorial-batch-18.json", "data/pdr-editorial-batch-19.json", "data/pdr-editorial-batch-20.json", "data/pdr-editorial-batch-21.json", "data/pdr-editorial-batch-22.json"):
         path = ROOT / filename
         if not path.is_file():
             raise FileNotFoundError(path)
