@@ -2,44 +2,44 @@
   {
     "slug": "ozel-egitim-bep-performans-gozlemi",
     "title": "BEP performans gözlemi | Özel Eğitim",
-    "summary": "BEP performans gözlemi konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "BEP performans gözlemi için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "BEP performans gözlemi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Üç farklı ders görevinde öğrencinin bağımsız yaptığı adımları kaydedin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "BEP performans gözlemi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Öğrencinin ilk yönergeyi hangi destekle tamamladığını gözleyin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "BEP performans gözlemi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "BEP performans gözlemi: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğrencinin ilk yönergeyi hangi destekle tamamladığını gözleyin."
       ],
       [
-        "İş birliği",
-        "BEP performans gözlemi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "BEP performans gözlemi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğretmen başlangıç performansını üç örnekle BEP ekibine getirir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında bep performans gözlemi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğretmen başlangıç performansını üç örnekle BEP ekibine getirir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin bep performans gözlemi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Üç farklı ders görevinde öğrencinin bağımsız yaptığı adımları kaydedin.",
+      "Öğrencinin ilk yönergeyi hangi destekle tamamladığını gözleyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "BEP performans gözlemi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "BEP performans gözlemi konusunda ilk önce hangi bilgi gerekir?",
+        "Üç farklı ders görevinde öğrencinin bağımsız yaptığı adımları kaydedin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğretmen başlangıç performansını üç örnekle BEP ekibine getirir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -50,44 +50,44 @@
   {
     "slug": "ozel-egitim-bep-hedef-olcutu",
     "title": "BEP hedef ölçütü | Özel Eğitim",
-    "summary": "BEP hedef ölçütü konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "BEP hedef ölçütü için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "BEP hedef ölçütü konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Hedef davranışı, başarı yüzdesini ve gözlem süresini birlikte yazın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "BEP hedef ölçütü ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "'daha iyi okuyacak' yerine ölçülebilir okuma görevini tanımlayın. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "BEP hedef ölçütü hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "BEP hedef ölçütü: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. 'daha iyi okuyacak' yerine ölçülebilir okuma görevini tanımlayın."
       ],
       [
-        "İş birliği",
-        "BEP hedef ölçütü için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "BEP hedef ölçütü çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Ekip iki haftada dört metinden üçünü doğru eşleme hedefini değerlendirir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında bep hedef ölçütü konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Ekip iki haftada dört metinden üçünü doğru eşleme hedefini değerlendirir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin bep hedef ölçütü hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Hedef davranışı, başarı yüzdesini ve gözlem süresini birlikte yazın.",
+      "'daha iyi okuyacak' yerine ölçülebilir okuma görevini tanımlayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "BEP hedef ölçütü için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "BEP hedef ölçütü konusunda ilk önce hangi bilgi gerekir?",
+        "Hedef davranışı, başarı yüzdesini ve gözlem süresini birlikte yazın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Ekip iki haftada dört metinden üçünü doğru eşleme hedefini değerlendirir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -98,44 +98,44 @@
   {
     "slug": "ozel-egitim-bep-kazanim-izleme",
     "title": "BEP kazanım izleme | Özel Eğitim",
-    "summary": "BEP kazanım izleme konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "BEP kazanım izleme için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "BEP kazanım izleme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Aynı beceriyi farklı günlerde ve benzer koşullarda ölçün. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "BEP kazanım izleme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Görev tamamlanma düzeyiyle verilen ipucu miktarını ayrı kaydedin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "BEP kazanım izleme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "BEP kazanım izleme: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Görev tamamlanma düzeyiyle verilen ipucu miktarını ayrı kaydedin."
       ],
       [
-        "İş birliği",
-        "BEP kazanım izleme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "BEP kazanım izleme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrencinin ipucuyla yaptığı kazanım ile bağımsız performansı farklı işaretlenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında bep kazanım izleme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrencinin ipucuyla yaptığı kazanım ile bağımsız performansı farklı işaretlenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin bep kazanım izleme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Aynı beceriyi farklı günlerde ve benzer koşullarda ölçün.",
+      "Görev tamamlanma düzeyiyle verilen ipucu miktarını ayrı kaydedin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "BEP kazanım izleme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "BEP kazanım izleme konusunda ilk önce hangi bilgi gerekir?",
+        "Aynı beceriyi farklı günlerde ve benzer koşullarda ölçün. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrencinin ipucuyla yaptığı kazanım ile bağımsız performansı farklı işaretlenir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -146,44 +146,44 @@
   {
     "slug": "ozel-egitim-bep-ekibi-gorev-dagilimi",
     "title": "BEP ekibi görev dağılımı | Özel Eğitim",
-    "summary": "BEP ekibi görev dağılımı konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "BEP ekibi görev dağılımı için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "BEP ekibi görev dağılımı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "BEP toplantısındaki öğretmen, aile ve uzman görevlerini açıkça ayırın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "BEP ekibi görev dağılımı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Her karar için sorumlu kişi ve takip tarihi belirleyin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "BEP ekibi görev dağılımı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "BEP ekibi görev dağılımı: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Her karar için sorumlu kişi ve takip tarihi belirleyin."
       ],
       [
-        "İş birliği",
-        "BEP ekibi görev dağılımı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "BEP ekibi görev dağılımı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğretmen sınıf uyarlamasını, aile ev deneyimini izler; ekip dört hafta sonra buluşur. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında bep ekibi görev dağılımı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğretmen sınıf uyarlamasını, aile ev deneyimini izler; ekip dört hafta sonra buluşur. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin bep ekibi görev dağılımı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "BEP toplantısındaki öğretmen, aile ve uzman görevlerini açıkça ayırın.",
+      "Her karar için sorumlu kişi ve takip tarihi belirleyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "BEP ekibi görev dağılımı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "BEP ekibi görev dağılımı konusunda ilk önce hangi bilgi gerekir?",
+        "BEP toplantısındaki öğretmen, aile ve uzman görevlerini açıkça ayırın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğretmen sınıf uyarlamasını, aile ev deneyimini izler; ekip dört hafta sonra buluşur. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -194,44 +194,44 @@
   {
     "slug": "ozel-egitim-gorsel-yonerge-uyarlamasi",
     "title": "Görsel yönerge uyarlaması | Özel Eğitim",
-    "summary": "Görsel yönerge uyarlaması konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Görsel yönerge uyarlaması için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Görsel yönerge uyarlaması konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Uzun sözlü yönergeyi adım adım resimli kartlara dönüştürün. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Görsel yönerge uyarlaması ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Kartın öğrencinin görebildiği yerde ve uygun büyüklükte olduğuna bakın. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Görsel yönerge uyarlaması hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Görsel yönerge uyarlaması: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Kartın öğrencinin görebildiği yerde ve uygun büyüklükte olduğuna bakın."
       ],
       [
-        "İş birliği",
-        "Görsel yönerge uyarlaması için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Görsel yönerge uyarlaması çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci malzeme hazırlama sırasını üç görsel kartla takip eder. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında görsel yönerge uyarlaması konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci malzeme hazırlama sırasını üç görsel kartla takip eder. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin görsel yönerge uyarlaması hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Uzun sözlü yönergeyi adım adım resimli kartlara dönüştürün.",
+      "Kartın öğrencinin görebildiği yerde ve uygun büyüklükte olduğuna bakın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Görsel yönerge uyarlaması için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Görsel yönerge uyarlaması konusunda ilk önce hangi bilgi gerekir?",
+        "Uzun sözlü yönergeyi adım adım resimli kartlara dönüştürün. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci malzeme hazırlama sırasını üç görsel kartla takip eder. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -242,44 +242,44 @@
   {
     "slug": "ozel-egitim-gorev-suresi-uyarlamasi",
     "title": "Görev süresi uyarlaması | Özel Eğitim",
-    "summary": "Görev süresi uyarlaması konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Görev süresi uyarlaması için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Görev süresi uyarlaması konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Görev süresini öğrencinin başlangıç performansına göre düzenleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Görev süresi uyarlaması ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Ek süreyle birlikte görev miktarı ve mola ihtiyacını ayrı değerlendirin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Görev süresi uyarlaması hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Görev süresi uyarlaması: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Ek süreyle birlikte görev miktarı ve mola ihtiyacını ayrı değerlendirin."
       ],
       [
-        "İş birliği",
-        "Görev süresi uyarlaması için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Görev süresi uyarlaması çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci yirmi dakikalık yazma yerine bölünmüş iki kısa oturumda çalışır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında görev süresi uyarlaması konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci yirmi dakikalık yazma yerine bölünmüş iki kısa oturumda çalışır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin görev süresi uyarlaması hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Görev süresini öğrencinin başlangıç performansına göre düzenleyin.",
+      "Ek süreyle birlikte görev miktarı ve mola ihtiyacını ayrı değerlendirin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Görev süresi uyarlaması için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Görev süresi uyarlaması konusunda ilk önce hangi bilgi gerekir?",
+        "Görev süresini öğrencinin başlangıç performansına göre düzenleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci yirmi dakikalık yazma yerine bölünmüş iki kısa oturumda çalışır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -290,44 +290,44 @@
   {
     "slug": "ozel-egitim-alternatif-katilim-yontemi",
     "title": "Alternatif katılım yöntemi | Özel Eğitim",
-    "summary": "Alternatif katılım yöntemi konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Alternatif katılım yöntemi için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Alternatif katılım yöntemi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Sözlü yanıt dışındaki erişilebilir katılım seçeneklerini belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Alternatif katılım yöntemi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Öğrenme kazanımını değiştirmeden yanıt biçimini uyarlayın. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Alternatif katılım yöntemi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Alternatif katılım yöntemi: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğrenme kazanımını değiştirmeden yanıt biçimini uyarlayın."
       ],
       [
-        "İş birliği",
-        "Alternatif katılım yöntemi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Alternatif katılım yöntemi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci grup tartışmasında düşüncesini konuşmak yerine simge kartıyla gösterir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında alternatif katılım yöntemi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci grup tartışmasında düşüncesini konuşmak yerine simge kartıyla gösterir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin alternatif katılım yöntemi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sözlü yanıt dışındaki erişilebilir katılım seçeneklerini belirleyin.",
+      "Öğrenme kazanımını değiştirmeden yanıt biçimini uyarlayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Alternatif katılım yöntemi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Alternatif katılım yöntemi konusunda ilk önce hangi bilgi gerekir?",
+        "Sözlü yanıt dışındaki erişilebilir katılım seçeneklerini belirleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci grup tartışmasında düşüncesini konuşmak yerine simge kartıyla gösterir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -338,44 +338,44 @@
   {
     "slug": "ozel-egitim-ogrencinin-guclu-yonleri",
     "title": "Öğrencinin güçlü yönleri | Özel Eğitim",
-    "summary": "Öğrencinin güçlü yönleri konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Öğrencinin güçlü yönleri için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Öğrencinin güçlü yönleri konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Çocuğun bağımsız başardığı görevleri ve ilgilerini örneklerle kaydedin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Öğrencinin güçlü yönleri ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Güçlü yönleri yalnızca not veya tanı kategorisiyle açıklamayın. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Öğrencinin güçlü yönleri hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin güçlü yönleri: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Güçlü yönleri yalnızca not veya tanı kategorisiyle açıklamayın."
       ],
       [
-        "İş birliği",
-        "Öğrencinin güçlü yönleri için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Öğrencinin güçlü yönleri çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Görsel eşleştirmede güçlü olan öğrenci için yeni öğrenme kartları hazırlanır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında öğrencinin güçlü yönleri konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Görsel eşleştirmede güçlü olan öğrenci için yeni öğrenme kartları hazırlanır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin öğrencinin güçlü yönleri hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Çocuğun bağımsız başardığı görevleri ve ilgilerini örneklerle kaydedin.",
+      "Güçlü yönleri yalnızca not veya tanı kategorisiyle açıklamayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Öğrencinin güçlü yönleri için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Öğrencinin güçlü yönleri konusunda ilk önce hangi bilgi gerekir?",
+        "Çocuğun bağımsız başardığı görevleri ve ilgilerini örneklerle kaydedin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Görsel eşleştirmede güçlü olan öğrenci için yeni öğrenme kartları hazırlanır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -386,44 +386,44 @@
   {
     "slug": "ozel-egitim-ailenin-gozlem-katkisi",
     "title": "Ailenin gözlem katkısı | Özel Eğitim",
-    "summary": "Ailenin gözlem katkısı konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Ailenin gözlem katkısı için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Ailenin gözlem katkısı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Aileye evde işe yarayan stratejileri örnek üzerinden sorun. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Ailenin gözlem katkısı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Ev koşulları ile okul koşullarının farklı olabileceğini açıkça belirtin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Ailenin gözlem katkısı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Ailenin gözlem katkısı: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Ev koşulları ile okul koşullarının farklı olabileceğini açıkça belirtin."
       ],
       [
-        "İş birliği",
-        "Ailenin gözlem katkısı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Ailenin gözlem katkısı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Ailenin tarif ettiği resimli rutin sınıfta denenir ve sonucu ölçülür. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında ailenin gözlem katkısı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Ailenin tarif ettiği resimli rutin sınıfta denenir ve sonucu ölçülür. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin ailenin gözlem katkısı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Aileye evde işe yarayan stratejileri örnek üzerinden sorun.",
+      "Ev koşulları ile okul koşullarının farklı olabileceğini açıkça belirtin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Ailenin gözlem katkısı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Ailenin gözlem katkısı konusunda ilk önce hangi bilgi gerekir?",
+        "Aileye evde işe yarayan stratejileri örnek üzerinden sorun. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Ailenin tarif ettiği resimli rutin sınıfta denenir ve sonucu ölçülür. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -434,44 +434,44 @@
   {
     "slug": "ozel-egitim-sinif-ici-destek-duzeni",
     "title": "Sınıf içi destek düzeni | Özel Eğitim",
-    "summary": "Sınıf içi destek düzeni konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınıf içi destek düzeni için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınıf içi destek düzeni konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Desteğin nerede, ne zaman ve kim tarafından sağlanacağını belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınıf içi destek düzeni ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Öğrenciyi sürekli sınıftan ayırmanın katılıma etkisini değerlendirin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Sınıf içi destek düzeni hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Sınıf içi destek düzeni: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğrenciyi sürekli sınıftan ayırmanın katılıma etkisini değerlendirin."
       ],
       [
-        "İş birliği",
-        "Sınıf içi destek düzeni için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Sınıf içi destek düzeni çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Sınıfta yönerge kartı konur; öğrenci akranlarıyla aynı masada göreve başlar. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınıf içi destek düzeni konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Sınıfta yönerge kartı konur; öğrenci akranlarıyla aynı masada göreve başlar. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin sınıf içi destek düzeni hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Desteğin nerede, ne zaman ve kim tarafından sağlanacağını belirleyin.",
+      "Öğrenciyi sürekli sınıftan ayırmanın katılıma etkisini değerlendirin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Sınıf içi destek düzeni için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınıf içi destek düzeni konusunda ilk önce hangi bilgi gerekir?",
+        "Desteğin nerede, ne zaman ve kim tarafından sağlanacağını belirleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Sınıfta yönerge kartı konur; öğrenci akranlarıyla aynı masada göreve başlar. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -482,44 +482,44 @@
   {
     "slug": "ozel-egitim-akran-katiliminin-guvenligi",
     "title": "Akran katılımının güvenliği | Özel Eğitim",
-    "summary": "Akran katılımının güvenliği konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Akran katılımının güvenliği için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Akran katılımının güvenliği konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Akran yardımının gönüllü ve karşılıklı olmasını sağlayın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Akran katılımının güvenliği ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Bir çocuğu sürekli yardımcı veya yardım alan rolüne sabitlemeyin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Akran katılımının güvenliği hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Akran katılımının güvenliği: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Bir çocuğu sürekli yardımcı veya yardım alan rolüne sabitlemeyin."
       ],
       [
-        "İş birliği",
-        "Akran katılımının güvenliği için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Akran katılımının güvenliği çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Grup çalışmasında sunma ve malzeme hazırlama rolleri dönüşümlü yürütülür. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında akran katılımının güvenliği konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Grup çalışmasında sunma ve malzeme hazırlama rolleri dönüşümlü yürütülür. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin akran katılımının güvenliği hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Akran yardımının gönüllü ve karşılıklı olmasını sağlayın.",
+      "Bir çocuğu sürekli yardımcı veya yardım alan rolüne sabitlemeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Akran katılımının güvenliği için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Akran katılımının güvenliği konusunda ilk önce hangi bilgi gerekir?",
+        "Akran yardımının gönüllü ve karşılıklı olmasını sağlayın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Grup çalışmasında sunma ve malzeme hazırlama rolleri dönüşümlü yürütülür. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -530,44 +530,44 @@
   {
     "slug": "ozel-egitim-gecislerde-ongorulebilirlik",
     "title": "Geçişlerde öngörülebilirlik | Özel Eğitim",
-    "summary": "Geçişlerde öngörülebilirlik konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Geçişlerde öngörülebilirlik için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Geçişlerde öngörülebilirlik konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Etkinlik geçişini önceden gösteren kısa görsel sıra kullanın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Geçişlerde öngörülebilirlik ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Beklenmeyen değişikliklerde alternatif haber verme yöntemi belirleyin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Geçişlerde öngörülebilirlik hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Geçişlerde öngörülebilirlik: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Beklenmeyen değişikliklerde alternatif haber verme yöntemi belirleyin."
       ],
       [
-        "İş birliği",
-        "Geçişlerde öngörülebilirlik için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Geçişlerde öngörülebilirlik çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci teneffüsten derse geçmeden iki dakika önce görsel işareti görür. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında geçişlerde öngörülebilirlik konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci teneffüsten derse geçmeden iki dakika önce görsel işareti görür. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin geçişlerde öngörülebilirlik hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Etkinlik geçişini önceden gösteren kısa görsel sıra kullanın.",
+      "Beklenmeyen değişikliklerde alternatif haber verme yöntemi belirleyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Geçişlerde öngörülebilirlik için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Geçişlerde öngörülebilirlik konusunda ilk önce hangi bilgi gerekir?",
+        "Etkinlik geçişini önceden gösteren kısa görsel sıra kullanın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci teneffüsten derse geçmeden iki dakika önce görsel işareti görür. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -578,44 +578,44 @@
   {
     "slug": "ozel-egitim-duyusal-gereksinime-duyarlilik",
     "title": "Duyusal gereksinime duyarlılık | Özel Eğitim",
-    "summary": "Duyusal gereksinime duyarlılık konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Duyusal gereksinime duyarlılık için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Duyusal gereksinime duyarlılık konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Sınıftaki ses, ışık ve kalabalık koşullarını öğrencinin tepkisiyle birlikte değerlendirin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Duyusal gereksinime duyarlılık ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Öğrencinin rahatsız olduğu uyaranı zorla tolere ettirmeye çalışmayın. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Duyusal gereksinime duyarlılık hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Duyusal gereksinime duyarlılık: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğrencinin rahatsız olduğu uyaranı zorla tolere ettirmeye çalışmayın."
       ],
       [
-        "İş birliği",
-        "Duyusal gereksinime duyarlılık için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Duyusal gereksinime duyarlılık çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Gürültülü grup çalışmasında oturma ve mola seçeneği birlikte belirlenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında duyusal gereksinime duyarlılık konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Gürültülü grup çalışmasında oturma ve mola seçeneği birlikte belirlenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin duyusal gereksinime duyarlılık hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sınıftaki ses, ışık ve kalabalık koşullarını öğrencinin tepkisiyle birlikte değerlendirin.",
+      "Öğrencinin rahatsız olduğu uyaranı zorla tolere ettirmeye çalışmayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Duyusal gereksinime duyarlılık için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Duyusal gereksinime duyarlılık konusunda ilk önce hangi bilgi gerekir?",
+        "Sınıftaki ses, ışık ve kalabalık koşullarını öğrencinin tepkisiyle birlikte değerlendirin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Gürültülü grup çalışmasında oturma ve mola seçeneği birlikte belirlenir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -626,44 +626,44 @@
   {
     "slug": "ozel-egitim-olumlu-davranis-destegi",
     "title": "Olumlu davranış desteği | Özel Eğitim",
-    "summary": "Olumlu davranış desteği konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Olumlu davranış desteği için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Olumlu davranış desteği konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Hedef davranışın önceki çevre koşullarını gözleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Olumlu davranış desteği ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Davranışın işlevini anlamadan yalnızca ceza veya ödül planlamayın. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Olumlu davranış desteği hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Olumlu davranış desteği: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Davranışın işlevini anlamadan yalnızca ceza veya ödül planlamayın."
       ],
       [
-        "İş birliği",
-        "Olumlu davranış desteği için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Olumlu davranış desteği çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Yönergesi anlaşılmayan görevde öğrenci ayağa kalkar; görev basamaklara ayrılır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında olumlu davranış desteği konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Yönergesi anlaşılmayan görevde öğrenci ayağa kalkar; görev basamaklara ayrılır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin olumlu davranış desteği hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Hedef davranışın önceki çevre koşullarını gözleyin.",
+      "Davranışın işlevini anlamadan yalnızca ceza veya ödül planlamayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Olumlu davranış desteği için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Olumlu davranış desteği konusunda ilk önce hangi bilgi gerekir?",
+        "Hedef davranışın önceki çevre koşullarını gözleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Yönergesi anlaşılmayan görevde öğrenci ayağa kalkar; görev basamaklara ayrılır. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -674,44 +674,44 @@
   {
     "slug": "ozel-egitim-islevsel-iletisim-firsatlari",
     "title": "İşlevsel iletişim fırsatları | Özel Eğitim",
-    "summary": "İşlevsel iletişim fırsatları konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "İşlevsel iletişim fırsatları için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "İşlevsel iletişim fırsatları konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Öğrencinin yardım, mola veya seçim isteğini nasıl ifade edebildiğini belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "İşlevsel iletişim fırsatları ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Iletişim kartı, işaret veya sözcük seçeneklerini ortamda erişilebilir tutun. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "İşlevsel iletişim fırsatları hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "İşlevsel iletişim fırsatları: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Iletişim kartı, işaret veya sözcük seçeneklerini ortamda erişilebilir tutun."
       ],
       [
-        "İş birliği",
-        "İşlevsel iletişim fırsatları için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "İşlevsel iletişim fırsatları çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci sözlü istemek yerine mola simgesini göstererek öğretmene başvurur. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında işlevsel iletişim fırsatları konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci sözlü istemek yerine mola simgesini göstererek öğretmene başvurur. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin işlevsel iletişim fırsatları hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin yardım, mola veya seçim isteğini nasıl ifade edebildiğini belirleyin.",
+      "Iletişim kartı, işaret veya sözcük seçeneklerini ortamda erişilebilir tutun.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "İşlevsel iletişim fırsatları için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "İşlevsel iletişim fırsatları konusunda ilk önce hangi bilgi gerekir?",
+        "Öğrencinin yardım, mola veya seçim isteğini nasıl ifade edebildiğini belirleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci sözlü istemek yerine mola simgesini göstererek öğretmene başvurur. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -722,44 +722,44 @@
   {
     "slug": "ozel-egitim-uyarlama-ise-yariyor-mu",
     "title": "Uyarlama işe yarıyor mu | Özel Eğitim",
-    "summary": "Uyarlama işe yarıyor mu konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Uyarlama işe yarıyor mu için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Uyarlama işe yarıyor mu konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Uyarlama öncesi ve sonrası aynı kazanıma ait ölçüm alın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Uyarlama işe yarıyor mu ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Yalnızca etkinliğe katılmayı öğrenme ilerlemesiyle karıştırmayın. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Uyarlama işe yarıyor mu hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Uyarlama işe yarıyor mu: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Yalnızca etkinliğe katılmayı öğrenme ilerlemesiyle karıştırmayın."
       ],
       [
-        "İş birliği",
-        "Uyarlama işe yarıyor mu için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Uyarlama işe yarıyor mu çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Görsel ipucu sonrası öğrenci üç görevden ikisini bağımsız tamamlar. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında uyarlama işe yarıyor mu konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Görsel ipucu sonrası öğrenci üç görevden ikisini bağımsız tamamlar. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin uyarlama işe yarıyor mu hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Uyarlama öncesi ve sonrası aynı kazanıma ait ölçüm alın.",
+      "Yalnızca etkinliğe katılmayı öğrenme ilerlemesiyle karıştırmayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Uyarlama işe yarıyor mu için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Uyarlama işe yarıyor mu konusunda ilk önce hangi bilgi gerekir?",
+        "Uyarlama öncesi ve sonrası aynı kazanıma ait ölçüm alın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Görsel ipucu sonrası öğrenci üç görevden ikisini bağımsız tamamlar. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -770,44 +770,44 @@
   {
     "slug": "ozel-egitim-bep-toplanti-gundemi",
     "title": "BEP toplantı gündemi | Özel Eğitim",
-    "summary": "BEP toplantı gündemi konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "BEP toplantı gündemi için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "BEP toplantı gündemi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Toplantı öncesinde ölçümler, aile gözlemi ve öğrenci katılımını toplayın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "BEP toplantı gündemi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Gündeme yalnızca tamamlanmayan hedefleri değil işe yarayan destekleri de ekleyin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "BEP toplantı gündemi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "BEP toplantı gündemi: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Gündeme yalnızca tamamlanmayan hedefleri değil işe yarayan destekleri de ekleyin."
       ],
       [
-        "İş birliği",
-        "BEP toplantı gündemi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "BEP toplantı gündemi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "BEP ekibi iki hedefin ilerlemesini inceleyip bir uyarlamayı değiştirir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında bep toplantı gündemi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "BEP ekibi iki hedefin ilerlemesini inceleyip bir uyarlamayı değiştirir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin bep toplantı gündemi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Toplantı öncesinde ölçümler, aile gözlemi ve öğrenci katılımını toplayın.",
+      "Gündeme yalnızca tamamlanmayan hedefleri değil işe yarayan destekleri de ekleyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "BEP toplantı gündemi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "BEP toplantı gündemi konusunda ilk önce hangi bilgi gerekir?",
+        "Toplantı öncesinde ölçümler, aile gözlemi ve öğrenci katılımını toplayın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "BEP ekibi iki hedefin ilerlemesini inceleyip bir uyarlamayı değiştirir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -818,44 +818,44 @@
   {
     "slug": "ozel-egitim-bep-degerlendirme-kaydi",
     "title": "BEP değerlendirme kaydı | Özel Eğitim",
-    "summary": "BEP değerlendirme kaydı konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "BEP değerlendirme kaydı için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "BEP değerlendirme kaydı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Kayıtta tarih, hedef, gözlem koşulu ve destek düzeyini belirtin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "BEP değerlendirme kaydı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Öğrencinin kişisel bilgisini gerekli kayıt alanlarıyla sınırlayın. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "BEP değerlendirme kaydı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "BEP değerlendirme kaydı: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğrencinin kişisel bilgisini gerekli kayıt alanlarıyla sınırlayın."
       ],
       [
-        "İş birliği",
-        "BEP değerlendirme kaydı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "BEP değerlendirme kaydı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğretmen ölçümü 'yardımsız iki adım' olarak işaretler, tanı yorumu eklemez. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında bep değerlendirme kaydı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğretmen ölçümü 'yardımsız iki adım' olarak işaretler, tanı yorumu eklemez. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin bep değerlendirme kaydı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Kayıtta tarih, hedef, gözlem koşulu ve destek düzeyini belirtin.",
+      "Öğrencinin kişisel bilgisini gerekli kayıt alanlarıyla sınırlayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "BEP değerlendirme kaydı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "BEP değerlendirme kaydı konusunda ilk önce hangi bilgi gerekir?",
+        "Kayıtta tarih, hedef, gözlem koşulu ve destek düzeyini belirtin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğretmen ölçümü 'yardımsız iki adım' olarak işaretler, tanı yorumu eklemez. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -866,44 +866,44 @@
   {
     "slug": "ozel-egitim-egitimde-erisilebilir-materyal",
     "title": "Eğitimde erişilebilir materyal | Özel Eğitim",
-    "summary": "Eğitimde erişilebilir materyal konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Eğitimde erişilebilir materyal için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Eğitimde erişilebilir materyal konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Yazı büyüklüğü, görsel kontrast ve erişilebilir dosya biçimini gözden geçirin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Eğitimde erişilebilir materyal ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Materyalin gerçekten öğrenci tarafından kullanılabildiğini denetleyin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Eğitimde erişilebilir materyal hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Eğitimde erişilebilir materyal: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Materyalin gerçekten öğrenci tarafından kullanılabildiğini denetleyin."
       ],
       [
-        "İş birliği",
-        "Eğitimde erişilebilir materyal için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Eğitimde erişilebilir materyal çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrencinin okuyamadığı küçük yazılı çalışma kâğıdı büyütülüp yeniden denenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında eğitimde erişilebilir materyal konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrencinin okuyamadığı küçük yazılı çalışma kâğıdı büyütülüp yeniden denenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin eğitimde erişilebilir materyal hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Yazı büyüklüğü, görsel kontrast ve erişilebilir dosya biçimini gözden geçirin.",
+      "Materyalin gerçekten öğrenci tarafından kullanılabildiğini denetleyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Eğitimde erişilebilir materyal için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Eğitimde erişilebilir materyal konusunda ilk önce hangi bilgi gerekir?",
+        "Yazı büyüklüğü, görsel kontrast ve erişilebilir dosya biçimini gözden geçirin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrencinin okuyamadığı küçük yazılı çalışma kâğıdı büyütülüp yeniden denenir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -914,44 +914,44 @@
   {
     "slug": "ozel-egitim-farkli-yanit-verme-yollari",
     "title": "Farklı yanıt verme yolları | Özel Eğitim",
-    "summary": "Farklı yanıt verme yolları konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Farklı yanıt verme yolları için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Farklı yanıt verme yolları konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Aynı bilgiyi çizim, işaretleme veya kısa sözlü yanıtla ifade etmeye seçenek tanıyın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Farklı yanıt verme yolları ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Yanıt biçimini değiştirirken ölçülen kazanımı koruyun. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Farklı yanıt verme yolları hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Farklı yanıt verme yolları: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Yanıt biçimini değiştirirken ölçülen kazanımı koruyun."
       ],
       [
-        "İş birliği",
-        "Farklı yanıt verme yolları için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Farklı yanıt verme yolları çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrenci okuduğu metnin ana fikrini paragraf yazmak yerine görselle açıklar. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında farklı yanıt verme yolları konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrenci okuduğu metnin ana fikrini paragraf yazmak yerine görselle açıklar. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin farklı yanıt verme yolları hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Aynı bilgiyi çizim, işaretleme veya kısa sözlü yanıtla ifade etmeye seçenek tanıyın.",
+      "Yanıt biçimini değiştirirken ölçülen kazanımı koruyun.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Farklı yanıt verme yolları için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Farklı yanıt verme yolları konusunda ilk önce hangi bilgi gerekir?",
+        "Aynı bilgiyi çizim, işaretleme veya kısa sözlü yanıtla ifade etmeye seçenek tanıyın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrenci okuduğu metnin ana fikrini paragraf yazmak yerine görselle açıklar. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -962,44 +962,44 @@
   {
     "slug": "ozel-egitim-okul-ici-kurum-is-birligi",
     "title": "Okul içi kurum iş birliği | Özel Eğitim",
-    "summary": "Okul içi kurum iş birliği konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Okul içi kurum iş birliği için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Okul içi kurum iş birliği konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Sınıf öğretmeni, rehberlik servisi ve özel eğitim desteğinin görevlerini netleştirin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Okul içi kurum iş birliği ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Aynı hedef için çelişen yönergeler verilmesini önleyin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Okul içi kurum iş birliği hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Okul içi kurum iş birliği: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Aynı hedef için çelişen yönergeler verilmesini önleyin."
       ],
       [
-        "İş birliği",
-        "Okul içi kurum iş birliği için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Okul içi kurum iş birliği çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Üç görevli tek ölçüm çizelgesinde hangi desteği uygulayacağını belirler. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında okul içi kurum iş birliği konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Üç görevli tek ölçüm çizelgesinde hangi desteği uygulayacağını belirler. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin okul içi kurum iş birliği hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sınıf öğretmeni, rehberlik servisi ve özel eğitim desteğinin görevlerini netleştirin.",
+      "Aynı hedef için çelişen yönergeler verilmesini önleyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Okul içi kurum iş birliği için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Okul içi kurum iş birliği konusunda ilk önce hangi bilgi gerekir?",
+        "Sınıf öğretmeni, rehberlik servisi ve özel eğitim desteğinin görevlerini netleştirin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Üç görevli tek ölçüm çizelgesinde hangi desteği uygulayacağını belirler. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -1010,44 +1010,44 @@
   {
     "slug": "ozel-egitim-ram-degerlendirmesi-sonrasi",
     "title": "RAM değerlendirmesi sonrası | Özel Eğitim",
-    "summary": "RAM değerlendirmesi sonrası konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "RAM değerlendirmesi sonrası için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "RAM değerlendirmesi sonrası konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "RAM değerlendirmesindeki eğitsel önerileri okulun mevcut planıyla karşılaştırın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "RAM değerlendirmesi sonrası ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Resmî raporun güncelliğini doğrulamadan tanı veya yeni karar üretmeyin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "RAM değerlendirmesi sonrası hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "RAM değerlendirmesi sonrası: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Resmî raporun güncelliğini doğrulamadan tanı veya yeni karar üretmeyin."
       ],
       [
-        "İş birliği",
-        "RAM değerlendirmesi sonrası için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "RAM değerlendirmesi sonrası çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Ekip yeni değerlendirme sonrası BEP uyarlamalarını öğrencinin performansıyla gözden geçirir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında ram değerlendirmesi sonrası konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Ekip yeni değerlendirme sonrası BEP uyarlamalarını öğrencinin performansıyla gözden geçirir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin ram değerlendirmesi sonrası hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "RAM değerlendirmesindeki eğitsel önerileri okulun mevcut planıyla karşılaştırın.",
+      "Resmî raporun güncelliğini doğrulamadan tanı veya yeni karar üretmeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "RAM değerlendirmesi sonrası için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "RAM değerlendirmesi sonrası konusunda ilk önce hangi bilgi gerekir?",
+        "RAM değerlendirmesindeki eğitsel önerileri okulun mevcut planıyla karşılaştırın. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Ekip yeni değerlendirme sonrası BEP uyarlamalarını öğrencinin performansıyla gözden geçirir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -1058,44 +1058,44 @@
   {
     "slug": "ozel-egitim-kapsayici-grup-etkinligi",
     "title": "Kapsayıcı grup etkinliği | Özel Eğitim",
-    "summary": "Kapsayıcı grup etkinliği konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Kapsayıcı grup etkinliği için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Kapsayıcı grup etkinliği konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Grup etkinliğinde her öğrenci için katkı yolu belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Kapsayıcı grup etkinliği ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Öğrenciyi izleyici konumuna sabitleyecek tek görev düzeninden kaçının. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Kapsayıcı grup etkinliği hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Kapsayıcı grup etkinliği: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğrenciyi izleyici konumuna sabitleyecek tek görev düzeninden kaçının."
       ],
       [
-        "İş birliği",
-        "Kapsayıcı grup etkinliği için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Kapsayıcı grup etkinliği çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Ortak afişte öğrenci simge seçer, arkadaşları yazı yazar; roller sonra değişir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında kapsayıcı grup etkinliği konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Ortak afişte öğrenci simge seçer, arkadaşları yazı yazar; roller sonra değişir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin kapsayıcı grup etkinliği hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Grup etkinliğinde her öğrenci için katkı yolu belirleyin.",
+      "Öğrenciyi izleyici konumuna sabitleyecek tek görev düzeninden kaçının.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Kapsayıcı grup etkinliği için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Kapsayıcı grup etkinliği konusunda ilk önce hangi bilgi gerekir?",
+        "Grup etkinliğinde her öğrenci için katkı yolu belirleyin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Ortak afişte öğrenci simge seçer, arkadaşları yazı yazar; roller sonra değişir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -1106,44 +1106,44 @@
   {
     "slug": "ozel-egitim-aileyle-donemlik-hedef",
     "title": "Aileyle dönemlik hedef | Özel Eğitim",
-    "summary": "Aileyle dönemlik hedef konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Aileyle dönemlik hedef için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Aileyle dönemlik hedef konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Ev ve okulda gözlenebilecek ortak, ulaşılabilir tek davranış hedefi seçin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Aileyle dönemlik hedef ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Aileyi sınıftaki tüm eğitim çalışmalarından sorumlu tutmayın. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Aileyle dönemlik hedef hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Aileyle dönemlik hedef: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Aileyi sınıftaki tüm eğitim çalışmalarından sorumlu tutmayın."
       ],
       [
-        "İş birliği",
-        "Aileyle dönemlik hedef için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Aileyle dönemlik hedef çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Öğrencinin çanta hazırlama adımları ev ve okulda farklı desteklerle izlenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında aileyle dönemlik hedef konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Öğrencinin çanta hazırlama adımları ev ve okulda farklı desteklerle izlenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin aileyle dönemlik hedef hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Ev ve okulda gözlenebilecek ortak, ulaşılabilir tek davranış hedefi seçin.",
+      "Aileyi sınıftaki tüm eğitim çalışmalarından sorumlu tutmayın.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Aileyle dönemlik hedef için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Aileyle dönemlik hedef konusunda ilk önce hangi bilgi gerekir?",
+        "Ev ve okulda gözlenebilecek ortak, ulaşılabilir tek davranış hedefi seçin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Öğrencinin çanta hazırlama adımları ev ve okulda farklı desteklerle izlenir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
@@ -1154,44 +1154,44 @@
   {
     "slug": "ozel-egitim-destek-egitim-koordinasyonu",
     "title": "Destek eğitim koordinasyonu | Özel Eğitim",
-    "summary": "Destek eğitim koordinasyonu konusunda özel eğitim kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Destek eğitim koordinasyonu için okulda somut değerlendirme, koruyucu uygulama, sorumluluk paylaşımı ve takip örnekleri.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Destek eğitim koordinasyonu konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sorunun okulda nasıl göründüğü",
+        "Destek eğitimde işlenen beceri ile sınıf kullanımını eşleştirin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun."
       ],
       [
-        "Güvenlik ve etik",
-        "Destek eğitim koordinasyonu ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Değerlendirmede önemli ayrım",
+        "Destek eğitim başarısını sınıf içi genelleme olmuş gibi kabul etmeyin. Öğrencinin güçlü yönlerini, katılım tercihlerini ve bireysel destek gereksinimlerini etiketlemeden kaydedin."
       ],
       [
-        "Uygulama",
-        "Destek eğitim koordinasyonu hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Destek eğitim koordinasyonu: uygulama adımı",
+        "Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Destek eğitim başarısını sınıf içi genelleme olmuş gibi kabul etmeyin."
       ],
       [
-        "İş birliği",
-        "Destek eğitim koordinasyonu için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Ekipte görev paylaşımı",
+        "BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin mahrem bilgilerini yalnızca gerekli kişilerle paylaşın."
       ],
       [
-        "Takip",
-        "Destek eğitim koordinasyonu çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Gelişimi ve güvenliği yeniden değerlendirme",
+        "Destekte öğrenilen yönerge sıralama, sınıfta gerçek materyallerle denenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında destek eğitim koordinasyonu konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Destekte öğrenilen yönerge sıralama, sınıfta gerçek materyallerle denenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
     "check": [
-      "Öğrencinin destek eğitim koordinasyonu hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Destek eğitimde işlenen beceri ile sınıf kullanımını eşleştirin.",
+      "Destek eğitim başarısını sınıf içi genelleme olmuş gibi kabul etmeyin.",
+      "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
+      "İzleme tarihini ve gözlenecek değişimi kaydedin."
     ],
     "faq": [
       [
-        "Destek eğitim koordinasyonu için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Destek eğitim koordinasyonu konusunda ilk önce hangi bilgi gerekir?",
+        "Destek eğitimde işlenen beceri ile sınıf kullanımını eşleştirin. Öğrencinin anlatımı ve koşulları da değerlendirmeye alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu konuda ne zaman plan güncellenmeli?",
+        "Destekte öğrenilen yönerge sıralama, sınıfta gerçek materyallerle denenir. Hedef gerçekleşmez veya güvenlik riski sürerse yeni destek düzenlenmelidir."
       ]
     ],
     "search_terms": [
