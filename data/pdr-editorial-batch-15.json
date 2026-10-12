@@ -2,44 +2,44 @@
   {
     "slug": "ilkokul-okula-yeni-baslama-kaygisi",
     "title": "Okula yeni başlama kaygısı | İlkokul",
-    "summary": "Okula yeni başlama kaygısı konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Okula yeni başlama kaygısı: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Okula yeni başlama kaygısı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Okula başlangıçta zorlanmayı anlamak",
+        "Kaygının özellikle ayrılma anında mı, sınıfa girdikten sonra mı arttığını aile ve öğretmenden ayrı öğrenin. Karın ağrısı gibi bedensel yakınmaları görmezden gelmeyin; devam eden belirtilerde sağlık değerlendirmesini düşünün."
       ],
       [
-        "Güvenlik ve etik",
-        "Okula yeni başlama kaygısı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Güven veren karşılama",
+        "Her sabah aynı öğretmen veya görevli tarafından karşılanmak belirsizliği azaltabilir. Çocuğa sınıfta ilk yapacağı küçük etkinliği önceden gösterin."
       ],
       [
-        "Uygulama",
-        "Okula yeni başlama kaygısı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Aileyle ayrılma planı",
+        "Vedalaşma süresini önceden konuşun; aileden gizlice ayrılmasını istemeyin. Çocuğun duygusunu kabul ederken okuldaki güvenli yetişkini hatırlatın."
       ],
       [
-        "İş birliği",
-        "Okula yeni başlama kaygısı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "İlk hafta izleme",
+        "Ağlama süresini tek başına başarı ölçütü saymayın. Derse katılım, oyun isteği ve çocuğun güvende hissetmesi birlikte izlenmelidir."
       ],
       [
-        "Takip",
-        "Okula yeni başlama kaygısı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Ağlama süresini tek başına başarı ölçütü saymayın. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında okula yeni başlama kaygısı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Birinci sınıf öğrencisi kapıda ağlar fakat öğretmeniyle kitap köşesine geçtikten sonra etkinliğe katılır. Aile ve öğretmen aynı kısa vedalaşma cümlesini kullanır; beş gün sonra çocuğun sınıfa katılımı değerlendirilir.",
     "check": [
-      "Öğrencinin okula yeni başlama kaygısı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Kaygının özellikle ayrılma anında mı, sınıfa girdikten sonra mı arttığını aile ve öğretmenden ayrı öğrenin.",
+      "Her sabah aynı öğretmen veya görevli tarafından karşılanmak belirsizliği azaltabilir.",
+      "Vedalaşma süresini önceden konuşun; aileden gizlice ayrılmasını istemeyin.",
+      "Ağlama süresini tek başına başarı ölçütü saymayın."
     ],
     "faq": [
       [
-        "Okula yeni başlama kaygısı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Okula yeni başlama kaygısı uygulamasında nelerden kaçınılmalı?",
+        "Kaygının özellikle ayrılma anında mı, sınıfa girdikten sonra mı arttığını aile ve öğretmenden ayrı öğrenin. Karın ağrısı gibi bedensel yakınmaları görmezden gelmeyin; devam eden belirtilerde sağlık değerlendirmesini düşünün."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Ağlama süresini tek başına başarı ölçütü saymayın. Derse katılım, oyun isteği ve çocuğun güvende hissetmesi birlikte izlenmelidir."
       ]
     ],
     "search_terms": [
@@ -50,44 +50,44 @@
   {
     "slug": "ilkokul-sabah-vedalasma-rutini",
     "title": "Sabah vedalaşma rutini | İlkokul",
-    "summary": "Sabah vedalaşma rutini konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sabah vedalaşma rutini: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sabah vedalaşma rutini konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Ayrılma anını gözlemek",
+        "Sabah vedasının uzadığı yer, yetişkin tepkisi ve çocuğun ilk dersteki durumu ayrı kaydedilmelidir. Tek bir sabah yaşanan güçlükten kalıcı sorun sonucu çıkarmayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Sabah vedalaşma rutini ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kısa ve öngörülebilir rutin",
+        "Örneğin selamlaşma, çantayı bırakma ve öğretmene yönelme sırası görselleştirilebilir. Rutin, çocuğun güvenliğini ve bireysel ihtiyacını gözeterek esnetilmelidir."
       ],
       [
-        "Uygulama",
-        "Sabah vedalaşma rutini hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Velinin rolünü netleştirmek",
+        "Aileye çocuğu kandırmadan ne zaman döneceğini açıklaması önerilir. Çocuk yoğun zorlanıyorsa onu yalnız bırakmak yerine okulun güvenli destek akışı uygulanır."
       ],
       [
-        "İş birliği",
-        "Sabah vedalaşma rutini için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Rutin işe yarıyor mu?",
+        "Öğrencinin ilk etkinliğe başlama süresini ve yardım istemesini gözleyin. Zorlanma sürüyorsa sağlık, akran ilişkileri ve sınıf koşullarını değerlendirin."
       ],
       [
-        "Takip",
-        "Sabah vedalaşma rutini çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Öğrencinin ilk etkinliğe başlama süresini ve yardım istemesini gözleyin. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sabah vedalaşma rutini konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: İki hafta boyunca kapıda bekleyen öğrenci için sınıf öğretmeni kapıda karşılayıp resimli günlük planı gösterir. Bir hafta sonra çocuk ve veliyle rutinin işe yaradığı konuşulur.",
     "check": [
-      "Öğrencinin sabah vedalaşma rutini hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sabah vedasının uzadığı yer, yetişkin tepkisi ve çocuğun ilk dersteki durumu ayrı kaydedilmelidir.",
+      "Örneğin selamlaşma, çantayı bırakma ve öğretmene yönelme sırası görselleştirilebilir.",
+      "Aileye çocuğu kandırmadan ne zaman döneceğini açıklaması önerilir.",
+      "Öğrencinin ilk etkinliğe başlama süresini ve yardım istemesini gözleyin."
     ],
     "faq": [
       [
-        "Sabah vedalaşma rutini için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sabah vedalaşma rutini uygulamasında nelerden kaçınılmalı?",
+        "Sabah vedasının uzadığı yer, yetişkin tepkisi ve çocuğun ilk dersteki durumu ayrı kaydedilmelidir. Tek bir sabah yaşanan güçlükten kalıcı sorun sonucu çıkarmayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Öğrencinin ilk etkinliğe başlama süresini ve yardım istemesini gözleyin. Zorlanma sürüyorsa sağlık, akran ilişkileri ve sınıf koşullarını değerlendirin."
       ]
     ],
     "search_terms": [
@@ -98,44 +98,44 @@
   {
     "slug": "ilkokul-sinif-arkadasini-tanima",
     "title": "Sınıf arkadaşını tanıma | İlkokul",
-    "summary": "Sınıf arkadaşını tanıma konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınıf arkadaşını tanıma: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınıf arkadaşını tanıma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Tanışmayı zorunlu gösteriye dönüştürmemek",
+        "İlk tanışma etkinliğinde kendisi hakkında konuşmak istemeyen öğrenciler olabilir. İsim, sevdiği etkinlik veya gönüllü çizim gibi farklı katılım yolları sunun."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınıf arkadaşını tanıma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İkili ve küçük grup etkinliği",
+        "Öğrenciler birbirlerinin ortak ilgi alanlarını bulacak iki kısa soru hazırlayabilir. Kişisel aile bilgisi, sağlık durumu veya özel yaşantı paylaşımı istenmemelidir."
       ],
       [
-        "Uygulama",
-        "Sınıf arkadaşını tanıma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Kapsayıcı eşleştirme",
+        "Grup eşleşmelerini hep aynı arkadaşlıklara bırakmayın; gönüllülük ve rahatlık düzeyini koruyun. Dışlanan öğrenciyi sınıf önünde örnek göstermeyin."
       ],
       [
-        "İş birliği",
-        "Sınıf arkadaşını tanıma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Sonraki haftaya taşıma",
+        "Tanışmanın yalnızca ilk güne sıkışmaması için sınıf görevi ve oyunlarda değişen eşleşmeler sunun. Çocukların yeni biriyle güvenli iletişim kurup kuramadığını izleyin."
       ],
       [
-        "Takip",
-        "Sınıf arkadaşını tanıma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Tanışmanın yalnızca ilk güne sıkışmaması için sınıf görevi ve oyunlarda değişen eşleşmeler sunun. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınıf arkadaşını tanıma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Öğrenciler ortak sevdikleri oyunları kartlara çizer; ikili gruplar kartlarını tanıtır. Konuşmak istemeyen bir öğrenci çizimini öğretmene göstererek katılır.",
     "check": [
-      "Öğrencinin sınıf arkadaşını tanıma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "İlk tanışma etkinliğinde kendisi hakkında konuşmak istemeyen öğrenciler olabilir.",
+      "Öğrenciler birbirlerinin ortak ilgi alanlarını bulacak iki kısa soru hazırlayabilir.",
+      "Grup eşleşmelerini hep aynı arkadaşlıklara bırakmayın; gönüllülük ve rahatlık düzeyini koruyun.",
+      "Tanışmanın yalnızca ilk güne sıkışmaması için sınıf görevi ve oyunlarda değişen eşleşmeler sunun."
     ],
     "faq": [
       [
-        "Sınıf arkadaşını tanıma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınıf arkadaşını tanıma uygulamasında nelerden kaçınılmalı?",
+        "İlk tanışma etkinliğinde kendisi hakkında konuşmak istemeyen öğrenciler olabilir. İsim, sevdiği etkinlik veya gönüllü çizim gibi farklı katılım yolları sunun."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Tanışmanın yalnızca ilk güne sıkışmaması için sınıf görevi ve oyunlarda değişen eşleşmeler sunun. Çocukların yeni biriyle güvenli iletişim kurup kuramadığını izleyin."
       ]
     ],
     "search_terms": [
@@ -146,44 +146,44 @@
   {
     "slug": "ilkokul-teneffuste-yalniz-kalma",
     "title": "Teneffüste yalnız kalma | İlkokul",
-    "summary": "Teneffüste yalnız kalma konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Teneffüste yalnız kalma: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Teneffüste yalnız kalma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Yalnız kalmanın anlamını anlamak",
+        "Her teneffüste tek başına olmak istenmeyen yalnızlık anlamına gelmez. Öğrencinin kendi tercihini, dışlanma olasılığını ve güvenlik durumunu ayrı sorun."
       ],
       [
-        "Güvenlik ve etik",
-        "Teneffüste yalnız kalma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Teneffüs haritası oluşturma",
+        "Öğrencinin hangi alanlarda rahat hissettiğini ve kimlere ulaşabildiğini öğrenin. Birlikte isteğe bağlı oyun veya kitaplık etkinliği seçilebilir."
       ],
       [
-        "Uygulama",
-        "Teneffüste yalnız kalma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Akran katılımını kolaylaştırmak",
+        "Öğrenciyi zorla bir arkadaş grubuna yerleştirmek yerine öğretmen gözetiminde ortak ilgi etkinliği sunun. Dışlama varsa bunun sorumluluğunu öğrenciye yüklemeyin."
       ],
       [
-        "İş birliği",
-        "Teneffüste yalnız kalma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Aidiyeti izlemek",
+        "Çocukla teneffüs sonunda kısa görüşerek kendini ne kadar rahat hissettiğini sorun. Tekrarlayan dışlama veya zorbalık belirtileri için okul koruma sürecini işletin."
       ],
       [
-        "Takip",
-        "Teneffüste yalnız kalma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Çocukla teneffüs sonunda kısa görüşerek kendini ne kadar rahat hissettiğini sorun. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında teneffüste yalnız kalma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Öğrenci bahçede tek başına durduğunu ama satranç sevdiğini söyler. Gönüllü oyun köşesine katılır; sonraki hafta yeni arkadaşlık baskısı olmadan deneyimi konuşulur.",
     "check": [
-      "Öğrencinin teneffüste yalnız kalma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Her teneffüste tek başına olmak istenmeyen yalnızlık anlamına gelmez.",
+      "Öğrencinin hangi alanlarda rahat hissettiğini ve kimlere ulaşabildiğini öğrenin.",
+      "Öğrenciyi zorla bir arkadaş grubuna yerleştirmek yerine öğretmen gözetiminde ortak ilgi etkinliği sunun.",
+      "Çocukla teneffüs sonunda kısa görüşerek kendini ne kadar rahat hissettiğini sorun."
     ],
     "faq": [
       [
-        "Teneffüste yalnız kalma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Teneffüste yalnız kalma uygulamasında nelerden kaçınılmalı?",
+        "Her teneffüste tek başına olmak istenmeyen yalnızlık anlamına gelmez. Öğrencinin kendi tercihini, dışlanma olasılığını ve güvenlik durumunu ayrı sorun."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Çocukla teneffüs sonunda kısa görüşerek kendini ne kadar rahat hissettiğini sorun. Tekrarlayan dışlama veya zorbalık belirtileri için okul koruma sürecini işletin."
       ]
     ],
     "search_terms": [
@@ -194,44 +194,44 @@
   {
     "slug": "ilkokul-grup-oyununa-katilma",
     "title": "Grup oyununa katılma | İlkokul",
-    "summary": "Grup oyununa katılma konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Grup oyununa katılma: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Grup oyununa katılma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Oyuna katılmayı zorlaştıran koşullar",
+        "Oyuna alınmayan çocuğa hemen sosyal beceri eksikliği atfetmeyin. Oyun kuralları, mevcut grup ilişkileri ve güvenlik gözlemlenmelidir."
       ],
       [
-        "Güvenlik ve etik",
-        "Grup oyununa katılma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Oyuna giriş cümlesi provası",
+        "Kurgusal oyun kartında 'Ben de bir sonraki turda katılabilir miyim?' gibi kısa cümleler deneyin. Çocuğun sözlü olmayan katılım ihtimalini de değerlendirin."
       ],
       [
-        "Uygulama",
-        "Grup oyununa katılma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğretmenle oyun düzeni",
+        "Dönüşümlü roller, açık oyun kuralları ve alternatif grup seçeneği oluşturun. Bir çocuğu herkesin önünde 'oyuna alınması gereken kişi' diye işaretlemeyin."
       ],
       [
-        "İş birliği",
-        "Grup oyununa katılma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Deneyimi çocuğa sormak",
+        "Katılma sayısını değil, çocuğun kendini güvende ve istekli hissetmesini izleyin. Grup dışlaması sürüyorsa doğrudan sınıf ortamına müdahale edin."
       ],
       [
-        "Takip",
-        "Grup oyununa katılma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Katılma sayısını değil, çocuğun kendini güvende ve istekli hissetmesini izleyin. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında grup oyununa katılma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Bahçe oyununda sıra bulamayan öğrenci, öğretmen destekli dönüşümlü rol kartlarını kullanır. Sonra öğrenciler kuralların herkes için açık olup olmadığını değerlendirir.",
     "check": [
-      "Öğrencinin grup oyununa katılma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Oyuna alınmayan çocuğa hemen sosyal beceri eksikliği atfetmeyin.",
+      "Kurgusal oyun kartında 'Ben de bir sonraki turda katılabilir miyim?' gibi kısa cümleler deneyin.",
+      "Dönüşümlü roller, açık oyun kuralları ve alternatif grup seçeneği oluşturun.",
+      "Katılma sayısını değil, çocuğun kendini güvende ve istekli hissetmesini izleyin."
     ],
     "faq": [
       [
-        "Grup oyununa katılma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Grup oyununa katılma uygulamasında nelerden kaçınılmalı?",
+        "Oyuna alınmayan çocuğa hemen sosyal beceri eksikliği atfetmeyin. Oyun kuralları, mevcut grup ilişkileri ve güvenlik gözlemlenmelidir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Katılma sayısını değil, çocuğun kendini güvende ve istekli hissetmesini izleyin. Grup dışlaması sürüyorsa doğrudan sınıf ortamına müdahale edin."
       ]
     ],
     "search_terms": [
@@ -242,44 +242,44 @@
   {
     "slug": "ilkokul-paylasmayi-ogrenme",
     "title": "Paylaşmayı öğrenme | İlkokul",
-    "summary": "Paylaşmayı öğrenme konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Paylaşmayı öğrenme: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Paylaşmayı öğrenme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Paylaşmak ve sınır koymak",
+        "Paylaşma becerisi, çocuğun her eşyasını istemediği hâlde vermesi değildir. Ortak malzeme ile kişisel eşyaya dair izin farklı ele alınmalıdır."
       ],
       [
-        "Güvenlik ve etik",
-        "Paylaşmayı öğrenme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Sırayla kullanım alıştırması",
+        "Tek bir sınıf materyali üzerinden bekleme, süre belirleme ve başka seçenek üretme pratiği yapın. Sınıfın yaşına uygun zamanlayıcı kullanılabilir."
       ],
       [
-        "Uygulama",
-        "Paylaşmayı öğrenme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Zorla paylaşmayı önlemek",
+        "Çocuk izin vermediğinde bunun güvenli biçimde söylenebilmesini destekleyin. Öfke veya itişme olursa önce güvenlik sağlanmalıdır."
       ],
       [
-        "İş birliği",
-        "Paylaşmayı öğrenme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Gözleme dayalı takip",
+        "Öğretmen oyun sırasında izin isteme ve sıra değişim örneklerini izleyebilir. Öğrencilerin anlaşmazlığı nasıl çözdüğünü ayrıca sorun."
       ],
       [
-        "Takip",
-        "Paylaşmayı öğrenme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Öğretmen oyun sırasında izin isteme ve sıra değişim örneklerini izleyebilir. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında paylaşmayı öğrenme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: İki öğrenci aynı boya kutusunu ister. Öğretmen sırayla kullanım ve alternatif boya seçme seçeneklerini sunar; öğrenciler kendileri karar verir.",
     "check": [
-      "Öğrencinin paylaşmayı öğrenme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Paylaşma becerisi, çocuğun her eşyasını istemediği hâlde vermesi değildir.",
+      "Tek bir sınıf materyali üzerinden bekleme, süre belirleme ve başka seçenek üretme pratiği yapın.",
+      "Çocuk izin vermediğinde bunun güvenli biçimde söylenebilmesini destekleyin.",
+      "Öğretmen oyun sırasında izin isteme ve sıra değişim örneklerini izleyebilir."
     ],
     "faq": [
       [
-        "Paylaşmayı öğrenme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Paylaşmayı öğrenme uygulamasında nelerden kaçınılmalı?",
+        "Paylaşma becerisi, çocuğun her eşyasını istemediği hâlde vermesi değildir. Ortak malzeme ile kişisel eşyaya dair izin farklı ele alınmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Öğretmen oyun sırasında izin isteme ve sıra değişim örneklerini izleyebilir. Öğrencilerin anlaşmazlığı nasıl çözdüğünü ayrıca sorun."
       ]
     ],
     "search_terms": [
@@ -290,44 +290,44 @@
   {
     "slug": "ilkokul-sira-bekleme-aliskanligi",
     "title": "Sıra bekleme alışkanlığı | İlkokul",
-    "summary": "Sıra bekleme alışkanlığı konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sıra bekleme alışkanlığı: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sıra bekleme alışkanlığı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sıranın ne zaman zorlaştığını görmek",
+        "Bekleme güçlüğünü yalnızca sabırsızlık saymayın. Belirsiz süre, kalabalık ortam veya uzun yönerge öğrencinin davranışını etkileyebilir."
       ],
       [
-        "Güvenlik ve etik",
-        "Sıra bekleme alışkanlığı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Görsel sıra düzeni",
+        "İki-üç kişilik kısa etkinlikte sıranın kime geçtiğini gösteren kart kullanılabilir. Sıranın ne zaman geleceği somut biçimde açıklanmalıdır."
       ],
       [
-        "Uygulama",
-        "Sıra bekleme alışkanlığı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Beklerken güvenli alternatif",
+        "Bekleyen öğrenciye kısa gözlem veya hazırlık görevi verin. Bir öğrenciyi sürekli en sona koymak sınıf aidiyetini zedeleyebilir."
       ],
       [
-        "İş birliği",
-        "Sıra bekleme alışkanlığı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Adil uygulamayı izlemek",
+        "Bekleme davranışı gelişirken çocuğun duygu ve ortam deneyimini de sorun. Bir sonraki etkinlikte süre ve rol sayısını yeniden ayarlayın."
       ],
       [
-        "Takip",
-        "Sıra bekleme alışkanlığı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Bekleme davranışı gelişirken çocuğun duygu ve ortam deneyimini de sorun. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sıra bekleme alışkanlığı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Oyun masasında beklemek zorlaşınca öğretmen dönüş kartları koyar. Öğrenciler sıranın değişimini kendileri takip eder.",
     "check": [
-      "Öğrencinin sıra bekleme alışkanlığı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Bekleme güçlüğünü yalnızca sabırsızlık saymayın.",
+      "İki-üç kişilik kısa etkinlikte sıranın kime geçtiğini gösteren kart kullanılabilir.",
+      "Bekleyen öğrenciye kısa gözlem veya hazırlık görevi verin.",
+      "Bekleme davranışı gelişirken çocuğun duygu ve ortam deneyimini de sorun."
     ],
     "faq": [
       [
-        "Sıra bekleme alışkanlığı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sıra bekleme alışkanlığı uygulamasında nelerden kaçınılmalı?",
+        "Bekleme güçlüğünü yalnızca sabırsızlık saymayın. Belirsiz süre, kalabalık ortam veya uzun yönerge öğrencinin davranışını etkileyebilir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Bekleme davranışı gelişirken çocuğun duygu ve ortam deneyimini de sorun. Bir sonraki etkinlikte süre ve rol sayısını yeniden ayarlayın."
       ]
     ],
     "search_terms": [
@@ -338,44 +338,44 @@
   {
     "slug": "ilkokul-duygulari-adlandirma",
     "title": "Duyguları adlandırma | İlkokul",
-    "summary": "Duyguları adlandırma konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Duyguları adlandırma: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Duyguları adlandırma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Duygu sözcüklerini genişletmek",
+        "İlkokul öğrencisi 'kötü hissediyorum' dediğinde hangi duyguyu yaşadığını tahmin edip dayatmayın. Duyguların aynı anda birden fazla olabileceğini anlatın."
       ],
       [
-        "Güvenlik ve etik",
-        "Duyguları adlandırma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kurgusal yüz ifadeleri",
+        "Kartlarla sevinç, kızgınlık, korku ve hayal kırıklığı gibi duygular ele alınabilir. Yüz ifadesinin her zaman duyguyu kesin göstermediğini vurgulayın."
       ],
       [
-        "Uygulama",
-        "Duyguları adlandırma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Duygu ile davranışı ayırmak",
+        "Kızgın hissetmek ile birine vurmak aynı değildir. Çocuklardan güvenli baş etme ve yetişkin desteği seçenekleri üretmelerini isteyin."
       ],
       [
-        "İş birliği",
-        "Duyguları adlandırma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Günlük dilde izleme",
+        "Ders bitiminde gönüllü tek sözcük veya resimli seçenek kullanılabilir. Öğrenciden özel aile öyküsü açıklaması istenmemelidir."
       ],
       [
-        "Takip",
-        "Duyguları adlandırma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Ders bitiminde gönüllü tek sözcük veya resimli seçenek kullanılabilir. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında duyguları adlandırma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Kurgusal karakter oyunda kaybedince ağlar. Öğrenciler üzüntü ve hayal kırıklığını ayırt ederek yardım isteme cümlesi tasarlar.",
     "check": [
-      "Öğrencinin duyguları adlandırma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "İlkokul öğrencisi 'kötü hissediyorum' dediğinde hangi duyguyu yaşadığını tahmin edip dayatmayın.",
+      "Kartlarla sevinç, kızgınlık, korku ve hayal kırıklığı gibi duygular ele alınabilir.",
+      "Kızgın hissetmek ile birine vurmak aynı değildir.",
+      "Ders bitiminde gönüllü tek sözcük veya resimli seçenek kullanılabilir."
     ],
     "faq": [
       [
-        "Duyguları adlandırma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Duyguları adlandırma uygulamasında nelerden kaçınılmalı?",
+        "İlkokul öğrencisi 'kötü hissediyorum' dediğinde hangi duyguyu yaşadığını tahmin edip dayatmayın. Duyguların aynı anda birden fazla olabileceğini anlatın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Ders bitiminde gönüllü tek sözcük veya resimli seçenek kullanılabilir. Öğrenciden özel aile öyküsü açıklaması istenmemelidir."
       ]
     ],
     "search_terms": [
@@ -386,44 +386,44 @@
   {
     "slug": "ilkokul-oz-bakim-sorumlulugu",
     "title": "Öz bakım sorumluluğu | İlkokul",
-    "summary": "Öz bakım sorumluluğu konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Öz bakım sorumluluğu: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Öz bakım sorumluluğu konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öz bakımın hangi kısmı zor?",
+        "Tuvalet, el yıkama veya kişisel eşya düzeni gibi görevleri tek başlık altında değerlendirmeyin. Öğrencinin erişim ve gelişimsel destek gereksinimini dikkate alın."
       ],
       [
-        "Güvenlik ve etik",
-        "Öz bakım sorumluluğu ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Görsel işlem basamakları",
+        "Örneğin el yıkamayı hatırlamak için kısa resimli sıra kullanılabilir. Çocuğun bağımsız yapabildiği basamakları koruyun."
       ],
       [
-        "Uygulama",
-        "Öz bakım sorumluluğu hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Mahremiyet ve saygı",
+        "Öz bakım desteği gerektiren öğrenciyi sınıf önünde örnek göstermeyin. Aile ve okul arasında paylaşılan bilgi yalnızca gerekli düzeyde olmalıdır."
       ],
       [
-        "İş birliği",
-        "Öz bakım sorumluluğu için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Bağımsızlıkta ilerleme",
+        "Yardım miktarı ve öğrencinin kendi başlatabildiği görevleri izleyin. Sağlık veya erişilebilirlik engellerinde uygun uzman ve ekip desteğine başvurun."
       ],
       [
-        "Takip",
-        "Öz bakım sorumluluğu çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Yardım miktarı ve öğrencinin kendi başlatabildiği görevleri izleyin. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında öz bakım sorumluluğu konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Öğrenci malzemelerini sık unutur. Aileyle ortak kısa görsel liste hazırlanır; iki hafta sonunda hangi basamakları kendisinin yaptığı gözlenir.",
     "check": [
-      "Öğrencinin öz bakım sorumluluğu hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Tuvalet, el yıkama veya kişisel eşya düzeni gibi görevleri tek başlık altında değerlendirmeyin.",
+      "Örneğin el yıkamayı hatırlamak için kısa resimli sıra kullanılabilir.",
+      "Öz bakım desteği gerektiren öğrenciyi sınıf önünde örnek göstermeyin.",
+      "Yardım miktarı ve öğrencinin kendi başlatabildiği görevleri izleyin."
     ],
     "faq": [
       [
-        "Öz bakım sorumluluğu için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Öz bakım sorumluluğu uygulamasında nelerden kaçınılmalı?",
+        "Tuvalet, el yıkama veya kişisel eşya düzeni gibi görevleri tek başlık altında değerlendirmeyin. Öğrencinin erişim ve gelişimsel destek gereksinimini dikkate alın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Yardım miktarı ve öğrencinin kendi başlatabildiği görevleri izleyin. Sağlık veya erişilebilirlik engellerinde uygun uzman ve ekip desteğine başvurun."
       ]
     ],
     "search_terms": [
@@ -434,44 +434,44 @@
   {
     "slug": "ilkokul-canta-hazirlama-rutini",
     "title": "Çanta hazırlama rutini | İlkokul",
-    "summary": "Çanta hazırlama rutini konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Çanta hazırlama rutini: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Çanta hazırlama rutini konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Çanta hazırlama güçlüğünü tanımlamak",
+        "Unutulan eşyaların hangi gün ve derslerde arttığını inceleyin. Uzun listeler, karmaşık ders programı veya ev içi zaman kısıtı etkili olabilir."
       ],
       [
-        "Güvenlik ve etik",
-        "Çanta hazırlama rutini ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Akşam kısa kontrol listesi",
+        "Ertesi gün gereken en fazla üç temel malzemeyi resimli kartla işaretlemek başlangıç için yeterlidir. Öğrencinin listeyi kendisinin kontrol etmesi desteklenir."
       ],
       [
-        "Uygulama",
-        "Çanta hazırlama rutini hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Aile rolünü azaltarak sürdürmek",
+        "Ailenin tüm çantayı hazırlaması yerine bir kez hatırlatıp kontrol sorusu sorması önerilebilir. Kişisel koşullara göre sorumluluk adımları ayarlanır."
       ],
       [
-        "İş birliği",
-        "Çanta hazırlama rutini için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Haftalık veriyle değerlendirme",
+        "Hangi günlerde hangi malzemenin unutulduğunu not edin. Liste işe yaramazsa zamanını, uzunluğunu veya görselini değiştirin."
       ],
       [
-        "Takip",
-        "Çanta hazırlama rutini çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Hangi günlerde hangi malzemenin unutulduğunu not edin. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında çanta hazırlama rutini konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Salı günleri beden eğitimi eşyasını unutan öğrenci pazartesi akşamı küçük kontrol kartı kullanır. Üç hafta sonra öğretmenle bağımsız hazırlama düzeyi konuşulur.",
     "check": [
-      "Öğrencinin çanta hazırlama rutini hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Unutulan eşyaların hangi gün ve derslerde arttığını inceleyin.",
+      "Ertesi gün gereken en fazla üç temel malzemeyi resimli kartla işaretlemek başlangıç için yeterlidir.",
+      "Ailenin tüm çantayı hazırlaması yerine bir kez hatırlatıp kontrol sorusu sorması önerilebilir.",
+      "Hangi günlerde hangi malzemenin unutulduğunu not edin."
     ],
     "faq": [
       [
-        "Çanta hazırlama rutini için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Çanta hazırlama rutini uygulamasında nelerden kaçınılmalı?",
+        "Unutulan eşyaların hangi gün ve derslerde arttığını inceleyin. Uzun listeler, karmaşık ders programı veya ev içi zaman kısıtı etkili olabilir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Hangi günlerde hangi malzemenin unutulduğunu not edin. Liste işe yaramazsa zamanını, uzunluğunu veya görselini değiştirin."
       ]
     ],
     "search_terms": [
@@ -482,44 +482,44 @@
   {
     "slug": "ilkokul-ders-araclarini-koruma",
     "title": "Ders araçlarını koruma | İlkokul",
-    "summary": "Ders araçlarını koruma konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Ders araçlarını koruma: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Ders araçlarını koruma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Malzeme kaybını anlamak",
+        "Kalemini kaybeden öğrenciyi dikkatsiz diye etiketlemeyin. Ortak kullanım, çantanın düzeni ve sınıf geçişleri gözden geçirilmelidir."
       ],
       [
-        "Güvenlik ve etik",
-        "Ders araçlarını koruma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Düzen alanını belirlemek",
+        "Öğrenciye ulaşabileceği ve tanıyabileceği tek bir eşya bölmesi oluşturun. Renk kodları veya görsel etiket gerekirse kullanılabilir."
       ],
       [
-        "Uygulama",
-        "Ders araçlarını koruma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Ortak eşyada izin kuralı",
+        "Başkalarının malzemesini kullanmadan önce izin isteme örnekleri çalışın. Eksik malzeme nedeniyle öğrencinin derse katılımı engellenmemelidir."
       ],
       [
-        "İş birliği",
-        "Ders araçlarını koruma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Somut takip",
+        "Kayıp sayısından çok öğrencinin düzenleme stratejisini kendi başlatma düzeyini gözleyin. Sürekli kayıpta sınıfın ortak eşya kurallarını yeniden değerlendirin."
       ],
       [
-        "Takip",
-        "Ders araçlarını koruma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Kayıp sayısından çok öğrencinin düzenleme stratejisini kendi başlatma düzeyini gözleyin. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında ders araçlarını koruma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Öğrenci silgisini sık kaybeder; sıra üzerindeki malzeme bölmesiyle dersten sonra kontrol alışkanlığı dener.",
     "check": [
-      "Öğrencinin ders araçlarını koruma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Kalemini kaybeden öğrenciyi dikkatsiz diye etiketlemeyin.",
+      "Öğrenciye ulaşabileceği ve tanıyabileceği tek bir eşya bölmesi oluşturun.",
+      "Başkalarının malzemesini kullanmadan önce izin isteme örnekleri çalışın.",
+      "Kayıp sayısından çok öğrencinin düzenleme stratejisini kendi başlatma düzeyini gözleyin."
     ],
     "faq": [
       [
-        "Ders araçlarını koruma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Ders araçlarını koruma uygulamasında nelerden kaçınılmalı?",
+        "Kalemini kaybeden öğrenciyi dikkatsiz diye etiketlemeyin. Ortak kullanım, çantanın düzeni ve sınıf geçişleri gözden geçirilmelidir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Kayıp sayısından çok öğrencinin düzenleme stratejisini kendi başlatma düzeyini gözleyin. Sürekli kayıpta sınıfın ortak eşya kurallarını yeniden değerlendirin."
       ]
     ],
     "search_terms": [
@@ -530,44 +530,44 @@
   {
     "slug": "ilkokul-guvenli-yardim-isteme",
     "title": "Güvenli yardım isteme | İlkokul",
-    "summary": "Güvenli yardım isteme konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Güvenli yardım isteme: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Güvenli yardım isteme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Yardım gerektiğini fark etmek",
+        "Öğrenciler anlamadıkları ders, akran baskısı veya tehlikeli oyun gibi farklı durumlarda yardıma ihtiyaç duyabilir. Bunları aynı risk düzeyinde değerlendirmeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Güvenli yardım isteme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Güvenilir yetişkinleri tanıtmak",
+        "Okulda hangi görevliye nerede ulaşılacağını sınıfla birlikte görsel haritada gösterin. Acil durumda sıradan randevu beklenmeyeceğini açıklayın."
       ],
       [
-        "Uygulama",
-        "Güvenli yardım isteme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Yardım isteme cümleleri",
+        "'Anlamadım, tekrar gösterebilir misiniz?' ve 'Güvende değilim, yardım istiyorum' gibi farklı cümleleri kurgu üzerinden çalışın."
       ],
       [
-        "İş birliği",
-        "Güvenli yardım isteme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Erişimi kontrol etmek",
+        "Öğrencilerin yardım kanallarını gerçekten bilip bilmediğini kısa örneklerle değerlendirin. Ulaşamayan öğrenci için alternatif başvuru yolu düzenleyin."
       ],
       [
-        "Takip",
-        "Güvenli yardım isteme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Öğrencilerin yardım kanallarını gerçekten bilip bilmediğini kısa örneklerle değerlendirin. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında güvenli yardım isteme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Teneffüste itilen çocuk öğretmeni bulamayınca nereye gideceğini bilemez. Okul, görevli yetişkinlerin erişim noktalarını öğrencilere açıkça gösterir.",
     "check": [
-      "Öğrencinin güvenli yardım isteme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenciler anlamadıkları ders, akran baskısı veya tehlikeli oyun gibi farklı durumlarda yardıma ihtiyaç duyabilir.",
+      "Okulda hangi görevliye nerede ulaşılacağını sınıfla birlikte görsel haritada gösterin.",
+      "'Anlamadım, tekrar gösterebilir misiniz?' ve 'Güvende değilim, yardım istiyorum' gibi farklı cümleleri kurgu üzerinden çalışın.",
+      "Öğrencilerin yardım kanallarını gerçekten bilip bilmediğini kısa örneklerle değerlendirin."
     ],
     "faq": [
       [
-        "Güvenli yardım isteme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Güvenli yardım isteme uygulamasında nelerden kaçınılmalı?",
+        "Öğrenciler anlamadıkları ders, akran baskısı veya tehlikeli oyun gibi farklı durumlarda yardıma ihtiyaç duyabilir. Bunları aynı risk düzeyinde değerlendirmeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Öğrencilerin yardım kanallarını gerçekten bilip bilmediğini kısa örneklerle değerlendirin. Ulaşamayan öğrenci için alternatif başvuru yolu düzenleyin."
       ]
     ],
     "search_terms": [
@@ -578,44 +578,44 @@
   {
     "slug": "ilkokul-soz-kesmeden-dinleme",
     "title": "Söz kesmeden dinleme | İlkokul",
-    "summary": "Söz kesmeden dinleme konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Söz kesmeden dinleme: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Söz kesmeden dinleme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Dinleme davranışını somutlaştırmak",
+        "Söz kesmeden dinleme, sessiz kalmaya zorlanmak değildir. Öğrencilerin sıra beklemesi ve söyleneni doğru anlaması ayrı becerilerdir."
       ],
       [
-        "Güvenlik ve etik",
-        "Söz kesmeden dinleme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kısa ikili anlatım",
+        "Bir öğrenci kurgusal bir olayı anlatır, diğeri duyduğu iki ayrıntıyı yeniden söyler. Konuşmak istemeyene çizimle katılım seçeneği sunun."
       ],
       [
-        "Uygulama",
-        "Söz kesmeden dinleme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Söz isteme ve geri dönüş",
+        "El kaldırma, sıra kartı veya kısa bekleme işareti sınıfça seçilebilir. Öğrencinin söz hakkı sürekli ertelenmemelidir."
       ],
       [
-        "İş birliği",
-        "Söz kesmeden dinleme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Geri bildirim",
+        "Öğretmen söz kesme anlarında kişiyi etiketlemeden davranışı hatırlatır. Bir hafta sonra öğrenciler kuralların adil olup olmadığını tartışır."
       ],
       [
-        "Takip",
-        "Söz kesmeden dinleme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Öğretmen söz kesme anlarında kişiyi etiketlemeden davranışı hatırlatır. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında söz kesmeden dinleme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Sınıf hikâye anlatırken sık söz kesilir. Eşli dinleme ve konuşma sırası kartlarıyla iki derslik deneme yapılır.",
     "check": [
-      "Öğrencinin söz kesmeden dinleme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Söz kesmeden dinleme, sessiz kalmaya zorlanmak değildir.",
+      "Bir öğrenci kurgusal bir olayı anlatır, diğeri duyduğu iki ayrıntıyı yeniden söyler.",
+      "El kaldırma, sıra kartı veya kısa bekleme işareti sınıfça seçilebilir.",
+      "Öğretmen söz kesme anlarında kişiyi etiketlemeden davranışı hatırlatır."
     ],
     "faq": [
       [
-        "Söz kesmeden dinleme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Söz kesmeden dinleme uygulamasında nelerden kaçınılmalı?",
+        "Söz kesmeden dinleme, sessiz kalmaya zorlanmak değildir. Öğrencilerin sıra beklemesi ve söyleneni doğru anlaması ayrı becerilerdir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Öğretmen söz kesme anlarında kişiyi etiketlemeden davranışı hatırlatır. Bir hafta sonra öğrenciler kuralların adil olup olmadığını tartışır."
       ]
     ],
     "search_terms": [
@@ -626,44 +626,44 @@
   {
     "slug": "ilkokul-kucuk-catismalari-konusma",
     "title": "Küçük çatışmaları konuşma | İlkokul",
-    "summary": "Küçük çatışmaları konuşma konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Küçük çatışmaları konuşma: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Küçük çatışmaları konuşma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Çatışma ile zorbalığı ayırmak",
+        "Eşit güçte iki çocuğun anlık anlaşmazlığı ile tekrarlanan güç istismarı aynı biçimde ele alınmaz. Önce zarar, korku ve tekrar olasılığını değerlendirin."
       ],
       [
-        "Güvenlik ve etik",
-        "Küçük çatışmaları konuşma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Tarafları ayrı dinlemek",
+        "Öğrencilerden ne olduğunu somut davranışlarla anlatmalarını isteyin. Kimin iyi veya kötü olduğu üzerine etiketleyici tartışmaya girmeyin."
       ],
       [
-        "Uygulama",
-        "Küçük çatışmaları konuşma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Çözüm seçenekleri üretmek",
+        "Güvenli bir anlaşmazlıksa iki taraftan da uygulanabilir seçenek isteyin. Özür dileme veya barışmayı zorunlu kılmayın."
       ],
       [
-        "İş birliği",
-        "Küçük çatışmaları konuşma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Takip ve koruma",
+        "Anlaşma sonrası teneffüs güvenliğini ayrı görüşmelerle izleyin. Güç farkı veya misilleme varsa okulun koruma sürecini uygulayın."
       ],
       [
-        "Takip",
-        "Küçük çatışmaları konuşma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Anlaşma sonrası teneffüs güvenliğini ayrı görüşmelerle izleyin. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında küçük çatışmaları konuşma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: İki öğrenci aynı oyuncağı ister. Sıra veya farklı oyun seçeneklerini konuşurlar; fakat biri tehdit ediliyorsa önce yetişkin müdahalesi gerekir.",
     "check": [
-      "Öğrencinin küçük çatışmaları konuşma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Eşit güçte iki çocuğun anlık anlaşmazlığı ile tekrarlanan güç istismarı aynı biçimde ele alınmaz.",
+      "Öğrencilerden ne olduğunu somut davranışlarla anlatmalarını isteyin.",
+      "Güvenli bir anlaşmazlıksa iki taraftan da uygulanabilir seçenek isteyin.",
+      "Anlaşma sonrası teneffüs güvenliğini ayrı görüşmelerle izleyin."
     ],
     "faq": [
       [
-        "Küçük çatışmaları konuşma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Küçük çatışmaları konuşma uygulamasında nelerden kaçınılmalı?",
+        "Eşit güçte iki çocuğun anlık anlaşmazlığı ile tekrarlanan güç istismarı aynı biçimde ele alınmaz. Önce zarar, korku ve tekrar olasılığını değerlendirin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Anlaşma sonrası teneffüs güvenliğini ayrı görüşmelerle izleyin. Güç farkı veya misilleme varsa okulun koruma sürecini uygulayın."
       ]
     ],
     "search_terms": [
@@ -674,44 +674,44 @@
   {
     "slug": "ilkokul-kisisel-alani-koruma",
     "title": "Kişisel alanı koruma | İlkokul",
-    "summary": "Kişisel alanı koruma konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Kişisel alanı koruma: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Kişisel alanı koruma konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Kişisel alanı tanıtmak",
+        "Öğrenciler fiziksel mesafe, özel eşya ve dijital içerik konusunda farklı sınırlara sahip olabilir. 'Herkes sarılmayı sever' gibi genellemelerden kaçının."
       ],
       [
-        "Güvenlik ve etik",
-        "Kişisel alanı koruma ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İzin isteme uygulaması",
+        "Kurgusal sınıf durumlarında 'Kalemini kullanabilir miyim?' veya 'Yanına oturabilir miyim?' cümleleri çalışın."
       ],
       [
-        "Uygulama",
-        "Kişisel alanı koruma hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Reddetme hakkı",
+        "Bir çocuğun güvenli bir davranış için hayır diyebilmesi desteklenmelidir. Sınır ihlalinde sorumluluk hayır diyen çocuğa yüklenmemelidir."
       ],
       [
-        "İş birliği",
-        "Kişisel alanı koruma için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Günlük sınıf kültürü",
+        "Öğretmenler sarılma ve teması ödül ya da zorunluluk gibi sunmamalıdır. Tekrarlanan ihlal ve tehditler koruma yaklaşımıyla ele alınır."
       ],
       [
-        "Takip",
-        "Kişisel alanı koruma çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Öğretmenler sarılma ve teması ödül ya da zorunluluk gibi sunmamalıdır. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında kişisel alanı koruma konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Öğrenci arkadaşının defterini izinsiz alır. Sınıf izin, reddetme ve alternatif malzeme isteme cümlelerini canlandırır.",
     "check": [
-      "Öğrencinin kişisel alanı koruma hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenciler fiziksel mesafe, özel eşya ve dijital içerik konusunda farklı sınırlara sahip olabilir.",
+      "Kurgusal sınıf durumlarında 'Kalemini kullanabilir miyim?' veya 'Yanına oturabilir miyim?' cümleleri çalışın.",
+      "Bir çocuğun güvenli bir davranış için hayır diyebilmesi desteklenmelidir.",
+      "Öğretmenler sarılma ve teması ödül ya da zorunluluk gibi sunmamalıdır."
     ],
     "faq": [
       [
-        "Kişisel alanı koruma için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Kişisel alanı koruma uygulamasında nelerden kaçınılmalı?",
+        "Öğrenciler fiziksel mesafe, özel eşya ve dijital içerik konusunda farklı sınırlara sahip olabilir. 'Herkes sarılmayı sever' gibi genellemelerden kaçının."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Öğretmenler sarılma ve teması ödül ya da zorunluluk gibi sunmamalıdır. Tekrarlanan ihlal ve tehditler koruma yaklaşımıyla ele alınır."
       ]
     ],
     "search_terms": [
@@ -722,44 +722,44 @@
   {
     "slug": "ilkokul-istenmeyen-temasa-hayir-deme",
     "title": "İstenmeyen temasa hayır deme | İlkokul",
-    "summary": "İstenmeyen temasa hayır deme konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "İstenmeyen temasa hayır deme: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "İstenmeyen temasa hayır deme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "İstenmeyen temas karşısında güvenlik",
+        "Çocuk istenmeyen teması anlatıyorsa önce güvende olup olmadığını değerlendirin. Çocuğu sınıf önünde ayrıntı paylaşmaya zorlamayın."
       ],
       [
-        "Güvenlik ve etik",
-        "İstenmeyen temasa hayır deme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Yaşa uygun hayır deme",
+        "Kurgusal oyunda kısa ve net reddetme, uzaklaşma ve güvenilir yetişkine haber verme seçenekleri ele alınır. Donakalma gibi tepkilerin de mümkün olduğu anlatılır."
       ],
       [
-        "Uygulama",
-        "İstenmeyen temasa hayır deme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Yetişkin sorumluluğu",
+        "Sınır ihlallerini önlemek yalnızca çocuğun görevi değildir. Okulun güvenlik ve koruma yükümlülükleri uygulanmalıdır."
       ],
       [
-        "İş birliği",
-        "İstenmeyen temasa hayır deme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Şüpheli istismarda izlenecek yol",
+        "Öğrenci özel bir olay bildirirse sorgulayıcı tekrar sorular sormadan dinleyin; gecikmeden yetkili bildirim ve koruma sürecini işletin."
       ],
       [
-        "Takip",
-        "İstenmeyen temasa hayır deme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Öğrenci özel bir olay bildirirse sorgulayıcı tekrar sorular sormadan dinleyin; gecikmeden yetkili bildirim ve koruma sürecini işletin. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında istenmeyen temasa hayır deme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Kurgusal çocuk istemediği sarılmayı reddeder. Öğrenciler uzaklaşabileceği ve yardım isteyebileceği okul yetişkinlerini haritada bulur.",
     "check": [
-      "Öğrencinin istenmeyen temasa hayır deme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Çocuk istenmeyen teması anlatıyorsa önce güvende olup olmadığını değerlendirin.",
+      "Kurgusal oyunda kısa ve net reddetme, uzaklaşma ve güvenilir yetişkine haber verme seçenekleri ele alınır.",
+      "Sınır ihlallerini önlemek yalnızca çocuğun görevi değildir.",
+      "Öğrenci özel bir olay bildirirse sorgulayıcı tekrar sorular sormadan dinleyin; gecikmeden yetkili bildirim ve koruma sürecini işletin."
     ],
     "faq": [
       [
-        "İstenmeyen temasa hayır deme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "İstenmeyen temasa hayır deme uygulamasında nelerden kaçınılmalı?",
+        "Çocuk istenmeyen teması anlatıyorsa önce güvende olup olmadığını değerlendirin. Çocuğu sınıf önünde ayrıntı paylaşmaya zorlamayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Öğrenci özel bir olay bildirirse sorgulayıcı tekrar sorular sormadan dinleyin; gecikmeden yetkili bildirim ve koruma sürecini işletin."
       ]
     ],
     "search_terms": [
@@ -770,44 +770,44 @@
   {
     "slug": "ilkokul-hata-yapma-kaygisi",
     "title": "Hata yapma kaygısı | İlkokul",
-    "summary": "Hata yapma kaygısı konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Hata yapma kaygısı: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Hata yapma kaygısı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Yanlış yapma korkusunu dinlemek",
+        "Öğrencinin cevap vermekten kaçındığı ortamları gözleyin. Alay edilme, hız baskısı ve olumsuz geri bildirim gibi okul koşullarını değerlendirin."
       ],
       [
-        "Güvenlik ve etik",
-        "Hata yapma kaygısı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Hata örneklerini güvenle konuşmak",
+        "Öğretmen kendi hazırladığı kurgusal yanlış çözümü gösterip hangi adımdan öğrenilebileceğini tartışabilir. Gerçek öğrencinin yanlışını teşhir etmeyin."
       ],
       [
-        "Uygulama",
-        "Hata yapma kaygısı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Gönüllü küçük deneme",
+        "Öğrenci önce ikili grupta, sonra isterse sınıfta yanıt denemeyi seçebilir. Katılımı ödül-ceza sistemiyle zorlamayın."
       ],
       [
-        "İş birliği",
-        "Hata yapma kaygısı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "İlerlemenin ölçütü",
+        "Doğru cevap sayısından bağımsız olarak deneme isteği ve yardım arama davranışını da izleyin. Kaygı belirginse uygun destek değerlendirilir."
       ],
       [
-        "Takip",
-        "Hata yapma kaygısı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Doğru cevap sayısından bağımsız olarak deneme isteği ve yardım arama davranışını da izleyin. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında hata yapma kaygısı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Sınıf önünde okumak istemeyen öğrenci önce eşli okuma seçer. Öğretmen iki hafta sonra öğrencinin güvenlik ve katılım deneyimini sorar.",
     "check": [
-      "Öğrencinin hata yapma kaygısı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin cevap vermekten kaçındığı ortamları gözleyin.",
+      "Öğretmen kendi hazırladığı kurgusal yanlış çözümü gösterip hangi adımdan öğrenilebileceğini tartışabilir.",
+      "Öğrenci önce ikili grupta, sonra isterse sınıfta yanıt denemeyi seçebilir.",
+      "Doğru cevap sayısından bağımsız olarak deneme isteği ve yardım arama davranışını da izleyin."
     ],
     "faq": [
       [
-        "Hata yapma kaygısı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Hata yapma kaygısı uygulamasında nelerden kaçınılmalı?",
+        "Öğrencinin cevap vermekten kaçındığı ortamları gözleyin. Alay edilme, hız baskısı ve olumsuz geri bildirim gibi okul koşullarını değerlendirin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Doğru cevap sayısından bağımsız olarak deneme isteği ve yardım arama davranışını da izleyin. Kaygı belirginse uygun destek değerlendirilir."
       ]
     ],
     "search_terms": [
@@ -818,44 +818,44 @@
   {
     "slug": "ilkokul-ogrenmede-caba-farkindaligi",
     "title": "Öğrenmede çaba farkındalığı | İlkokul",
-    "summary": "Öğrenmede çaba farkındalığı konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Öğrenmede çaba farkındalığı: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Öğrenmede çaba farkındalığı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Çaba ve stratejiyi ayırmak",
+        "Daha çok çalışmayı tek çözüm olarak dayatmayın. Öğrencinin kullandığı yöntemin göreve uygunluğunu ve erişilebilir desteği değerlendirin."
       ],
       [
-        "Güvenlik ve etik",
-        "Öğrenmede çaba farkındalığı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Süreç geri bildirimi",
+        "'Zor soruyu iki parçaya ayırdın' gibi somut strateji vurgusu yapın. 'Sen çok zekisin' veya 'Yeterince uğraşmadın' etiketlerinden kaçının."
       ],
       [
-        "Uygulama",
-        "Öğrenmede çaba farkındalığı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Yeni öğrenme denemesi",
+        "Çocukla aynı hedef için iki farklı öğrenme yolu deneyin; çizim, sesli anlatım veya kısa tekrar seçenekleri sunun."
       ],
       [
-        "İş birliği",
-        "Öğrenmede çaba farkındalığı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Sonuç ve koşul değerlendirmesi",
+        "Hangi yöntemin nerede işe yaradığını karşılaştırın. Sürekli güçlük varsa uygun öğretim uyarlamasını ve değerlendirme yolunu ele alın."
       ],
       [
-        "Takip",
-        "Öğrenmede çaba farkındalığı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Hangi yöntemin nerede işe yaradığını karşılaştırın. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında öğrenmede çaba farkındalığı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Öğrenci uzun metni tekrar tekrar okur ama anlamaz. Metni bölerek ana fikir çizimi yapar ve iki yöntemi karşılaştırır.",
     "check": [
-      "Öğrencinin öğrenmede çaba farkındalığı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Daha çok çalışmayı tek çözüm olarak dayatmayın.",
+      "'Zor soruyu iki parçaya ayırdın' gibi somut strateji vurgusu yapın.",
+      "Çocukla aynı hedef için iki farklı öğrenme yolu deneyin; çizim, sesli anlatım veya kısa tekrar seçenekleri sunun.",
+      "Hangi yöntemin nerede işe yaradığını karşılaştırın."
     ],
     "faq": [
       [
-        "Öğrenmede çaba farkındalığı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Öğrenmede çaba farkındalığı uygulamasında nelerden kaçınılmalı?",
+        "Daha çok çalışmayı tek çözüm olarak dayatmayın. Öğrencinin kullandığı yöntemin göreve uygunluğunu ve erişilebilir desteği değerlendirin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Hangi yöntemin nerede işe yaradığını karşılaştırın. Sürekli güçlük varsa uygun öğretim uyarlamasını ve değerlendirme yolunu ele alın."
       ]
     ],
     "search_terms": [
@@ -866,44 +866,44 @@
   {
     "slug": "ilkokul-yeni-ogretmene-uyum",
     "title": "Yeni öğretmene uyum | İlkokul",
-    "summary": "Yeni öğretmene uyum konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Yeni öğretmene uyum: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Yeni öğretmene uyum konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Yeni öğretmenle ilişki kurmak",
+        "Öğrenci eski öğretmeniyle karşılaştırma yapabilir. Bu durumu saygısızlık olarak etiketlemeyin; alışkanlık değişikliğini ve belirsizlikleri dinleyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Yeni öğretmene uyum ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Beklentileri görünür kılmak",
+        "Yeni öğretmen ders akışı, yardım isteme ve ödev düzenini kısa bir görsel ile açıklayabilir. Öğrencilerin soru sorması desteklenir."
       ],
       [
-        "Uygulama",
-        "Yeni öğretmene uyum hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Güvenli iletişim kanalı",
+        "Öğrenci bireysel konusunu sınıf önünde anlatmak zorunda bırakılmadan öğretmene veya rehberlik servisine başvurabilmelidir."
       ],
       [
-        "İş birliği",
-        "Yeni öğretmene uyum için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Uyum takibi",
+        "İlk haftalarda derse katılım ve destek arama düzeyi gözlenir. Zorlanma sürerse öğretim düzeni ve akran bağlamı birlikte değerlendirilir."
       ],
       [
-        "Takip",
-        "Yeni öğretmene uyum çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. İlk haftalarda derse katılım ve destek arama düzeyi gözlenir. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında yeni öğretmene uyum konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Öğrenci yeni öğretmenin yönergelerini kaçırır. Sınıf için görünür ders sırası hazırlanır; öğrenciye bireysel damga vurulmaz.",
     "check": [
-      "Öğrencinin yeni öğretmene uyum hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenci eski öğretmeniyle karşılaştırma yapabilir.",
+      "Yeni öğretmen ders akışı, yardım isteme ve ödev düzenini kısa bir görsel ile açıklayabilir.",
+      "Öğrenci bireysel konusunu sınıf önünde anlatmak zorunda bırakılmadan öğretmene veya rehberlik servisine başvurabilmelidir.",
+      "İlk haftalarda derse katılım ve destek arama düzeyi gözlenir."
     ],
     "faq": [
       [
-        "Yeni öğretmene uyum için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Yeni öğretmene uyum uygulamasında nelerden kaçınılmalı?",
+        "Öğrenci eski öğretmeniyle karşılaştırma yapabilir. Bu durumu saygısızlık olarak etiketlemeyin; alışkanlık değişikliğini ve belirsizlikleri dinleyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "İlk haftalarda derse katılım ve destek arama düzeyi gözlenir. Zorlanma sürerse öğretim düzeni ve akran bağlamı birlikte değerlendirilir."
       ]
     ],
     "search_terms": [
@@ -914,44 +914,44 @@
   {
     "slug": "ilkokul-sinif-degisikligine-uyum",
     "title": "Sınıf değişikliğine uyum | İlkokul",
-    "summary": "Sınıf değişikliğine uyum konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınıf değişikliğine uyum: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınıf değişikliğine uyum konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sınıf değişikliğinin nedeni ve etkisi",
+        "Değişikliğin öğrencinin isteğiyle mi, güvenlik veya idari nedenle mi yapıldığını ayrıştırın. Öğrencinin eski sınıfla bağları ve yeni sınıf kaygısı ayrı dinlenir."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınıf değişikliğine uyum ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İlk gün tanıtım",
+        "Yeni sınıfta okul rutinleri, destek kişileri ve güvenli ulaşım noktaları gösterilir. Öğrenci özel nedeni açıklamak zorunda değildir."
       ],
       [
-        "Uygulama",
-        "Sınıf değişikliğine uyum hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Gönüllü akran teması",
+        "Ortak ilgi etkinlikleri sunun; zorla arkadaş eşleştirmesine gidilmez. Önceki sınıftaki çatışma varsa güvenlik planı sürdürülmelidir."
       ],
       [
-        "İş birliği",
-        "Sınıf değişikliğine uyum için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "İlk iki hafta değerlendirmesi",
+        "Derse katılım, teneffüste rahatlık ve aidiyet birlikte izlenir. Öğrencinin tercihleri süreç boyunca yeniden sorulur."
       ],
       [
-        "Takip",
-        "Sınıf değişikliğine uyum çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Derse katılım, teneffüste rahatlık ve aidiyet birlikte izlenir. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınıf değişikliğine uyum konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Sınıf değişikliği yapılan öğrenci ilk gün yalnız kalır. Öğretmen onu gönüllü kitap kulübüne davet eder; rehberlik servisi ikinci haftada deneyimini dinler.",
     "check": [
-      "Öğrencinin sınıf değişikliğine uyum hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Değişikliğin öğrencinin isteğiyle mi, güvenlik veya idari nedenle mi yapıldığını ayrıştırın.",
+      "Yeni sınıfta okul rutinleri, destek kişileri ve güvenli ulaşım noktaları gösterilir.",
+      "Ortak ilgi etkinlikleri sunun; zorla arkadaş eşleştirmesine gidilmez.",
+      "Derse katılım, teneffüste rahatlık ve aidiyet birlikte izlenir."
     ],
     "faq": [
       [
-        "Sınıf değişikliğine uyum için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınıf değişikliğine uyum uygulamasında nelerden kaçınılmalı?",
+        "Değişikliğin öğrencinin isteğiyle mi, güvenlik veya idari nedenle mi yapıldığını ayrıştırın. Öğrencinin eski sınıfla bağları ve yeni sınıf kaygısı ayrı dinlenir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Derse katılım, teneffüste rahatlık ve aidiyet birlikte izlenir. Öğrencinin tercihleri süreç boyunca yeniden sorulur."
       ]
     ],
     "search_terms": [
@@ -962,44 +962,44 @@
   {
     "slug": "ilkokul-guvenli-teneffus-davranisi",
     "title": "Güvenli teneffüs davranışı | İlkokul",
-    "summary": "Güvenli teneffüs davranışı konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Güvenli teneffüs davranışı: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Güvenli teneffüs davranışı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Teneffüs risklerini görmek",
+        "Bahçe, koridor ve merdivende hangi durumların sorun oluşturduğunu öğrenciler ve görevli öğretmenlerle belirleyin. Çocukların kişisel güvenlik anlatılarını toplulukta açmayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Güvenli teneffüs davranışı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Güvenli oyun alanları",
+        "Oyun kuralları ve görevli yetişkinlerin konumu sınıf düzeyinde anlaşılır biçimde tanıtılır. Sık yaşanan itişmeler için alan düzeni gözden geçirilir."
       ],
       [
-        "Uygulama",
-        "Güvenli teneffüs davranışı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin sorumluluğu ve sınırı",
+        "Tehlike gördüğünde oyunu bırakma ve yetişkin çağırma öğretilir. Riskli olayları çözme görevi çocukların omzuna yüklenmez."
       ],
       [
-        "İş birliği",
-        "Güvenli teneffüs davranışı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Güvenlik göstergeleri",
+        "Olay sayısı kadar öğrencilerin güvende hissetmesi de değerlendirilir. Aynı alanda tekrarlanan olaylarda okul düzeyinde önlem alınır."
       ],
       [
-        "Takip",
-        "Güvenli teneffüs davranışı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Olay sayısı kadar öğrencilerin güvende hissetmesi de değerlendirilir. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında güvenli teneffüs davranışı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Top oyunu sırasında merdivene yakın bölgede çarpışmalar olur. Oyun alanı değiştirilir ve çocuklara görevli öğretmene ulaşma yolu gösterilir.",
     "check": [
-      "Öğrencinin güvenli teneffüs davranışı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Bahçe, koridor ve merdivende hangi durumların sorun oluşturduğunu öğrenciler ve görevli öğretmenlerle belirleyin.",
+      "Oyun kuralları ve görevli yetişkinlerin konumu sınıf düzeyinde anlaşılır biçimde tanıtılır.",
+      "Tehlike gördüğünde oyunu bırakma ve yetişkin çağırma öğretilir.",
+      "Olay sayısı kadar öğrencilerin güvende hissetmesi de değerlendirilir."
     ],
     "faq": [
       [
-        "Güvenli teneffüs davranışı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Güvenli teneffüs davranışı uygulamasında nelerden kaçınılmalı?",
+        "Bahçe, koridor ve merdivende hangi durumların sorun oluşturduğunu öğrenciler ve görevli öğretmenlerle belirleyin. Çocukların kişisel güvenlik anlatılarını toplulukta açmayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Olay sayısı kadar öğrencilerin güvende hissetmesi de değerlendirilir. Aynı alanda tekrarlanan olaylarda okul düzeyinde önlem alınır."
       ]
     ],
     "search_terms": [
@@ -1010,44 +1010,44 @@
   {
     "slug": "ilkokul-yardimlasma-ve-is-birligi",
     "title": "Yardımlaşma ve iş birliği | İlkokul",
-    "summary": "Yardımlaşma ve iş birliği konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Yardımlaşma ve iş birliği: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Yardımlaşma ve iş birliği konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Yardımın karşılıklılığını konuşmak",
+        "Yardımlaşma, bir öğrencinin sürekli görev üstlenmesi değildir. Öğrencinin kendi öğrenme işi ve sınırları korunmalıdır."
       ],
       [
-        "Güvenlik ve etik",
-        "Yardımlaşma ve iş birliği ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Dönüşümlü grup görevleri",
+        "Kısa projede materyal toplama, fikir üretme ve sunma görevleri sırayla paylaştırılır. Farklı katılım yollarına izin verilir."
       ],
       [
-        "Uygulama",
-        "Yardımlaşma ve iş birliği hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Yardım teklif etme ve reddetme",
+        "'İstersen birlikte deneyebiliriz' gibi izin isteyen cümleler kullanılabilir. Yardım almak istemeyen öğrenci aşağılanmamalıdır."
       ],
       [
-        "İş birliği",
-        "Yardımlaşma ve iş birliği için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Grup deneyimini değerlendirmek",
+        "Kimlerin söz aldığına ve kimin iş yükü taşıdığına bakın. Katılım dengesini bir sonraki etkinlikte yeniden düzenleyin."
       ],
       [
-        "Takip",
-        "Yardımlaşma ve iş birliği çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Kimlerin söz aldığına ve kimin iş yükü taşıdığına bakın. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında yardımlaşma ve iş birliği konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Grup afiş hazırlarken tek öğrenci tüm çizimi yapar. Roller değiştirildiğinde diğer öğrenciler de katkı verebilir.",
     "check": [
-      "Öğrencinin yardımlaşma ve iş birliği hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Yardımlaşma, bir öğrencinin sürekli görev üstlenmesi değildir.",
+      "Kısa projede materyal toplama, fikir üretme ve sunma görevleri sırayla paylaştırılır.",
+      "'İstersen birlikte deneyebiliriz' gibi izin isteyen cümleler kullanılabilir.",
+      "Kimlerin söz aldığına ve kimin iş yükü taşıdığına bakın."
     ],
     "faq": [
       [
-        "Yardımlaşma ve iş birliği için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Yardımlaşma ve iş birliği uygulamasında nelerden kaçınılmalı?",
+        "Yardımlaşma, bir öğrencinin sürekli görev üstlenmesi değildir. Öğrencinin kendi öğrenme işi ve sınırları korunmalıdır."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Kimlerin söz aldığına ve kimin iş yükü taşıdığına bakın. Katılım dengesini bir sonraki etkinlikte yeniden düzenleyin."
       ]
     ],
     "search_terms": [
@@ -1058,44 +1058,44 @@
   {
     "slug": "ilkokul-akran-alayina-karsi-destek",
     "title": "Akran alayına karşı destek | İlkokul",
-    "summary": "Akran alayına karşı destek konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Akran alayına karşı destek: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Akran alayına karşı destek konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Alayın etkisini anlamak",
+        "Lakap, taklit veya gülmenin hedef öğrencide oluşturduğu etkiyi dikkate alın. Tekrarlama ve güç dengesizliği varsa zorbalık sürecini değerlendirin."
       ],
       [
-        "Güvenlik ve etik",
-        "Akran alayına karşı destek ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Hedef öğrenciyi korumak",
+        "Öğrenciyi sınıf önünde olayı anlatmaya zorlamayın. Güvenli başvuru ve yetişkin korumasını önceliklendirin."
       ],
       [
-        "Uygulama",
-        "Akran alayına karşı destek hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Sınıfla kapsayıcı dil",
+        "Kişileri adlandırmadan kurgusal alay örnekleri üzerinden sınır ve saygı çalışın. 'Şakaydı' savunmasını otomatik mazeret saymayın."
       ],
       [
-        "İş birliği",
-        "Akran alayına karşı destek için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Misilleme ve tekrarı izlemek",
+        "Teneffüs ve grup etkinliklerindeki güvenlik ayrıca takip edilir. Gerekirse kurumun disiplin ve koruma süreçleri uygulanır."
       ],
       [
-        "Takip",
-        "Akran alayına karşı destek çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Teneffüs ve grup etkinliklerindeki güvenlik ayrıca takip edilir. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında akran alayına karşı destek konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Bir öğrencinin konuşma biçimi taklit edilir. Öğretmen müdahale eder; rehberlik servisi öğrenciyi ayrı dinler ve sınıfla isimsiz saygı etkinliği yapar.",
     "check": [
-      "Öğrencinin akran alayına karşı destek hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Lakap, taklit veya gülmenin hedef öğrencide oluşturduğu etkiyi dikkate alın.",
+      "Öğrenciyi sınıf önünde olayı anlatmaya zorlamayın.",
+      "Kişileri adlandırmadan kurgusal alay örnekleri üzerinden sınır ve saygı çalışın.",
+      "Teneffüs ve grup etkinliklerindeki güvenlik ayrıca takip edilir."
     ],
     "faq": [
       [
-        "Akran alayına karşı destek için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Akran alayına karşı destek uygulamasında nelerden kaçınılmalı?",
+        "Lakap, taklit veya gülmenin hedef öğrencide oluşturduğu etkiyi dikkate alın. Tekrarlama ve güç dengesizliği varsa zorbalık sürecini değerlendirin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Teneffüs ve grup etkinliklerindeki güvenlik ayrıca takip edilir. Gerekirse kurumun disiplin ve koruma süreçleri uygulanır."
       ]
     ],
     "search_terms": [
@@ -1106,44 +1106,44 @@
   {
     "slug": "ilkokul-okul-ici-guvenilir-yetiskin",
     "title": "Okul içi güvenilir yetişkin | İlkokul",
-    "summary": "Okul içi güvenilir yetişkin konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Okul içi güvenilir yetişkin: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Okul içi güvenilir yetişkin konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Güvenilir yetişkin ne demek?",
+        "Öğrenciye yardım isteyebileceği yetişkinlerin okul içindeki görevini açıkça anlatın. Güvenilir yetişkinin sırrı her koşulda saklayacağı sözü verilmemelidir."
       ],
       [
-        "Güvenlik ve etik",
-        "Okul içi güvenilir yetişkin ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Okul içi destek haritası",
+        "Sınıfla rehberlik servisi, nöbetçi öğretmen, sınıf öğretmeni ve yönetim gibi uygun başvuru noktalarını konuşun. Acil yardım için hızla erişilebilen yolu gösterin."
       ],
       [
-        "Uygulama",
-        "Okul içi güvenilir yetişkin hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Başvuru cümlesi provası",
+        "Kurgusal olayda 'Yardıma ihtiyacım var, güvende değilim' gibi açık ifadeler çalışın. Çocuk konuşamıyorsa yazılı veya yetişkin eşliğinde ulaşım seçenekleri sunun."
       ],
       [
-        "İş birliği",
-        "Okul içi güvenilir yetişkin için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Başvuru yolunu test etmek",
+        "Öğrencilere yardımın nereden alınacağını örnek durumlarla sorun. Ulaşılamayan nokta ve karmaşık kurallar okul düzeyinde düzeltilir."
       ],
       [
-        "Takip",
-        "Okul içi güvenilir yetişkin çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Öğrencilere yardımın nereden alınacağını örnek durumlarla sorun. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında okul içi güvenilir yetişkin konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Öğrenci teneffüste rahatsız edilir ancak sınıf öğretmenini bulamaz. Nöbetçi öğretmene ve rehberlik servisine ulaşma seçeneklerini öğrenir.",
     "check": [
-      "Öğrencinin okul içi güvenilir yetişkin hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrenciye yardım isteyebileceği yetişkinlerin okul içindeki görevini açıkça anlatın.",
+      "Sınıfla rehberlik servisi, nöbetçi öğretmen, sınıf öğretmeni ve yönetim gibi uygun başvuru noktalarını konuşun.",
+      "Kurgusal olayda 'Yardıma ihtiyacım var, güvende değilim' gibi açık ifadeler çalışın.",
+      "Öğrencilere yardımın nereden alınacağını örnek durumlarla sorun."
     ],
     "faq": [
       [
-        "Okul içi güvenilir yetişkin için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Okul içi güvenilir yetişkin uygulamasında nelerden kaçınılmalı?",
+        "Öğrenciye yardım isteyebileceği yetişkinlerin okul içindeki görevini açıkça anlatın. Güvenilir yetişkinin sırrı her koşulda saklayacağı sözü verilmemelidir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Öğrencilere yardımın nereden alınacağını örnek durumlarla sorun. Ulaşılamayan nokta ve karmaşık kurallar okul düzeyinde düzeltilir."
       ]
     ],
     "search_terms": [
@@ -1154,44 +1154,44 @@
   {
     "slug": "ilkokul-donem-sonu-gelisim-degerlendirmesi",
     "title": "Dönem sonu gelişim değerlendirmesi | İlkokul",
-    "summary": "Dönem sonu gelişim değerlendirmesi konusunda ilkokul kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Dönem sonu gelişim değerlendirmesi: ilkokulda öğrenci güvenliğini, somut öğretmen uygulamasını ve izlemeyi bir arada ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Dönem sonu gelişim değerlendirmesi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Değerlendirmede yalnızca nota bakmamak",
+        "Dönem boyunca öğrencinin öğrenme, arkadaşlık, yardım isteme ve sorumluluk gelişiminden somut örnekler toplayın. Öğrencileri sınıf önünde başarı sırasına koymayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Dönem sonu gelişim değerlendirmesi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Öğrenci öz değerlendirmesi",
+        "Çocuk güçlü bulduğu bir davranışı ve geliştirmek istediği bir adımı resim veya cümleyle ifade edebilir. Gönüllü katılım ve mahremiyet korunur."
       ],
       [
-        "Uygulama",
-        "Dönem sonu gelişim değerlendirmesi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğretmen gözlemini eklemek",
+        "Tek olay yerine dönem içindeki davranış örüntülerine bakın. Destekle yapılan işleri çocuğun bağımsız yapabildiklerinden ayırın."
       ],
       [
-        "İş birliği",
-        "Dönem sonu gelişim değerlendirmesi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Sonraki dönem hedefi",
+        "Aile ve çocukla ulaşılabilir bir küçük hedef paylaşın. Hedefin koşullarını ve gerekli öğretmen desteğini ayrıca belirtin."
       ],
       [
-        "Takip",
-        "Dönem sonu gelişim değerlendirmesi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Okul uygulamasından sonra",
+        "Uygulama sonrasında yalnızca tamamlanan etkinliği değil öğrencinin yaşadığı değişimi değerlendirin. Aile ve çocukla ulaşılabilir bir küçük hedef paylaşın. Aile veya öğretmenle yeni adım belirlenirken öğrencinin görüşünü de alın."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında dönem sonu gelişim değerlendirmesi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
+    "example": "Örnek: Öğrenci matematik notunu tek gelişim göstergesi sayar. Dönem sonunda yardım istemeyi öğrendiği bir olayı da belirler ve sonraki dönem için bir iletişim hedefi seçer.",
     "check": [
-      "Öğrencinin dönem sonu gelişim değerlendirmesi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Dönem boyunca öğrencinin öğrenme, arkadaşlık, yardım isteme ve sorumluluk gelişiminden somut örnekler toplayın.",
+      "Çocuk güçlü bulduğu bir davranışı ve geliştirmek istediği bir adımı resim veya cümleyle ifade edebilir.",
+      "Tek olay yerine dönem içindeki davranış örüntülerine bakın.",
+      "Aile ve çocukla ulaşılabilir bir küçük hedef paylaşın."
     ],
     "faq": [
       [
-        "Dönem sonu gelişim değerlendirmesi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Dönem sonu gelişim değerlendirmesi uygulamasında nelerden kaçınılmalı?",
+        "Dönem boyunca öğrencinin öğrenme, arkadaşlık, yardım isteme ve sorumluluk gelişiminden somut örnekler toplayın. Öğrencileri sınıf önünde başarı sırasına koymayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Bu etkinlikten sonra ne değerlendirilmeli?",
+        "Aile ve çocukla ulaşılabilir bir küçük hedef paylaşın. Hedefin koşullarını ve gerekli öğretmen desteğini ayrıca belirtin."
       ]
     ],
     "search_terms": [
