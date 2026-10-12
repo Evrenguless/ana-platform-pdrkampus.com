@@ -2,44 +2,43 @@
   {
     "slug": "lise-alan-secimini-degerlendirme",
     "title": "Alan seçimini değerlendirme | Lise",
-    "summary": "Alan seçimini değerlendirme konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Alan seçimini değerlendirme için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Alan seçimini değerlendirme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin alanla ilgili ders deneyimini ve ilgisini birbirinden ayırın; tek bir sınav notunu belirleyici kabul etmeyin.",
+        "Okulun güncel alan ve ders seçeneklerini resmî kayıtlarından doğrulayın; arkadaş seçimini otomatik ölçüt yapmayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Alan seçimini değerlendirme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "İki alanı ders içeriği, öğrencinin merakı ve öğrenme koşulları üzerinden karşılaştıran üç sütunlu çizelge hazırlayın.",
+        "Ailenin beklentisini dinleyin ancak öğrencinin kararda söz hakkını koruyun; kararın okulun gerçek seçeneklerine uygunluğunu kontrol edin."
       ],
       [
-        "Uygulama",
-        "Alan seçimini değerlendirme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Seçim sonrasında öğrencinin ders uyumu ve ilgi değişimini dönem içinde yeniden görüşün.",
+        "Öğrenci arkadaşları sayısal alanı seçtiği için aynı tercihe yönelir, oysa sözel derslerde daha çok araştırma yaptığını anlatır. Rehberlik görüşmesinde alanların gerçek ders içerikleri karşılaştırılır."
       ],
       [
-        "İş birliği",
-        "Alan seçimini değerlendirme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı alan seçimini değerlendirme konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Alan seçimini değerlendirme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci arkadaşları sayısal alanı seçtiği için aynı tercihe yönelir, oysa sözel derslerde daha çok araştırma yaptığını anlatır. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında alan seçimini değerlendirme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin alan seçimini değerlendirme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Okulun güncel alan ve ders seçeneklerini resmî kayıtlarından doğrulayın; arkadaş seçimini otomatik ölçüt yapmayın.",
+      "Ailenin beklentisini dinleyin ancak öğrencinin kararda söz hakkını koruyun; kararın okulun gerçek seçeneklerine uygunluğunu kontrol edin.",
+      "Öğrenci arkadaşları sayısal alanı seçtiği için aynı tercihe yönelir, oysa sözel derslerde daha çok araştırma yaptığını anlatır.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Alan seçimini değerlendirme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Alan seçimini değerlendirme çalışmasında nereden başlamalı?",
+        "Okulun güncel alan ve ders seçeneklerini resmî kayıtlarından doğrulayın; arkadaş seçimini otomatik ölçüt yapmayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Ailenin beklentisini dinleyin ancak öğrencinin kararda söz hakkını koruyun; kararın okulun gerçek seçeneklerine uygunluğunu kontrol edin."
       ]
     ],
     "search_terms": [
@@ -50,44 +49,43 @@
   {
     "slug": "lise-universite-arastirma-plani",
     "title": "Üniversite araştırma planı | Lise",
-    "summary": "Üniversite araştırma planı konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Üniversite araştırma planı için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Üniversite araştırma planı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin üniversite ararken önce bölüm, şehir, yaşam maliyeti veya eğitim dili gibi hangi ölçütü önemsediğini belirleyin.",
+        "Sosyal medyadaki sıralama tablolarını güncel resmî program ve tercih bilgisiyle karşılaştırmadan kullanmayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Üniversite araştırma planı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Araştırmayı program kodu, ders planı, eğitim dili, özel koşullar ve barınma başlıklarına bölün; her bilginin tarihini not edin.",
+        "Öğrencinin bulgularını aileyle paylaşırken kesin yerleşme vaadinden kaçının; uygun olanakları öğrenciyle gözden geçirin."
       ],
       [
-        "Uygulama",
-        "Üniversite araştırma planı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Bir sonraki görüşmede eksik kalan bilgileri tamamlayıp araştırma listesini öğrencinin ölçütlerine göre daraltın.",
+        "Öğrenci yalnızca üniversitenin adını bildiği üç seçenek oluşturur. Program derslerini ve eğitim koşullarını araştırınca seçeneklerinden birini yeniden değerlendirir."
       ],
       [
-        "İş birliği",
-        "Üniversite araştırma planı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı üniversite araştırma planı konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Üniversite araştırma planı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci yalnızca üniversitenin adını bildiği üç seçenek oluşturur. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında üniversite araştırma planı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin üniversite araştırma planı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sosyal medyadaki sıralama tablolarını güncel resmî program ve tercih bilgisiyle karşılaştırmadan kullanmayın.",
+      "Öğrencinin bulgularını aileyle paylaşırken kesin yerleşme vaadinden kaçının; uygun olanakları öğrenciyle gözden geçirin.",
+      "Öğrenci yalnızca üniversitenin adını bildiği üç seçenek oluşturur.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Üniversite araştırma planı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Üniversite araştırma planı çalışmasında nereden başlamalı?",
+        "Sosyal medyadaki sıralama tablolarını güncel resmî program ve tercih bilgisiyle karşılaştırmadan kullanmayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Öğrencinin bulgularını aileyle paylaşırken kesin yerleşme vaadinden kaçının; uygun olanakları öğrenciyle gözden geçirin."
       ]
     ],
     "search_terms": [
@@ -98,44 +96,43 @@
   {
     "slug": "lise-akademik-ilgi-haritasi",
     "title": "Akademik ilgi haritası | Lise",
-    "summary": "Akademik ilgi haritası konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Akademik ilgi haritası için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Akademik ilgi haritası konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrenciden derste ilgisini çeken konu, okul dışı merak ve sürdürmekte zorlandığı etkinlikler hakkında somut örnekler isteyin.",
+        "İlgiyi yetenekle veya tek bir test puanıyla eşitlemeyin; öğrencinin fırsat bulamadığı alanları da hesaba katın."
       ],
       [
-        "Güvenlik ve etik",
-        "Akademik ilgi haritası ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Ders, proje ve hobi örneklerinden oluşan bir ilgi haritası hazırlayın; her alan için 'bunu neden merak ediyorum?' sorusunu ekleyin.",
+        "Haritayı öğretmen notlarıyla destekleyebilirsiniz ancak öğrencinin kişisel tercihlerini başkalarının yargılarına indirgemeyin."
       ],
       [
-        "Uygulama",
-        "Akademik ilgi haritası hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenciye bir ay içinde denemek istediği yeni bir etkinlik seçtirin; ardından ilgi haritasını gözden geçirin.",
+        "Fizikte başarılı olan öğrenci aynı zamanda senaryo yazmayı sevdiğini söyler. İlgi haritasında iki yön de yer alır; hemen tek bir mesleğe yönlendirilmez."
       ],
       [
-        "İş birliği",
-        "Akademik ilgi haritası için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı akademik ilgi haritası konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Akademik ilgi haritası çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Fizikte başarılı olan öğrenci aynı zamanda senaryo yazmayı sevdiğini söyler. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında akademik ilgi haritası konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin akademik ilgi haritası hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "İlgiyi yetenekle veya tek bir test puanıyla eşitlemeyin; öğrencinin fırsat bulamadığı alanları da hesaba katın.",
+      "Haritayı öğretmen notlarıyla destekleyebilirsiniz ancak öğrencinin kişisel tercihlerini başkalarının yargılarına indirgemeyin.",
+      "Fizikte başarılı olan öğrenci aynı zamanda senaryo yazmayı sevdiğini söyler.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Akademik ilgi haritası için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Akademik ilgi haritası çalışmasında nereden başlamalı?",
+        "İlgiyi yetenekle veya tek bir test puanıyla eşitlemeyin; öğrencinin fırsat bulamadığı alanları da hesaba katın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Haritayı öğretmen notlarıyla destekleyebilirsiniz ancak öğrencinin kişisel tercihlerini başkalarının yargılarına indirgemeyin."
       ]
     ],
     "search_terms": [
@@ -146,44 +143,43 @@
   {
     "slug": "lise-meslek-golgeleme-etkinligi",
     "title": "Meslek gölgeleme etkinliği | Lise",
-    "summary": "Meslek gölgeleme etkinliği konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Meslek gölgeleme etkinliği için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Meslek gölgeleme etkinliği konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin tanımak istediği mesleğin hangi yönünü merak ettiğini sorun: günlük görevler, çalışma koşulları veya eğitim yolu olabilir.",
+        "Gözlem etkinliğinde iş yeri güvenliği, öğrenci yaşı, kişisel veri ve kurum izni koşullarını önceden değerlendirin."
       ],
       [
-        "Güvenlik ve etik",
-        "Meslek gölgeleme etkinliği ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Meslek çalışanına yöneltilecek görev, iş birliği ve zorluk konulu beş somut soru hazırlatın; gözlem mümkün değilse doğrulanmış meslek anlatımları kullanın.",
+        "Okul ve aileyle uygun izinleri koordine edin; öğrencinin izlediği kişinin özel müşteri veya hasta bilgilerine erişmesine izin vermeyin."
       ],
       [
-        "Uygulama",
-        "Meslek gölgeleme etkinliği hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Etkinlik sonrasında öğrencinin beklentisiyle gördüğü gerçek görevleri karşılaştırın ve yeni araştırma sorularını yazdırın.",
+        "Sağlık mesleğine ilgisi olan öğrenci çalışma ortamının yalnızca hasta görüşmesinden oluşmadığını, kayıt ve ekip koordinasyonunun da önemli olduğunu öğrenir."
       ],
       [
-        "İş birliği",
-        "Meslek gölgeleme etkinliği için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı meslek gölgeleme etkinliği konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Meslek gölgeleme etkinliği çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Sağlık mesleğine ilgisi olan öğrenci çalışma ortamının yalnızca hasta görüşmesinden oluşmadığını, kayıt ve ekip koordinasyonunun da önemli olduğunu öğrenir. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında meslek gölgeleme etkinliği konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin meslek gölgeleme etkinliği hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Gözlem etkinliğinde iş yeri güvenliği, öğrenci yaşı, kişisel veri ve kurum izni koşullarını önceden değerlendirin.",
+      "Okul ve aileyle uygun izinleri koordine edin; öğrencinin izlediği kişinin özel müşteri veya hasta bilgilerine erişmesine izin vermeyin.",
+      "Sağlık mesleğine ilgisi olan öğrenci çalışma ortamının yalnızca hasta görüşmesinden oluşmadığını, kayıt ve ekip koordinasyonunun da önemli olduğunu öğrenir.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Meslek gölgeleme etkinliği için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Meslek gölgeleme etkinliği çalışmasında nereden başlamalı?",
+        "Gözlem etkinliğinde iş yeri güvenliği, öğrenci yaşı, kişisel veri ve kurum izni koşullarını önceden değerlendirin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Okul ve aileyle uygun izinleri koordine edin; öğrencinin izlediği kişinin özel müşteri veya hasta bilgilerine erişmesine izin vermeyin."
       ]
     ],
     "search_terms": [
@@ -194,44 +190,43 @@
   {
     "slug": "lise-staj-ve-gozlem-deneyimi",
     "title": "Staj ve gözlem deneyimi | Lise",
-    "summary": "Staj ve gözlem deneyimi konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Staj ve gözlem deneyimi için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Staj ve gözlem deneyimi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin staj veya gözlemden beklentisini belirleyin; deneyimin meslek kararı için tek kanıt olmayacağını açıklayın.",
+        "Yaş, çalışma güvenliği, sigorta, kurum izni ve okulun ilgili kurallarını doğrulamadan yerleştirme önermeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Staj ve gözlem deneyimi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Öğrenciye gün sonunda gözlediği üç görev, kullandığı iki beceri ve anlamadığı bir kavramı not ettirin.",
+        "İş yeri temsilcisi ve okul sorumlusu ile geri bildirim yolunu netleştirin; kurumun mahrem bilgilerinin notlara geçirilmesini önleyin."
       ],
       [
-        "Uygulama",
-        "Staj ve gözlem deneyimi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Deneyim sonrasında ilginin değişip değişmediğini ve başka hangi ortamı görmenin yararlı olacağını değerlendirin.",
+        "Öğrenci tasarım ofisinde çizim kadar ekip toplantısı yapıldığını görür; beklediği meslek yaşamıyla gözlemlerini karşılaştıran kısa rapor hazırlar."
       ],
       [
-        "İş birliği",
-        "Staj ve gözlem deneyimi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı staj ve gözlem deneyimi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Staj ve gözlem deneyimi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci tasarım ofisinde çizim kadar ekip toplantısı yapıldığını görür; beklediği meslek yaşamıyla gözlemlerini karşılaştıran kısa rapor hazırlar. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında staj ve gözlem deneyimi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin staj ve gözlem deneyimi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Yaş, çalışma güvenliği, sigorta, kurum izni ve okulun ilgili kurallarını doğrulamadan yerleştirme önermeyin.",
+      "İş yeri temsilcisi ve okul sorumlusu ile geri bildirim yolunu netleştirin; kurumun mahrem bilgilerinin notlara geçirilmesini önleyin.",
+      "Öğrenci tasarım ofisinde çizim kadar ekip toplantısı yapıldığını görür; beklediği meslek yaşamıyla gözlemlerini karşılaştıran kısa rapor hazırlar.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Staj ve gözlem deneyimi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Staj ve gözlem deneyimi çalışmasında nereden başlamalı?",
+        "Yaş, çalışma güvenliği, sigorta, kurum izni ve okulun ilgili kurallarını doğrulamadan yerleştirme önermeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "İş yeri temsilcisi ve okul sorumlusu ile geri bildirim yolunu netleştirin; kurumun mahrem bilgilerinin notlara geçirilmesini önleyin."
       ]
     ],
     "search_terms": [
@@ -242,44 +237,43 @@
   {
     "slug": "lise-gelecek-belirsizligiyle-bas-etme",
     "title": "Gelecek belirsizliğiyle baş etme | Lise",
-    "summary": "Gelecek belirsizliğiyle baş etme konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Gelecek belirsizliğiyle baş etme için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Gelecek belirsizliğiyle baş etme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Gelecek kaygısının en çok hangi belirsizlikle ilişkili olduğunu dinleyin: sınav, gelir, aile veya meslek seçimi farklı destek gerektirir.",
+        "Öğrencinin 'tek yanlış karar bütün hayatı belirler' düşüncesini kesin güvence vererek karşılamayın; gerçek seçenekleri görünür kılın."
       ],
       [
-        "Güvenlik ve etik",
-        "Gelecek belirsizliğiyle baş etme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kontrol edilebilen adımlar ile henüz bilinmeyen sonuçları iki sütunda ayırın; bir bilgi edinme görevi belirleyin.",
+        "Aile beklentileri baskıyı artırıyorsa öğrencinin izni ve güvenliği çerçevesinde destekleyici iletişimi planlayın."
       ],
       [
-        "Uygulama",
-        "Gelecek belirsizliğiyle baş etme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Kaygı günlük işlevselliği belirgin etkiliyorsa uygun uzman desteğini değerlendirin; karar adımlarını sonraki görüşmede izleyin.",
+        "Öğrenci tercih yapınca başka yolu kalmayacağını düşünür. Eğitim seçenekleri araştırılır, kararın bilgiye dayalı kısmıyla belirsiz kalan kısmı ayrıştırılır."
       ],
       [
-        "İş birliği",
-        "Gelecek belirsizliğiyle baş etme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı gelecek belirsizliğiyle baş etme konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Gelecek belirsizliğiyle baş etme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci tercih yapınca başka yolu kalmayacağını düşünür. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında gelecek belirsizliğiyle baş etme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin gelecek belirsizliğiyle baş etme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Öğrencinin 'tek yanlış karar bütün hayatı belirler' düşüncesini kesin güvence vererek karşılamayın; gerçek seçenekleri görünür kılın.",
+      "Aile beklentileri baskıyı artırıyorsa öğrencinin izni ve güvenliği çerçevesinde destekleyici iletişimi planlayın.",
+      "Öğrenci tercih yapınca başka yolu kalmayacağını düşünür.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Gelecek belirsizliğiyle baş etme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Gelecek belirsizliğiyle baş etme çalışmasında nereden başlamalı?",
+        "Öğrencinin 'tek yanlış karar bütün hayatı belirler' düşüncesini kesin güvence vererek karşılamayın; gerçek seçenekleri görünür kılın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Aile beklentileri baskıyı artırıyorsa öğrencinin izni ve güvenliği çerçevesinde destekleyici iletişimi planlayın."
       ]
     ],
     "search_terms": [
@@ -290,44 +284,43 @@
   {
     "slug": "lise-aile-kariyer-beklentisi",
     "title": "Aile kariyer beklentisi | Lise",
-    "summary": "Aile kariyer beklentisi konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Aile kariyer beklentisi için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Aile kariyer beklentisi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Ailenin meslek beklentisini ve öğrencinin kendi ilgisini farklı sorularla dinleyin; taraflardan birini yanlış ilan etmeyin.",
+        "Kariyer kararını yalnızca gelir, prestij veya aile geçmişi üzerinden değerlendirmeyin; somut program koşullarını araştırın."
       ],
       [
-        "Güvenlik ve etik",
-        "Aile kariyer beklentisi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Öğrencinin önem verdiği üç ölçütle ailesinin kaygılarını yan yana yazarak ortak ve farklı noktaları belirleyin.",
+        "Ortak görüşmede öğrencinin sözünü kesilmeden tamamlayabilmesini sağlayın; danışman karar veren kişi konumuna geçmesin."
       ],
       [
-        "Uygulama",
-        "Aile kariyer beklentisi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Görüşmeden sonra öğrencinin araştırma yapabildiği ve aile baskısının azalıp azalmadığı hakkında ayrı geri bildirim alın.",
+        "Öğrenci öğretmenlik isterken ailesi farklı bölümde ısrar eder. Ailenin iş güvencesi kaygısı ve öğrencinin çalışma ilgisi somut bilgilerle konuşulur."
       ],
       [
-        "İş birliği",
-        "Aile kariyer beklentisi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı aile kariyer beklentisi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Aile kariyer beklentisi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci öğretmenlik isterken ailesi farklı bölümde ısrar eder. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında aile kariyer beklentisi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin aile kariyer beklentisi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Kariyer kararını yalnızca gelir, prestij veya aile geçmişi üzerinden değerlendirmeyin; somut program koşullarını araştırın.",
+      "Ortak görüşmede öğrencinin sözünü kesilmeden tamamlayabilmesini sağlayın; danışman karar veren kişi konumuna geçmesin.",
+      "Öğrenci öğretmenlik isterken ailesi farklı bölümde ısrar eder.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Aile kariyer beklentisi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Aile kariyer beklentisi çalışmasında nereden başlamalı?",
+        "Kariyer kararını yalnızca gelir, prestij veya aile geçmişi üzerinden değerlendirmeyin; somut program koşullarını araştırın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Ortak görüşmede öğrencinin sözünü kesilmeden tamamlayabilmesini sağlayın; danışman karar veren kişi konumuna geçmesin."
       ]
     ],
     "search_terms": [
@@ -338,44 +331,43 @@
   {
     "slug": "lise-akranla-akademik-kiyaslama",
     "title": "Akranla akademik kıyaslama | Lise",
-    "summary": "Akranla akademik kıyaslama konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Akranla akademik kıyaslama için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Akranla akademik kıyaslama konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin kimlerle ve hangi başarı göstergeleri üzerinden kıyaslandığını sorun; duygusal etkisini küçümsemeyin.",
+        "Sınıf sıralamaları ve kişisel netlerin topluluk önünde paylaşılması mahremiyeti ve aidiyeti zedeleyebilir."
       ],
       [
-        "Güvenlik ve etik",
-        "Akranla akademik kıyaslama ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Öğrencinin kendi önceki öğrenme davranışını, kullandığı stratejiyi ve iyileştirebildiği adımı kaydedin.",
+        "Öğretmen ve aileyle kişiye özel süreç geri bildirimi dilini konuşun; öğrenciyi başka bir öğrencinin hedefiyle yarıştırmayın."
       ],
       [
-        "Uygulama",
-        "Akranla akademik kıyaslama hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "İki hafta sonra öğrenciye kıyaslama baskısının hangi ortamlarda sürdüğünü ve hangi desteğin işe yaradığını sorun.",
+        "Sınıfta herkesin deneme sıralaması konuşulunca öğrenci çalışma isteğinin azaldığını anlatır. Görüşmede geçmiş netleri yerine kendi yanlış türlerini incelemek için hedef seçer."
       ],
       [
-        "İş birliği",
-        "Akranla akademik kıyaslama için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı akranla akademik kıyaslama konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Akranla akademik kıyaslama çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Sınıfta herkesin deneme sıralaması konuşulunca öğrenci çalışma isteğinin azaldığını anlatır. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında akranla akademik kıyaslama konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin akranla akademik kıyaslama hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sınıf sıralamaları ve kişisel netlerin topluluk önünde paylaşılması mahremiyeti ve aidiyeti zedeleyebilir.",
+      "Öğretmen ve aileyle kişiye özel süreç geri bildirimi dilini konuşun; öğrenciyi başka bir öğrencinin hedefiyle yarıştırmayın.",
+      "Sınıfta herkesin deneme sıralaması konuşulunca öğrenci çalışma isteğinin azaldığını anlatır.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Akranla akademik kıyaslama için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Akranla akademik kıyaslama çalışmasında nereden başlamalı?",
+        "Sınıf sıralamaları ve kişisel netlerin topluluk önünde paylaşılması mahremiyeti ve aidiyeti zedeleyebilir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Öğretmen ve aileyle kişiye özel süreç geri bildirimi dilini konuşun; öğrenciyi başka bir öğrencinin hedefiyle yarıştırmayın."
       ]
     ],
     "search_terms": [
@@ -386,44 +378,43 @@
   {
     "slug": "lise-sinav-sonuclarini-yorumlama",
     "title": "Sınav sonuçlarını yorumlama | Lise",
-    "summary": "Sınav sonuçlarını yorumlama konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınav sonuçlarını yorumlama için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınav sonuçlarını yorumlama konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sınavın türü ve öğrencinin beklentisini belirleyin; sonuç ile öğrencinin genel yeterliğini birbirinden ayırın.",
+        "Tek bir puandan öğrenme güçlüğü, isteksizlik veya gelecekte başarı hakkında kesin sonuç çıkarmayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınav sonuçlarını yorumlama ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Soruları bilgi eksikliği, yönergeyi anlama, süre yönetimi ve dikkatsiz işlem gibi gözlenebilir kategorilere ayırın.",
+        "Ders öğretmeniyle öğrencinin kabul ettiği bir veya iki strateji değişikliğini planlayın; aileye yalnızca gerekli bilgileri aktarın."
       ],
       [
-        "Uygulama",
-        "Sınav sonuçlarını yorumlama hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Sonraki denemede toplam puanın yanı sıra seçilen stratejinin uygulanmasını da takip edin.",
+        "Matematik neti düşen öğrencinin çoğu hatası uzun işlem sorularında süre yetmemesinden kaynaklanır. Öğrenci süre planını küçük denemede sınar."
       ],
       [
-        "İş birliği",
-        "Sınav sonuçlarını yorumlama için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı sınav sonuçlarını yorumlama konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Sınav sonuçlarını yorumlama çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Matematik neti düşen öğrencinin çoğu hatası uzun işlem sorularında süre yetmemesinden kaynaklanır. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınav sonuçlarını yorumlama konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin sınav sonuçlarını yorumlama hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Tek bir puandan öğrenme güçlüğü, isteksizlik veya gelecekte başarı hakkında kesin sonuç çıkarmayın.",
+      "Ders öğretmeniyle öğrencinin kabul ettiği bir veya iki strateji değişikliğini planlayın; aileye yalnızca gerekli bilgileri aktarın.",
+      "Matematik neti düşen öğrencinin çoğu hatası uzun işlem sorularında süre yetmemesinden kaynaklanır.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Sınav sonuçlarını yorumlama için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınav sonuçlarını yorumlama çalışmasında nereden başlamalı?",
+        "Tek bir puandan öğrenme güçlüğü, isteksizlik veya gelecekte başarı hakkında kesin sonuç çıkarmayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Ders öğretmeniyle öğrencinin kabul ettiği bir veya iki strateji değişikliğini planlayın; aileye yalnızca gerekli bilgileri aktarın."
       ]
     ],
     "search_terms": [
@@ -434,44 +425,43 @@
   {
     "slug": "lise-etkili-deneme-geri-bildirimi",
     "title": "Etkili deneme geri bildirimi | Lise",
-    "summary": "Etkili deneme geri bildirimi konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Etkili deneme geri bildirimi için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Etkili deneme geri bildirimi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrenciden deneme sonrası hangi geri bildirimi yararlı bulduğunu sorun; yalnızca sonuç sıralaması vermekten kaçının.",
+        "Geri bildirimi kişisel özellik etiketleriyle değil belirli soru, strateji ve çalışma koşullarıyla ilişkilendirin."
       ],
       [
-        "Güvenlik ve etik",
-        "Etkili deneme geri bildirimi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Üç parçalı geri bildirim kullanın: işe yarayan yöntem, zorlanılan görev ve bir sonraki denemede değiştirilecek adım.",
+        "Öğretmenle seçilen adımın ders kazanımına uygunluğunu doğrulayın; öğrenciyi fazla sayıda yeni görevle yüklemeyin."
       ],
       [
-        "Uygulama",
-        "Etkili deneme geri bildirimi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Bir sonraki denemede önce seçilen yöntemi değerlendirin; sonuç değişmediyse yeni açıklama ve destek arayın.",
+        "Öğrenci denemede yanlış yaptığı her konuya eşit süre ayırır. Rehberlik görüşmesinde en sık tekrarlanan hata türüne yönelik tek haftalık hedef belirlenir."
       ],
       [
-        "İş birliği",
-        "Etkili deneme geri bildirimi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı etkili deneme geri bildirimi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Etkili deneme geri bildirimi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci denemede yanlış yaptığı her konuya eşit süre ayırır. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında etkili deneme geri bildirimi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin etkili deneme geri bildirimi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Geri bildirimi kişisel özellik etiketleriyle değil belirli soru, strateji ve çalışma koşullarıyla ilişkilendirin.",
+      "Öğretmenle seçilen adımın ders kazanımına uygunluğunu doğrulayın; öğrenciyi fazla sayıda yeni görevle yüklemeyin.",
+      "Öğrenci denemede yanlış yaptığı her konuya eşit süre ayırır.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Etkili deneme geri bildirimi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Etkili deneme geri bildirimi çalışmasında nereden başlamalı?",
+        "Geri bildirimi kişisel özellik etiketleriyle değil belirli soru, strateji ve çalışma koşullarıyla ilişkilendirin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Öğretmenle seçilen adımın ders kazanımına uygunluğunu doğrulayın; öğrenciyi fazla sayıda yeni görevle yüklemeyin."
       ]
     ],
     "search_terms": [
@@ -482,44 +472,43 @@
   {
     "slug": "lise-ders-programi-esnekligi",
     "title": "Ders programı esnekliği | Lise",
-    "summary": "Ders programı esnekliği konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Ders programı esnekliği için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Ders programı esnekliği konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin haftalık okul, kurs, ulaşım ve dinlenme sürelerini gerçekçi olarak çıkarın.",
+        "Programın öğrencinin uyku veya temel ihtiyaç zamanını tüketmesine izin vermeyin; her gün aynı performansı beklemeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Ders programı esnekliği ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Sabit zorunluluklardan sonra iki öncelikli ders için kısa çalışma blokları koyun; yetişmeyen görevler için esnek alan bırakın.",
+        "Aileyle çalışmanın kontrol edilmesi yerine sürdürülebilir çevre desteğini konuşun; öğretmenle yoğun ödev dönemlerini dikkate alın."
       ],
       [
-        "Uygulama",
-        "Ders programı esnekliği hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Bir hafta sonra uygulanmayan blokların nedenini öğrenciyle inceleyip programı sadeleştirin.",
+        "Öğrenci her akşam beş saat ders planlar ama iki gün sonra bırakır. Ulaşım ve yorgunluğu hesaba katarak kısa, esnek tekrar süreleri belirler."
       ],
       [
-        "İş birliği",
-        "Ders programı esnekliği için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı ders programı esnekliği konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Ders programı esnekliği çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci her akşam beş saat ders planlar ama iki gün sonra bırakır. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında ders programı esnekliği konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin ders programı esnekliği hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Programın öğrencinin uyku veya temel ihtiyaç zamanını tüketmesine izin vermeyin; her gün aynı performansı beklemeyin.",
+      "Aileyle çalışmanın kontrol edilmesi yerine sürdürülebilir çevre desteğini konuşun; öğretmenle yoğun ödev dönemlerini dikkate alın.",
+      "Öğrenci her akşam beş saat ders planlar ama iki gün sonra bırakır.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Ders programı esnekliği için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Ders programı esnekliği çalışmasında nereden başlamalı?",
+        "Programın öğrencinin uyku veya temel ihtiyaç zamanını tüketmesine izin vermeyin; her gün aynı performansı beklemeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Aileyle çalışmanın kontrol edilmesi yerine sürdürülebilir çevre desteğini konuşun; öğretmenle yoğun ödev dönemlerini dikkate alın."
       ]
     ],
     "search_terms": [
@@ -530,44 +519,43 @@
   {
     "slug": "lise-gunluk-yasam-ve-uyku-dengesi",
     "title": "Günlük yaşam ve uyku dengesi | Lise",
-    "summary": "Günlük yaşam ve uyku dengesi konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Günlük yaşam ve uyku dengesi için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Günlük yaşam ve uyku dengesi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Uyku düzensizliğinin hangi günlerde arttığını ve öğrencinin ders katılımını nasıl etkilediğini konuşun.",
+        "Yorgunluk veya dikkat güçlüğünü tek başına ekrana bağlamayın; sağlık ve aile koşulları da değerlendirilebilir."
       ],
       [
-        "Güvenlik ve etik",
-        "Günlük yaşam ve uyku dengesi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Öğrencinin belirleyebileceği bir akşam geçiş rutini seçin; ödev, ulaşım ve ekran kullanımı saatlerini birlikte inceleyin.",
+        "Aileyle suçlamayan ortak iletişim kurun; kalıcı uyku sorunu veya belirgin gündüz işlev kaybında sağlık değerlendirmesini düşünün."
       ],
       [
-        "Uygulama",
-        "Günlük yaşam ve uyku dengesi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "İki hafta boyunca öğrencinin dinlenmiş hissetme düzeyi ve ilk ders katılımını gözden geçirin.",
+        "Öğrenci gece sınav videosu izleyip sabah derste uyuklar. Akşam son tekrar saati belirlenir; sorun sürerse aile ve sağlık desteği ele alınır."
       ],
       [
-        "İş birliği",
-        "Günlük yaşam ve uyku dengesi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı günlük yaşam ve uyku dengesi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Günlük yaşam ve uyku dengesi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci gece sınav videosu izleyip sabah derste uyuklar. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında günlük yaşam ve uyku dengesi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin günlük yaşam ve uyku dengesi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Yorgunluk veya dikkat güçlüğünü tek başına ekrana bağlamayın; sağlık ve aile koşulları da değerlendirilebilir.",
+      "Aileyle suçlamayan ortak iletişim kurun; kalıcı uyku sorunu veya belirgin gündüz işlev kaybında sağlık değerlendirmesini düşünün.",
+      "Öğrenci gece sınav videosu izleyip sabah derste uyuklar.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Günlük yaşam ve uyku dengesi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Günlük yaşam ve uyku dengesi çalışmasında nereden başlamalı?",
+        "Yorgunluk veya dikkat güçlüğünü tek başına ekrana bağlamayın; sağlık ve aile koşulları da değerlendirilebilir."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Aileyle suçlamayan ortak iletişim kurun; kalıcı uyku sorunu veya belirgin gündüz işlev kaybında sağlık değerlendirmesini düşünün."
       ]
     ],
     "search_terms": [
@@ -578,44 +566,43 @@
   {
     "slug": "lise-uzun-vadeli-hedef-bolme",
     "title": "Uzun vadeli hedef bölme | Lise",
-    "summary": "Uzun vadeli hedef bölme konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Uzun vadeli hedef bölme için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Uzun vadeli hedef bölme konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin uzak hedefini kendi cümlesiyle tanımlamasını isteyin; yetişkinin seçtiği hedefi doğrudan benimsetmeyin.",
+        "Sonuç hedefini öğrencinin günlük kontrol edebileceği davranışla karıştırmayın; başarısızlık hissini artıran gerçek dışı sürelerden kaçının."
       ],
       [
-        "Güvenlik ve etik",
-        "Uzun vadeli hedef bölme ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Dönem hedefini aylık araştırma, haftalık öğrenme ve bugünkü ilk adım olarak üç düzeye ayırın.",
+        "Öğrencinin fırsatları ve yükümlülükleriyle uyumlu takvim oluşturun; destek gerektiren adımda öğretmen veya aile rolünü netleştirin."
       ],
       [
-        "Uygulama",
-        "Uzun vadeli hedef bölme hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Haftalık görüşmede tamamlanan görev kadar planın gerçekçiliğini de gözden geçirin.",
+        "Öğrenci iki yıl sonrası için mühendislik hedefi kurar fakat bugün ne yapacağını bilemez. Önce bir bölüm araştırma görevi ve bir matematik öğrenme hedefi belirler."
       ],
       [
-        "İş birliği",
-        "Uzun vadeli hedef bölme için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı uzun vadeli hedef bölme konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Uzun vadeli hedef bölme çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci iki yıl sonrası için mühendislik hedefi kurar fakat bugün ne yapacağını bilemez. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında uzun vadeli hedef bölme konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin uzun vadeli hedef bölme hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sonuç hedefini öğrencinin günlük kontrol edebileceği davranışla karıştırmayın; başarısızlık hissini artıran gerçek dışı sürelerden kaçının.",
+      "Öğrencinin fırsatları ve yükümlülükleriyle uyumlu takvim oluşturun; destek gerektiren adımda öğretmen veya aile rolünü netleştirin.",
+      "Öğrenci iki yıl sonrası için mühendislik hedefi kurar fakat bugün ne yapacağını bilemez.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Uzun vadeli hedef bölme için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Uzun vadeli hedef bölme çalışmasında nereden başlamalı?",
+        "Sonuç hedefini öğrencinin günlük kontrol edebileceği davranışla karıştırmayın; başarısızlık hissini artıran gerçek dışı sürelerden kaçının."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Öğrencinin fırsatları ve yükümlülükleriyle uyumlu takvim oluşturun; destek gerektiren adımda öğretmen veya aile rolünü netleştirin."
       ]
     ],
     "search_terms": [
@@ -626,44 +613,43 @@
   {
     "slug": "lise-dijital-guvenlik-ve-mahremiyet",
     "title": "Dijital güvenlik ve mahremiyet | Lise",
-    "summary": "Dijital güvenlik ve mahremiyet konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Dijital güvenlik ve mahremiyet için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Dijital güvenlik ve mahremiyet konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencilerin konum paylaşımı, ekran görüntüsü, parola ve özel mesaj sınırlarını ayrı örneklerle ele alın.",
+        "Gerçek öğrenci hesaplarını sınıfta açmayın; siber zorbalık veya izinsiz görsel paylaşımında güvenliği önce değerlendirin."
       ],
       [
-        "Güvenlik ve etik",
-        "Dijital güvenlik ve mahremiyet ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kurgusal bir gönderide kimlerin görebileceğini, yeniden paylaşım olasılığını ve izin gereksinimini analiz ettirin.",
+        "Güvenilir yetişkin ve uygun platform bildirim yollarını tanıtın; kanıt için zararlı içeriğin yeniden dolaşıma sokulmasını önleyin."
       ],
       [
-        "Uygulama",
-        "Dijital güvenlik ve mahremiyet hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencilerden özel deneyim açıklamasını istemeden bir dijital güvenlik kontrol sorusu seçmelerini sağlayın.",
+        "Bir öğrenci arkadaşının etkinlik videosunu herkese açık yayımlamak ister. Grup, videoda görünenlerin izni ile çekim izninin aynı şey olmadığını tartışır."
       ],
       [
-        "İş birliği",
-        "Dijital güvenlik ve mahremiyet için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı dijital güvenlik ve mahremiyet konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Dijital güvenlik ve mahremiyet çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Bir öğrenci arkadaşının etkinlik videosunu herkese açık yayımlamak ister. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında dijital güvenlik ve mahremiyet konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin dijital güvenlik ve mahremiyet hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Gerçek öğrenci hesaplarını sınıfta açmayın; siber zorbalık veya izinsiz görsel paylaşımında güvenliği önce değerlendirin.",
+      "Güvenilir yetişkin ve uygun platform bildirim yollarını tanıtın; kanıt için zararlı içeriğin yeniden dolaşıma sokulmasını önleyin.",
+      "Bir öğrenci arkadaşının etkinlik videosunu herkese açık yayımlamak ister.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Dijital güvenlik ve mahremiyet için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Dijital güvenlik ve mahremiyet çalışmasında nereden başlamalı?",
+        "Gerçek öğrenci hesaplarını sınıfta açmayın; siber zorbalık veya izinsiz görsel paylaşımında güvenliği önce değerlendirin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Güvenilir yetişkin ve uygun platform bildirim yollarını tanıtın; kanıt için zararlı içeriğin yeniden dolaşıma sokulmasını önleyin."
       ]
     ],
     "search_terms": [
@@ -674,44 +660,43 @@
   {
     "slug": "lise-sosyal-iliskilerde-riza",
     "title": "Sosyal ilişkilerde rıza | Lise",
-    "summary": "Sosyal ilişkilerde rıza konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sosyal ilişkilerde rıza için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sosyal ilişkilerde rıza konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Rızayı karşılıklı, özgür ve geri alınabilir bir karar olarak yaşa uygun dille açıklayın.",
+        "Akran baskısı, tehdit veya güç dengesizliği varsa 'karşılıklı anlaşma' varsayımından hareket etmeyin; önce güvenliği sağlayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Sosyal ilişkilerde rıza ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kurgusal sosyal durumlarda istememe, fikrini değiştirme ve net sınır koyma cümleleri üzerinde çalışın.",
+        "Öğrencileri kişisel ilişki deneyimlerini açıklamaya zorlamayın; koruma gerektiren bildirimlerde okulun yetkili süreçlerini izleyin."
       ],
       [
-        "Uygulama",
-        "Sosyal ilişkilerde rıza hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Etkinliğin sonunda öğrencilerin farklı sınırları ve yetişkinden yardım isteme yollarını anlayıp anlamadıklarını değerlendirin.",
+        "Arkadaş grubu bir öğrenciyi istemediği buluşmaya katılmaya zorlar. Öğrenciler rızanın baskı altında verilemeyeceğini ve reddetme seçeneklerini tartışır."
       ],
       [
-        "İş birliği",
-        "Sosyal ilişkilerde rıza için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı sosyal ilişkilerde rıza konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Sosyal ilişkilerde rıza çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Arkadaş grubu bir öğrenciyi istemediği buluşmaya katılmaya zorlar. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sosyal ilişkilerde rıza konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin sosyal ilişkilerde rıza hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Akran baskısı, tehdit veya güç dengesizliği varsa 'karşılıklı anlaşma' varsayımından hareket etmeyin; önce güvenliği sağlayın.",
+      "Öğrencileri kişisel ilişki deneyimlerini açıklamaya zorlamayın; koruma gerektiren bildirimlerde okulun yetkili süreçlerini izleyin.",
+      "Arkadaş grubu bir öğrenciyi istemediği buluşmaya katılmaya zorlar.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Sosyal ilişkilerde rıza için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sosyal ilişkilerde rıza çalışmasında nereden başlamalı?",
+        "Akran baskısı, tehdit veya güç dengesizliği varsa 'karşılıklı anlaşma' varsayımından hareket etmeyin; önce güvenliği sağlayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Öğrencileri kişisel ilişki deneyimlerini açıklamaya zorlamayın; koruma gerektiren bildirimlerde okulun yetkili süreçlerini izleyin."
       ]
     ],
     "search_terms": [
@@ -722,44 +707,43 @@
   {
     "slug": "lise-guvenilir-yetiskine-basvuru",
     "title": "Güvenilir yetişkine başvuru | Lise",
-    "summary": "Güvenilir yetişkine başvuru konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Güvenilir yetişkine başvuru için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Güvenilir yetişkine başvuru konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrenciye okulda hangi ihtiyaçlarda kimden yardım isteyebileceğini ve mahremiyet sınırlarını açıklayın.",
+        "Yardım isteyince her bilginin gizli tutulacağına söz vermeyin; güvenlik gerektiren durumlarda yetkili kişilerle paylaşım olabileceğini belirtin."
       ],
       [
-        "Güvenlik ve etik",
-        "Güvenilir yetişkine başvuru ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Acil risk, ders güçlüğü ve akran çatışması için farklı okul başvuru haritaları oluşturun.",
+        "Öğrencinin başvuru için güvenli bir zaman ve yer bulabilmesini okul ekibiyle sağlayın; erişimi yalnızca çevrim içi forma bağlamayın."
       ],
       [
-        "Uygulama",
-        "Güvenilir yetişkine başvuru hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Kurgusal üç durumda öğrencinin doğru yetişkine ve acil yardıma ulaşma yolunu anlatmasını isteyin.",
+        "Öğrenci öğretmenini bulamadığı bir teneffüste tehdit edilir. Sınıf nöbetçi öğretmene ve okulun yetkili destek kanalına nasıl ulaşılacağını öğrenir."
       ],
       [
-        "İş birliği",
-        "Güvenilir yetişkine başvuru için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı güvenilir yetişkine başvuru konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Güvenilir yetişkine başvuru çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci öğretmenini bulamadığı bir teneffüste tehdit edilir. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında güvenilir yetişkine başvuru konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin güvenilir yetişkine başvuru hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Yardım isteyince her bilginin gizli tutulacağına söz vermeyin; güvenlik gerektiren durumlarda yetkili kişilerle paylaşım olabileceğini belirtin.",
+      "Öğrencinin başvuru için güvenli bir zaman ve yer bulabilmesini okul ekibiyle sağlayın; erişimi yalnızca çevrim içi forma bağlamayın.",
+      "Öğrenci öğretmenini bulamadığı bir teneffüste tehdit edilir.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Güvenilir yetişkine başvuru için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Güvenilir yetişkine başvuru çalışmasında nereden başlamalı?",
+        "Yardım isteyince her bilginin gizli tutulacağına söz vermeyin; güvenlik gerektiren durumlarda yetkili kişilerle paylaşım olabileceğini belirtin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Öğrencinin başvuru için güvenli bir zaman ve yer bulabilmesini okul ekibiyle sağlayın; erişimi yalnızca çevrim içi forma bağlamayın."
       ]
     ],
     "search_terms": [
@@ -770,44 +754,43 @@
   {
     "slug": "lise-kendini-ifade-etme-becerisi",
     "title": "Kendini ifade etme becerisi | Lise",
-    "summary": "Kendini ifade etme becerisi konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Kendini ifade etme becerisi için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Kendini ifade etme becerisi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin görüş bildirmekte zorlandığı ortamları sorun; çekingenliği kişilik kusuru gibi değerlendirmeyin.",
+        "Sınıf önünde konuşmak istemeyen öğrencileri zorlamayın; yazılı veya küçük grup katılımı seçenekleri sunun."
       ],
       [
-        "Güvenlik ve etik",
-        "Kendini ifade etme becerisi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kurgusal konuda gözlem, duygu ve istekten oluşan üç cümlelik açıklama alıştırması yapın.",
+        "Öğretmenle söz hakkını adil dağıtan sınıf kuralları belirleyin; alay ve söz kesmeye güvenli şekilde müdahale edin."
       ],
       [
-        "Uygulama",
-        "Kendini ifade etme becerisi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrencinin kendini daha açık ifade edebildiği ortamı ve yardıma ihtiyaç duyduğu anları bir sonraki görüşmede değerlendirin.",
+        "Öğrenci proje grubunda fikri dinlenmediği için susar. Kısa yazılı öneriyle başlayıp isterse grup içinde konuşmayı dener."
       ],
       [
-        "İş birliği",
-        "Kendini ifade etme becerisi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı kendini ifade etme becerisi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Kendini ifade etme becerisi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci proje grubunda fikri dinlenmediği için susar. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında kendini ifade etme becerisi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin kendini ifade etme becerisi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Sınıf önünde konuşmak istemeyen öğrencileri zorlamayın; yazılı veya küçük grup katılımı seçenekleri sunun.",
+      "Öğretmenle söz hakkını adil dağıtan sınıf kuralları belirleyin; alay ve söz kesmeye güvenli şekilde müdahale edin.",
+      "Öğrenci proje grubunda fikri dinlenmediği için susar.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Kendini ifade etme becerisi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Kendini ifade etme becerisi çalışmasında nereden başlamalı?",
+        "Sınıf önünde konuşmak istemeyen öğrencileri zorlamayın; yazılı veya küçük grup katılımı seçenekleri sunun."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Öğretmenle söz hakkını adil dağıtan sınıf kuralları belirleyin; alay ve söz kesmeye güvenli şekilde müdahale edin."
       ]
     ],
     "search_terms": [
@@ -818,44 +801,43 @@
   {
     "slug": "lise-farkli-goruslere-saygi",
     "title": "Farklı görüşlere saygı | Lise",
-    "summary": "Farklı görüşlere saygı konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Farklı görüşlere saygı için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Farklı görüşlere saygı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Farklı görüşlerin ortaya çıktığı okul durumlarını tanımlayın; tartışmanın kişilere yönelip yönelmediğini gözleyin.",
+        "Ayrımcılık, tehdit veya aşağılayıcı söylemi yalnızca 'farklı görüş' sayıp görmezden gelmeyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Farklı görüşlere saygı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Kurgusal güncel olmayan bir okul kararı üzerinden kanıt sunma, söz kesmeme ve karşı görüşü özetleme etkinliği yapın.",
+        "Öğretmenle tartışma sınırlarını ve güvenli durdurma işaretini önceden belirleyin; öğrencilerin özel kimliklerini tartışma konusu yapmayın."
       ],
       [
-        "Uygulama",
-        "Farklı görüşlere saygı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Sonraki tartışmada öğrencilerin kişiyi değil görüşü eleştirebilme ve güvenli söz alma davranışını izleyin.",
+        "Sınıf gezi güzergâhını seçerken iki gruba ayrılır. Her grup ötekinin gerekçesini doğru özetledikten sonra kendi önerisini sunar."
       ],
       [
-        "İş birliği",
-        "Farklı görüşlere saygı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı farklı görüşlere saygı konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Farklı görüşlere saygı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Sınıf gezi güzergâhını seçerken iki gruba ayrılır. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında farklı görüşlere saygı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin farklı görüşlere saygı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Ayrımcılık, tehdit veya aşağılayıcı söylemi yalnızca 'farklı görüş' sayıp görmezden gelmeyin.",
+      "Öğretmenle tartışma sınırlarını ve güvenli durdurma işaretini önceden belirleyin; öğrencilerin özel kimliklerini tartışma konusu yapmayın.",
+      "Sınıf gezi güzergâhını seçerken iki gruba ayrılır.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Farklı görüşlere saygı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Farklı görüşlere saygı çalışmasında nereden başlamalı?",
+        "Ayrımcılık, tehdit veya aşağılayıcı söylemi yalnızca 'farklı görüş' sayıp görmezden gelmeyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Öğretmenle tartışma sınırlarını ve güvenli durdurma işaretini önceden belirleyin; öğrencilerin özel kimliklerini tartışma konusu yapmayın."
       ]
     ],
     "search_terms": [
@@ -866,44 +848,43 @@
   {
     "slug": "lise-mesleki-deger-kesfi",
     "title": "Mesleki değer keşfi | Lise",
-    "summary": "Mesleki değer keşfi konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Mesleki değer keşfi için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Mesleki değer keşfi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrenciye meslekten beklediği koşulları sorun: esneklik, çalışma ortamı, toplumsal katkı veya gelir farklı ağırlıklarda olabilir.",
+        "Mesleki değeri tek bir ölçek puanına indirgemeyin; seçilen değerlerin zamanla değişebileceğini açıklayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Mesleki değer keşfi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Öğrenciden üç değeri sıralamasını ve iki mesleğin günlük görevleriyle bu değerleri karşılaştırmasını isteyin.",
+        "Resmî meslek ve eğitim bilgilerini kullanın; ailenin değerlerini dinlerken öğrencinin kendi önceliklerini ayrı koruyun."
       ],
       [
-        "Uygulama",
-        "Mesleki değer keşfi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Bir ay sonra araştırma ve gözlem sonrası ilk sıralamanın değişip değişmediğini öğrenciyle konuşun.",
+        "Öğrenci yüksek gelirle insanlara doğrudan yardım etmeyi aynı anda önemser. İki mesleğin gerçek iş koşullarını araştırarak değerler arasında düşünür."
       ],
       [
-        "İş birliği",
-        "Mesleki değer keşfi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı mesleki değer keşfi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Mesleki değer keşfi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci yüksek gelirle insanlara doğrudan yardım etmeyi aynı anda önemser. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında mesleki değer keşfi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin mesleki değer keşfi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Mesleki değeri tek bir ölçek puanına indirgemeyin; seçilen değerlerin zamanla değişebileceğini açıklayın.",
+      "Resmî meslek ve eğitim bilgilerini kullanın; ailenin değerlerini dinlerken öğrencinin kendi önceliklerini ayrı koruyun.",
+      "Öğrenci yüksek gelirle insanlara doğrudan yardım etmeyi aynı anda önemser.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Mesleki değer keşfi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Mesleki değer keşfi çalışmasında nereden başlamalı?",
+        "Mesleki değeri tek bir ölçek puanına indirgemeyin; seçilen değerlerin zamanla değişebileceğini açıklayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Resmî meslek ve eğitim bilgilerini kullanın; ailenin değerlerini dinlerken öğrencinin kendi önceliklerini ayrı koruyun."
       ]
     ],
     "search_terms": [
@@ -914,44 +895,43 @@
   {
     "slug": "lise-bolum-karsilastirma-cizelgesi",
     "title": "Bölüm karşılaştırma çizelgesi | Lise",
-    "summary": "Bölüm karşılaştırma çizelgesi konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Bölüm karşılaştırma çizelgesi için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Bölüm karşılaştırma çizelgesi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin karşılaştırdığı programların isimlerini ve araştırma yılını doğrulayın; benzer adın aynı ders planı anlamına gelmeyebileceğini açıklayın.",
+        "Güncel tercih kılavuzu ve üniversite ders planı dışındaki bilgileri kesin koşul gibi sunmayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Bölüm karşılaştırma çizelgesi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Program kodu, eğitim dili, temel dersler, staj ve özel koşullar sütunlarıyla bir karşılaştırma çizelgesi oluşturun.",
+        "Aileyle barınma ve maliyet koşullarını ayrıca konuşabilirsiniz; karar ölçütlerini öğrenciyle birlikte ağırlıklandırın."
       ],
       [
-        "Uygulama",
-        "Bölüm karşılaştırma çizelgesi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Tercih dönemi öncesi çizelgedeki değişebilen bilgileri resmî kaynaklardan yeniden doğrulayın.",
+        "Öğrenci iki üniversitede aynı bölüm adını görür; ders planlarında uygulama derslerinin farklı olduğunu fark edip tercihini yeniden değerlendirir."
       ],
       [
-        "İş birliği",
-        "Bölüm karşılaştırma çizelgesi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı bölüm karşılaştırma çizelgesi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Bölüm karşılaştırma çizelgesi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenci iki üniversitede aynı bölüm adını görür; ders planlarında uygulama derslerinin farklı olduğunu fark edip tercihini yeniden değerlendirir. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında bölüm karşılaştırma çizelgesi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin bölüm karşılaştırma çizelgesi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Güncel tercih kılavuzu ve üniversite ders planı dışındaki bilgileri kesin koşul gibi sunmayın.",
+      "Aileyle barınma ve maliyet koşullarını ayrıca konuşabilirsiniz; karar ölçütlerini öğrenciyle birlikte ağırlıklandırın.",
+      "Öğrenci iki üniversitede aynı bölüm adını görür; ders planlarında uygulama derslerinin farklı olduğunu fark edip tercihini yeniden değerlendirir.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Bölüm karşılaştırma çizelgesi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Bölüm karşılaştırma çizelgesi çalışmasında nereden başlamalı?",
+        "Güncel tercih kılavuzu ve üniversite ders planı dışındaki bilgileri kesin koşul gibi sunmayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Aileyle barınma ve maliyet koşullarını ayrıca konuşabilirsiniz; karar ölçütlerini öğrenciyle birlikte ağırlıklandırın."
       ]
     ],
     "search_terms": [
@@ -962,44 +942,43 @@
   {
     "slug": "lise-gonullu-toplumsal-katki",
     "title": "Gönüllü toplumsal katkı | Lise",
-    "summary": "Gönüllü toplumsal katkı konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Gönüllü toplumsal katkı için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Gönüllü toplumsal katkı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Gönüllü etkinliğin öğrencinin ilgisi ve okul koşullarıyla nasıl örtüştüğünü sorun; zorunlu görev olarak sunmayın.",
+        "Etkinlikte öğrenci yaşı, güvenlik, izin ve özel bilgi paylaşımı sınırlarını önceden değerlendirin."
       ],
       [
-        "Güvenlik ve etik",
-        "Gönüllü toplumsal katkı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Küçük ölçekli bir okul katkısı seçin: kitaplık düzeni, akran destek afişi veya çevre düzeni gibi erişilebilir görevler olabilir.",
+        "Gönüllüleri 'iyi öğrenci' etiketiyle diğerlerinden ayırmayın; katılımın farklı biçimlerini okul ekibiyle destekleyin."
       ],
       [
-        "Uygulama",
-        "Gönüllü toplumsal katkı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Etkinlik sonunda saat sayısından çok öğrencinin öğrendiği beceriyi ve topluluk etkisini tartışın.",
+        "Öğrenciler okul kitaplığının sınıflandırmasını yeniler. Her öğrenci seçtiği bir rolle katılır; süreç sonunda iş birliği deneyimini anlatır."
       ],
       [
-        "İş birliği",
-        "Gönüllü toplumsal katkı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı gönüllü toplumsal katkı konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Gönüllü toplumsal katkı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Öğrenciler okul kitaplığının sınıflandırmasını yeniler. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında gönüllü toplumsal katkı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin gönüllü toplumsal katkı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Etkinlikte öğrenci yaşı, güvenlik, izin ve özel bilgi paylaşımı sınırlarını önceden değerlendirin.",
+      "Gönüllüleri 'iyi öğrenci' etiketiyle diğerlerinden ayırmayın; katılımın farklı biçimlerini okul ekibiyle destekleyin.",
+      "Öğrenciler okul kitaplığının sınıflandırmasını yeniler.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Gönüllü toplumsal katkı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Gönüllü toplumsal katkı çalışmasında nereden başlamalı?",
+        "Etkinlikte öğrenci yaşı, güvenlik, izin ve özel bilgi paylaşımı sınırlarını önceden değerlendirin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Gönüllüleri 'iyi öğrenci' etiketiyle diğerlerinden ayırmayın; katılımın farklı biçimlerini okul ekibiyle destekleyin."
       ]
     ],
     "search_terms": [
@@ -1010,44 +989,43 @@
   {
     "slug": "lise-okul-kulubunde-sorumluluk",
     "title": "Okul kulübünde sorumluluk | Lise",
-    "summary": "Okul kulübünde sorumluluk konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Okul kulübünde sorumluluk için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Okul kulübünde sorumluluk konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin kulüpte üstlendiği görevi ve bunun gönüllü olup olmadığını öğrenin; liderliği yalnızca unvan olarak ele almayın.",
+        "Görevin ders yükü, güvenlik veya sosyal ilişkiler üzerindeki etkisini izleyin; sürekli aynı öğrenciye iş yüklenmesini önleyin."
       ],
       [
-        "Güvenlik ve etik",
-        "Okul kulübünde sorumluluk ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Toplantı hazırlama, malzeme sorumluluğu ve geri bildirim toplama gibi görevleri dönüşümlü planlayın.",
+        "Kulüp danışman öğretmeniyle görev sınırlarını ve teslim tarihini netleştirin; öğrenciler arasında ayrımcı rol dağıtmayın."
       ],
       [
-        "Uygulama",
-        "Okul kulübünde sorumluluk hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Dönem sonunda öğrencinin hangi iş birliği ve planlama becerisini kullandığını somut örnekle değerlendirin.",
+        "Kulüp başkanı bütün işleri kendisi yapınca toplantılar gecikir. Görev çizelgesiyle etkinlik rolleri paylaştırılır ve öğrencilerin katılımı artar."
       ],
       [
-        "İş birliği",
-        "Okul kulübünde sorumluluk için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı okul kulübünde sorumluluk konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Okul kulübünde sorumluluk çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Kulüp başkanı bütün işleri kendisi yapınca toplantılar gecikir. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında okul kulübünde sorumluluk konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin okul kulübünde sorumluluk hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Görevin ders yükü, güvenlik veya sosyal ilişkiler üzerindeki etkisini izleyin; sürekli aynı öğrenciye iş yüklenmesini önleyin.",
+      "Kulüp danışman öğretmeniyle görev sınırlarını ve teslim tarihini netleştirin; öğrenciler arasında ayrımcı rol dağıtmayın.",
+      "Kulüp başkanı bütün işleri kendisi yapınca toplantılar gecikir.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Okul kulübünde sorumluluk için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Okul kulübünde sorumluluk çalışmasında nereden başlamalı?",
+        "Görevin ders yükü, güvenlik veya sosyal ilişkiler üzerindeki etkisini izleyin; sürekli aynı öğrenciye iş yüklenmesini önleyin."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Kulüp danışman öğretmeniyle görev sınırlarını ve teslim tarihini netleştirin; öğrenciler arasında ayrımcı rol dağıtmayın."
       ]
     ],
     "search_terms": [
@@ -1058,44 +1036,43 @@
   {
     "slug": "lise-mezuniyet-sonrasi-secenekler",
     "title": "Mezuniyet sonrası seçenekler | Lise",
-    "summary": "Mezuniyet sonrası seçenekler konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Mezuniyet sonrası seçenekler için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Mezuniyet sonrası seçenekler konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin mezuniyet sonrası seçenekleri bildiğini varsaymayın; yükseköğretim, mesleki eğitim ve diğer yolları güncel bilgilerle tanıtın.",
+        "Tek bir yolu başarının garantisi veya başarısızlığın işareti olarak sunmayın; maddi ve bölgesel koşulları dikkate alın."
       ],
       [
-        "Güvenlik ve etik",
-        "Mezuniyet sonrası seçenekler ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "En az iki uygulanabilir yol için kabul şartları, başvuru tarihleri ve gerekli hazırlık adımlarını karşılaştırın.",
+        "Aileyle gelecek planı konuşurken öğrencinin karar verme hakkını koruyun; değişebilen koşulları resmî kaynaklardan doğrulayın."
       ],
       [
-        "Uygulama",
-        "Mezuniyet sonrası seçenekler hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Öğrenci her seçenek için bir araştırma adımı belirleyip bir sonraki görüşmede elde ettiği yeni bilgileri sunar.",
+        "Mezun olacak öğrenci yalnızca tek programı düşünür. Farklı eğitim seçeneklerinin başvuru koşullarını araştırınca alternatif plan oluşturur."
       ],
       [
-        "İş birliği",
-        "Mezuniyet sonrası seçenekler için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı mezuniyet sonrası seçenekler konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Mezuniyet sonrası seçenekler çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Mezun olacak öğrenci yalnızca tek programı düşünür. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında mezuniyet sonrası seçenekler konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin mezuniyet sonrası seçenekler hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Tek bir yolu başarının garantisi veya başarısızlığın işareti olarak sunmayın; maddi ve bölgesel koşulları dikkate alın.",
+      "Aileyle gelecek planı konuşurken öğrencinin karar verme hakkını koruyun; değişebilen koşulları resmî kaynaklardan doğrulayın.",
+      "Mezun olacak öğrenci yalnızca tek programı düşünür.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Mezuniyet sonrası seçenekler için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Mezuniyet sonrası seçenekler çalışmasında nereden başlamalı?",
+        "Tek bir yolu başarının garantisi veya başarısızlığın işareti olarak sunmayın; maddi ve bölgesel koşulları dikkate alın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Aileyle gelecek planı konuşurken öğrencinin karar verme hakkını koruyun; değişebilen koşulları resmî kaynaklardan doğrulayın."
       ]
     ],
     "search_terms": [
@@ -1106,44 +1083,43 @@
   {
     "slug": "lise-sinav-donemi-aile-iletisimi",
     "title": "Sınav dönemi aile iletişimi | Lise",
-    "summary": "Sınav dönemi aile iletişimi konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Sınav dönemi aile iletişimi için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Sınav dönemi aile iletişimi konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Sınav dönemi aile konuşmalarında en sık çatışma yaratan ifadeleri öğrenci ve veli açısından ayrı dinleyin.",
+        "Deneme sonucunu tehdit, kıyaslama veya utandırma aracına dönüştürmenin öğrencinin yardım istemesini zorlaştırabileceğini açıklayın."
       ],
       [
-        "Güvenlik ve etik",
-        "Sınav dönemi aile iletişimi ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Aileye 'Kaç net yaptın?' yerine 'Bu hafta hangi konuda desteğe ihtiyacın var?' gibi süreç odaklı soru seçenekleri sunun.",
+        "Aile toplantısında uyku, dinlenme ve öğrenme koşullarını gerçekçi değerlendirin; öğrencinin tüm özel görüşme notlarını paylaşmayın."
       ],
       [
-        "Uygulama",
-        "Sınav dönemi aile iletişimi hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Bir hafta sonra evdeki konuşma biçiminin ve öğrencinin çalışma düzeninin değişimini ayrı değerlendirin.",
+        "Veli her sınavdan sonra sınıf sıralaması ister. Ortak görüşmede yalnızca puanı değil öğrenme stratejisini konuşmak için kısa bir iletişim anlaşması yapılır."
       ],
       [
-        "İş birliği",
-        "Sınav dönemi aile iletişimi için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı sınav dönemi aile iletişimi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Sınav dönemi aile iletişimi çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Veli her sınavdan sonra sınıf sıralaması ister. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında sınav dönemi aile iletişimi konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin sınav dönemi aile iletişimi hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Deneme sonucunu tehdit, kıyaslama veya utandırma aracına dönüştürmenin öğrencinin yardım istemesini zorlaştırabileceğini açıklayın.",
+      "Aile toplantısında uyku, dinlenme ve öğrenme koşullarını gerçekçi değerlendirin; öğrencinin tüm özel görüşme notlarını paylaşmayın.",
+      "Veli her sınavdan sonra sınıf sıralaması ister.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Sınav dönemi aile iletişimi için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Sınav dönemi aile iletişimi çalışmasında nereden başlamalı?",
+        "Deneme sonucunu tehdit, kıyaslama veya utandırma aracına dönüştürmenin öğrencinin yardım istemesini zorlaştırabileceğini açıklayın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Aile toplantısında uyku, dinlenme ve öğrenme koşullarını gerçekçi değerlendirin; öğrencinin tüm özel görüşme notlarını paylaşmayın."
       ]
     ],
     "search_terms": [
@@ -1154,44 +1130,43 @@
   {
     "slug": "lise-yeni-ortama-gecis-hazirligi",
     "title": "Yeni ortama geçiş hazırlığı | Lise",
-    "summary": "Yeni ortama geçiş hazırlığı konusunda lise kapsamında okul temelli değerlendirme, güvenli uygulama ve izleme taslağı.",
+    "summary": "Yeni ortama geçiş hazırlığı için lise öğrencisinin karar hakkını, somut okul uygulamalarını ve izleme adımlarını ele alan rehber.",
     "sections": [
       [
-        "İhtiyacı belirleme",
-        "Yeni ortama geçiş hazırlığı konusunda öğrencinin hangi durumda zorlandığını somut örnekle sorun; varsayımdan sonuç çıkarmayın."
+        "Öğrencinin yeni ortama geçişte en çok neyi bilmediğini sorun: arkadaşlık, ulaşım, ders işleyişi veya başvuru yolları farklıdır.",
+        "Geçiş kaygısını küçümsemeyin; zorbalık ya da güvenlik endişesi anlatılırsa bunu genel uyum etkinliğinden ayrı ele alın."
       ],
       [
-        "Güvenlik ve etik",
-        "Yeni ortama geçiş hazırlığı ele alınırken öğrencinin yaşına, güvenliğine, gönüllü katılımına ve gizliliğine uygun sınırları açıklayın."
+        "Yeni okul veya eğitim ortamının ilk hafta rutinini, güvenilir yetişkinlerini ve ulaşılabilir destek noktalarını araştırma görevi verin.",
+        "Aileye öğrenci adına tüm kararları alma yerine öngörülebilir hazırlık ve bilgi doğrulama desteği önerin."
       ],
       [
-        "Uygulama",
-        "Yeni ortama geçiş hazırlığı hakkında kurgusal okul durumu seçin; öğrenciyle tek bir uygulanabilir davranış veya bilgi doğrulama adımı belirleyin."
+        "Geçişten sonraki ilk iki haftada öğrencinin aidiyet, ulaşım ve öğrenme düzenini gözden geçirmesini planlayın.",
+        "Üniversiteye gidecek öğrenci barınma ve ders kayıtlarına ilişkin belirsizlik yaşar. Güncel resmî kaynaklardan kontrol listesi çıkararak ailesiyle plan yapar."
       ],
       [
-        "İş birliği",
-        "Yeni ortama geçiş hazırlığı için öğretmen, aile veya yetkili okul ekibiyle yalnızca gerekli bilgiyi paylaşarak görev dağıtın."
+        "Öğrencinin karar hakkı ve güvenli sınırlar",
+        "Çalışmanın amacı yeni ortama geçiş hazırlığı konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Okulun yetki sınırı, öğrenci güvenliği ve bilgilerin güncelliği dikkate alınmadan kesin karar önerilmemelidir."
       ],
       [
-        "Takip",
-        "Yeni ortama geçiş hazırlığı çalışmasında başlangıç durumuyla takip görüşmesi sonuçlarını karşılaştırın; destek işe yaramazsa uyarlayın."
+        "Değerlendirme için kayıt",
+        "Görüşme sonunda öğrencinin seçtiği somut adımı ve uygun takip tarihini belirleyin. Üniversiteye gidecek öğrenci barınma ve ders kayıtlarına ilişkin belirsizlik yaşar. Sonraki görüşmede öğrencinin deneyimini yeniden dinleyin."
       ]
     ],
-    "example": "Öğrenci veya öğretmen okul ortamında yeni ortama geçiş hazırlığı konusunda desteğe ihtiyaç duyduğunu belirtir. Rehberlik servisi önce durumu somutlaştırır, ardından öğrencinin katıldığı küçük bir adım ve izleme tarihi belirler.",
     "check": [
-      "Öğrencinin yeni ortama geçiş hazırlığı hakkındaki görüşünü dinleyin.",
-      "Güvenliği ve mahremiyet sınırlarını netleştirin.",
-      "Yaşa uygun tek bir uygulama adımı belirleyin.",
-      "İzleme sorumlusu ve tarihini kaydedin."
+      "Geçiş kaygısını küçümsemeyin; zorbalık ya da güvenlik endişesi anlatılırsa bunu genel uyum etkinliğinden ayrı ele alın.",
+      "Aileye öğrenci adına tüm kararları alma yerine öngörülebilir hazırlık ve bilgi doğrulama desteği önerin.",
+      "Üniversiteye gidecek öğrenci barınma ve ders kayıtlarına ilişkin belirsizlik yaşar.",
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini yazın."
     ],
     "faq": [
       [
-        "Yeni ortama geçiş hazırlığı için ilk görüşmede ne sorulmalı?",
-        "Öğrencinin yaşadığı somut örnek, güvenlik gereksinimi ve kendi beklentisi açık uçlu sorularla öğrenilmelidir."
+        "Yeni ortama geçiş hazırlığı çalışmasında nereden başlamalı?",
+        "Geçiş kaygısını küçümsemeyin; zorbalık ya da güvenlik endişesi anlatılırsa bunu genel uyum etkinliğinden ayrı ele alın."
       ],
       [
-        "Bu konuda okul desteği nasıl izlenir?",
-        "Seçilen küçük adımın uygulanması ve öğrencinin deneyimi belirli tarihte yeniden değerlendirilmelidir."
+        "Öğrenci için hangi uygulama yapılabilir?",
+        "Aileye öğrenci adına tüm kararları alma yerine öngörülebilir hazırlık ve bilgi doğrulama desteği önerin."
       ]
     ],
     "search_terms": [
