@@ -2,44 +2,44 @@
   {
     "slug": "veliyle-erteleme-gorusmesi",
     "title": "Erteleme Konusunda Veli Görüşmesi | Veli rehberliği",
-    "summary": "Erteleme Konusunda Veli Görüşmesi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Erteleme Konusunda Veli Görüşmesi: ödevin ertelenme koşulları için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Çocuk ödev başında sürekli oyalanır. Önce başlama davranışını somut davranışlar üzerinden değerlendirin."
+        "Ödevin ertelenme koşulları",
+        "Ödev saatinde çocuğun masasından sürekli kalkması. Ödevin ertelenme koşulları açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; başlama davranışını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Velinin kontrol sıklığını azaltıp ilk adımı çocuğun seçmesine alan açın. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Kısa başlangıç rutinini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Öğrenciyle başlanabilir ilk görev seçme. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle ödevin ertelenme koşulları için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Ödev çatışmasının sıklığını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Ödev saatinde çocuğun masasından sürekli kalkması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Çocuk ödev başında sürekli oyalanır. İlk görüşmede ihtiyaç belirlenir, ardından kısa başlangıç rutinini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Ödev saatinde çocuğun masasından sürekli kalkması. Öğrenciyle başlanabilir ilk görev seçme. Velinin kontrol sıklığını azaltıp ilk adımı çocuğun seçmesine alan açın.",
     "check": [
-      "Başlama davranışını görüşmede netleştirin.",
-      "Kısa başlangıç rutinini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Ödev çatışmasının sıklığını izleyin."
+      "Ödevin ertelenme koşulları için gözlemlenebilir durumu belirleyin.",
+      "Öğrenciyle başlanabilir ilk görev seçme.",
+      "Velinin kontrol sıklığını azaltıp ilk adımı çocuğun seçmesine alan açın.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Erteleme Konusunda Veli Görüşmesi için ilk adım nedir?",
-        "Başlama davranışını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Erteleme Konusunda Veli Görüşmesi konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Ödev saatinde çocuğun masasından sürekli kalkması. Ödevin ertelenme koşulları açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Ödev çatışmasının sıklığını başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Öğrenciyle başlanabilir ilk görev seçme. Velinin kontrol sıklığını azaltıp ilk adımı çocuğun seçmesine alan açın."
       ]
     ],
     "search_terms": [
@@ -50,44 +50,44 @@
   {
     "slug": "veliyle-kardes-kiskancligi",
     "title": "Kardeş Kıskançlığı Konuşması | Veli rehberliği",
-    "summary": "Kardeş Kıskançlığı Konuşması için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Kardeş Kıskançlığı Konuşması: kardeşler arasında ilgi rekabeti için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Çocuk kardeşiyle ilgi rekabeti yaşar. Önce ailede adil ilgi ihtiyacını somut davranışlar üzerinden değerlendirin."
+        "Kardeşler arasında ilgi rekabeti",
+        "Yeni kardeş doğunca büyüğün ilgi kaybı hissetmesi. Kardeşler arasında ilgi rekabeti açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; ailede adil ilgi ihtiyacını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Çocukları kıyaslamadan kısa ve düzenli bireysel ilgi fırsatları belirleyin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Özel zaman planını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Her çocukla ayrı nitelikli zaman planlama. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle kardeşler arasında ilgi rekabeti için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Kardeşler arası gerilimi kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Yeni kardeş doğunca büyüğün ilgi kaybı hissetmesi. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Çocuk kardeşiyle ilgi rekabeti yaşar. İlk görüşmede ihtiyaç belirlenir, ardından özel zaman planını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Yeni kardeş doğunca büyüğün ilgi kaybı hissetmesi. Her çocukla ayrı nitelikli zaman planlama. Çocukları kıyaslamadan kısa ve düzenli bireysel ilgi fırsatları belirleyin.",
     "check": [
-      "Ailede adil ilgi ihtiyacını görüşmede netleştirin.",
-      "Özel zaman planını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Kardeşler arası gerilimi izleyin."
+      "Kardeşler arasında ilgi rekabeti için gözlemlenebilir durumu belirleyin.",
+      "Her çocukla ayrı nitelikli zaman planlama.",
+      "Çocukları kıyaslamadan kısa ve düzenli bireysel ilgi fırsatları belirleyin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Kardeş Kıskançlığı Konuşması için ilk adım nedir?",
-        "Ailede adil ilgi ihtiyacını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Kardeş Kıskançlığı Konuşması konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Yeni kardeş doğunca büyüğün ilgi kaybı hissetmesi. Kardeşler arasında ilgi rekabeti açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Kardeşler arası gerilimi başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Her çocukla ayrı nitelikli zaman planlama. Çocukları kıyaslamadan kısa ve düzenli bireysel ilgi fırsatları belirleyin."
       ]
     ],
     "search_terms": [
@@ -98,44 +98,44 @@
   {
     "slug": "veliyle-okul-korkusu",
     "title": "Okul Korkusunda Aile Desteği | Veli rehberliği",
-    "summary": "Okul Korkusunda Aile Desteği için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Okul Korkusunda Aile Desteği: sabah okuldan ayrılmada zorlanma için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Çocuk okula gitmeden önce ağlar. Önce güvenlik ve ayrılma ihtiyacını somut davranışlar üzerinden değerlendirin."
+        "Sabah okuldan ayrılmada zorlanma",
+        "Okul kapısında uzun vedalaşma ve ağlama. Sabah okuldan ayrılmada zorlanma açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; güvenlik ve ayrılma ihtiyacını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Öğrencinin güvenliğini değerlendirip uygun küçük dönüş adımları planlayın. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Kademeli okula geçiş rutinini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Öğretmen ve aileyle öngörülebilir karşılama oluşturma. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle sabah okuldan ayrılmada zorlanma için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Sabah katılımını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Okul kapısında uzun vedalaşma ve ağlama. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Çocuk okula gitmeden önce ağlar. İlk görüşmede ihtiyaç belirlenir, ardından kademeli okula geçiş rutinini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Okul kapısında uzun vedalaşma ve ağlama. Öğretmen ve aileyle öngörülebilir karşılama oluşturma. Öğrencinin güvenliğini değerlendirip uygun küçük dönüş adımları planlayın.",
     "check": [
-      "Güvenlik ve ayrılma ihtiyacını görüşmede netleştirin.",
-      "Kademeli okula geçiş rutinini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Sabah katılımını izleyin."
+      "Sabah okuldan ayrılmada zorlanma için gözlemlenebilir durumu belirleyin.",
+      "Öğretmen ve aileyle öngörülebilir karşılama oluşturma.",
+      "Öğrencinin güvenliğini değerlendirip uygun küçük dönüş adımları planlayın.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Okul Korkusunda Aile Desteği için ilk adım nedir?",
-        "Güvenlik ve ayrılma ihtiyacını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Okul Korkusunda Aile Desteği konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Okul kapısında uzun vedalaşma ve ağlama. Sabah okuldan ayrılmada zorlanma açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Sabah katılımını başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Öğretmen ve aileyle öngörülebilir karşılama oluşturma. Öğrencinin güvenliğini değerlendirip uygun küçük dönüş adımları planlayın."
       ]
     ],
     "search_terms": [
@@ -146,44 +146,44 @@
   {
     "slug": "veliyle-akran-dislama",
     "title": "Akran Dışlanmasında Veli Görüşmesi | Veli rehberliği",
-    "summary": "Akran Dışlanmasında Veli Görüşmesi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Akran Dışlanmasında Veli Görüşmesi: teneffüste dışlanma bildirimi için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Aile çocuğun teneffüste yalnız kaldığını bildirir. Önce okul içi güvenliği somut davranışlar üzerinden değerlendirin."
+        "Teneffüste dışlanma bildirimi",
+        "Velinin çocuğunun her gün yalnız kaldığını anlatması. Teneffüste dışlanma bildirimi açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; okul içi güvenliği yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Çocuğu arkadaş edinmeye zorlamak yerine öğretmenle ortam düzenini ele alın. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Öğretmen ve rehberlik iş birliğini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Okulda güvenliği ve tekrarlamayı ayrıca inceleme. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle teneffüste dışlanma bildirimi için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Çocuğun güvenlik deneyimini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Velinin çocuğunun her gün yalnız kaldığını anlatması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Aile çocuğun teneffüste yalnız kaldığını bildirir. İlk görüşmede ihtiyaç belirlenir, ardından öğretmen ve rehberlik iş birliğini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Velinin çocuğunun her gün yalnız kaldığını anlatması. Okulda güvenliği ve tekrarlamayı ayrıca inceleme. Çocuğu arkadaş edinmeye zorlamak yerine öğretmenle ortam düzenini ele alın.",
     "check": [
-      "Okul içi güvenliği görüşmede netleştirin.",
-      "Öğretmen ve rehberlik iş birliğini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Çocuğun güvenlik deneyimini izleyin."
+      "Teneffüste dışlanma bildirimi için gözlemlenebilir durumu belirleyin.",
+      "Okulda güvenliği ve tekrarlamayı ayrıca inceleme.",
+      "Çocuğu arkadaş edinmeye zorlamak yerine öğretmenle ortam düzenini ele alın.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Akran Dışlanmasında Veli Görüşmesi için ilk adım nedir?",
-        "Okul içi güvenliği yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Akran Dışlanmasında Veli Görüşmesi konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Velinin çocuğunun her gün yalnız kaldığını anlatması. Teneffüste dışlanma bildirimi açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Çocuğun güvenlik deneyimini başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Okulda güvenliği ve tekrarlamayı ayrıca inceleme. Çocuğu arkadaş edinmeye zorlamak yerine öğretmenle ortam düzenini ele alın."
       ]
     ],
     "search_terms": [
@@ -194,44 +194,44 @@
   {
     "slug": "veliyle-siber-zorbalik",
     "title": "Siber Zorbalıkta Veli Desteği | Veli rehberliği",
-    "summary": "Siber Zorbalıkta Veli Desteği için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Siber Zorbalıkta Veli Desteği: çevrim içi zarar ve tehdit için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Çocuk çevrim içi alaycı mesajlar alır. Önce dijital güvenliği somut davranışlar üzerinden değerlendirin."
+        "Çevrim içi zarar ve tehdit",
+        "Çocuğun sohbet grubunda aşağılanması. Çevrim içi zarar ve tehdit açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; dijital güvenliği yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Veliden mesajları yeniden yaymamasını ve çocuğu suçlamadan dinlemesini isteyin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Güvenli kayıt ve bildirim adımını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Güvenli kanıt koruma ve yetkili bildirim. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle çevrim içi zarar ve tehdit için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Çevrim içi misilleme riskini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Çocuğun sohbet grubunda aşağılanması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Çocuk çevrim içi alaycı mesajlar alır. İlk görüşmede ihtiyaç belirlenir, ardından güvenli kayıt ve bildirim adımını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Çocuğun sohbet grubunda aşağılanması. Güvenli kanıt koruma ve yetkili bildirim. Veliden mesajları yeniden yaymamasını ve çocuğu suçlamadan dinlemesini isteyin.",
     "check": [
-      "Dijital güvenliği görüşmede netleştirin.",
-      "Güvenli kayıt ve bildirim adımını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Çevrim içi misilleme riskini izleyin."
+      "Çevrim içi zarar ve tehdit için gözlemlenebilir durumu belirleyin.",
+      "Güvenli kanıt koruma ve yetkili bildirim.",
+      "Veliden mesajları yeniden yaymamasını ve çocuğu suçlamadan dinlemesini isteyin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Siber Zorbalıkta Veli Desteği için ilk adım nedir?",
-        "Dijital güvenliği yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Siber Zorbalıkta Veli Desteği konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Çocuğun sohbet grubunda aşağılanması. Çevrim içi zarar ve tehdit açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Çevrim içi misilleme riskini başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Güvenli kanıt koruma ve yetkili bildirim. Veliden mesajları yeniden yaymamasını ve çocuğu suçlamadan dinlemesini isteyin."
       ]
     ],
     "search_terms": [
@@ -242,44 +242,44 @@
   {
     "slug": "veliyle-uyku-duzeni",
     "title": "Uyku Düzeni İçin Veli Bilgilendirmesi | Veli rehberliği",
-    "summary": "Uyku Düzeni İçin Veli Bilgilendirmesi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Uyku Düzeni İçin Veli Bilgilendirmesi: uyku ve sabah okula hazırlanma için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Öğrenci gece geç yattığı için ilk derse yetişemez. Önce günlük rutini somut davranışlar üzerinden değerlendirin."
+        "Uyku ve sabah okula hazırlanma",
+        "İlk derse sık geciken ve yorgun öğrenci. Uyku ve sabah okula hazırlanma açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; günlük rutini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Süregelen sağlık ve uyku sorunlarında uygun sağlık profesyonelini değerlendirin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Uyku ve ekran geçiş planını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Akşam geçişini ve ulaşımı içeren rutin deneme. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle uyku ve sabah okula hazırlanma için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Sabah okula katılımını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "İlk derse sık geciken ve yorgun öğrenci. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Öğrenci gece geç yattığı için ilk derse yetişemez. İlk görüşmede ihtiyaç belirlenir, ardından uyku ve ekran geçiş planını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "İlk derse sık geciken ve yorgun öğrenci. Akşam geçişini ve ulaşımı içeren rutin deneme. Süregelen sağlık ve uyku sorunlarında uygun sağlık profesyonelini değerlendirin.",
     "check": [
-      "Günlük rutini görüşmede netleştirin.",
-      "Uyku ve ekran geçiş planını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Sabah okula katılımını izleyin."
+      "Uyku ve sabah okula hazırlanma için gözlemlenebilir durumu belirleyin.",
+      "Akşam geçişini ve ulaşımı içeren rutin deneme.",
+      "Süregelen sağlık ve uyku sorunlarında uygun sağlık profesyonelini değerlendirin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Uyku Düzeni İçin Veli Bilgilendirmesi için ilk adım nedir?",
-        "Günlük rutini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Uyku Düzeni İçin Veli Bilgilendirmesi konusunda hangi durumu önce değerlendirmeliyiz?",
+        "İlk derse sık geciken ve yorgun öğrenci. Uyku ve sabah okula hazırlanma açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Sabah okula katılımını başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Akşam geçişini ve ulaşımı içeren rutin deneme. Süregelen sağlık ve uyku sorunlarında uygun sağlık profesyonelini değerlendirin."
       ]
     ],
     "search_terms": [
@@ -290,44 +290,44 @@
   {
     "slug": "veliyle-sinav-karsilastirmasi",
     "title": "Sınav Kıyaslamasını Azaltma | Veli rehberliği",
-    "summary": "Sınav Kıyaslamasını Azaltma için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Sınav Kıyaslamasını Azaltma: başarı kıyasının öğrencide etkisi için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Veli kardeşlerin deneme puanlarını karşılaştırır. Önce çocuğun duygusal tepkisini somut davranışlar üzerinden değerlendirin."
+        "Başarı kıyasının öğrencide etkisi",
+        "Velinin iki kardeşin netlerini karşılaştırması. Başarı kıyasının öğrencide etkisi açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; çocuğun duygusal tepkisini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Her çocuk için ayrı ilerleme ölçütü önerin; sıralama baskısını azaltın. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Süreç odaklı geri bildirim dilini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Not yerine süreç hakkında destek sorusu geliştirme. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle başarı kıyasının öğrencide etkisi için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Ev içi kıyaslamanın azalmasını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Velinin iki kardeşin netlerini karşılaştırması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Veli kardeşlerin deneme puanlarını karşılaştırır. İlk görüşmede ihtiyaç belirlenir, ardından süreç odaklı geri bildirim dilini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Velinin iki kardeşin netlerini karşılaştırması. Not yerine süreç hakkında destek sorusu geliştirme. Her çocuk için ayrı ilerleme ölçütü önerin; sıralama baskısını azaltın.",
     "check": [
-      "Çocuğun duygusal tepkisini görüşmede netleştirin.",
-      "Süreç odaklı geri bildirim dilini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Ev içi kıyaslamanın azalmasını izleyin."
+      "Başarı kıyasının öğrencide etkisi için gözlemlenebilir durumu belirleyin.",
+      "Not yerine süreç hakkında destek sorusu geliştirme.",
+      "Her çocuk için ayrı ilerleme ölçütü önerin; sıralama baskısını azaltın.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Sınav Kıyaslamasını Azaltma için ilk adım nedir?",
-        "Çocuğun duygusal tepkisini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Sınav Kıyaslamasını Azaltma konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Velinin iki kardeşin netlerini karşılaştırması. Başarı kıyasının öğrencide etkisi açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Ev içi kıyaslamanın azalmasını başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Not yerine süreç hakkında destek sorusu geliştirme. Her çocuk için ayrı ilerleme ölçütü önerin; sıralama baskısını azaltın."
       ]
     ],
     "search_terms": [
@@ -338,44 +338,44 @@
   {
     "slug": "veliyle-ozgurluk-sinirlar",
     "title": "Ergende Özgürlük ve Sınır | Veli rehberliği",
-    "summary": "Ergende Özgürlük ve Sınır için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Ergende Özgürlük ve Sınır: özerklik ve güvenlik sınırı için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Aile dışarı çıkış saatlerinde çatışır. Önce gelişimsel özerkliği somut davranışlar üzerinden değerlendirin."
+        "Özerklik ve güvenlik sınırı",
+        "Dışarı çıkış saatinde her hafta yaşanan tartışma. Özerklik ve güvenlik sınırı açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; gelişimsel özerkliği yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Kuralın gerekçesini açıklayın; ergenin güvenli karar alanını tanıyın. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Ortak güvenlik ve iletişim kuralını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Ergenle birlikte görüşülebilir ev kuralları belirleme. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle özerklik ve güvenlik sınırı için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Kurala ilişkin gerilimi kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Dışarı çıkış saatinde her hafta yaşanan tartışma. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Aile dışarı çıkış saatlerinde çatışır. İlk görüşmede ihtiyaç belirlenir, ardından ortak güvenlik ve iletişim kuralını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Dışarı çıkış saatinde her hafta yaşanan tartışma. Ergenle birlikte görüşülebilir ev kuralları belirleme. Kuralın gerekçesini açıklayın; ergenin güvenli karar alanını tanıyın.",
     "check": [
-      "Gelişimsel özerkliği görüşmede netleştirin.",
-      "Ortak güvenlik ve iletişim kuralını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Kurala ilişkin gerilimi izleyin."
+      "Özerklik ve güvenlik sınırı için gözlemlenebilir durumu belirleyin.",
+      "Ergenle birlikte görüşülebilir ev kuralları belirleme.",
+      "Kuralın gerekçesini açıklayın; ergenin güvenli karar alanını tanıyın.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Ergende Özgürlük ve Sınır için ilk adım nedir?",
-        "Gelişimsel özerkliği yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Ergende Özgürlük ve Sınır konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Dışarı çıkış saatinde her hafta yaşanan tartışma. Özerklik ve güvenlik sınırı açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Kurala ilişkin gerilimi başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Ergenle birlikte görüşülebilir ev kuralları belirleme. Kuralın gerekçesini açıklayın; ergenin güvenli karar alanını tanıyın."
       ]
     ],
     "search_terms": [
@@ -386,44 +386,44 @@
   {
     "slug": "veliyle-ozel-egitim-isbirligi",
     "title": "Özel Eğitimde Aile–Okul İş Birliği | Veli rehberliği",
-    "summary": "Özel Eğitimde Aile–Okul İş Birliği için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Özel Eğitimde Aile–Okul İş Birliği: evde işe yarayan destekleri okula taşıma için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Evde işe yarayan rutin sınıfta uygulanmaz. Önce güçlü yön ve destek bilgisini somut davranışlar üzerinden değerlendirin."
+        "Evde işe yarayan destekleri okula taşıma",
+        "Resimli ev rutininin sınıfta kullanılmaması. Evde işe yarayan destekleri okula taşıma açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; güçlü yön ve destek bilgisini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Ev performansıyla okul kazanımının farklı olabileceğini aileyle paylaşın. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Ortak uyarlama notunu öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "BEP ekibiyle ortak hedef ve uyarlama konuşma. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle evde işe yarayan destekleri okula taşıma için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Hedef davranış gelişimini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Resimli ev rutininin sınıfta kullanılmaması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Evde işe yarayan rutin sınıfta uygulanmaz. İlk görüşmede ihtiyaç belirlenir, ardından ortak uyarlama notunu için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Resimli ev rutininin sınıfta kullanılmaması. BEP ekibiyle ortak hedef ve uyarlama konuşma. Ev performansıyla okul kazanımının farklı olabileceğini aileyle paylaşın.",
     "check": [
-      "Güçlü yön ve destek bilgisini görüşmede netleştirin.",
-      "Ortak uyarlama notunu için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Hedef davranış gelişimini izleyin."
+      "Evde işe yarayan destekleri okula taşıma için gözlemlenebilir durumu belirleyin.",
+      "BEP ekibiyle ortak hedef ve uyarlama konuşma.",
+      "Ev performansıyla okul kazanımının farklı olabileceğini aileyle paylaşın.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Özel Eğitimde Aile–Okul İş Birliği için ilk adım nedir?",
-        "Güçlü yön ve destek bilgisini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Özel Eğitimde Aile–Okul İş Birliği konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Resimli ev rutininin sınıfta kullanılmaması. Evde işe yarayan destekleri okula taşıma açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Hedef davranış gelişimini başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "BEP ekibiyle ortak hedef ve uyarlama konuşma. Ev performansıyla okul kazanımının farklı olabileceğini aileyle paylaşın."
       ]
     ],
     "search_terms": [
@@ -434,44 +434,44 @@
   {
     "slug": "veliyle-teknoloji-bagimlilik-endisesi",
     "title": "Teknoloji Kullanım Kaygısı | Veli rehberliği",
-    "summary": "Teknoloji Kullanım Kaygısı için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Teknoloji Kullanım Kaygısı: ekran kullanımının işlevsel etkisi için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Aile ekran kullanan çocuğu bağımlı olarak tanımlar. Önce kullanımın işlevsel etkisini somut davranışlar üzerinden değerlendirin."
+        "Ekran kullanımının işlevsel etkisi",
+        "Velinin çok ekran kullanan çocuğa bağımlı demesi. Ekran kullanımının işlevsel etkisi açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; kullanımın işlevsel etkisini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Tanı koymadan günlük yaşamın nasıl etkilendiğini birlikte izleyin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Suçlamayan gözlem çizelgesini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Uyku, okul ve ilişkiler üzerine suçlamayan gözlem yapma. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle ekran kullanımının işlevsel etkisi için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Günlük yaşam dengesini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Velinin çok ekran kullanan çocuğa bağımlı demesi. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Aile ekran kullanan çocuğu bağımlı olarak tanımlar. İlk görüşmede ihtiyaç belirlenir, ardından suçlamayan gözlem çizelgesini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Velinin çok ekran kullanan çocuğa bağımlı demesi. Uyku, okul ve ilişkiler üzerine suçlamayan gözlem yapma. Tanı koymadan günlük yaşamın nasıl etkilendiğini birlikte izleyin.",
     "check": [
-      "Kullanımın işlevsel etkisini görüşmede netleştirin.",
-      "Suçlamayan gözlem çizelgesini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Günlük yaşam dengesini izleyin."
+      "Ekran kullanımının işlevsel etkisi için gözlemlenebilir durumu belirleyin.",
+      "Uyku, okul ve ilişkiler üzerine suçlamayan gözlem yapma.",
+      "Tanı koymadan günlük yaşamın nasıl etkilendiğini birlikte izleyin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Teknoloji Kullanım Kaygısı için ilk adım nedir?",
-        "Kullanımın işlevsel etkisini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Teknoloji Kullanım Kaygısı konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Velinin çok ekran kullanan çocuğa bağımlı demesi. Ekran kullanımının işlevsel etkisi açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Günlük yaşam dengesini başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Uyku, okul ve ilişkiler üzerine suçlamayan gözlem yapma. Tanı koymadan günlük yaşamın nasıl etkilendiğini birlikte izleyin."
       ]
     ],
     "search_terms": [
@@ -482,44 +482,44 @@
   {
     "slug": "veliyle-sinif-degisimi",
     "title": "Sınıf Değişikliği Talebinde Görüşme | Veli rehberliği",
-    "summary": "Sınıf Değişikliği Talebinde Görüşme için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Sınıf Değişikliği Talebinde Görüşme: sınıf değişikliği talebinin nedeni için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Veli çocuğunun sınıfını değiştirmek ister. Önce talebin gerçek gerekçesini somut davranışlar üzerinden değerlendirin."
+        "Sınıf değişikliği talebinin nedeni",
+        "Velinin öğretmen sorunundan ötürü sınıf değişikliği istemesi. Sınıf değişikliği talebinin nedeni açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; talebin gerçek gerekçesini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Kurumsal karar öncesi gözlemi, öğrenci görüşünü ve uyum ihtiyacını netleştirin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Okul güvenliği değerlendirmesini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Öğrencinin güvenlik ve aidiyet deneyimini ayrı dinleme. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle sınıf değişikliği talebinin nedeni için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Öğrencinin uyumunu kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Velinin öğretmen sorunundan ötürü sınıf değişikliği istemesi. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Veli çocuğunun sınıfını değiştirmek ister. İlk görüşmede ihtiyaç belirlenir, ardından okul güvenliği değerlendirmesini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Velinin öğretmen sorunundan ötürü sınıf değişikliği istemesi. Öğrencinin güvenlik ve aidiyet deneyimini ayrı dinleme. Kurumsal karar öncesi gözlemi, öğrenci görüşünü ve uyum ihtiyacını netleştirin.",
     "check": [
-      "Talebin gerçek gerekçesini görüşmede netleştirin.",
-      "Okul güvenliği değerlendirmesini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Öğrencinin uyumunu izleyin."
+      "Sınıf değişikliği talebinin nedeni için gözlemlenebilir durumu belirleyin.",
+      "Öğrencinin güvenlik ve aidiyet deneyimini ayrı dinleme.",
+      "Kurumsal karar öncesi gözlemi, öğrenci görüşünü ve uyum ihtiyacını netleştirin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Sınıf Değişikliği Talebinde Görüşme için ilk adım nedir?",
-        "Talebin gerçek gerekçesini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Sınıf Değişikliği Talebinde Görüşme konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Velinin öğretmen sorunundan ötürü sınıf değişikliği istemesi. Sınıf değişikliği talebinin nedeni açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Öğrencinin uyumunu başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Öğrencinin güvenlik ve aidiyet deneyimini ayrı dinleme. Kurumsal karar öncesi gözlemi, öğrenci görüşünü ve uyum ihtiyacını netleştirin."
       ]
     ],
     "search_terms": [
@@ -530,44 +530,44 @@
   {
     "slug": "veliyle-yalan-soyleme",
     "title": "Çocuğun Gerçeği Saklamasını Konuşma | Veli rehberliği",
-    "summary": "Çocuğun Gerçeği Saklamasını Konuşma için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Çocuğun Gerçeği Saklamasını Konuşma: gerçeği saklamanın koşulları için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Çocuk sınav notunu ailesinden gizler. Önce ceza korkusu ve güveni somut davranışlar üzerinden değerlendirin."
+        "Gerçeği saklamanın koşulları",
+        "Öğrencinin sınav sonucunu evde gizlemesi. Gerçeği saklamanın koşulları açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; ceza korkusu ve güveni yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Korkutma ve ağır ceza beklentisinin güven ilişkisine etkisini değerlendirin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Güvenli açıklama ortamını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Yargılamayan açıklama ortamı ve güven konuşması. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle gerçeği saklamanın koşulları için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Evde dürüst iletişimi kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Öğrencinin sınav sonucunu evde gizlemesi. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Çocuk sınav notunu ailesinden gizler. İlk görüşmede ihtiyaç belirlenir, ardından güvenli açıklama ortamını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Öğrencinin sınav sonucunu evde gizlemesi. Yargılamayan açıklama ortamı ve güven konuşması. Korkutma ve ağır ceza beklentisinin güven ilişkisine etkisini değerlendirin.",
     "check": [
-      "Ceza korkusu ve güveni görüşmede netleştirin.",
-      "Güvenli açıklama ortamını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Evde dürüst iletişimi izleyin."
+      "Gerçeği saklamanın koşulları için gözlemlenebilir durumu belirleyin.",
+      "Yargılamayan açıklama ortamı ve güven konuşması.",
+      "Korkutma ve ağır ceza beklentisinin güven ilişkisine etkisini değerlendirin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Çocuğun Gerçeği Saklamasını Konuşma için ilk adım nedir?",
-        "Ceza korkusu ve güveni yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Çocuğun Gerçeği Saklamasını Konuşma konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Öğrencinin sınav sonucunu evde gizlemesi. Gerçeği saklamanın koşulları açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Evde dürüst iletişimi başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Yargılamayan açıklama ortamı ve güven konuşması. Korkutma ve ağır ceza beklentisinin güven ilişkisine etkisini değerlendirin."
       ]
     ],
     "search_terms": [
@@ -578,44 +578,44 @@
   {
     "slug": "veliyle-sorumluluk-paylasimi",
     "title": "Ev Sorumluluklarını Paylaşma | Veli rehberliği",
-    "summary": "Ev Sorumluluklarını Paylaşma için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Ev Sorumluluklarını Paylaşma: evde görevlerin paylaşımı için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Tüm işler ebeveyn tarafından hatırlatılır. Önce yaşa uygun sorumluluğu somut davranışlar üzerinden değerlendirin."
+        "Evde görevlerin paylaşımı",
+        "Ebeveynin çocuğun tüm eşyalarını sürekli hazırlaması. Evde görevlerin paylaşımı açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; yaşa uygun sorumluluğu yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Görevi çocuğun yerine yapmadan ipucu ve destek sağlayın. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Seçilebilir küçük ev görevini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Yaşa uygun ve seçilebilir küçük sorumluluk belirleme. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle evde görevlerin paylaşımı için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Bağımsız görev tamamlamayı kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Ebeveynin çocuğun tüm eşyalarını sürekli hazırlaması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Tüm işler ebeveyn tarafından hatırlatılır. İlk görüşmede ihtiyaç belirlenir, ardından seçilebilir küçük ev görevini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Ebeveynin çocuğun tüm eşyalarını sürekli hazırlaması. Yaşa uygun ve seçilebilir küçük sorumluluk belirleme. Görevi çocuğun yerine yapmadan ipucu ve destek sağlayın.",
     "check": [
-      "Yaşa uygun sorumluluğu görüşmede netleştirin.",
-      "Seçilebilir küçük ev görevini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Bağımsız görev tamamlamayı izleyin."
+      "Evde görevlerin paylaşımı için gözlemlenebilir durumu belirleyin.",
+      "Yaşa uygun ve seçilebilir küçük sorumluluk belirleme.",
+      "Görevi çocuğun yerine yapmadan ipucu ve destek sağlayın.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Ev Sorumluluklarını Paylaşma için ilk adım nedir?",
-        "Yaşa uygun sorumluluğu yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Ev Sorumluluklarını Paylaşma konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Ebeveynin çocuğun tüm eşyalarını sürekli hazırlaması. Evde görevlerin paylaşımı açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Bağımsız görev tamamlamayı başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Yaşa uygun ve seçilebilir küçük sorumluluk belirleme. Görevi çocuğun yerine yapmadan ipucu ve destek sağlayın."
       ]
     ],
     "search_terms": [
@@ -626,44 +626,44 @@
   {
     "slug": "veliyle-arkadas-secimi",
     "title": "Arkadaşlık Konusunda Veli Görüşmesi | Veli rehberliği",
-    "summary": "Arkadaşlık Konusunda Veli Görüşmesi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Arkadaşlık Konusunda Veli Görüşmesi: arkadaşlığı yasaklamak yerine anlamak için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Veli çocuğun arkadaşlarını yasaklamak ister. Önce gerçek güvenlik kaygısını somut davranışlar üzerinden değerlendirin."
+        "Arkadaşlığı yasaklamak yerine anlamak",
+        "Velinin çocuğunun bazı arkadaşlarıyla görüşmesini yasaklaması. Arkadaşlığı yasaklamak yerine anlamak açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; gerçek güvenlik kaygısını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Öğrencinin ilişki deneyimini dinleyin; gerçek tehditte koruyucu adımı planlayın. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Ilişki ölçütleri konuşmasını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Somut güvenlik kaygısı ve akran baskısını ayırma. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle arkadaşlığı yasaklamak yerine anlamak için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Çocuğun yardım arama isteğini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Velinin çocuğunun bazı arkadaşlarıyla görüşmesini yasaklaması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Veli çocuğun arkadaşlarını yasaklamak ister. İlk görüşmede ihtiyaç belirlenir, ardından ilişki ölçütleri konuşmasını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Velinin çocuğunun bazı arkadaşlarıyla görüşmesini yasaklaması. Somut güvenlik kaygısı ve akran baskısını ayırma. Öğrencinin ilişki deneyimini dinleyin; gerçek tehditte koruyucu adımı planlayın.",
     "check": [
-      "Gerçek güvenlik kaygısını görüşmede netleştirin.",
-      "Ilişki ölçütleri konuşmasını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Çocuğun yardım arama isteğini izleyin."
+      "Arkadaşlığı yasaklamak yerine anlamak için gözlemlenebilir durumu belirleyin.",
+      "Somut güvenlik kaygısı ve akran baskısını ayırma.",
+      "Öğrencinin ilişki deneyimini dinleyin; gerçek tehditte koruyucu adımı planlayın.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Arkadaşlık Konusunda Veli Görüşmesi için ilk adım nedir?",
-        "Gerçek güvenlik kaygısını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Arkadaşlık Konusunda Veli Görüşmesi konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Velinin çocuğunun bazı arkadaşlarıyla görüşmesini yasaklaması. Arkadaşlığı yasaklamak yerine anlamak açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Çocuğun yardım arama isteğini başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Somut güvenlik kaygısı ve akran baskısını ayırma. Öğrencinin ilişki deneyimini dinleyin; gerçek tehditte koruyucu adımı planlayın."
       ]
     ],
     "search_terms": [
@@ -674,44 +674,44 @@
   {
     "slug": "veliyle-ders-basarisizligi",
     "title": "Düşük Ders Başarısında Veli Desteği | Veli rehberliği",
-    "summary": "Düşük Ders Başarısında Veli Desteği için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Düşük Ders Başarısında Veli Desteği: not düşüşünün koşulları için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Veli çocuğu başarısız diye etiketler. Önce öğrenme güçlüğü ve şartları somut davranışlar üzerinden değerlendirin."
+        "Not düşüşünün koşulları",
+        "Velinin düşük not alan çocuğa başarısız demesi. Not düşüşünün koşulları açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; öğrenme güçlüğü ve şartları yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Öğretmenle kazanım düzeyinde destek görüşmesi planlayın; çocuğu etiketlemeyin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Öğretmenle destek görüşmesini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Görev güçlüğü ve öğrenme desteğini ayrı inceleme. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle not düşüşünün koşulları için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Çocuğun öğrenme katılımını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Velinin düşük not alan çocuğa başarısız demesi. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Veli çocuğu başarısız diye etiketler. İlk görüşmede ihtiyaç belirlenir, ardından öğretmenle destek görüşmesini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Velinin düşük not alan çocuğa başarısız demesi. Görev güçlüğü ve öğrenme desteğini ayrı inceleme. Öğretmenle kazanım düzeyinde destek görüşmesi planlayın; çocuğu etiketlemeyin.",
     "check": [
-      "Öğrenme güçlüğü ve şartları görüşmede netleştirin.",
-      "Öğretmenle destek görüşmesini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Çocuğun öğrenme katılımını izleyin."
+      "Not düşüşünün koşulları için gözlemlenebilir durumu belirleyin.",
+      "Görev güçlüğü ve öğrenme desteğini ayrı inceleme.",
+      "Öğretmenle kazanım düzeyinde destek görüşmesi planlayın; çocuğu etiketlemeyin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Düşük Ders Başarısında Veli Desteği için ilk adım nedir?",
-        "Öğrenme güçlüğü ve şartları yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Düşük Ders Başarısında Veli Desteği konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Velinin düşük not alan çocuğa başarısız demesi. Not düşüşünün koşulları açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Çocuğun öğrenme katılımını başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Görev güçlüğü ve öğrenme desteğini ayrı inceleme. Öğretmenle kazanım düzeyinde destek görüşmesi planlayın; çocuğu etiketlemeyin."
       ]
     ],
     "search_terms": [
@@ -722,44 +722,44 @@
   {
     "slug": "veliyle-okula-gec-kalma",
     "title": "Okula Geç Kalma Sorununda Aile | Veli rehberliği",
-    "summary": "Okula Geç Kalma Sorununda Aile için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Okula Geç Kalma Sorununda Aile: sabah geç kalmanın örüntüsü için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Öğrenci sık sık ilk derse geç gelir. Önce sabah ulaşım ve hazırlanmayı somut davranışlar üzerinden değerlendirin."
+        "Sabah geç kalmanın örüntüsü",
+        "Öğrencinin haftada üç gün ilk derse geç kalması. Sabah geç kalmanın örüntüsü açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; sabah ulaşım ve hazırlanmayı yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Gecikmeleri cezaya indirgemeden sürdürülebilir rutin deneyin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Sabah öncesi hazırlık listesini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Hazırlanma, ulaşım ve uyku engellerini haritalama. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle sabah geç kalmanın örüntüsü için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Gecikmelerin örüntüsünü kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Öğrencinin haftada üç gün ilk derse geç kalması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Öğrenci sık sık ilk derse geç gelir. İlk görüşmede ihtiyaç belirlenir, ardından sabah öncesi hazırlık listesini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Öğrencinin haftada üç gün ilk derse geç kalması. Hazırlanma, ulaşım ve uyku engellerini haritalama. Gecikmeleri cezaya indirgemeden sürdürülebilir rutin deneyin.",
     "check": [
-      "Sabah ulaşım ve hazırlanmayı görüşmede netleştirin.",
-      "Sabah öncesi hazırlık listesini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Gecikmelerin örüntüsünü izleyin."
+      "Sabah geç kalmanın örüntüsü için gözlemlenebilir durumu belirleyin.",
+      "Hazırlanma, ulaşım ve uyku engellerini haritalama.",
+      "Gecikmeleri cezaya indirgemeden sürdürülebilir rutin deneyin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Okula Geç Kalma Sorununda Aile için ilk adım nedir?",
-        "Sabah ulaşım ve hazırlanmayı yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Okula Geç Kalma Sorununda Aile konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Öğrencinin haftada üç gün ilk derse geç kalması. Sabah geç kalmanın örüntüsü açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Gecikmelerin örüntüsünü başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Hazırlanma, ulaşım ve uyku engellerini haritalama. Gecikmeleri cezaya indirgemeden sürdürülebilir rutin deneyin."
       ]
     ],
     "search_terms": [
@@ -770,44 +770,44 @@
   {
     "slug": "veliyle-ergen-mahremiyeti",
     "title": "Ergen Mahremiyetine Saygı | Veli rehberliği",
-    "summary": "Ergen Mahremiyetine Saygı için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Ergen Mahremiyetine Saygı: ergenin özel alanı ve güvenlik için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Aile çocuğun kişisel notlarını izinsiz okur. Önce mahremiyet ve güvenlik sınırını somut davranışlar üzerinden değerlendirin."
+        "Ergenin özel alanı ve güvenlik",
+        "Ailenin ergenin özel notlarını izinsiz okuması. Ergenin özel alanı ve güvenlik açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; mahremiyet ve güvenlik sınırını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Güvenlik endişesinde uygun açıklama ve gerekli ölçüde destek adımı belirleyin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Aile içi güven konuşmasını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Mahremiyet ile koruma sorumluluğunu ayırt etme. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle ergenin özel alanı ve güvenlik için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Güven ilişkisindeki değişimi kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Ailenin ergenin özel notlarını izinsiz okuması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Aile çocuğun kişisel notlarını izinsiz okur. İlk görüşmede ihtiyaç belirlenir, ardından aile içi güven konuşmasını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Ailenin ergenin özel notlarını izinsiz okuması. Mahremiyet ile koruma sorumluluğunu ayırt etme. Güvenlik endişesinde uygun açıklama ve gerekli ölçüde destek adımı belirleyin.",
     "check": [
-      "Mahremiyet ve güvenlik sınırını görüşmede netleştirin.",
-      "Aile içi güven konuşmasını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Güven ilişkisindeki değişimi izleyin."
+      "Ergenin özel alanı ve güvenlik için gözlemlenebilir durumu belirleyin.",
+      "Mahremiyet ile koruma sorumluluğunu ayırt etme.",
+      "Güvenlik endişesinde uygun açıklama ve gerekli ölçüde destek adımı belirleyin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Ergen Mahremiyetine Saygı için ilk adım nedir?",
-        "Mahremiyet ve güvenlik sınırını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Ergen Mahremiyetine Saygı konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Ailenin ergenin özel notlarını izinsiz okuması. Ergenin özel alanı ve güvenlik açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Güven ilişkisindeki değişimi başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Mahremiyet ile koruma sorumluluğunu ayırt etme. Güvenlik endişesinde uygun açıklama ve gerekli ölçüde destek adımı belirleyin."
       ]
     ],
     "search_terms": [
@@ -818,44 +818,44 @@
   {
     "slug": "veliyle-ogretmen-sikayeti",
     "title": "Öğretmen Şikâyetinde Veli Görüşmesi | Veli rehberliği",
-    "summary": "Öğretmen Şikâyetinde Veli Görüşmesi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Öğretmen Şikâyetinde Veli Görüşmesi: öğretmen hakkında iletilen şikâyet için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Veli öğretmenin çocuğunu dışladığını düşünür. Önce olayın gözlenebilir koşullarını somut davranışlar üzerinden değerlendirin."
+        "Öğretmen hakkında iletilen şikâyet",
+        "Velinin çocuğunun öğretmen tarafından dışlandığını söylemesi. Öğretmen hakkında iletilen şikâyet açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; olayın gözlenebilir koşullarını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "İlgili tarafları uygun usulle ayrı dinleyin; öğrencinin güvenliğini önceliklendirin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Tarafları ayrı dinleme planını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Olay, yorum ve öğrenci etkisini ayrı dinleme. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle öğretmen hakkında iletilen şikâyet için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Çocuğun sınıf güvenliğini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Velinin çocuğunun öğretmen tarafından dışlandığını söylemesi. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Veli öğretmenin çocuğunu dışladığını düşünür. İlk görüşmede ihtiyaç belirlenir, ardından tarafları ayrı dinleme planını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Velinin çocuğunun öğretmen tarafından dışlandığını söylemesi. Olay, yorum ve öğrenci etkisini ayrı dinleme. İlgili tarafları uygun usulle ayrı dinleyin; öğrencinin güvenliğini önceliklendirin.",
     "check": [
-      "Olayın gözlenebilir koşullarını görüşmede netleştirin.",
-      "Tarafları ayrı dinleme planını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Çocuğun sınıf güvenliğini izleyin."
+      "Öğretmen hakkında iletilen şikâyet için gözlemlenebilir durumu belirleyin.",
+      "Olay, yorum ve öğrenci etkisini ayrı dinleme.",
+      "İlgili tarafları uygun usulle ayrı dinleyin; öğrencinin güvenliğini önceliklendirin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Öğretmen Şikâyetinde Veli Görüşmesi için ilk adım nedir?",
-        "Olayın gözlenebilir koşullarını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Öğretmen Şikâyetinde Veli Görüşmesi konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Velinin çocuğunun öğretmen tarafından dışlandığını söylemesi. Öğretmen hakkında iletilen şikâyet açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Çocuğun sınıf güvenliğini başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Olay, yorum ve öğrenci etkisini ayrı dinleme. İlgili tarafları uygun usulle ayrı dinleyin; öğrencinin güvenliğini önceliklendirin."
       ]
     ],
     "search_terms": [
@@ -866,44 +866,44 @@
   {
     "slug": "veliyle-oyun-kurallari",
     "title": "Evde Oyun Kuralları | Veli rehberliği",
-    "summary": "Evde Oyun Kuralları için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Evde Oyun Kuralları: oyundan çıkışta zorlanma için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Çocuk oyun bitişinde yoğun öfke yaşar. Önce geçiş ve tahmin edilebilirliği somut davranışlar üzerinden değerlendirin."
+        "Oyundan çıkışta zorlanma",
+        "Çocuğun bilgisayar oyunu bitince yoğun öfkelenmesi. Oyundan çıkışta zorlanma açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; geçiş ve tahmin edilebilirliği yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Ceza odaklı değil, birlikte belirlenmiş ve öngörülebilir kuralları deneyin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Önceden belirlenen bitiş rutinini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Önceden haber verilen bitiş ve geçiş rutini. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle oyundan çıkışta zorlanma için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Oyun kapanış çatışmasını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Çocuğun bilgisayar oyunu bitince yoğun öfkelenmesi. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Çocuk oyun bitişinde yoğun öfke yaşar. İlk görüşmede ihtiyaç belirlenir, ardından önceden belirlenen bitiş rutinini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Çocuğun bilgisayar oyunu bitince yoğun öfkelenmesi. Önceden haber verilen bitiş ve geçiş rutini. Ceza odaklı değil, birlikte belirlenmiş ve öngörülebilir kuralları deneyin.",
     "check": [
-      "Geçiş ve tahmin edilebilirliği görüşmede netleştirin.",
-      "Önceden belirlenen bitiş rutinini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Oyun kapanış çatışmasını izleyin."
+      "Oyundan çıkışta zorlanma için gözlemlenebilir durumu belirleyin.",
+      "Önceden haber verilen bitiş ve geçiş rutini.",
+      "Ceza odaklı değil, birlikte belirlenmiş ve öngörülebilir kuralları deneyin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Evde Oyun Kuralları için ilk adım nedir?",
-        "Geçiş ve tahmin edilebilirliği yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Evde Oyun Kuralları konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Çocuğun bilgisayar oyunu bitince yoğun öfkelenmesi. Oyundan çıkışta zorlanma açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Oyun kapanış çatışmasını başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Önceden haber verilen bitiş ve geçiş rutini. Ceza odaklı değil, birlikte belirlenmiş ve öngörülebilir kuralları deneyin."
       ]
     ],
     "search_terms": [
@@ -914,44 +914,44 @@
   {
     "slug": "veliyle-cocuk-guclu-yonleri",
     "title": "Çocuğun Güçlü Yönlerini Görmek | Veli rehberliği",
-    "summary": "Çocuğun Güçlü Yönlerini Görmek için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Çocuğun Güçlü Yönlerini Görmek: akademi dışındaki güçlü yanlar için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Veli yalnızca düşük notları konuşur. Önce akademik olmayan becerileri somut davranışlar üzerinden değerlendirin."
+        "Akademi dışındaki güçlü yanlar",
+        "Velinin görüşmede yalnızca düşük notlardan söz etmesi. Akademi dışındaki güçlü yanlar açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; akademik olmayan becerileri yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Çocuğun küçük gelişimlerini çabayla ilişkilendiren geri bildirim önerin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Güçlü yön gözlem notunu öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Somut sorumluluk, beceri ve ilgi örnekleri toplama. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle akademi dışındaki güçlü yanlar için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Yapıcı aile geri bildirimini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Velinin görüşmede yalnızca düşük notlardan söz etmesi. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Veli yalnızca düşük notları konuşur. İlk görüşmede ihtiyaç belirlenir, ardından güçlü yön gözlem notunu için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Velinin görüşmede yalnızca düşük notlardan söz etmesi. Somut sorumluluk, beceri ve ilgi örnekleri toplama. Çocuğun küçük gelişimlerini çabayla ilişkilendiren geri bildirim önerin.",
     "check": [
-      "Akademik olmayan becerileri görüşmede netleştirin.",
-      "Güçlü yön gözlem notunu için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Yapıcı aile geri bildirimini izleyin."
+      "Akademi dışındaki güçlü yanlar için gözlemlenebilir durumu belirleyin.",
+      "Somut sorumluluk, beceri ve ilgi örnekleri toplama.",
+      "Çocuğun küçük gelişimlerini çabayla ilişkilendiren geri bildirim önerin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Çocuğun Güçlü Yönlerini Görmek için ilk adım nedir?",
-        "Akademik olmayan becerileri yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Çocuğun Güçlü Yönlerini Görmek konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Velinin görüşmede yalnızca düşük notlardan söz etmesi. Akademi dışındaki güçlü yanlar açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Yapıcı aile geri bildirimini başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Somut sorumluluk, beceri ve ilgi örnekleri toplama. Çocuğun küçük gelişimlerini çabayla ilişkilendiren geri bildirim önerin."
       ]
     ],
     "search_terms": [
@@ -962,44 +962,44 @@
   {
     "slug": "veliyle-okul-nakli",
     "title": "Okul Naklinde Aile Bilgilendirmesi | Veli rehberliği",
-    "summary": "Okul Naklinde Aile Bilgilendirmesi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Okul Naklinde Aile Bilgilendirmesi: nakil sonrası aile-okul iletişimi için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Aile yeni okulun çocuğu zorlayacağından endişe eder. Önce uyum ve bilgi gereksinimini somut davranışlar üzerinden değerlendirin."
+        "Nakil sonrası aile-okul iletişimi",
+        "Ailenin çocuğunun yeni okulda yalnız kalacağından korkması. Nakil sonrası aile-okul iletişimi açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; uyum ve bilgi gereksinimini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Öğrencinin özel nakil nedenini sınıf önünde açıklama zorunluluğu oluşturmayın. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Ilk hafta iletişim planını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "İlk haftaya yönelik ulaşım, öğretmen ve aidiyet planı. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle nakil sonrası aile-okul iletişimi için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Öğrencinin aidiyetini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Ailenin çocuğunun yeni okulda yalnız kalacağından korkması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Aile yeni okulun çocuğu zorlayacağından endişe eder. İlk görüşmede ihtiyaç belirlenir, ardından ilk hafta iletişim planını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Ailenin çocuğunun yeni okulda yalnız kalacağından korkması. İlk haftaya yönelik ulaşım, öğretmen ve aidiyet planı. Öğrencinin özel nakil nedenini sınıf önünde açıklama zorunluluğu oluşturmayın.",
     "check": [
-      "Uyum ve bilgi gereksinimini görüşmede netleştirin.",
-      "Ilk hafta iletişim planını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Öğrencinin aidiyetini izleyin."
+      "Nakil sonrası aile-okul iletişimi için gözlemlenebilir durumu belirleyin.",
+      "İlk haftaya yönelik ulaşım, öğretmen ve aidiyet planı.",
+      "Öğrencinin özel nakil nedenini sınıf önünde açıklama zorunluluğu oluşturmayın.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Okul Naklinde Aile Bilgilendirmesi için ilk adım nedir?",
-        "Uyum ve bilgi gereksinimini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Okul Naklinde Aile Bilgilendirmesi konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Ailenin çocuğunun yeni okulda yalnız kalacağından korkması. Nakil sonrası aile-okul iletişimi açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Öğrencinin aidiyetini başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "İlk haftaya yönelik ulaşım, öğretmen ve aidiyet planı. Öğrencinin özel nakil nedenini sınıf önünde açıklama zorunluluğu oluşturmayın."
       ]
     ],
     "search_terms": [
@@ -1010,44 +1010,44 @@
   {
     "slug": "veliyle-rehberlik-gizlilik",
     "title": "Rehberlik Görüşmesinde Veli ve Gizlilik | Veli rehberliği",
-    "summary": "Rehberlik Görüşmesinde Veli ve Gizlilik için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Rehberlik Görüşmesinde Veli ve Gizlilik: veli bilgilendirmesinde mahremiyet için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Veli görüşmenin tüm ayrıntılarını ister. Önce gizlilik ve güvenlik sınırını somut davranışlar üzerinden değerlendirin."
+        "Veli bilgilendirmesinde mahremiyet",
+        "Velinin tüm bireysel görüşme notlarını istemesi. Veli bilgilendirmesinde mahremiyet açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; gizlilik ve güvenlik sınırını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Çocuk güvenliği ve yasal yükümlülükleri gözeterek yalnızca gerekli bilgiyi paylaşın. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Gerekli destek bilgisi paylaşımını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Gizlilik istisnalarını ve gerekli bilgi kapsamını açıklama. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle veli bilgilendirmesinde mahremiyet için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Aile–öğrenci güvenini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Velinin tüm bireysel görüşme notlarını istemesi. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Veli görüşmenin tüm ayrıntılarını ister. İlk görüşmede ihtiyaç belirlenir, ardından gerekli destek bilgisi paylaşımını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Velinin tüm bireysel görüşme notlarını istemesi. Gizlilik istisnalarını ve gerekli bilgi kapsamını açıklama. Çocuk güvenliği ve yasal yükümlülükleri gözeterek yalnızca gerekli bilgiyi paylaşın.",
     "check": [
-      "Gizlilik ve güvenlik sınırını görüşmede netleştirin.",
-      "Gerekli destek bilgisi paylaşımını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Aile–öğrenci güvenini izleyin."
+      "Veli bilgilendirmesinde mahremiyet için gözlemlenebilir durumu belirleyin.",
+      "Gizlilik istisnalarını ve gerekli bilgi kapsamını açıklama.",
+      "Çocuk güvenliği ve yasal yükümlülükleri gözeterek yalnızca gerekli bilgiyi paylaşın.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Rehberlik Görüşmesinde Veli ve Gizlilik için ilk adım nedir?",
-        "Gizlilik ve güvenlik sınırını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Rehberlik Görüşmesinde Veli ve Gizlilik konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Velinin tüm bireysel görüşme notlarını istemesi. Veli bilgilendirmesinde mahremiyet açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Aile–öğrenci güvenini başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Gizlilik istisnalarını ve gerekli bilgi kapsamını açıklama. Çocuk güvenliği ve yasal yükümlülükleri gözeterek yalnızca gerekli bilgiyi paylaşın."
       ]
     ],
     "search_terms": [
@@ -1058,44 +1058,44 @@
   {
     "slug": "veliyle-odev-yardim-siniri",
     "title": "Ödev Yardımının Sınırları | Veli rehberliği",
-    "summary": "Ödev Yardımının Sınırları için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Ödev Yardımının Sınırları: ödevde bağımsızlık için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Aile ödevi çocuğun yerine yapar. Önce öğrencinin bağımsız becerisini somut davranışlar üzerinden değerlendirin."
+        "Ödevde bağımsızlık",
+        "Ebeveynin ödevi baştan sona kendisinin çözmesi. Ödevde bağımsızlık açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; öğrencinin bağımsız becerisini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Aşamalı destek azaltma ve öğrenme sürecini öğretmenle koordine edin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Ipucu verme ve geri çekilme adımını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "İpucu verme ile görevi çocuğun yerine yapmayı ayırma. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle ödevde bağımsızlık için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Çocuğun kendi yaptığı görevi kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Ebeveynin ödevi baştan sona kendisinin çözmesi. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Aile ödevi çocuğun yerine yapar. İlk görüşmede ihtiyaç belirlenir, ardından ipucu verme ve geri çekilme adımını için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Ebeveynin ödevi baştan sona kendisinin çözmesi. İpucu verme ile görevi çocuğun yerine yapmayı ayırma. Aşamalı destek azaltma ve öğrenme sürecini öğretmenle koordine edin.",
     "check": [
-      "Öğrencinin bağımsız becerisini görüşmede netleştirin.",
-      "Ipucu verme ve geri çekilme adımını için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Çocuğun kendi yaptığı görevi izleyin."
+      "Ödevde bağımsızlık için gözlemlenebilir durumu belirleyin.",
+      "İpucu verme ile görevi çocuğun yerine yapmayı ayırma.",
+      "Aşamalı destek azaltma ve öğrenme sürecini öğretmenle koordine edin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Ödev Yardımının Sınırları için ilk adım nedir?",
-        "Öğrencinin bağımsız becerisini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Ödev Yardımının Sınırları konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Ebeveynin ödevi baştan sona kendisinin çözmesi. Ödevde bağımsızlık açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Çocuğun kendi yaptığı görevi başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "İpucu verme ile görevi çocuğun yerine yapmayı ayırma. Aşamalı destek azaltma ve öğrenme sürecini öğretmenle koordine edin."
       ]
     ],
     "search_terms": [
@@ -1106,44 +1106,44 @@
   {
     "slug": "veliyle-sosyal-duygusal-destek",
     "title": "Sosyal Duygusal Gelişim İçin Evde Destek | Veli rehberliği",
-    "summary": "Sosyal Duygusal Gelişim İçin Evde Destek için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Sosyal Duygusal Gelişim İçin Evde Destek: evde duygu konuşmalarına alan açma için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Çocuk yaşadığı kırgınlığı konuşmaz. Önce güvenli ifade fırsatını somut davranışlar üzerinden değerlendirin."
+        "Evde duygu konuşmalarına alan açma",
+        "Çocuğun okulda kırıldığını söylemekten kaçınması. Evde duygu konuşmalarına alan açma açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; güvenli ifade fırsatını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Çocuğu özel öyküsünü açıklamaya zorlamadan hazır olduğunda dinleyin. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Günlük kısa duygu sohbetini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Yargılamadan dinleme ve kısa günlük paylaşım. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle evde duygu konuşmalarına alan açma için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Duygu ifade rahatlığını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Çocuğun okulda kırıldığını söylemekten kaçınması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Çocuk yaşadığı kırgınlığı konuşmaz. İlk görüşmede ihtiyaç belirlenir, ardından günlük kısa duygu sohbetini için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Çocuğun okulda kırıldığını söylemekten kaçınması. Yargılamadan dinleme ve kısa günlük paylaşım. Çocuğu özel öyküsünü açıklamaya zorlamadan hazır olduğunda dinleyin.",
     "check": [
-      "Güvenli ifade fırsatını görüşmede netleştirin.",
-      "Günlük kısa duygu sohbetini için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Duygu ifade rahatlığını izleyin."
+      "Evde duygu konuşmalarına alan açma için gözlemlenebilir durumu belirleyin.",
+      "Yargılamadan dinleme ve kısa günlük paylaşım.",
+      "Çocuğu özel öyküsünü açıklamaya zorlamadan hazır olduğunda dinleyin.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Sosyal Duygusal Gelişim İçin Evde Destek için ilk adım nedir?",
-        "Güvenli ifade fırsatını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Sosyal Duygusal Gelişim İçin Evde Destek konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Çocuğun okulda kırıldığını söylemekten kaçınması. Evde duygu konuşmalarına alan açma açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Duygu ifade rahatlığını başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Yargılamadan dinleme ve kısa günlük paylaşım. Çocuğu özel öyküsünü açıklamaya zorlamadan hazır olduğunda dinleyin."
       ]
     ],
     "search_terms": [
@@ -1154,44 +1154,44 @@
   {
     "slug": "veliyle-lise-gecis-kaygisi",
     "title": "Liseye Geçişte Veli Kaygısı | Veli rehberliği",
-    "summary": "Liseye Geçişte Veli Kaygısı için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "summary": "Liseye Geçişte Veli Kaygısı: liseye geçişte belirsizlik için somut okul örneği, uygulama adımı, sınırlar ve takip önerileri.",
     "sections": [
       [
-        "İhtiyacı belirlemek",
-        "Veli yerleştirme öncesi çocuğunu sürekli sorgular. Önce gelecek ve belirsizlik kaygısını somut davranışlar üzerinden değerlendirin."
+        "Liseye geçişte belirsizlik",
+        "Velinin her gün tercih sırasını sorgulaması. Liseye geçişte belirsizlik açısından durumu gözlemle tanımlayın; öğrencinin kendi bakış açısını da dinleyin."
       ],
       [
-        "Koruyucu değerlendirme",
-        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; gelecek ve belirsizlik kaygısını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+        "Öğrenci yararı ve koruyucu sınırlar",
+        "Güncel resmî kılavuzu temel alıp öğrencinin tercih hakkını koruyun. Veliye öneriyi çocuğun gelişim düzeyi ve aile koşullarına göre uyarlayın."
       ],
       [
-        "Uygulama adımı",
-        "Bilgi kaynaklarını sınırlayan planı öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+        "Aileyle uygulanabilir görüşme",
+        "Resmî yerleştirme bilgisi ile aile kaygısını ayırma. Uygulamayı tek bir gözlenebilir öğrenci davranışı veya erişim değişikliğiyle ilişkilendirin. Gerektiğinde yönergeyi, katılım biçimini veya zamanı uyarlayın."
       ],
       [
-        "İş birliği ve sınırlar",
-        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+        "Koordinasyon ve geri bildirim",
+        "Aileyle liseye geçişte belirsizlik için okul ve evde denenebilecek tek değişikliği seçin. Çocuğun kendi anlatımını ve özel görüşme sınırlarını koruyun."
       ],
       [
-        "Takip göstergesi",
-        "Evdeki karar baskısını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+        "Bir sonraki izleme görüşmesi",
+        "Velinin her gün tercih sırasını sorgulaması. İlk uygulamadan sonra neyin değiştiğini somut örnekle karşılaştırın; işe yaramayan adımı tekrar zorlamak yerine yeni destek koşullarını ele alın."
       ]
     ],
-    "example": "Veli yerleştirme öncesi çocuğunu sürekli sorgular. İlk görüşmede ihtiyaç belirlenir, ardından bilgi kaynaklarını sınırlayan planı için gönüllü ve izlenebilir bir adım seçilir.",
+    "example": "Velinin her gün tercih sırasını sorgulaması. Resmî yerleştirme bilgisi ile aile kaygısını ayırma. Güncel resmî kılavuzu temel alıp öğrencinin tercih hakkını koruyun.",
     "check": [
-      "Gelecek ve belirsizlik kaygısını görüşmede netleştirin.",
-      "Bilgi kaynaklarını sınırlayan planı için bir sorumlu ve tarih seçin.",
-      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
-      "Evdeki karar baskısını izleyin."
+      "Liseye geçişte belirsizlik için gözlemlenebilir durumu belirleyin.",
+      "Resmî yerleştirme bilgisi ile aile kaygısını ayırma.",
+      "Güncel resmî kılavuzu temel alıp öğrencinin tercih hakkını koruyun.",
+      "Öğrenci veya aileyle takip tarihi belirleyin."
     ],
     "faq": [
       [
-        "Liseye Geçişte Veli Kaygısı için ilk adım nedir?",
-        "Gelecek ve belirsizlik kaygısını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+        "Liseye Geçişte Veli Kaygısı konusunda hangi durumu önce değerlendirmeliyiz?",
+        "Velinin her gün tercih sırasını sorgulaması. Liseye geçişte belirsizlik açısından önce koşullar ve güvenlik gereksinimi ayrıştırılmalıdır."
       ],
       [
-        "Uygulamanın etkisi nasıl anlaşılır?",
-        "Evdeki karar baskısını başlangıçla karşılaştırarak takip edilir."
+        "Okulda veya ailede hangi somut adım denenebilir?",
+        "Resmî yerleştirme bilgisi ile aile kaygısını ayırma. Güncel resmî kılavuzu temel alıp öğrencinin tercih hakkını koruyun."
       ]
     ],
     "search_terms": [
