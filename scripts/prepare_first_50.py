@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""One-command build of the complete 100-guide editorial review package.
+"""One-command build of the complete 150-guide editorial review package.
 
 Writes ONLY under drafts/pdr-ilk-paket and seo/icerik-plani.
 Never changes /konu, main, sitemap, robots, or existing live pages.
@@ -16,7 +16,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 DRAFTS=ROOT/"drafts/pdr-ilk-paket"
 REPORT=ROOT/"seo/icerik-plani"
-EXPECTED=100
+EXPECTED=150
 
 def run(script, *args):
     command=[sys.executable,str(ROOT/"scripts"/script),*args]
@@ -46,7 +46,7 @@ def main():
     quality=run("audit_first_50_guides.py")
     seo=run("audit_first_50_publication.py")
     if quality.get("files_checked")!=EXPECTED or seo.get("pages_checked")!=EXPECTED:
-        raise SystemExit("Audit did not cover all 100 guides")
+        raise SystemExit("Audit did not cover all 150 guides")
     serious={"broken_anchor","missing_local_link","missing_local_image",
              "missing_preview_noindex","limited_content_sections","limited_faq",
              "formulaic_example","h1_count_invalid","canonical_mismatch",
@@ -76,7 +76,7 @@ p{line-height:1.65}ul{list-style:none;padding:0;display:grid;grid-template-colum
 li{background:white;border:1px solid #dde7dd;padding:18px;border-radius:15px;display:grid;gap:12px}
 a{color:#174e3c;font-weight:700;text-decoration:none}a:hover{text-decoration:underline}
 small{color:#557263}aside{background:white;border-left:3px solid #527d65;padding:15px;margin:24px 0}</style></head>
-<body><main><p>PDR KAMPÜS · EDİTORYAL ÖNİZLEME</p><h1>İlk 100 uygulama rehberi</h1>
+<body><main><p>PDR KAMPÜS · EDİTORYAL ÖNİZLEME</p><h1>İlk 150 uygulama rehberi</h1>
 <p>Bu bağlantılar yalnızca inceleme taslaklarını açar. Canlı sitede yayınlanmamıştır.</p>
 <aside>Kaynak kartları katalog eşleşmesidir; belge içeriği, erişilebilirlik ve profesyonel uygunluk ayrıca incelenmelidir.</aside>
 <ul>'''+''.join(items)+'''</ul></main></body></html>'''
@@ -87,7 +87,7 @@ small{color:#557263}aside{background:white;border-left:3px solid #527d65;padding
               "structural_gate":"passed",
               "publication_approved":False,
               "remaining_reviews":["Document relevance","Remote access","Mobile visual inspection"]}
-    (REPORT/"ilk-100-toplu-durum.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    (REPORT/"ilk-150-toplu-durum.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print(json.dumps(manifest,ensure_ascii=False,indent=2))
 
 if __name__=="__main__":main()
