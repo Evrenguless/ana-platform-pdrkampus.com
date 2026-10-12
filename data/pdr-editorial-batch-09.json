@@ -2,44 +2,44 @@
   {
     "slug": "okul-psikolojik-danisma-ilk-randevu",
     "title": "Okul Psikolojik Danışmasında İlk Randevu",
-    "summary": "Okul Psikolojik Danışmasında İlk Randevu: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Okul Psikolojik Danışmasında İlk Randevu: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Görüşme amacını öğrencinin sözleriyle sor. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "İlk randevuda amaç ve sınırlar",
+        "Öğrenciye görüşmeye neden geldiğini kendi sözcükleriyle anlatma fırsatı verin. Görüşmenin kapsamını ve güvenlik gerekçesiyle hangi bilgilerin yetkili kişilere aktarılabileceğini önceden açıklayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Gizlilik ve güvenlik istisnalarını yaşa uygun anlat. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Gizlilik ve güvenlik istisnalarını yaşa uygun anlat. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "İlk anda ayrıntılı kişisel açıklama bekleme. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "İlk anda ayrıntılı kişisel açıklama bekleme. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Bir sonraki görüşmenin amacı için ortak karar al. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Bir sonraki görüşmenin amacı için ortak karar al. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Öğrenciden süreç hakkında geri bildirim iste. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Öğrenciden süreç hakkında geri bildirim iste. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "İlk kez başvuran öğrenci görüşmede ne anlatacağını bilemez; danışman görüşmenin kapsamını ve seçim hakkını açıklar.",
+    "example": "İlk kez başvuran öğrenci görüşmede ne anlatacağını bilemez; danışman görüşmenin kapsamını ve seçim hakkını açıklar. Öğrenciye görüşmeye neden geldiğini kendi sözcükleriyle anlatma fırsatı verin.",
     "check": [
-      "Görüşme amacını öğrencinin sözleriyle sor.",
-      "İlk anda ayrıntılı kişisel açıklama bekleme.",
-      "Bir sonraki görüşmenin amacı için ortak karar al.",
-      "Öğrenciden süreç hakkında geri bildirim iste."
+      "Öğrenciye görüşmeye neden geldiğini kendi sözcükleriyle anlatma fırsatı verin.",
+      "İlk anda ayrıntılı kişisel açıklama bekleme. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Bir sonraki görüşmenin amacı için ortak karar al. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Okul Psikolojik Danışmasında İlk Randevu çalışmasına nereden başlanır?",
-        "Görüşme amacını öğrencinin sözleriyle sor. Gizlilik ve güvenlik istisnalarını yaşa uygun anlat."
+        "Okul Psikolojik Danışmasında İlk Randevu konusunda ilk neyi anlamalıyız?",
+        "Öğrenciye görüşmeye neden geldiğini kendi sözcükleriyle anlatma fırsatı verin. Görüşmenin kapsamını ve güvenlik gerekçesiyle hangi bilgilerin yetkili kişilere aktarılabileceğini önceden açıklayın."
       ],
       [
-        "Okul Psikolojik Danışmasında İlk Randevu sonrasında hangi izleme yapılır?",
-        "Öğrenciden süreç hakkında geri bildirim iste."
+        "Okulda ilk destek adımı ne olmalı?",
+        "İlk anda ayrıntılı kişisel açıklama bekleme. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Öğrenciden süreç hakkında geri bildirim iste. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -49,44 +49,44 @@
   {
     "slug": "ogrenci-gorusmesinde-acik-uclu-sorular",
     "title": "Öğrenci Görüşmesinde Açık Uçlu Soru Örnekleri",
-    "summary": "Öğrenci Görüşmesinde Açık Uçlu Soru Örnekleri: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Öğrenci Görüşmesinde Açık Uçlu Soru Örnekleri: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Yanıtı yönlendirmeyen bir başlangıç sorusu belirle. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Açık uçlu soru ve güven",
+        "'Okulu sevmiyorum' cümlesini 'En çok hangi zamanlarda zorlanıyorsun?' sorusuyla somutlaştırın. Tekrar tekrar 'neden' sormak yerine öğrencinin kendi kullandığı kelimelerle özet yapın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Öğrencinin kullandığı kelimeleri tekrar ederek netleştir. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Öğrencinin kullandığı kelimeleri tekrar ederek netleştir. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Üst üste soru sorup sorgu havası yaratma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Üst üste soru sorup sorgu havası yaratma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Sessizlik ve düşünme süresini tanı. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Sessizlik ve düşünme süresini tanı. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Özetin öğrenci tarafından doğrulandığını kontrol et. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Özetin öğrenci tarafından doğrulandığını kontrol et. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Öğrenci 'okulu sevmiyorum' dediğinde neden sorgusu yerine zorlandığı günler konuşulur.",
+    "example": "Öğrenci 'okulu sevmiyorum' dediğinde neden sorgusu yerine zorlandığı günler konuşulur. 'Okulu sevmiyorum' cümlesini 'En çok hangi zamanlarda zorlanıyorsun?' sorusuyla somutlaştırın.",
     "check": [
-      "Yanıtı yönlendirmeyen bir başlangıç sorusu belirle.",
-      "Üst üste soru sorup sorgu havası yaratma.",
-      "Sessizlik ve düşünme süresini tanı.",
-      "Özetin öğrenci tarafından doğrulandığını kontrol et."
+      "'Okulu sevmiyorum' cümlesini 'En çok hangi zamanlarda zorlanıyorsun?' sorusuyla somutlaştırın.",
+      "Üst üste soru sorup sorgu havası yaratma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Sessizlik ve düşünme süresini tanı. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Öğrenci Görüşmesinde Açık Uçlu Soru Örnekleri çalışmasına nereden başlanır?",
-        "Yanıtı yönlendirmeyen bir başlangıç sorusu belirle. Öğrencinin kullandığı kelimeleri tekrar ederek netleştir."
+        "Öğrenci Görüşmesinde Açık Uçlu Soru Örnekleri konusunda ilk neyi anlamalıyız?",
+        "'Okulu sevmiyorum' cümlesini 'En çok hangi zamanlarda zorlanıyorsun?' sorusuyla somutlaştırın. Tekrar tekrar 'neden' sormak yerine öğrencinin kendi kullandığı kelimelerle özet yapın."
       ],
       [
-        "Öğrenci Görüşmesinde Açık Uçlu Soru Örnekleri sonrasında hangi izleme yapılır?",
-        "Özetin öğrenci tarafından doğrulandığını kontrol et."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Üst üste soru sorup sorgu havası yaratma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Özetin öğrenci tarafından doğrulandığını kontrol et. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -96,44 +96,44 @@
   {
     "slug": "sinif-rehber-ogretmeni-is-birligi",
     "title": "Sınıf Rehber Öğretmeniyle İş Birliği",
-    "summary": "Sınıf Rehber Öğretmeniyle İş Birliği: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Sınıf Rehber Öğretmeniyle İş Birliği: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Öğretmenin gözlediği davranışları somutlaştır. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Öğretmenle ortak hedef",
+        "Sınıfta söz kesme veya grup dışlama gibi gözlenebilir tek davranış üzerinde anlaşın. Öğrenciyi tanıtan görüşme ayrıntıları yerine öğretmenle uygulanabilir sınıf desteğini paylaşın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Bireysel sorunla sınıf ihtiyacını ayır. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Bireysel sorunla sınıf ihtiyacını ayır. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Tek bir sınıf kazanımı üzerinde anlaş. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Tek bir sınıf kazanımı üzerinde anlaş. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Görev ve tarihleri yazılı biçimde belirle. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Görev ve tarihleri yazılı biçimde belirle. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Etkinlik sonucunu öğrenciyi etiketlemeden gözden geçir. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Etkinlik sonucunu öğrenciyi etiketlemeden gözden geçir. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Sınıfta iletişim güçlüğü bildiren öğretmenle isim paylaşmadan ortak sınıf etkinliği hedefi belirlenir.",
+    "example": "Sınıfta iletişim güçlüğü bildiren öğretmenle isim paylaşmadan ortak sınıf etkinliği hedefi belirlenir. Sınıfta söz kesme veya grup dışlama gibi gözlenebilir tek davranış üzerinde anlaşın.",
     "check": [
-      "Öğretmenin gözlediği davranışları somutlaştır.",
-      "Tek bir sınıf kazanımı üzerinde anlaş.",
-      "Görev ve tarihleri yazılı biçimde belirle.",
-      "Etkinlik sonucunu öğrenciyi etiketlemeden gözden geçir."
+      "Sınıfta söz kesme veya grup dışlama gibi gözlenebilir tek davranış üzerinde anlaşın.",
+      "Tek bir sınıf kazanımı üzerinde anlaş. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Görev ve tarihleri yazılı biçimde belirle. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Sınıf Rehber Öğretmeniyle İş Birliği çalışmasına nereden başlanır?",
-        "Öğretmenin gözlediği davranışları somutlaştır. Bireysel sorunla sınıf ihtiyacını ayır."
+        "Sınıf Rehber Öğretmeniyle İş Birliği konusunda ilk neyi anlamalıyız?",
+        "Sınıfta söz kesme veya grup dışlama gibi gözlenebilir tek davranış üzerinde anlaşın. Öğrenciyi tanıtan görüşme ayrıntıları yerine öğretmenle uygulanabilir sınıf desteğini paylaşın."
       ],
       [
-        "Sınıf Rehber Öğretmeniyle İş Birliği sonrasında hangi izleme yapılır?",
-        "Etkinlik sonucunu öğrenciyi etiketlemeden gözden geçir."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Tek bir sınıf kazanımı üzerinde anlaş. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Etkinlik sonucunu öğrenciyi etiketlemeden gözden geçir. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -143,44 +143,44 @@
   {
     "slug": "okulda-gizli-bilgi-paylasimi",
     "title": "Okulda Öğrenci Bilgisi Paylaşımının Sınırları",
-    "summary": "Okulda Öğrenci Bilgisi Paylaşımının Sınırları: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Okulda Öğrenci Bilgisi Paylaşımının Sınırları: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "İstenen bilginin amacını ve yetkiyi doğrula. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "İhtiyaç kadar bilgi paylaşımı",
+        "Başka bir öğretmenin bireysel görüşme notu istemesi, notların tamamının aktarılması anlamına gelmez. Güvenlik istisnasını ve yetkili kurum usulünü değerlendirin."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Öğrenci güvenliği ile mahremiyeti birlikte değerlendir. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Öğrenci güvenliği ile mahremiyeti birlikte değerlendir. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Yalnızca zorunlu ve ilgili bilgiyi paylaş. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Yalnızca zorunlu ve ilgili bilgiyi paylaş. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Görüşme notlarını genel öğretmen erişiminden ayrı tut. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Görüşme notlarını genel öğretmen erişiminden ayrı tut. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Paylaşımın kapsamını kurum usulünce kaydet. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Paylaşımın kapsamını kurum usulünce kaydet. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Bir öğretmen öğrencinin görüşme notlarını talep eder; gerekli eğitim desteği özel içeriği aktarmadan planlanır.",
+    "example": "Bir öğretmen öğrencinin görüşme notlarını talep eder; gerekli eğitim desteği özel içeriği aktarmadan planlanır. Başka bir öğretmenin bireysel görüşme notu istemesi, notların tamamının aktarılması anlamına gelmez.",
     "check": [
-      "İstenen bilginin amacını ve yetkiyi doğrula.",
-      "Yalnızca zorunlu ve ilgili bilgiyi paylaş.",
-      "Görüşme notlarını genel öğretmen erişiminden ayrı tut.",
-      "Paylaşımın kapsamını kurum usulünce kaydet."
+      "Başka bir öğretmenin bireysel görüşme notu istemesi, notların tamamının aktarılması anlamına gelmez.",
+      "Yalnızca zorunlu ve ilgili bilgiyi paylaş. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Görüşme notlarını genel öğretmen erişiminden ayrı tut. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Okulda Öğrenci Bilgisi Paylaşımının Sınırları çalışmasına nereden başlanır?",
-        "İstenen bilginin amacını ve yetkiyi doğrula. Öğrenci güvenliği ile mahremiyeti birlikte değerlendir."
+        "Okulda Öğrenci Bilgisi Paylaşımının Sınırları konusunda ilk neyi anlamalıyız?",
+        "Başka bir öğretmenin bireysel görüşme notu istemesi, notların tamamının aktarılması anlamına gelmez. Güvenlik istisnasını ve yetkili kurum usulünü değerlendirin."
       ],
       [
-        "Okulda Öğrenci Bilgisi Paylaşımının Sınırları sonrasında hangi izleme yapılır?",
-        "Paylaşımın kapsamını kurum usulünce kaydet."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Yalnızca zorunlu ve ilgili bilgiyi paylaş. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Paylaşımın kapsamını kurum usulünce kaydet. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -190,44 +190,44 @@
   {
     "slug": "siber-zorbalik-ilk-basvuru",
     "title": "Siber Zorbalıkta İlk Öğrenci Başvurusu",
-    "summary": "Siber Zorbalıkta İlk Öğrenci Başvurusu: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Siber Zorbalıkta İlk Öğrenci Başvurusu: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Önce öğrencinin mevcut güvenliğini ve tehdit düzeyini sor. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Siber zorbalıkta ilk bildirim",
+        "Öğrenciyi suçlamadan güvenli görüşme sağlayın; tehdidin sürüp sürmediğini ve okul ortamına yansıyıp yansımadığını belirleyin. Mesajları sınıf gruplarında yaymayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "İçeriğin tekrar paylaşılmasını önleyen yaklaşımı açıkla. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "İçeriğin tekrar paylaşılmasını önleyen yaklaşımı açıkla. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Kanıtların güvenli korunmasına ilişkin kurum yolunu izle. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Kanıtların güvenli korunmasına ilişkin kurum yolunu izle. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Yetkili okul ve koruma birimleriyle gerekli düzeyde iş birliği yap. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Yetkili okul ve koruma birimleriyle gerekli düzeyde iş birliği yap. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Çevrim içi ve okul içi misilleme riskini takip et. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Çevrim içi ve okul içi misilleme riskini takip et. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Öğrenci grup sohbetinde aşağılayıcı mesajlar aldığını söyler; ekran görüntüsünü arkadaşlarına yaymadan yardım süreci başlatılır.",
+    "example": "Öğrenci grup sohbetinde aşağılayıcı mesajlar aldığını söyler; ekran görüntüsünü arkadaşlarına yaymadan yardım süreci başlatılır. Öğrenciyi suçlamadan güvenli görüşme sağlayın; tehdidin sürüp sürmediğini ve okul ortamına yansıyıp yansımadığını belirleyin.",
     "check": [
-      "Önce öğrencinin mevcut güvenliğini ve tehdit düzeyini sor.",
-      "Kanıtların güvenli korunmasına ilişkin kurum yolunu izle.",
-      "Yetkili okul ve koruma birimleriyle gerekli düzeyde iş birliği yap.",
-      "Çevrim içi ve okul içi misilleme riskini takip et."
+      "Öğrenciyi suçlamadan güvenli görüşme sağlayın; tehdidin sürüp sürmediğini ve okul ortamına yansıyıp yansımadığını belirleyin.",
+      "Kanıtların güvenli korunmasına ilişkin kurum yolunu izle. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Yetkili okul ve koruma birimleriyle gerekli düzeyde iş birliği yap. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Siber Zorbalıkta İlk Öğrenci Başvurusu çalışmasına nereden başlanır?",
-        "Önce öğrencinin mevcut güvenliğini ve tehdit düzeyini sor. İçeriğin tekrar paylaşılmasını önleyen yaklaşımı açıkla."
+        "Siber Zorbalıkta İlk Öğrenci Başvurusu konusunda ilk neyi anlamalıyız?",
+        "Öğrenciyi suçlamadan güvenli görüşme sağlayın; tehdidin sürüp sürmediğini ve okul ortamına yansıyıp yansımadığını belirleyin. Mesajları sınıf gruplarında yaymayın."
       ],
       [
-        "Siber Zorbalıkta İlk Öğrenci Başvurusu sonrasında hangi izleme yapılır?",
-        "Çevrim içi ve okul içi misilleme riskini takip et."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Kanıtların güvenli korunmasına ilişkin kurum yolunu izle. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Çevrim içi ve okul içi misilleme riskini takip et. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -237,44 +237,44 @@
   {
     "slug": "zorbalikta-tanik-ogrenci-destegi",
     "title": "Zorbalığa Tanık Olan Öğrenciyi Destekleme",
-    "summary": "Zorbalığa Tanık Olan Öğrenciyi Destekleme: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Zorbalığa Tanık Olan Öğrenciyi Destekleme: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Tanığın güvenlik endişesini yargılamadan dinle. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Tanık öğrenciyi koruma",
+        "Öğrencinin gördüğü olayı bildirmekten korkup korkmadığını sorun; tek başına müdahale etmesini beklemeyin. Koruyucu okul desteğini ve misilleme izlemini ayrı planlayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Öğrenciyi tek başına müdahale etmeye zorlama. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Öğrenciyi tek başına müdahale etmeye zorlama. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Gizli ve ulaşılabilir bildirim seçeneklerini açıkla. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Gizli ve ulaşılabilir bildirim seçeneklerini açıkla. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Yetkili yetişkinin koruyucu adımlarını netleştir. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Yetkili yetişkinin koruyucu adımlarını netleştir. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Tanığın maruz kalabileceği baskıyı izlemeyi sürdür. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Tanığın maruz kalabileceği baskıyı izlemeyi sürdür. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Zorbalığı gören öğrenci başına iş geleceğinden korkar; güvenli bildirim yolları birlikte belirlenir.",
+    "example": "Zorbalığı gören öğrenci başına iş geleceğinden korkar; güvenli bildirim yolları birlikte belirlenir. Öğrencinin gördüğü olayı bildirmekten korkup korkmadığını sorun; tek başına müdahale etmesini beklemeyin.",
     "check": [
-      "Tanığın güvenlik endişesini yargılamadan dinle.",
-      "Gizli ve ulaşılabilir bildirim seçeneklerini açıkla.",
-      "Yetkili yetişkinin koruyucu adımlarını netleştir.",
-      "Tanığın maruz kalabileceği baskıyı izlemeyi sürdür."
+      "Öğrencinin gördüğü olayı bildirmekten korkup korkmadığını sorun; tek başına müdahale etmesini beklemeyin.",
+      "Gizli ve ulaşılabilir bildirim seçeneklerini açıkla. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Yetkili yetişkinin koruyucu adımlarını netleştir. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Zorbalığa Tanık Olan Öğrenciyi Destekleme çalışmasına nereden başlanır?",
-        "Tanığın güvenlik endişesini yargılamadan dinle. Öğrenciyi tek başına müdahale etmeye zorlama."
+        "Zorbalığa Tanık Olan Öğrenciyi Destekleme konusunda ilk neyi anlamalıyız?",
+        "Öğrencinin gördüğü olayı bildirmekten korkup korkmadığını sorun; tek başına müdahale etmesini beklemeyin. Koruyucu okul desteğini ve misilleme izlemini ayrı planlayın."
       ],
       [
-        "Zorbalığa Tanık Olan Öğrenciyi Destekleme sonrasında hangi izleme yapılır?",
-        "Tanığın maruz kalabileceği baskıyı izlemeyi sürdür."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Gizli ve ulaşılabilir bildirim seçeneklerini açıkla. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Tanığın maruz kalabileceği baskıyı izlemeyi sürdür. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -284,44 +284,44 @@
   {
     "slug": "okulda-kriz-sonrasi-sinif-bilgilendirmesi",
     "title": "Okul Krizi Sonrası Sınıf Bilgilendirmesi",
-    "summary": "Okul Krizi Sonrası Sınıf Bilgilendirmesi: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Okul Krizi Sonrası Sınıf Bilgilendirmesi: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Bilgiyi yalnızca yetkili ve doğrulanmış kaynaktan al. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Kriz sonrası yaşa uygun bilgi",
+        "Sınıfa yalnızca kurumun doğruladığı ve paylaşılmasına izin verilen bilgiyi verin. Öğrencilerin kişisel olay anlatımı yapmasını zorunlu kılmadan yardım kanallarını gösterin."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Öğrencilerin özel olay anlatılarını zorlamadan dinle. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Öğrencilerin özel olay anlatılarını zorlamadan dinle. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Gereksiz ayrıntı ve söylentileri yeniden yayma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Gereksiz ayrıntı ve söylentileri yeniden yayma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Yardım alma ve normal rutine dönüş seçenekleri sun. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Yardım alma ve normal rutine dönüş seçenekleri sun. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Belirgin sıkıntı yaşayan öğrenciler için bireysel destek planla. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Belirgin sıkıntı yaşayan öğrenciler için bireysel destek planla. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Okulu etkileyen zorlayıcı olayın ardından söylentiler artar; sınıfa doğrulanmış ve yaşa uygun bilgi verilir.",
+    "example": "Okulu etkileyen zorlayıcı olayın ardından söylentiler artar; sınıfa doğrulanmış ve yaşa uygun bilgi verilir. Sınıfa yalnızca kurumun doğruladığı ve paylaşılmasına izin verilen bilgiyi verin.",
     "check": [
-      "Bilgiyi yalnızca yetkili ve doğrulanmış kaynaktan al.",
-      "Gereksiz ayrıntı ve söylentileri yeniden yayma.",
-      "Yardım alma ve normal rutine dönüş seçenekleri sun.",
-      "Belirgin sıkıntı yaşayan öğrenciler için bireysel destek planla."
+      "Sınıfa yalnızca kurumun doğruladığı ve paylaşılmasına izin verilen bilgiyi verin.",
+      "Gereksiz ayrıntı ve söylentileri yeniden yayma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Yardım alma ve normal rutine dönüş seçenekleri sun. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Okul Krizi Sonrası Sınıf Bilgilendirmesi çalışmasına nereden başlanır?",
-        "Bilgiyi yalnızca yetkili ve doğrulanmış kaynaktan al. Öğrencilerin özel olay anlatılarını zorlamadan dinle."
+        "Okul Krizi Sonrası Sınıf Bilgilendirmesi konusunda ilk neyi anlamalıyız?",
+        "Sınıfa yalnızca kurumun doğruladığı ve paylaşılmasına izin verilen bilgiyi verin. Öğrencilerin kişisel olay anlatımı yapmasını zorunlu kılmadan yardım kanallarını gösterin."
       ],
       [
-        "Okul Krizi Sonrası Sınıf Bilgilendirmesi sonrasında hangi izleme yapılır?",
-        "Belirgin sıkıntı yaşayan öğrenciler için bireysel destek planla."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Gereksiz ayrıntı ve söylentileri yeniden yayma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Belirgin sıkıntı yaşayan öğrenciler için bireysel destek planla. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -331,44 +331,44 @@
   {
     "slug": "yas-yasayan-ogrenciye-okul-destegi",
     "title": "Yas Yaşayan Öğrenciye Okul Desteği",
-    "summary": "Yas Yaşayan Öğrenciye Okul Desteği: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Yas Yaşayan Öğrenciye Okul Desteği: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Öğrencinin konuşma isteğini ve sınırını öğren. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Yas desteğinde seçim hakkı",
+        "Kayıp yaşayan öğrencinin sınıfta açıklama yapmak istemeyebileceğini kabul edin. Ödev, yoklama ve sınıf katılımı için erişilebilir geçici destekleri öğrenciyle konuşun."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Yas tepkilerini tek bir sıraya zorlamadan ele al. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Yas tepkilerini tek bir sıraya zorlamadan ele al. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Sınıf önünde özel kaybı açıklamak zorunda bırakma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Sınıf önünde özel kaybı açıklamak zorunda bırakma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Ders ve devam esnekliğini uygun okul düzeniyle planla. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Ders ve devam esnekliğini uygun okul düzeniyle planla. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "İhtiyaç değişimini öğrenci ve bakım verenle izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "İhtiyaç değişimini öğrenci ve bakım verenle izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Yakınını kaybeden öğrenci ilk gün sınıfta konuşmak istemez; öğretmenle esnek görev planı yapılır.",
+    "example": "Yakınını kaybeden öğrenci ilk gün sınıfta konuşmak istemez; öğretmenle esnek görev planı yapılır. Kayıp yaşayan öğrencinin sınıfta açıklama yapmak istemeyebileceğini kabul edin.",
     "check": [
-      "Öğrencinin konuşma isteğini ve sınırını öğren.",
-      "Sınıf önünde özel kaybı açıklamak zorunda bırakma.",
-      "Ders ve devam esnekliğini uygun okul düzeniyle planla.",
-      "İhtiyaç değişimini öğrenci ve bakım verenle izleyin."
+      "Kayıp yaşayan öğrencinin sınıfta açıklama yapmak istemeyebileceğini kabul edin.",
+      "Sınıf önünde özel kaybı açıklamak zorunda bırakma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Ders ve devam esnekliğini uygun okul düzeniyle planla. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Yas Yaşayan Öğrenciye Okul Desteği çalışmasına nereden başlanır?",
-        "Öğrencinin konuşma isteğini ve sınırını öğren. Yas tepkilerini tek bir sıraya zorlamadan ele al."
+        "Yas Yaşayan Öğrenciye Okul Desteği konusunda ilk neyi anlamalıyız?",
+        "Kayıp yaşayan öğrencinin sınıfta açıklama yapmak istemeyebileceğini kabul edin. Ödev, yoklama ve sınıf katılımı için erişilebilir geçici destekleri öğrenciyle konuşun."
       ],
       [
-        "Yas Yaşayan Öğrenciye Okul Desteği sonrasında hangi izleme yapılır?",
-        "İhtiyaç değişimini öğrenci ve bakım verenle izleyin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Sınıf önünde özel kaybı açıklamak zorunda bırakma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. İhtiyaç değişimini öğrenci ve bakım verenle izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -378,44 +378,44 @@
   {
     "slug": "sinav-kaygisi-kucuk-grup",
     "title": "Sınav Kaygısı İçin Küçük Grup Çalışması",
-    "summary": "Sınav Kaygısı İçin Küçük Grup Çalışması: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Sınav Kaygısı İçin Küçük Grup Çalışması: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Grup amacı ve gönüllü katılım koşullarını açıklayın. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Sınav kaygısı grup çalışması",
+        "Özel net veya kişisel kaygı öyküsü yerine kurgusal deneme senaryosu kullanın. Düşünce, beden hissi ve seçilebilir davranışı ayrı kartlara yazdırın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Tanı koyma veya kişisel itiraf beklentisi oluşturmayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Tanı koyma veya kişisel itiraf beklentisi oluşturmayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Sınav öncesi düşünce-davranış bağlantısını kurgu üzerinden çalışın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Sınav öncesi düşünce-davranış bağlantısını kurgu üzerinden çalışın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Nefes ve mola gibi seçeneklerin herkeste aynı etkiyi vermeyebileceğini belirtin. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Nefes ve mola gibi seçeneklerin herkeste aynı etkiyi vermeyebileceğini belirtin. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Etkinliğin uygulanabilirliğini kısa öğrenci değerlendirmesiyle izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Etkinliğin uygulanabilirliğini kısa öğrenci değerlendirmesiyle izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Sekizinci sınıf grubunda öğrenciler deneme öncesi düşüncelerini kurgusal örnekle inceleyip destek yolları dener.",
+    "example": "Sekizinci sınıf grubunda öğrenciler deneme öncesi düşüncelerini kurgusal örnekle inceleyip destek yolları dener. Özel net veya kişisel kaygı öyküsü yerine kurgusal deneme senaryosu kullanın.",
     "check": [
-      "Grup amacı ve gönüllü katılım koşullarını açıklayın.",
-      "Sınav öncesi düşünce-davranış bağlantısını kurgu üzerinden çalışın.",
-      "Nefes ve mola gibi seçeneklerin herkeste aynı etkiyi vermeyebileceğini belirtin.",
-      "Etkinliğin uygulanabilirliğini kısa öğrenci değerlendirmesiyle izleyin."
+      "Özel net veya kişisel kaygı öyküsü yerine kurgusal deneme senaryosu kullanın.",
+      "Sınav öncesi düşünce-davranış bağlantısını kurgu üzerinden çalışın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Nefes ve mola gibi seçeneklerin herkeste aynı etkiyi vermeyebileceğini belirtin. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Sınav Kaygısı İçin Küçük Grup Çalışması çalışmasına nereden başlanır?",
-        "Grup amacı ve gönüllü katılım koşullarını açıklayın. Tanı koyma veya kişisel itiraf beklentisi oluşturmayın."
+        "Sınav Kaygısı İçin Küçük Grup Çalışması konusunda ilk neyi anlamalıyız?",
+        "Özel net veya kişisel kaygı öyküsü yerine kurgusal deneme senaryosu kullanın. Düşünce, beden hissi ve seçilebilir davranışı ayrı kartlara yazdırın."
       ],
       [
-        "Sınav Kaygısı İçin Küçük Grup Çalışması sonrasında hangi izleme yapılır?",
-        "Etkinliğin uygulanabilirliğini kısa öğrenci değerlendirmesiyle izleyin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Sınav öncesi düşünce-davranış bağlantısını kurgu üzerinden çalışın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Etkinliğin uygulanabilirliğini kısa öğrenci değerlendirmesiyle izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -425,44 +425,44 @@
   {
     "slug": "yks-tercih-bilgi-dogrulama",
     "title": "YKS Tercihinde Bilgi Doğrulama Kontrolü",
-    "summary": "YKS Tercihinde Bilgi Doğrulama Kontrolü: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "YKS Tercihinde Bilgi Doğrulama Kontrolü: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Bilginin hangi yıl ve kaynaktan geldiğini belirleyin. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "YKS bilgisini resmî kaynaktan doğrulama",
+        "Taban puanın yılı ve program kodu ile güncel kılavuzdaki özel koşulları karşılaştırın. Geçmiş yıla ait bilgiyle kesin yerleşme vaadinde bulunmayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Program kodu ve koşullarını güncel resmî kılavuzla kontrol edin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Program kodu ve koşullarını güncel resmî kılavuzla kontrol edin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Sıralama ve kontenjan değişimini kesin yerleşme vaadine dönüştürmeyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Sıralama ve kontenjan değişimini kesin yerleşme vaadine dönüştürmeyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Öğrenci öncelikleriyle ulaşım ve maliyet etkenlerini karşılaştırın. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Öğrenci öncelikleriyle ulaşım ve maliyet etkenlerini karşılaştırın. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Tercih öncesi son kontrolü öğrencinin kendi kararıyla yapın. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Tercih öncesi son kontrolü öğrencinin kendi kararıyla yapın. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Öğrenci sosyal medyada gördüğü taban puana dayanarak tercih yapar; resmî kılavuzla yıl ve program kodunu karşılaştırır.",
+    "example": "Öğrenci sosyal medyada gördüğü taban puana dayanarak tercih yapar; resmî kılavuzla yıl ve program kodunu karşılaştırır. Taban puanın yılı ve program kodu ile güncel kılavuzdaki özel koşulları karşılaştırın.",
     "check": [
-      "Bilginin hangi yıl ve kaynaktan geldiğini belirleyin.",
-      "Sıralama ve kontenjan değişimini kesin yerleşme vaadine dönüştürmeyin.",
-      "Öğrenci öncelikleriyle ulaşım ve maliyet etkenlerini karşılaştırın.",
-      "Tercih öncesi son kontrolü öğrencinin kendi kararıyla yapın."
+      "Taban puanın yılı ve program kodu ile güncel kılavuzdaki özel koşulları karşılaştırın.",
+      "Sıralama ve kontenjan değişimini kesin yerleşme vaadine dönüştürmeyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Öğrenci öncelikleriyle ulaşım ve maliyet etkenlerini karşılaştırın. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "YKS Tercihinde Bilgi Doğrulama Kontrolü çalışmasına nereden başlanır?",
-        "Bilginin hangi yıl ve kaynaktan geldiğini belirleyin. Program kodu ve koşullarını güncel resmî kılavuzla kontrol edin."
+        "YKS Tercihinde Bilgi Doğrulama Kontrolü konusunda ilk neyi anlamalıyız?",
+        "Taban puanın yılı ve program kodu ile güncel kılavuzdaki özel koşulları karşılaştırın. Geçmiş yıla ait bilgiyle kesin yerleşme vaadinde bulunmayın."
       ],
       [
-        "YKS Tercihinde Bilgi Doğrulama Kontrolü sonrasında hangi izleme yapılır?",
-        "Tercih öncesi son kontrolü öğrencinin kendi kararıyla yapın."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Sıralama ve kontenjan değişimini kesin yerleşme vaadine dönüştürmeyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Tercih öncesi son kontrolü öğrencinin kendi kararıyla yapın. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -472,44 +472,44 @@
   {
     "slug": "lgs-tercih-veli-gorusmesi",
     "title": "LGS Tercih Döneminde Veli Görüşmesi",
-    "summary": "LGS Tercih Döneminde Veli Görüşmesi: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "LGS Tercih Döneminde Veli Görüşmesi: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Öğrenci ve velinin ölçütlerini ayrı ayrı dinleyin. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "LGS tercihinde öğrenci sesi",
+        "Velinin okul uzaklığı kaygısıyla öğrencinin ilgisini ayrı değerlendirin. Güncel resmî yerleştirme türü, tarih ve okul koşullarını doğrulayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Yerleştirme türlerini güncel resmî bilgilerle açıklayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Yerleştirme türlerini güncel resmî bilgilerle açıklayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Ulaşım, okul ortamı ve ilgi alanlarını karşılaştırın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Ulaşım, okul ortamı ve ilgi alanlarını karşılaştırın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Kesin kabul veya yerleşme sözü vermeyin. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Kesin kabul veya yerleşme sözü vermeyin. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Son listenin öğrenciyle birlikte doğrulanmasını sağlayın. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Son listenin öğrenciyle birlikte doğrulanmasını sağlayın. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Veli okula yakın bir liseyi isterken öğrenci farklı bir alanla ilgilenir; seçenekler koşullarıyla birlikte ele alınır.",
+    "example": "Veli okula yakın bir liseyi isterken öğrenci farklı bir alanla ilgilenir; seçenekler koşullarıyla birlikte ele alınır. Velinin okul uzaklığı kaygısıyla öğrencinin ilgisini ayrı değerlendirin.",
     "check": [
-      "Öğrenci ve velinin ölçütlerini ayrı ayrı dinleyin.",
-      "Ulaşım, okul ortamı ve ilgi alanlarını karşılaştırın.",
-      "Kesin kabul veya yerleşme sözü vermeyin.",
-      "Son listenin öğrenciyle birlikte doğrulanmasını sağlayın."
+      "Velinin okul uzaklığı kaygısıyla öğrencinin ilgisini ayrı değerlendirin.",
+      "Ulaşım, okul ortamı ve ilgi alanlarını karşılaştırın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Kesin kabul veya yerleşme sözü vermeyin. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "LGS Tercih Döneminde Veli Görüşmesi çalışmasına nereden başlanır?",
-        "Öğrenci ve velinin ölçütlerini ayrı ayrı dinleyin. Yerleştirme türlerini güncel resmî bilgilerle açıklayın."
+        "LGS Tercih Döneminde Veli Görüşmesi konusunda ilk neyi anlamalıyız?",
+        "Velinin okul uzaklığı kaygısıyla öğrencinin ilgisini ayrı değerlendirin. Güncel resmî yerleştirme türü, tarih ve okul koşullarını doğrulayın."
       ],
       [
-        "LGS Tercih Döneminde Veli Görüşmesi sonrasında hangi izleme yapılır?",
-        "Son listenin öğrenciyle birlikte doğrulanmasını sağlayın."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Ulaşım, okul ortamı ve ilgi alanlarını karşılaştırın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Son listenin öğrenciyle birlikte doğrulanmasını sağlayın. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -519,44 +519,44 @@
   {
     "slug": "sinifta-guvenli-sosyal-medya",
     "title": "Sınıfta Güvenli Sosyal Medya Konuşması",
-    "summary": "Sınıfta Güvenli Sosyal Medya Konuşması: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Sınıfta Güvenli Sosyal Medya Konuşması: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Sosyal medya tartışmasını gerçek öğrenci hesaplarından ayırın. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Dijital mesajı yeniden yaymama",
+        "Sınıfta kurgusal paylaşım kullanarak izin, etiketleme ve özel bilgiyi tartışın. Gerçek grup mesajları ve öğrenci hesaplarını projeksiyona taşımayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "İzin almadan görsel paylaşımının sonuçlarını kurguyla inceleyin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "İzin almadan görsel paylaşımının sonuçlarını kurguyla inceleyin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Şaka ve zarar ayrımını hedef öğrencinin deneyimi üzerinden açıklayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Şaka ve zarar ayrımını hedef öğrencinin deneyimi üzerinden açıklayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Bildirim ve güvenilir yetişkin seçeneklerini gösterin. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Bildirim ve güvenilir yetişkin seçeneklerini gösterin. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Sınıfın güvenli çevrim içi iletişim kararını birlikte yazın. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Sınıfın güvenli çevrim içi iletişim kararını birlikte yazın. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Öğrenciler kurgusal bir grup sohbetindeki dışlayıcı paylaşımın etkilerini tartışır; gerçek sınıf mesajları açılmaz.",
+    "example": "Öğrenciler kurgusal bir grup sohbetindeki dışlayıcı paylaşımın etkilerini tartışır; gerçek sınıf mesajları açılmaz. Sınıfta kurgusal paylaşım kullanarak izin, etiketleme ve özel bilgiyi tartışın.",
     "check": [
-      "Sosyal medya tartışmasını gerçek öğrenci hesaplarından ayırın.",
-      "Şaka ve zarar ayrımını hedef öğrencinin deneyimi üzerinden açıklayın.",
-      "Bildirim ve güvenilir yetişkin seçeneklerini gösterin.",
-      "Sınıfın güvenli çevrim içi iletişim kararını birlikte yazın."
+      "Sınıfta kurgusal paylaşım kullanarak izin, etiketleme ve özel bilgiyi tartışın.",
+      "Şaka ve zarar ayrımını hedef öğrencinin deneyimi üzerinden açıklayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Bildirim ve güvenilir yetişkin seçeneklerini gösterin. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Sınıfta Güvenli Sosyal Medya Konuşması çalışmasına nereden başlanır?",
-        "Sosyal medya tartışmasını gerçek öğrenci hesaplarından ayırın. İzin almadan görsel paylaşımının sonuçlarını kurguyla inceleyin."
+        "Sınıfta Güvenli Sosyal Medya Konuşması konusunda ilk neyi anlamalıyız?",
+        "Sınıfta kurgusal paylaşım kullanarak izin, etiketleme ve özel bilgiyi tartışın. Gerçek grup mesajları ve öğrenci hesaplarını projeksiyona taşımayın."
       ],
       [
-        "Sınıfta Güvenli Sosyal Medya Konuşması sonrasında hangi izleme yapılır?",
-        "Sınıfın güvenli çevrim içi iletişim kararını birlikte yazın."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Şaka ve zarar ayrımını hedef öğrencinin deneyimi üzerinden açıklayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Sınıfın güvenli çevrim içi iletişim kararını birlikte yazın. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -566,44 +566,44 @@
   {
     "slug": "sinifta-oz-duzenleme-becerisi",
     "title": "Sınıfta Öz Düzenleme Becerisi",
-    "summary": "Sınıfta Öz Düzenleme Becerisi: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Sınıfta Öz Düzenleme Becerisi: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Beklenen öz düzenleme davranışını görünür kılın. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Öz düzenleme için görev adımları",
+        "Öğrencinin başlayamadığı görevi iki veya üç somut adıma bölün. Görsel yönergeyle başlanmasını ve mola sonrası göreve dönüşü birbirinden ayrı izleyin."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Görev zorluğu ve çevresel engelleri değerlendirin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Görev zorluğu ve çevresel engelleri değerlendirin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Öğrencinin kullanabileceği iki başlama stratejisi sunun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Öğrencinin kullanabileceği iki başlama stratejisi sunun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Öğretmenle ipucu ve mola düzenini netleştirin. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Öğretmenle ipucu ve mola düzenini netleştirin. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "İşe yarayan yöntemi öğrencinin görüşüyle seçin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "İşe yarayan yöntemi öğrencinin görüşüyle seçin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Öğrenci zor bir göreve başlayamadığında görsel adım kartıyla işe başlar ve mola süresini önceden planlar.",
+    "example": "Öğrenci zor bir göreve başlayamadığında görsel adım kartıyla işe başlar ve mola süresini önceden planlar. Öğrencinin başlayamadığı görevi iki veya üç somut adıma bölün.",
     "check": [
-      "Beklenen öz düzenleme davranışını görünür kılın.",
-      "Öğrencinin kullanabileceği iki başlama stratejisi sunun.",
-      "Öğretmenle ipucu ve mola düzenini netleştirin.",
-      "İşe yarayan yöntemi öğrencinin görüşüyle seçin."
+      "Öğrencinin başlayamadığı görevi iki veya üç somut adıma bölün.",
+      "Öğrencinin kullanabileceği iki başlama stratejisi sunun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Öğretmenle ipucu ve mola düzenini netleştirin. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Sınıfta Öz Düzenleme Becerisi çalışmasına nereden başlanır?",
-        "Beklenen öz düzenleme davranışını görünür kılın. Görev zorluğu ve çevresel engelleri değerlendirin."
+        "Sınıfta Öz Düzenleme Becerisi konusunda ilk neyi anlamalıyız?",
+        "Öğrencinin başlayamadığı görevi iki veya üç somut adıma bölün. Görsel yönergeyle başlanmasını ve mola sonrası göreve dönüşü birbirinden ayrı izleyin."
       ],
       [
-        "Sınıfta Öz Düzenleme Becerisi sonrasında hangi izleme yapılır?",
-        "İşe yarayan yöntemi öğrencinin görüşüyle seçin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Öğrencinin kullanabileceği iki başlama stratejisi sunun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. İşe yarayan yöntemi öğrencinin görüşüyle seçin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -613,44 +613,44 @@
   {
     "slug": "rehberlikte-grup-calismasi-gonulluluk",
     "title": "Rehberlik Grup Çalışmalarında Gönüllülük",
-    "summary": "Rehberlik Grup Çalışmalarında Gönüllülük: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Rehberlik Grup Çalışmalarında Gönüllülük: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Grup kazanımını ve kimlere uygun olduğunu belirleyin. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Grup gönüllülüğünde şeffaflık",
+        "Öğrenciye grubun amacını, sınırlarını ve alternatif katılım yollarını açıklayın. Akran baskısıyla kişisel yaşantı paylaşmasını istemeyin."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Katılımın gönüllülük ve gizlilik sınırlarını açıklayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Katılımın gönüllülük ve gizlilik sınırlarını açıklayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Öğrenciyi grup önünde kişisel paylaşmaya zorlamayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Öğrenciyi grup önünde kişisel paylaşmaya zorlamayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Yüksek riskli ihtiyaçlarda ayrı bireysel değerlendirme yapın. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Yüksek riskli ihtiyaçlarda ayrı bireysel değerlendirme yapın. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Katılım ve yararı güvenli geri bildirimle izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Katılım ve yararı güvenli geri bildirimle izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Arkadaşlık becerisi grubuna öğrenci istemeden yazılır; katılım amacı ve seçenekler yeniden açıklanır.",
+    "example": "Arkadaşlık becerisi grubuna öğrenci istemeden yazılır; katılım amacı ve seçenekler yeniden açıklanır. Öğrenciye grubun amacını, sınırlarını ve alternatif katılım yollarını açıklayın.",
     "check": [
-      "Grup kazanımını ve kimlere uygun olduğunu belirleyin.",
-      "Öğrenciyi grup önünde kişisel paylaşmaya zorlamayın.",
-      "Yüksek riskli ihtiyaçlarda ayrı bireysel değerlendirme yapın.",
-      "Katılım ve yararı güvenli geri bildirimle izleyin."
+      "Öğrenciye grubun amacını, sınırlarını ve alternatif katılım yollarını açıklayın.",
+      "Öğrenciyi grup önünde kişisel paylaşmaya zorlamayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Yüksek riskli ihtiyaçlarda ayrı bireysel değerlendirme yapın. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Rehberlik Grup Çalışmalarında Gönüllülük çalışmasına nereden başlanır?",
-        "Grup kazanımını ve kimlere uygun olduğunu belirleyin. Katılımın gönüllülük ve gizlilik sınırlarını açıklayın."
+        "Rehberlik Grup Çalışmalarında Gönüllülük konusunda ilk neyi anlamalıyız?",
+        "Öğrenciye grubun amacını, sınırlarını ve alternatif katılım yollarını açıklayın. Akran baskısıyla kişisel yaşantı paylaşmasını istemeyin."
       ],
       [
-        "Rehberlik Grup Çalışmalarında Gönüllülük sonrasında hangi izleme yapılır?",
-        "Katılım ve yararı güvenli geri bildirimle izleyin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Öğrenciyi grup önünde kişisel paylaşmaya zorlamayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Katılım ve yararı güvenli geri bildirimle izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -660,44 +660,44 @@
   {
     "slug": "akran-arabuluculuk-sinirlari",
     "title": "Akran Arabuluculuğunun Sınırları",
-    "summary": "Akran Arabuluculuğunun Sınırları: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Akran Arabuluculuğunun Sınırları: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Olayın eşit taraflı çatışma olup olmadığını değerlendirin. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Akran arabuluculuğunun sınırı",
+        "Tekrarlanan zorbalık, tehdit veya belirgin güç dengesizliği varsa tarafları eşit kabul ederek uzlaştırmaya çalışmayın. Önce güvenlik ve koruyucu yetişkin müdahalesini planlayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Güç farkı ve tehdit varsa arabuluculuğu otomatik uygulamayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Güç farkı ve tehdit varsa arabuluculuğu otomatik uygulamayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Tarafların rızasını ve güvenliğini ayrı ayrı öğrenin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Tarafların rızasını ve güvenliğini ayrı ayrı öğrenin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Yetkili yetişkin gözetimini ve yönlendirme yolunu belirleyin. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Yetkili yetişkin gözetimini ve yönlendirme yolunu belirleyin. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Anlaşma yerine güvenliği ve tekrar riskini izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Anlaşma yerine güvenliği ve tekrar riskini izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Güç dengesizliği içeren zorbalık olayına akran arabuluculuğu önerilir; önce güvenlik ve koruma süreci ele alınır.",
+    "example": "Güç dengesizliği içeren zorbalık olayına akran arabuluculuğu önerilir; önce güvenlik ve koruma süreci ele alınır. Tekrarlanan zorbalık, tehdit veya belirgin güç dengesizliği varsa tarafları eşit kabul ederek uzlaştırmaya çalışmayın.",
     "check": [
-      "Olayın eşit taraflı çatışma olup olmadığını değerlendirin.",
-      "Tarafların rızasını ve güvenliğini ayrı ayrı öğrenin.",
-      "Yetkili yetişkin gözetimini ve yönlendirme yolunu belirleyin.",
-      "Anlaşma yerine güvenliği ve tekrar riskini izleyin."
+      "Tekrarlanan zorbalık, tehdit veya belirgin güç dengesizliği varsa tarafları eşit kabul ederek uzlaştırmaya çalışmayın.",
+      "Tarafların rızasını ve güvenliğini ayrı ayrı öğrenin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Yetkili yetişkin gözetimini ve yönlendirme yolunu belirleyin. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Akran Arabuluculuğunun Sınırları çalışmasına nereden başlanır?",
-        "Olayın eşit taraflı çatışma olup olmadığını değerlendirin. Güç farkı ve tehdit varsa arabuluculuğu otomatik uygulamayın."
+        "Akran Arabuluculuğunun Sınırları konusunda ilk neyi anlamalıyız?",
+        "Tekrarlanan zorbalık, tehdit veya belirgin güç dengesizliği varsa tarafları eşit kabul ederek uzlaştırmaya çalışmayın. Önce güvenlik ve koruyucu yetişkin müdahalesini planlayın."
       ],
       [
-        "Akran Arabuluculuğunun Sınırları sonrasında hangi izleme yapılır?",
-        "Anlaşma yerine güvenliği ve tekrar riskini izleyin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Tarafların rızasını ve güvenliğini ayrı ayrı öğrenin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Anlaşma yerine güvenliği ve tekrar riskini izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -707,44 +707,44 @@
   {
     "slug": "okulda-beslenme-uyku-ogrenme",
     "title": "Uyku ve Beslenmenin Öğrenmeyle İlişkisi",
-    "summary": "Uyku ve Beslenmenin Öğrenmeyle İlişkisi: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Uyku ve Beslenmenin Öğrenmeyle İlişkisi: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Günlük yaşam düzenini yargılayıcı olmadan sorun. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Uyku ve beslenme koşulları",
+        "Öğrencinin okul günü boyunca yorgunluk yaşadığı zamanları ve ev koşullarını suçlamadan sorun. Sağlıkla ilgili belirtilere yalnızca çalışma motivasyonu açıklaması getirmeyin."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Tek başına performans sonucundan beslenme sorunu çıkarmayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Tek başına performans sonucundan beslenme sorunu çıkarmayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Uyku ve öğün süreleri konusunda genel sağlık bilgisini paylaşın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Uyku ve öğün süreleri konusunda genel sağlık bilgisini paylaşın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Aile koşullarını ve erişim engellerini dikkate alın. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Aile koşullarını ve erişim engellerini dikkate alın. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Süregelen sağlık belirtisinde uygun sağlık profesyoneline yönlendirin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Süregelen sağlık belirtisinde uygun sağlık profesyoneline yönlendirin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Sınav haftasında kahvaltıyı atlayan ve az uyuyan öğrenci için aileyle düzenli yaşam rutini konuşulur.",
+    "example": "Sınav haftasında kahvaltıyı atlayan ve az uyuyan öğrenci için aileyle düzenli yaşam rutini konuşulur. Öğrencinin okul günü boyunca yorgunluk yaşadığı zamanları ve ev koşullarını suçlamadan sorun.",
     "check": [
-      "Günlük yaşam düzenini yargılayıcı olmadan sorun.",
-      "Uyku ve öğün süreleri konusunda genel sağlık bilgisini paylaşın.",
-      "Aile koşullarını ve erişim engellerini dikkate alın.",
-      "Süregelen sağlık belirtisinde uygun sağlık profesyoneline yönlendirin."
+      "Öğrencinin okul günü boyunca yorgunluk yaşadığı zamanları ve ev koşullarını suçlamadan sorun.",
+      "Uyku ve öğün süreleri konusunda genel sağlık bilgisini paylaşın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Aile koşullarını ve erişim engellerini dikkate alın. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Uyku ve Beslenmenin Öğrenmeyle İlişkisi çalışmasına nereden başlanır?",
-        "Günlük yaşam düzenini yargılayıcı olmadan sorun. Tek başına performans sonucundan beslenme sorunu çıkarmayın."
+        "Uyku ve Beslenmenin Öğrenmeyle İlişkisi konusunda ilk neyi anlamalıyız?",
+        "Öğrencinin okul günü boyunca yorgunluk yaşadığı zamanları ve ev koşullarını suçlamadan sorun. Sağlıkla ilgili belirtilere yalnızca çalışma motivasyonu açıklaması getirmeyin."
       ],
       [
-        "Uyku ve Beslenmenin Öğrenmeyle İlişkisi sonrasında hangi izleme yapılır?",
-        "Süregelen sağlık belirtisinde uygun sağlık profesyoneline yönlendirin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Uyku ve öğün süreleri konusunda genel sağlık bilgisini paylaşın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Süregelen sağlık belirtisinde uygun sağlık profesyoneline yönlendirin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -754,44 +754,44 @@
   {
     "slug": "okulda-akran-dahil-etme-etkinligi",
     "title": "Sınıfta Akran Dahil Etme Etkinliği",
-    "summary": "Sınıfta Akran Dahil Etme Etkinliği: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Sınıfta Akran Dahil Etme Etkinliği: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Kimlerin katılamadığını öğrenci etiketlemeden gözleyin. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Grup dışlanmasını önleme",
+        "Katılımı engelleyen oyun kuralı ve grup görevlerini gözlemleyin. Öğrenciyi sınıfın önünde hedef göstermeden dönüşümlü ve gönüllü roller tasarlayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Gönüllü ve değişken görev rolleri oluşturun. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Gönüllü ve değişken görev rolleri oluşturun. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Bir öğrenciyi herkesin önünde yardım alacak kişi ilan etmeyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Bir öğrenciyi herkesin önünde yardım alacak kişi ilan etmeyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Öğretmenle sınıf içi kapsayıcı dili planlayın. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Öğretmenle sınıf içi kapsayıcı dili planlayın. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Katılım örüntüsünün değişimini izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Katılım örüntüsünün değişimini izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Grup çalışmasında hep aynı öğrenciler dışarıda kalır; roller öğrenciler arasında dönüşümlü düzenlenir.",
+    "example": "Grup çalışmasında hep aynı öğrenciler dışarıda kalır; roller öğrenciler arasında dönüşümlü düzenlenir. Katılımı engelleyen oyun kuralı ve grup görevlerini gözlemleyin.",
     "check": [
-      "Kimlerin katılamadığını öğrenci etiketlemeden gözleyin.",
-      "Bir öğrenciyi herkesin önünde yardım alacak kişi ilan etmeyin.",
-      "Öğretmenle sınıf içi kapsayıcı dili planlayın.",
-      "Katılım örüntüsünün değişimini izleyin."
+      "Katılımı engelleyen oyun kuralı ve grup görevlerini gözlemleyin.",
+      "Bir öğrenciyi herkesin önünde yardım alacak kişi ilan etmeyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Öğretmenle sınıf içi kapsayıcı dili planlayın. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Sınıfta Akran Dahil Etme Etkinliği çalışmasına nereden başlanır?",
-        "Kimlerin katılamadığını öğrenci etiketlemeden gözleyin. Gönüllü ve değişken görev rolleri oluşturun."
+        "Sınıfta Akran Dahil Etme Etkinliği konusunda ilk neyi anlamalıyız?",
+        "Katılımı engelleyen oyun kuralı ve grup görevlerini gözlemleyin. Öğrenciyi sınıfın önünde hedef göstermeden dönüşümlü ve gönüllü roller tasarlayın."
       ],
       [
-        "Sınıfta Akran Dahil Etme Etkinliği sonrasında hangi izleme yapılır?",
-        "Katılım örüntüsünün değişimini izleyin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Bir öğrenciyi herkesin önünde yardım alacak kişi ilan etmeyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Katılım örüntüsünün değişimini izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -801,44 +801,44 @@
   {
     "slug": "veli-ile-ekran-suresi-catismasi",
     "title": "Ekran Süresi Tartışmalarında Veli Desteği",
-    "summary": "Ekran Süresi Tartışmalarında Veli Desteği: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Ekran Süresi Tartışmalarında Veli Desteği: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Ekran süresinden çok çatışmanın hangi anda başladığını öğrenin. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Ekran tartışmasında geçiş zamanı",
+        "Ailenin ekranı bırakma anında yaşadığı çatışmayı ve önceki anlaşmaları dinleyin. Önceden haber verilen geçiş rutinini aileyle birlikte deneyin."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Çocuğun yaşını ve kullanım amacını değerlendirin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Çocuğun yaşını ve kullanım amacını değerlendirin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Ani ceza yerine öngörülebilir geçiş kuralı oluşturun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Ani ceza yerine öngörülebilir geçiş kuralı oluşturun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Ebeveynin kendi ekran davranışını da gözden geçirin. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Ebeveynin kendi ekran davranışını da gözden geçirin. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Bir haftalık denemeden sonra kuralları birlikte düzeltin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Bir haftalık denemeden sonra kuralları birlikte düzeltin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Evde ekranı bırakma saatinde tartışma yaşanır; aile çocukla önceden konuşulmuş geçiş rutini oluşturur.",
+    "example": "Evde ekranı bırakma saatinde tartışma yaşanır; aile çocukla önceden konuşulmuş geçiş rutini oluşturur. Ailenin ekranı bırakma anında yaşadığı çatışmayı ve önceki anlaşmaları dinleyin.",
     "check": [
-      "Ekran süresinden çok çatışmanın hangi anda başladığını öğrenin.",
-      "Ani ceza yerine öngörülebilir geçiş kuralı oluşturun.",
-      "Ebeveynin kendi ekran davranışını da gözden geçirin.",
-      "Bir haftalık denemeden sonra kuralları birlikte düzeltin."
+      "Ailenin ekranı bırakma anında yaşadığı çatışmayı ve önceki anlaşmaları dinleyin.",
+      "Ani ceza yerine öngörülebilir geçiş kuralı oluşturun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Ebeveynin kendi ekran davranışını da gözden geçirin. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Ekran Süresi Tartışmalarında Veli Desteği çalışmasına nereden başlanır?",
-        "Ekran süresinden çok çatışmanın hangi anda başladığını öğrenin. Çocuğun yaşını ve kullanım amacını değerlendirin."
+        "Ekran Süresi Tartışmalarında Veli Desteği konusunda ilk neyi anlamalıyız?",
+        "Ailenin ekranı bırakma anında yaşadığı çatışmayı ve önceki anlaşmaları dinleyin. Önceden haber verilen geçiş rutinini aileyle birlikte deneyin."
       ],
       [
-        "Ekran Süresi Tartışmalarında Veli Desteği sonrasında hangi izleme yapılır?",
-        "Bir haftalık denemeden sonra kuralları birlikte düzeltin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Ani ceza yerine öngörülebilir geçiş kuralı oluşturun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Bir haftalık denemeden sonra kuralları birlikte düzeltin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -848,44 +848,44 @@
   {
     "slug": "ogrenci-gorusmesinde-sessizlik",
     "title": "Öğrenci Görüşmesinde Sessizlikle Çalışma",
-    "summary": "Öğrenci Görüşmesinde Sessizlikle Çalışma: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Öğrenci Görüşmesinde Sessizlikle Çalışma: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Sessizliği otomatik direnç olarak adlandırmayın. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Sessizliğe alan açmak",
+        "Öğrencinin susmasını otomatik direnç saymayın; bekleme, çizme veya daha sonra konuşma seçeneği sunun. Sessizliği soru bombardımanıyla doldurmayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Güvenli ilişki ve ortam koşullarını kontrol edin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Güvenli ilişki ve ortam koşullarını kontrol edin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Zamana ihtiyaç duyma hakkını açıkça tanıyın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Zamana ihtiyaç duyma hakkını açıkça tanıyın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Konuşma dışında yaşa uygun ifade seçenekleri sunun. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Konuşma dışında yaşa uygun ifade seçenekleri sunun. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Öğrencinin görüşmenin yararına ilişkin fikrini sorun. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Öğrencinin görüşmenin yararına ilişkin fikrini sorun. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Öğrenci ilk görüşmede uzun süre susar; danışman bekleme ve çizerek ifade seçenekleri sunar.",
+    "example": "Öğrenci ilk görüşmede uzun süre susar; danışman bekleme ve çizerek ifade seçenekleri sunar. Öğrencinin susmasını otomatik direnç saymayın; bekleme, çizme veya daha sonra konuşma seçeneği sunun.",
     "check": [
-      "Sessizliği otomatik direnç olarak adlandırmayın.",
-      "Zamana ihtiyaç duyma hakkını açıkça tanıyın.",
-      "Konuşma dışında yaşa uygun ifade seçenekleri sunun.",
-      "Öğrencinin görüşmenin yararına ilişkin fikrini sorun."
+      "Öğrencinin susmasını otomatik direnç saymayın; bekleme, çizme veya daha sonra konuşma seçeneği sunun.",
+      "Zamana ihtiyaç duyma hakkını açıkça tanıyın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Konuşma dışında yaşa uygun ifade seçenekleri sunun. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Öğrenci Görüşmesinde Sessizlikle Çalışma çalışmasına nereden başlanır?",
-        "Sessizliği otomatik direnç olarak adlandırmayın. Güvenli ilişki ve ortam koşullarını kontrol edin."
+        "Öğrenci Görüşmesinde Sessizlikle Çalışma konusunda ilk neyi anlamalıyız?",
+        "Öğrencinin susmasını otomatik direnç saymayın; bekleme, çizme veya daha sonra konuşma seçeneği sunun. Sessizliği soru bombardımanıyla doldurmayın."
       ],
       [
-        "Öğrenci Görüşmesinde Sessizlikle Çalışma sonrasında hangi izleme yapılır?",
-        "Öğrencinin görüşmenin yararına ilişkin fikrini sorun."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Zamana ihtiyaç duyma hakkını açıkça tanıyın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Öğrencinin görüşmenin yararına ilişkin fikrini sorun. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -895,44 +895,44 @@
   {
     "slug": "okulda-veli-ogretmen-iletisim-plani",
     "title": "Veli–Öğretmen İletişim Planı",
-    "summary": "Veli–Öğretmen İletişim Planı: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Veli–Öğretmen İletişim Planı: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Görüşmenin amacını ve ortak hedefini netleştirin. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Veli ve öğretmenin farklı anlatımı",
+        "Önce taraflardan birbirinden bağımsız somut örnekler alın. Öğrenciyi aynı anda iki yetişkinin karşısında kendini savunmaya zorlamadan ortak bir destek davranışı belirleyin."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Tarafların gözlemlerini yorumlardan ayırın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Tarafların gözlemlerini yorumlardan ayırın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Öğrencinin özel bilgilerini gereksiz paylaşmayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Öğrencinin özel bilgilerini gereksiz paylaşmayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Her tarafın yapacağı tek davranışı belirleyin. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Her tarafın yapacağı tek davranışı belirleyin. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Görüşme tarihini ve ilerleme göstergesini kararlaştırın. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Görüşme tarihini ve ilerleme göstergesini kararlaştırın. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Veli ve öğretmen farklı beklentiler dile getirir; öğrencinin yararı için kısa ortak takip notu oluşturulur.",
+    "example": "Veli ve öğretmen farklı beklentiler dile getirir; öğrencinin yararı için kısa ortak takip notu oluşturulur. Önce taraflardan birbirinden bağımsız somut örnekler alın.",
     "check": [
-      "Görüşmenin amacını ve ortak hedefini netleştirin.",
-      "Öğrencinin özel bilgilerini gereksiz paylaşmayın.",
-      "Her tarafın yapacağı tek davranışı belirleyin.",
-      "Görüşme tarihini ve ilerleme göstergesini kararlaştırın."
+      "Önce taraflardan birbirinden bağımsız somut örnekler alın.",
+      "Öğrencinin özel bilgilerini gereksiz paylaşmayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Her tarafın yapacağı tek davranışı belirleyin. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Veli–Öğretmen İletişim Planı çalışmasına nereden başlanır?",
-        "Görüşmenin amacını ve ortak hedefini netleştirin. Tarafların gözlemlerini yorumlardan ayırın."
+        "Veli–Öğretmen İletişim Planı konusunda ilk neyi anlamalıyız?",
+        "Önce taraflardan birbirinden bağımsız somut örnekler alın. Öğrenciyi aynı anda iki yetişkinin karşısında kendini savunmaya zorlamadan ortak bir destek davranışı belirleyin."
       ],
       [
-        "Veli–Öğretmen İletişim Planı sonrasında hangi izleme yapılır?",
-        "Görüşme tarihini ve ilerleme göstergesini kararlaştırın."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Öğrencinin özel bilgilerini gereksiz paylaşmayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Görüşme tarihini ve ilerleme göstergesini kararlaştırın. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -942,44 +942,44 @@
   {
     "slug": "okulda-bep-aile-katilimi",
     "title": "BEP Sürecine Aile Katılımı",
-    "summary": "BEP Sürecine Aile Katılımı: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "BEP Sürecine Aile Katılımı: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Aileyi yalnızca imza aşamasında dahil etmeyin. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "BEP aile katılımında görev ayrımı",
+        "Ailenin gözlediği güçlü yönleri ve okulda görülen performansı ayrı not edin. Sınıf uyarlamasının sorumluluğunu yalnızca aileye bırakmayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Ev ortamındaki destekleri gönüllü biçimde öğrenin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Ev ortamındaki destekleri gönüllü biçimde öğrenin. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Sınıf ve ev koşullarının farklı olabileceğini açıklayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Sınıf ve ev koşullarının farklı olabileceğini açıklayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "BEP ekibiyle uygulanabilir ortak hedef seçin. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "BEP ekibiyle uygulanabilir ortak hedef seçin. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Aile geri bildirimini izleme toplantısında değerlendirin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Aile geri bildirimini izleme toplantısında değerlendirin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Aile evde işe yarayan görsel rutinleri paylaşır; okul bunları sınıf uyarlamasıyla karşılaştırır.",
+    "example": "Aile evde işe yarayan görsel rutinleri paylaşır; okul bunları sınıf uyarlamasıyla karşılaştırır. Ailenin gözlediği güçlü yönleri ve okulda görülen performansı ayrı not edin.",
     "check": [
-      "Aileyi yalnızca imza aşamasında dahil etmeyin.",
-      "Sınıf ve ev koşullarının farklı olabileceğini açıklayın.",
-      "BEP ekibiyle uygulanabilir ortak hedef seçin.",
-      "Aile geri bildirimini izleme toplantısında değerlendirin."
+      "Ailenin gözlediği güçlü yönleri ve okulda görülen performansı ayrı not edin.",
+      "Sınıf ve ev koşullarının farklı olabileceğini açıklayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "BEP ekibiyle uygulanabilir ortak hedef seçin. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "BEP Sürecine Aile Katılımı çalışmasına nereden başlanır?",
-        "Aileyi yalnızca imza aşamasında dahil etmeyin. Ev ortamındaki destekleri gönüllü biçimde öğrenin."
+        "BEP Sürecine Aile Katılımı konusunda ilk neyi anlamalıyız?",
+        "Ailenin gözlediği güçlü yönleri ve okulda görülen performansı ayrı not edin. Sınıf uyarlamasının sorumluluğunu yalnızca aileye bırakmayın."
       ],
       [
-        "BEP Sürecine Aile Katılımı sonrasında hangi izleme yapılır?",
-        "Aile geri bildirimini izleme toplantısında değerlendirin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Sınıf ve ev koşullarının farklı olabileceğini açıklayın. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Aile geri bildirimini izleme toplantısında değerlendirin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -989,44 +989,44 @@
   {
     "slug": "ram-yonlendirme-oncesi-ogretmen-gozlemi",
     "title": "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi",
-    "summary": "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Gözlemi etiket değil davranış olarak yazın. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "RAM öncesi gözlem niteliği",
+        "'Dikkatsiz' etiketi yerine hangi yönergede kaç dakika destek gerektiğini kaydedin. Gözlem klinik tanı yerine öğrenme ihtiyacını somutlaştırmak için kullanılmalıdır."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Farklı ders ve ortamlarda örnek toplayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Farklı ders ve ortamlarda örnek toplayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Denenen sınıf uyarlamalarını belirtin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Denenen sınıf uyarlamalarını belirtin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Aileyle mevzuata uygun bilgilendirme yapın. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Aileyle mevzuata uygun bilgilendirme yapın. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Yetkili değerlendirme sonucuna göre desteği güncelleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Yetkili değerlendirme sonucuna göre desteği güncelleyin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Öğretmen 'dikkatsiz' demek yerine görev süresi, yönerge türü ve kullanılan desteği kaydeder.",
+    "example": "Öğretmen 'dikkatsiz' demek yerine görev süresi, yönerge türü ve kullanılan desteği kaydeder. 'Dikkatsiz' etiketi yerine hangi yönergede kaç dakika destek gerektiğini kaydedin.",
     "check": [
-      "Gözlemi etiket değil davranış olarak yazın.",
-      "Denenen sınıf uyarlamalarını belirtin.",
-      "Aileyle mevzuata uygun bilgilendirme yapın.",
-      "Yetkili değerlendirme sonucuna göre desteği güncelleyin."
+      "'Dikkatsiz' etiketi yerine hangi yönergede kaç dakika destek gerektiğini kaydedin.",
+      "Denenen sınıf uyarlamalarını belirtin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Aileyle mevzuata uygun bilgilendirme yapın. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi çalışmasına nereden başlanır?",
-        "Gözlemi etiket değil davranış olarak yazın. Farklı ders ve ortamlarda örnek toplayın."
+        "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi konusunda ilk neyi anlamalıyız?",
+        "'Dikkatsiz' etiketi yerine hangi yönergede kaç dakika destek gerektiğini kaydedin. Gözlem klinik tanı yerine öğrenme ihtiyacını somutlaştırmak için kullanılmalıdır."
       ],
       [
-        "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi sonrasında hangi izleme yapılır?",
-        "Yetkili değerlendirme sonucuna göre desteği güncelleyin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Denenen sınıf uyarlamalarını belirtin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Yetkili değerlendirme sonucuna göre desteği güncelleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -1036,44 +1036,44 @@
   {
     "slug": "ogrencide-sorumluluk-geri-kazandirma",
     "title": "Öğrencide Sorumluluğu Yeniden Kurma",
-    "summary": "Öğrencide Sorumluluğu Yeniden Kurma: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Öğrencide Sorumluluğu Yeniden Kurma: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Sorumluluk davranışını somut durumla tanımlayın. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Sorumluluğu yeniden kurma",
+        "Sık unutulan görevin başlangıç ve bitiş adımlarını öğrenciyle belirleyin. Görsel listeyi yetişkinin sürekli kontrol etmesi yerine öğrencinin kendisinin işaretlemesini destekleyin."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Görevin ve yönergenin anlaşılır olup olmadığını sorun. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Görevin ve yönergenin anlaşılır olup olmadığını sorun. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Hatırlatıcı ve küçük planlama desteği deneyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Hatırlatıcı ve küçük planlama desteği deneyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Aile ve öğretmenin aşırı kontrolünden kaçının. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Aile ve öğretmenin aşırı kontrolünden kaçının. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Öğrencinin bağımsız yapabildiği adımı izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Öğrencinin bağımsız yapabildiği adımı izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Sürekli ödevini unutan öğrenciyle kısa kontrol listesi geliştirilir; unutma karakter kusuru sayılmaz.",
+    "example": "Sürekli ödevini unutan öğrenciyle kısa kontrol listesi geliştirilir; unutma karakter kusuru sayılmaz. Sık unutulan görevin başlangıç ve bitiş adımlarını öğrenciyle belirleyin.",
     "check": [
-      "Sorumluluk davranışını somut durumla tanımlayın.",
-      "Hatırlatıcı ve küçük planlama desteği deneyin.",
-      "Aile ve öğretmenin aşırı kontrolünden kaçının.",
-      "Öğrencinin bağımsız yapabildiği adımı izleyin."
+      "Sık unutulan görevin başlangıç ve bitiş adımlarını öğrenciyle belirleyin.",
+      "Hatırlatıcı ve küçük planlama desteği deneyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Aile ve öğretmenin aşırı kontrolünden kaçının. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Öğrencide Sorumluluğu Yeniden Kurma çalışmasına nereden başlanır?",
-        "Sorumluluk davranışını somut durumla tanımlayın. Görevin ve yönergenin anlaşılır olup olmadığını sorun."
+        "Öğrencide Sorumluluğu Yeniden Kurma konusunda ilk neyi anlamalıyız?",
+        "Sık unutulan görevin başlangıç ve bitiş adımlarını öğrenciyle belirleyin. Görsel listeyi yetişkinin sürekli kontrol etmesi yerine öğrencinin kendisinin işaretlemesini destekleyin."
       ],
       [
-        "Öğrencide Sorumluluğu Yeniden Kurma sonrasında hangi izleme yapılır?",
-        "Öğrencinin bağımsız yapabildiği adımı izleyin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Hatırlatıcı ve küçük planlama desteği deneyin. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Öğrencinin bağımsız yapabildiği adımı izleyin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -1083,44 +1083,44 @@
   {
     "slug": "okulda-ogrenci-gorusme-kaydi",
     "title": "Öğrenci Görüşme Kaydı Hazırlama",
-    "summary": "Öğrenci Görüşme Kaydı Hazırlama: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Öğrenci Görüşme Kaydı Hazırlama: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Kaydın amacını ve kurumun yükümlülüğünü doğrulayın. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Görüşme kaydını sınırlama",
+        "Kayda tarih, görüşme amacı, gerekli destek kararı ve takip sorumlusunu ekleyin. Öğrencinin özel anlatımını gereksiz ayrıntıyla ortak sistemlere aktarmayın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Yalnızca gerekli bilgiyi ve gözlenebilir olguyu yazın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Yalnızca gerekli bilgiyi ve gözlenebilir olguyu yazın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "Tanı veya kesin yargı içeren etiketlerden kaçının. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "Tanı veya kesin yargı içeren etiketlerden kaçının. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Görüşme kaydını yetkisiz erişime kapatın. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Görüşme kaydını yetkisiz erişime kapatın. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Takip tarihi ve sorumluluğu net biçimde belirtin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Takip tarihi ve sorumluluğu net biçimde belirtin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Görüşme notu hazırlanırken kişisel ayrıntı yerine başvuru nedeni, kararlaştırılan destek ve takip tarihi yazılır.",
+    "example": "Görüşme notu hazırlanırken kişisel ayrıntı yerine başvuru nedeni, kararlaştırılan destek ve takip tarihi yazılır. Kayda tarih, görüşme amacı, gerekli destek kararı ve takip sorumlusunu ekleyin.",
     "check": [
-      "Kaydın amacını ve kurumun yükümlülüğünü doğrulayın.",
-      "Tanı veya kesin yargı içeren etiketlerden kaçının.",
-      "Görüşme kaydını yetkisiz erişime kapatın.",
-      "Takip tarihi ve sorumluluğu net biçimde belirtin."
+      "Kayda tarih, görüşme amacı, gerekli destek kararı ve takip sorumlusunu ekleyin.",
+      "Tanı veya kesin yargı içeren etiketlerden kaçının. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Görüşme kaydını yetkisiz erişime kapatın. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Öğrenci Görüşme Kaydı Hazırlama çalışmasına nereden başlanır?",
-        "Kaydın amacını ve kurumun yükümlülüğünü doğrulayın. Yalnızca gerekli bilgiyi ve gözlenebilir olguyu yazın."
+        "Öğrenci Görüşme Kaydı Hazırlama konusunda ilk neyi anlamalıyız?",
+        "Kayda tarih, görüşme amacı, gerekli destek kararı ve takip sorumlusunu ekleyin. Öğrencinin özel anlatımını gereksiz ayrıntıyla ortak sistemlere aktarmayın."
       ],
       [
-        "Öğrenci Görüşme Kaydı Hazırlama sonrasında hangi izleme yapılır?",
-        "Takip tarihi ve sorumluluğu net biçimde belirtin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "Tanı veya kesin yargı içeren etiketlerden kaçının. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Takip tarihi ve sorumluluğu net biçimde belirtin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
@@ -1130,44 +1130,44 @@
   {
     "slug": "okulda-saglikli-rekabet",
     "title": "Okulda Sağlıklı Rekabet ve İş Birliği",
-    "summary": "Okulda Sağlıklı Rekabet ve İş Birliği: okul rehberlik hizmetlerinde somut gözlem, öğrenci yararı ve güvenli takip için uygulama rehberi.",
+    "summary": "Okulda Sağlıklı Rekabet ve İş Birliği: somut okul örneği, güvenli öğrenci görüşmesi, uygulanabilir adımlar ve takip ölçütleri.",
     "sections": [
       [
-        "İlk görüşmede neye bakılır?",
-        "Rekabetin hangi öğrencileri etkilediğini gözleyin. Yorum yapmadan önce öğrencinin kendi anlatımını da dikkate alın."
+        "Sağlıklı rekabetin koşulları",
+        "Başarı panosunda akranları sınıf önünde sıralamak yerine öğrencilerin kendi önceki çalışmalarına göre ilerlemesini değerlendirin. Ortak öğrenme ve karşılıklı yardım davranışlarını görünür kılın."
       ],
       [
-        "Güvenli değerlendirmede dikkat edilecekler",
-        "Öğrencileri isim ve puanla kamuya açık sıralamayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır."
+        "Güvenlik ve öğrencinin katılımı",
+        "Öğrencileri isim ve puanla kamuya açık sıralamayın. Mahremiyet ve yaşa uygun yaklaşım bu aşamada korunmalıdır. Öğrencinin kendi anlatımını ve paylaşım sınırlarını gözeterek değerlendirme yapın."
       ],
       [
-        "Uygulamada izlenecek yol",
-        "İş birliğine dayalı alternatif hedefler oluşturun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın."
+        "Okulda uygulanacak ilk adım",
+        "İş birliğine dayalı alternatif hedefler oluşturun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Uygulamanın gözlenebilir sonucunu ve öğrencinin hangi konuda destek istediğini belirleyin."
       ],
       [
-        "Okul ve aile iş birliği",
-        "Başarıyı kişisel başlangıçla karşılaştırın. Paylaşımı destek için gerekli bilgiyle sınırlayın."
+        "Öğretmen ve aileyle iş birliği",
+        "Başarıyı kişisel başlangıçla karşılaştırın. Paylaşımı destek için gerekli bilgiyle sınırlayın. Paylaşımı yalnızca ilgili görev ve güvenlik gereksinimiyle sınırlandırın."
       ],
       [
-        "İzleme ve gerektiğinde yönlendirme",
-        "Katılım ve aidiyetteki değişimi değerlendirin. Destek planını değişen ihtiyaçlara göre güncelleyin."
+        "İzleme için somut göstergeler",
+        "Katılım ve aidiyetteki değişimi değerlendirin. Destek planını değişen ihtiyaçlara göre güncelleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
       ]
     ],
-    "example": "Sınıf başarı panosunda son sırada kalan öğrenciler rahatsız olur; sınıf kendi ilerleme hedefleriyle çalışır.",
+    "example": "Sınıf başarı panosunda son sırada kalan öğrenciler rahatsız olur; sınıf kendi ilerleme hedefleriyle çalışır. Başarı panosunda akranları sınıf önünde sıralamak yerine öğrencilerin kendi önceki çalışmalarına göre ilerlemesini değerlendirin.",
     "check": [
-      "Rekabetin hangi öğrencileri etkilediğini gözleyin.",
-      "İş birliğine dayalı alternatif hedefler oluşturun.",
-      "Başarıyı kişisel başlangıçla karşılaştırın.",
-      "Katılım ve aidiyetteki değişimi değerlendirin."
+      "Başarı panosunda akranları sınıf önünde sıralamak yerine öğrencilerin kendi önceki çalışmalarına göre ilerlemesini değerlendirin.",
+      "İş birliğine dayalı alternatif hedefler oluşturun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",
+      "Başarıyı kişisel başlangıçla karşılaştırın. Paylaşımı destek için gerekli bilgiyle sınırlayın.",
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
     ],
     "faq": [
       [
-        "Okulda Sağlıklı Rekabet ve İş Birliği çalışmasına nereden başlanır?",
-        "Rekabetin hangi öğrencileri etkilediğini gözleyin. Öğrencileri isim ve puanla kamuya açık sıralamayın."
+        "Okulda Sağlıklı Rekabet ve İş Birliği konusunda ilk neyi anlamalıyız?",
+        "Başarı panosunda akranları sınıf önünde sıralamak yerine öğrencilerin kendi önceki çalışmalarına göre ilerlemesini değerlendirin. Ortak öğrenme ve karşılıklı yardım davranışlarını görünür kılın."
       ],
       [
-        "Okulda Sağlıklı Rekabet ve İş Birliği sonrasında hangi izleme yapılır?",
-        "Katılım ve aidiyetteki değişimi değerlendirin."
+        "Okulda ilk destek adımı ne olmalı?",
+        "İş birliğine dayalı alternatif hedefler oluşturun. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın. Katılım ve aidiyetteki değişimi değerlendirin. Destek planını değişen ihtiyaçlara göre güncelleyin."
       ]
     ],
     "search_terms": [
