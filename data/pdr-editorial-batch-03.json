@@ -2,11 +2,15 @@
   {
     "slug": "akran-catismasi-arabuluculuk-sinirlari",
     "title": "Akran Çatışması: Okulda Güvenli Çözüm Yolları",
-    "summary": "Öğrenciler arası anlaşmazlıkları zorbalıktan ayırıp güvenli çözüm ve izleme adımlarını planlama.",
+    "summary": "Öğrenciler arası anlaşmazlıkları zorbalıktan ayırıp güvenli çözüm ve izleme adımlarını planlama. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Önce güvenliği değerlendir",
         "Tarafları ayrı dinleyerek fiziksel zarar, tehdit, süreklilik ve güç dengesizliği işaretlerini belirle. Güvenlik riski varsa ortak görüşmeyle başlama."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Akranlar arasında küçük anlaşmazlık ile tekrar eden zorbalık aynı değildir. Güç farkı, korku veya tehdit varsa ortak arabuluculuk yerine koruyucu süreç önceliklendirilmelidir."
       ],
       [
         "Çatışmanın bağlamını anla",
@@ -25,12 +29,12 @@
         "Öğrencilerin güvenliğini ve anlaşmanın uygulanmasını ayrı görüşmelerle değerlendir; gerekirse okulun koruma süreçlerini işlet."
       ]
     ],
-    "example": "İki öğrenci ortak çalışma sırasında birbirine bağırdığını bildirir. Ayrı görüşmelerde süreklilik ve güç dengesizliği bulunmazsa gönüllü ortak çözüm görüşmesi planlanır; bir hafta sonra ayrı ayrı takip edilir.",
+    "example": "İki öğrenci ortak çalışma sırasında birbirine bağırdığını bildirir. Ayrı görüşmelerde süreklilik ve güç dengesizliği bulunmazsa gönüllü ortak çözüm görüşmesi planlanır; bir hafta sonra ayrı ayrı takip edilir. Akranlar arasında küçük anlaşmazlık ile tekrar eden zorbalık aynı değildir.",
     "check": [
       "Güç dengesizliği değerlendirildi mi?",
       "Taraflar ayrı ayrı dinlendi mi?",
       "Ortak görüşme gönüllü ve güvenli mi?",
-      "Takip tarihi belirlendi mi?"
+      "Akranlar arasında küçük anlaşmazlık ile tekrar eden zorbalık aynı değildir."
     ],
     "faq": [
       [
@@ -38,12 +42,8 @@
         "Hayır. Zorbalık veya güç dengesizliği varsa otomatik yüzleştirme güvenli değildir."
       ],
       [
-        "Öğrencileri hemen barıştırmalı mıyız?",
-        "Önce güvenlik ve ihtiyaçlar değerlendirilir"
-      ],
-      [
-        " hızlı barıştırma baskısı uygulanmaz",
-        " hızlı barıştırma baskısı uygulanmaz."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Akranlar arasında küçük anlaşmazlık ile tekrar eden zorbalık aynı değildir. Güç farkı, korku veya tehdit varsa ortak arabuluculuk yerine koruyucu süreç önceliklendirilmelidir."
       ]
     ],
     "search_terms": [
@@ -55,11 +55,15 @@
   {
     "slug": "okulda-ofke-duzenleme-etkinligi",
     "title": "Öfke Düzenleme: Sınıf Rehberliği Etkinliği",
-    "summary": "Öfkeyi bastırmadan tanıma, güvenli ifade ve davranış seçenekleri geliştirme odaklı sınıf etkinliği.",
+    "summary": "Öfkeyi bastırmadan tanıma, güvenli ifade ve davranış seçenekleri geliştirme odaklı sınıf etkinliği. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Hedefi ayır",
         "Öfke duygusuyla zarar verici davranışın farklı olduğunu açıklamayı hedefle; öğrencileri öfkeli/öfkeli olmayan diye ayırma."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Öfke duygusu ile zarar veren davranışı ayırın. Öğrenciler kurgusal oyunda kızgınlık yaşayan karakter için uzaklaşma, yardım isteme ve sözlü ifade seçenekleri üretsin."
       ],
       [
         "Güvenli giriş yap",
@@ -78,12 +82,12 @@
         "Öğrenciler bir güvenli seçenek yazar; yoğun saldırganlık veya güvenlik riski varsa bireysel destek ve ilgili süreçleri ayrıca ele al."
       ]
     ],
-    "example": "Bir sınıfta teneffüs anlaşmazlıkları sıklaşmıştır. Kurgusal bir arkadaşlık senaryosu üzerinde öğrencilere üç güvenli tepki seçeneği sordurulur; sınıf sonunda yardım isteme yolları hatırlatılır.",
+    "example": "Bir sınıfta teneffüs anlaşmazlıkları sıklaşmıştır. Kurgusal bir arkadaşlık senaryosu üzerinde öğrencilere üç güvenli tepki seçeneği sordurulur; sınıf sonunda yardım isteme yolları hatırlatılır. Öfke duygusu ile zarar veren davranışı ayırın.",
     "check": [
       "Duygu ve davranış ayrımı kuruldu mu?",
       "Etkinlikte gerçek öğrenci hedef gösterilmiyor mu?",
       "Güvenli seçenekler öğretildi mi?",
-      "Takip ihtiyacı belirlendi mi?"
+      "Öfke duygusu ile zarar veren davranışı ayırın."
     ],
     "faq": [
       [
@@ -91,8 +95,8 @@
         "Hayır. Önemli olan duyguyu tanımak ve zarar vermeden davranış seçebilmektir."
       ],
       [
-        "Sınıf etkinliği bireysel müdahalenin yerini alır mı?",
-        "Hayır. Süreğen veya riskli durumlarda ayrıca bireysel değerlendirme gerekir."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Öfke duygusu ile zarar veren davranışı ayırın. Öğrenciler kurgusal oyunda kızgınlık yaşayan karakter için uzaklaşma, yardım isteme ve sözlü ifade seçenekleri üretsin."
       ]
     ],
     "search_terms": [
@@ -104,11 +108,15 @@
   {
     "slug": "okulda-ozguven-destekleme",
     "title": "Özgüven ve Öz Yeterlik: Öğrenciye Destek",
-    "summary": "Öğrencinin güçlü yönlerini görmesini ve başarılabilir deneyimler oluşturmasını destekleyen okul temelli yaklaşım.",
+    "summary": "Öğrencinin güçlü yönlerini görmesini ve başarılabilir deneyimler oluşturmasını destekleyen okul temelli yaklaşım. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Özgüveni tek puana indirgeme",
         "Öğrencinin kendisiyle ilgili anlatımı bağlama göre değişebilir. Güçlü yönleri, okul yaşantısını ve zorlandığı durumları birlikte değerlendir."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Özgüven çalışmasında her öğrenciye sınıfta konuşma zorunluluğu yüklemeyin. Öğrencinin kendi seçtiği küçük grup veya yazılı katılım adımını izleyin."
       ],
       [
         "Somut güçlü yönleri keşfet",
@@ -127,12 +135,12 @@
         "Öğrencinin yeni deneyimini ve zorlandığı noktaları konuş; belirgin duygusal zorlanmalarda uygun uzman desteğini değerlendir."
       ]
     ],
-    "example": "Sınıfta söz almaktan kaçınan öğrenciyle ilk hafta için gönüllü olarak bir küçük grup tartışmasında fikir paylaşma hedefi seçilir; ardından nasıl hissettiği konuşulur.",
+    "example": "Sınıfta söz almaktan kaçınan öğrenciyle ilk hafta için gönüllü olarak bir küçük grup tartışmasında fikir paylaşma hedefi seçilir; ardından nasıl hissettiği konuşulur. Özgüven çalışmasında her öğrenciye sınıfta konuşma zorunluluğu yüklemeyin.",
     "check": [
       "Güçlü yönler somut mu?",
       "Hedef öğrenci tarafından seçildi mi?",
       "Karşılaştırıcı dil kullanılmadı mı?",
-      "İlerleme takip edildi mi?"
+      "Özgüven çalışmasında her öğrenciye sınıfta konuşma zorunluluğu yüklemeyin."
     ],
     "faq": [
       [
@@ -140,8 +148,8 @@
         "Genel övgü yerine somut ilerleme ve strateji geri bildirimi daha işlevsel olabilir."
       ],
       [
-        "Özgüven sorunu tanı mıdır?",
-        "Hayır. Bağlam ve işlevsellik ayrıca değerlendirilir."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Özgüven çalışmasında her öğrenciye sınıfta konuşma zorunluluğu yüklemeyin. Öğrencinin kendi seçtiği küçük grup veya yazılı katılım adımını izleyin."
       ]
     ],
     "search_terms": [
@@ -153,11 +161,15 @@
   {
     "slug": "okulda-empati-gelistirme",
     "title": "Empati Geliştirme: İlkokul ve Ortaokul Etkinlikleri",
-    "summary": "Öğrencilerin farklı bakış açılarını anlamasını ve saygılı iletişimi destekleyen sınıf çalışması tasarımı.",
+    "summary": "Öğrencilerin farklı bakış açılarını anlamasını ve saygılı iletişimi destekleyen sınıf çalışması tasarımı. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Yaşa uygun kazanım belirle",
         "Etkinliğin hedefini ‘başkasının yaşadığını tahmin edebilmek’ gibi gözlenebilir bir beceriyle sınırla."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Empati, incitici davranışı haklı görmek değildir. Kurgusal sınıf olayında bakış açısını anlamayla zorbalığı önleme sorumluluğunu ayrı değerlendirin."
       ],
       [
         "Kurgusal durum kullan",
@@ -176,12 +188,12 @@
         "Sınıfta farklı fikri dinlemek için uygulanabilir tek davranış seç; sonraki etkinlikte gözlemle."
       ]
     ],
-    "example": "Altıncı sınıfta grup çalışmasında dışlanan kurgusal bir öğrenci anlatılır. Gruplar olayda yer alan kişilerin olası bakış açılarını ve güvenli yardım seçeneklerini yazar.",
+    "example": "Altıncı sınıfta grup çalışmasında dışlanan kurgusal bir öğrenci anlatılır. Gruplar olayda yer alan kişilerin olası bakış açılarını ve güvenli yardım seçeneklerini yazar. Empati, incitici davranışı haklı görmek değildir.",
     "check": [
       "Kurgusal örnek kullanıldı mı?",
       "Birden fazla bakış açısı sunuldu mu?",
       "Kimse paylaşmaya zorlanmadı mı?",
-      "Günlük davranışa aktarım var mı?"
+      "Empati, incitici davranışı haklı görmek değildir."
     ],
     "faq": [
       [
@@ -189,8 +201,8 @@
         "Hayır. Başka birinin deneyimini anlamaya çalışmak, her davranışı onaylamak değildir."
       ],
       [
-        "Kişisel anıları paylaşmak gerekir mi?",
-        "Hayır. Kurgusal örnekler güvenli bir alternatiftir."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Empati, incitici davranışı haklı görmek değildir. Kurgusal sınıf olayında bakış açısını anlamayla zorbalığı önleme sorumluluğunu ayrı değerlendirin."
       ]
     ],
     "search_terms": [
@@ -202,11 +214,15 @@
   {
     "slug": "guvenli-internet-veli-semineri",
     "title": "Güvenli İnternet Kullanımı: Veli Semineri Planı",
-    "summary": "Ailelerle ekran kullanımı, dijital güvenlik ve yardım isteme yollarını çatışmayı artırmadan ele alma rehberi.",
+    "summary": "Ailelerle ekran kullanımı, dijital güvenlik ve yardım isteme yollarını çatışmayı artırmadan ele alma rehberi. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Hedef kitleyi ve amacı belirle",
         "Velilerin çocuklarının yaş grubuna ilişkin sorularını ve okulun gözlemlediği ihtiyaçları topla."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Aile dijital güvenliği seminerinde yalnızca süre sınırı değil kişisel veri, izinsiz paylaşım ve güvenilir yetişkin başvurusu da ele alınmalıdır."
       ],
       [
         "Suçlayıcı dilden kaçın",
@@ -225,12 +241,12 @@
         "Velilerden bir ev içi iletişim adımı seçmelerini iste; sorun yaşayan ailelere uygun destek kanallarını belirt."
       ]
     ],
-    "example": "Veliler ekran konusunda sık tartışma yaşadıklarını anlatır. Seminerde ‘yasakla/serbest bırak’ ikiliği yerine ortak aile kuralları ve çevrim içi güvenlik için senaryolar çalışılır.",
+    "example": "Veliler ekran konusunda sık tartışma yaşadıklarını anlatır. Seminerde ‘yasakla/serbest bırak’ ikiliği yerine ortak aile kuralları ve çevrim içi güvenlik için senaryolar çalışılır. Aile dijital güvenliği seminerinde yalnızca süre sınırı değil kişisel veri, izinsiz paylaşım ve güvenilir yetişkin başvurusu da ele alınmalıdır.",
     "check": [
       "Yaş grubu dikkate alındı mı?",
       "Gizlilik ve güvenlik örnekleri var mı?",
       "Aile planı uygulanabilir mi?",
-      "Yardım kanalları anlatıldı mı?"
+      "Aile dijital güvenliği seminerinde yalnızca süre sınırı değil kişisel veri, izinsiz paylaşım ve güvenilir yetişkin başvurusu da ele alınmalıdır."
     ],
     "faq": [
       [
@@ -238,8 +254,8 @@
         "Hayır. Kullanımın niteliği, günlük işlevsellik ve aile ilişkileri birlikte değerlendirilir."
       ],
       [
-        "Aileler şifreleri bilmek zorunda mıdır?",
-        "Yaş, güvenlik ve mahremiyet dengesi içinde aile içi açık iletişim geliştirilmelidir."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Aile dijital güvenliği seminerinde yalnızca süre sınırı değil kişisel veri, izinsiz paylaşım ve güvenilir yetişkin başvurusu da ele alınmalıdır."
       ]
     ],
     "search_terms": [
@@ -251,11 +267,15 @@
   {
     "slug": "okulda-yas-ve-kayip-destegi",
     "title": "Okulda Yas ve Kayıp: Öğrenciye Duyarlı Destek",
-    "summary": "Kayıp yaşayan öğrencinin güvenliğini, rutinlerini ve destek ihtiyacını gözeten okul temelli yaklaşım.",
+    "summary": "Kayıp yaşayan öğrencinin güvenliğini, rutinlerini ve destek ihtiyacını gözeten okul temelli yaklaşım. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Bilgiyi ve ihtiyacı doğrula",
         "Duyumlarla hareket etme. Aile ve ilgili yetkililerle uygun çerçevede iletişim kurarak öğrencinin ihtiyacını öğren."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Yas yaşayan öğrencinin kayıp öyküsünü sınıf önünde açıklamasını istemeyin. Ders yükü ve destek ihtiyacını aile, öğrenci ve okul arasında mahremiyetle düzenleyin."
       ],
       [
         "Tek tip yas tepkisi bekleme",
@@ -274,12 +294,12 @@
         "İşlevsellikte ciddi değişim veya güvenlik riski varsa okul prosedürleri ve uygun uzman desteğini devreye al."
       ]
     ],
-    "example": "Kayıp yaşayan öğrencinin öğretmeni ders katılımında değişiklik bildirmiştir. Öğrencinin tercih ettiği ölçüde görüşme yapılır; sınıf içi destek ve takip planı aileyle uyumlu şekilde belirlenir.",
+    "example": "Kayıp yaşayan öğrencinin öğretmeni ders katılımında değişiklik bildirmiştir. Öğrencinin tercih ettiği ölçüde görüşme yapılır; sınıf içi destek ve takip planı aileyle uyumlu şekilde belirlenir. Yas yaşayan öğrencinin kayıp öyküsünü sınıf önünde açıklamasını istemeyin.",
     "check": [
       "Aileyle uygun iletişim kuruldu mu?",
       "Öğrenci konuşmaya zorlanmıyor mu?",
       "Mahremiyet korundu mu?",
-      "Takip ve yönlendirme planı var mı?"
+      "Yas yaşayan öğrencinin kayıp öyküsünü sınıf önünde açıklamasını istemeyin."
     ],
     "faq": [
       [
@@ -287,8 +307,8 @@
         "Hayır. Tepkiler kişiden kişiye değişir."
       ],
       [
-        "Sınıfta kayıp olayı herkese anlatılmalı mı?",
-        "Öğrenci ve ailenin mahremiyeti, güvenlik ve kurum süreçleri gözetilmelidir."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Yas yaşayan öğrencinin kayıp öyküsünü sınıf önünde açıklamasını istemeyin. Ders yükü ve destek ihtiyacını aile, öğrenci ve okul arasında mahremiyetle düzenleyin."
       ]
     ],
     "search_terms": [
@@ -300,11 +320,15 @@
   {
     "slug": "saglikli-akran-iliskileri-etkinligi",
     "title": "Sağlıklı Akran İlişkileri: Sınıf Etkinliği",
-    "summary": "Akran ilişkilerinde sınır koyma, saygı ve yardım istemeyi geliştiren güvenli etkinlik rehberi.",
+    "summary": "Akran ilişkilerinde sınır koyma, saygı ve yardım istemeyi geliştiren güvenli etkinlik rehberi. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "İlişki hedefini belirle",
         "Arkadaşlıkta saygı, sınırlar ve dışlamayı fark etme gibi tek bir beceriyi seç."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Kapsayıcı oyun, hedef öğrencinin istemediği bir gruba zorla yerleştirilmesi değildir. Gönüllülük ve dönüşümlü rol kurallarını açıklayın."
       ],
       [
         "Kapsayıcı kurgusal örnek sun",
@@ -323,12 +347,12 @@
         "Gözlenebilir bir davranış hedefi seç ve iki hafta sonra öğretmenle değerlendir."
       ]
     ],
-    "example": "Dördüncü sınıfta bir grup oyuna katılım sorunu yaşanıyor. İsim verilmeden oluşturulan kurgusal kartlarda öğrenciler kapsayıcı ve sınır gözeten cümleleri çalışıyor.",
+    "example": "Dördüncü sınıfta bir grup oyuna katılım sorunu yaşanıyor. İsim verilmeden oluşturulan kurgusal kartlarda öğrenciler kapsayıcı ve sınır gözeten cümleleri çalışıyor. Kapsayıcı oyun, hedef öğrencinin istemediği bir gruba zorla yerleştirilmesi değildir.",
     "check": [
       "Etkinlik güvenli mi?",
       "Sınır koyma dili öğretildi mi?",
       "Yardım kanalları açıklandı mı?",
-      "Takip kararlaştırıldı mı?"
+      "Kapsayıcı oyun, hedef öğrencinin istemediği bir gruba zorla yerleştirilmesi değildir."
     ],
     "faq": [
       [
@@ -336,12 +360,8 @@
         "Hayır. Saygılı davranmak herkes için beklenebilir"
       ],
       [
-        " yakın arkadaşlık zorlanamaz",
-        " yakın arkadaşlık zorlanamaz."
-      ],
-      [
-        "Dışlanan öğrenci sınıfta örnek gösterilir mi?",
-        "Hayır. Bu yaklaşım damgalama riskini artırır."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Kapsayıcı oyun, hedef öğrencinin istemediği bir gruba zorla yerleştirilmesi değildir. Gönüllülük ve dönüşümlü rol kurallarını açıklayın."
       ]
     ],
     "search_terms": [
@@ -353,11 +373,15 @@
   {
     "slug": "ogrenci-gorusmesi-ilk-oturum",
     "title": "Öğrenciyle İlk Görüşme: Güven, Amaç ve Sınırlar",
-    "summary": "Okul rehberlik servisinde öğrenciyle yapılan ilk görüşmeyi yapılandırmak için uygulama rehberi.",
+    "summary": "Okul rehberlik servisinde öğrenciyle yapılan ilk görüşmeyi yapılandırmak için uygulama rehberi. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Görüşmenin çerçevesini açıkla",
         "Görüşmenin amacı, süresi, gönüllülük ve gizliliğin sınırlarını öğrenciye yaşına uygun biçimde anlat."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "İlk görüşmede öğrencinin kendisini güvende hissetmesine ve görüşmenin amacını anlamasına öncelik verin. Güvenlik istisnası olan durumlarda koşulsuz gizlilik sözü vermeyin."
       ],
       [
         "İlişki kurmaya zaman ayır",
@@ -376,12 +400,12 @@
         "Güvenlik riski varsa gizlilik sınırları kapsamında ilgili prosedürleri uygula; takip tarihini netleştir."
       ]
     ],
-    "example": "Öğrenci sınıf arkadaşlarıyla sorun yaşadığını söyleyerek gelir. Önce görüşme sınırları açıklanır, ardından öğrencinin hangi durumlarda zorlandığı konuşulur ve sonraki görüşme amacı birlikte seçilir.",
+    "example": "Öğrenci sınıf arkadaşlarıyla sorun yaşadığını söyleyerek gelir. Önce görüşme sınırları açıklanır, ardından öğrencinin hangi durumlarda zorlandığı konuşulur ve sonraki görüşme amacı birlikte seçilir. İlk görüşmede öğrencinin kendisini güvende hissetmesine ve görüşmenin amacını anlamasına öncelik verin.",
     "check": [
       "Gizlilik sınırları açıklandı mı?",
       "Öğrenci kendi amaçlarını ifade etti mi?",
       "Somut sonraki adım var mı?",
-      "Risk değerlendirildi mi?"
+      "İlk görüşmede öğrencinin kendisini güvende hissetmesine ve görüşmenin amacını anlamasına öncelik verin."
     ],
     "faq": [
       [
@@ -389,8 +413,8 @@
         "Hayır. Güvenli ilişki ve ortak amaç oluşturmak değerli bir başlangıçtır."
       ],
       [
-        "Gizlilik sınırsız mıdır?",
-        "Hayır. Güvenlik ve ilgili yasal yükümlülükler kapsamında sınırlar vardır."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "İlk görüşmede öğrencinin kendisini güvende hissetmesine ve görüşmenin amacını anlamasına öncelik verin. Güvenlik istisnası olan durumlarda koşulsuz gizlilik sözü vermeyin."
       ]
     ],
     "search_terms": [
@@ -402,11 +426,15 @@
   {
     "slug": "okulda-sinir-koyma-becerileri",
     "title": "Sınır Koyma Becerileri: Öğrenci Etkinlikleri",
-    "summary": "Öğrencilerin kişisel sınırları tanıma, hayır diyebilme ve yardım isteme becerilerini destekleyen rehber.",
+    "summary": "Öğrencilerin kişisel sınırları tanıma, hayır diyebilme ve yardım isteme becerilerini destekleyen rehber. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Kişisel sınır kavramını tanıt",
         "Sınırların bedensel, duygusal ve dijital alanlarda farklı biçimlerde yaşanabileceğini kurgusal örneklerle açıkla."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Kişisel eşya, fiziksel alan ve dijital görsel paylaşımında sınır koyma aynı cümleyle öğretilmeyebilir. Kurgusal farklı durumlar için net reddetme ve destek yolu önerin."
       ],
       [
         "Güvenli sınıf kuralları oluştur",
@@ -425,12 +453,12 @@
         "Bir sonraki hafta uygun bir senaryo ile cümleleri tekrar ederek öğrenmeyi değerlendir."
       ]
     ],
-    "example": "Ortaokul grubunda bir arkadaşın fotoğraf paylaşma baskısı kurgusal olay olarak ele alınır. Öğrenciler saygılı ret cümleleri ve yardım isteme seçenekleri yazar.",
+    "example": "Ortaokul grubunda bir arkadaşın fotoğraf paylaşma baskısı kurgusal olay olarak ele alınır. Öğrenciler saygılı ret cümleleri ve yardım isteme seçenekleri yazar. Kişisel eşya, fiziksel alan ve dijital görsel paylaşımında sınır koyma aynı cümleyle öğretilmeyebilir.",
     "check": [
       "Sınır türleri açıklandı mı?",
       "Özel deneyim paylaşımı zorlanmıyor mu?",
       "Yardım isteme yolu biliniyor mu?",
-      "Riskli açıklamalar için prosedür hazır mı?"
+      "Kişisel eşya, fiziksel alan ve dijital görsel paylaşımında sınır koyma aynı cümleyle öğretilmeyebilir."
     ],
     "faq": [
       [
@@ -438,12 +466,8 @@
         "Hayır. Kişisel sınırlarını güvenli biçimde ifade etmek saygılı bir iletişim becerisidir."
       ],
       [
-        "Öğrenci sınır koyamazsa suçlu mudur?",
-        "Hayır. Güvenlik sorumluluğu öğrenciye yüklenmez"
-      ],
-      [
-        " yetişkin desteği sağlanır",
-        " yetişkin desteği sağlanır."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Kişisel eşya, fiziksel alan ve dijital görsel paylaşımında sınır koyma aynı cümleyle öğretilmeyebilir. Kurgusal farklı durumlar için net reddetme ve destek yolu önerin."
       ]
     ],
     "search_terms": [
@@ -455,11 +479,15 @@
   {
     "slug": "yks-tercih-gorusmesi-hazirligi",
     "title": "YKS Tercih Görüşmesi: Öğrenciyle Hazırlık",
-    "summary": "Tercih döneminde öğrencinin ilgi, koşul ve seçeneklerini birlikte değerlendirmek için görüşme kontrol rehberi.",
+    "summary": "Tercih döneminde öğrencinin ilgi, koşul ve seçeneklerini birlikte değerlendirmek için görüşme kontrol rehberi. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Tercih amacını netleştir",
         "Öğrencinin ilgi alanı, yaşam koşulları ve mesleki beklentilerini açık sorularla öğren."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "YKS tercihlerinde popüler bölüm adı yeterli veri değildir; güncel program kodu, özel koşul ve ders planları doğrulanmalıdır."
       ],
       [
         "Güncel resmî bilgiyi kullan",
@@ -478,12 +506,12 @@
         "Tercih listesi ve özel koşulları başvuru öncesi resmî kaynaktan tekrar kontrol etmeyi hatırlatın."
       ]
     ],
-    "example": "Öğrenci popüler bir bölüm istiyor ancak eğitim içeriğini bilmiyor. Görüşmede üç alternatif programın ders yapısı ve koşulları güncel resmî kılavuzlarla karşılaştırılır.",
+    "example": "Öğrenci popüler bir bölüm istiyor ancak eğitim içeriğini bilmiyor. Görüşmede üç alternatif programın ders yapısı ve koşulları güncel resmî kılavuzlarla karşılaştırılır. YKS tercihlerinde popüler bölüm adı yeterli veri değildir; güncel program kodu, özel koşul ve ders planları doğrulanmalıdır.",
     "check": [
       "Resmî yıl bilgisi kontrol edildi mi?",
       "Öğrencinin değerleri konuşuldu mu?",
       "Alternatifler karşılaştırıldı mı?",
-      "Özel koşullar incelendi mi?"
+      "YKS tercihlerinde popüler bölüm adı yeterli veri değildir; güncel program kodu, özel koşul ve ders planları doğrulanmalıdır."
     ],
     "faq": [
       [
@@ -491,12 +519,8 @@
         "Hayır. Geçmiş sonuçlar yalnızca bağlam sağlar"
       ],
       [
-        " güncel resmî veriler esas alınır",
-        " güncel resmî veriler esas alınır."
-      ],
-      [
-        "Tercih listesini kim belirlemeli?",
-        "Öğrenci kararın öznesi olmalı, danışman güvenilir bilgiyle süreci desteklemelidir."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "YKS tercihlerinde popüler bölüm adı yeterli veri değildir; güncel program kodu, özel koşul ve ders planları doğrulanmalıdır."
       ]
     ],
     "search_terms": [
@@ -508,11 +532,15 @@
   {
     "slug": "lgs-sinav-sonrasi-tercih-destegi",
     "title": "LGS Sonrası Tercih Sürecinde Rehberlik",
-    "summary": "Öğrenci ve ailenin okul seçeneklerini, ilgi alanlarını ve güncel başvuru bilgilerini birlikte değerlendirmesi için rehber.",
+    "summary": "Öğrenci ve ailenin okul seçeneklerini, ilgi alanlarını ve güncel başvuru bilgilerini birlikte değerlendirmesi için rehber. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Öğrencinin önceliklerini dinle",
         "Okul yaşamından beklentileri, ulaşım koşulları ve öğrenme ihtiyaçlarını konuş."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "LGS yerleştirme biçimleri ile okulun gerçek ulaşım ve eğitim koşullarını farklı tablolarda gösterin; geçen yılın verisiyle garanti vermeyin."
       ],
       [
         "Güncel resmî kılavuzu kontrol et",
@@ -531,12 +559,12 @@
         "Resmî işlemlerin kontrolünü ve başvuru tarihlerini takip edecek net bir plan oluştur."
       ]
     ],
-    "example": "Öğrenci yüksek puanlı ama uzak bir okul ile eve yakın alternatif arasında kararsız. Okulların ulaşım, eğitim ve kişisel uygunluk özellikleri birlikte değerlendirilir.",
+    "example": "Öğrenci yüksek puanlı ama uzak bir okul ile eve yakın alternatif arasında kararsız. Okulların ulaşım, eğitim ve kişisel uygunluk özellikleri birlikte değerlendirilir. LGS yerleştirme biçimleri ile okulun gerçek ulaşım ve eğitim koşullarını farklı tablolarda gösterin; geçen yılın verisiyle garanti vermeyin.",
     "check": [
       "Güncel MEB bilgileri kontrol edildi mi?",
       "Öğrencinin görüşü alındı mı?",
       "Günlük yaşam koşulları değerlendirildi mi?",
-      "Başvuru takvimi kaydedildi mi?"
+      "LGS yerleştirme biçimleri ile okulun gerçek ulaşım ve eğitim koşullarını farklı tablolarda gösterin; geçen yılın verisiyle garanti vermeyin."
     ],
     "faq": [
       [
@@ -544,12 +572,8 @@
         "Hayır. Yıllar arasında değişim olabilir"
       ],
       [
-        " güncel resmî bilgilerle değerlendirilir",
-        " güncel resmî bilgilerle değerlendirilir."
-      ],
-      [
-        "Sadece puana bakmak yeterli mi?",
-        "Hayır. Ulaşım, program ve öğrencinin ihtiyaçları da önemlidir."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "LGS yerleştirme biçimleri ile okulun gerçek ulaşım ve eğitim koşullarını farklı tablolarda gösterin; geçen yılın verisiyle garanti vermeyin."
       ]
     ],
     "search_terms": [
@@ -561,11 +585,15 @@
   {
     "slug": "okulda-ogretmen-musahade-gorusmesi",
     "title": "Öğretmenle Rehberlik Görüşmesi: Gözlem ve İş Birliği",
-    "summary": "Öğrenciye destek için öğretmen gözlemlerini somutlaştırma ve sınıf içi adımları birlikte planlama rehberi.",
+    "summary": "Öğrenciye destek için öğretmen gözlemlerini somutlaştırma ve sınıf içi adımları birlikte planlama rehberi. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Görüşme amacını belirle",
         "Öğretmenin gözlemlediği belirli davranış ve durumları konuşmak için kısa bir gündem oluştur."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Öğretmenin 'dersten kopuyor' ifadesini hangi görevde, hangi sürede ve hangi destekle gözlediğini sorarak somutlaştırın."
       ],
       [
         "Yorum yerine örnek iste",
@@ -584,12 +612,12 @@
         "Öğrencinin özel bilgilerini gereksiz paylaşmadan, gözlenen değişimi belli aralıklarla yeniden değerlendir."
       ]
     ],
-    "example": "Öğretmen öğrencinin dersten koptuğunu söyler. Görüşmede bunun özellikle uzun yönergeler sırasında olduğu anlaşılır; görevleri bölme düzenlemesi ve iki haftalık takip planlanır.",
+    "example": "Öğretmen öğrencinin dersten koptuğunu söyler. Görüşmede bunun özellikle uzun yönergeler sırasında olduğu anlaşılır; görevleri bölme düzenlemesi ve iki haftalık takip planlanır. Öğretmenin 'dersten kopuyor' ifadesini hangi görevde, hangi sürede ve hangi destekle gözlediğini sorarak somutlaştırın.",
     "check": [
       "Somut örnekler toplandı mı?",
       "Etiketleyici dil kullanılmadı mı?",
       "Öğretmene uygulanabilir görev verildi mi?",
-      "Gizlilik korundu mu?"
+      "Öğretmenin 'dersten kopuyor' ifadesini hangi görevde, hangi sürede ve hangi destekle gözlediğini sorarak somutlaştırın."
     ],
     "faq": [
       [
@@ -597,8 +625,8 @@
         "Hayır. Gözlem, değerlendirme sürecinin yalnızca bir parçasıdır."
       ],
       [
-        "Her bilgi öğretmenle paylaşılır mı?",
-        "Hayır. Öğrencinin yararı ve gizlilik sınırları çerçevesinde gerekli bilgi paylaşılır."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Öğretmenin 'dersten kopuyor' ifadesini hangi görevde, hangi sürede ve hangi destekle gözlediğini sorarak somutlaştırın."
       ]
     ],
     "search_terms": [
@@ -610,11 +638,15 @@
   {
     "slug": "aile-okul-iletisimi-zor-gorusmeler",
     "title": "Zor Veli Görüşmeleri: İletişim ve Çözüm Adımları",
-    "summary": "Gergin veya anlaşmazlık içeren veli görüşmelerini güvenli ve yapıcı biçimde yapılandırmak için rehber.",
+    "summary": "Gergin veya anlaşmazlık içeren veli görüşmelerini güvenli ve yapıcı biçimde yapılandırmak için rehber. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Hazırlık yap",
         "Görüşmenin somut amacını, kurum görev sınırlarını ve paylaşılabilecek bilgileri önceden netleştir."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Veli görüşmesinde yüksek sesle yapılan itirazı öğrencinin karakteriyle ilgili bir yargıya dönüştürmeyin. Güvenlik sınırı ve somut olgu üzerinden ilerleyin."
       ],
       [
         "Duyguyu ve olayı ayır",
@@ -633,12 +665,12 @@
         "Tehdit veya ciddi gerilim varsa kurumun güvenlik süreçlerini izle; görüşme sonunda takip zamanını belirle."
       ]
     ],
-    "example": "Veli çocuğunun haksız değerlendirildiğini söyleyerek yüksek sesle konuşur. Danışman önce kaygıyı dinler, görüşme sınırlarını hatırlatır, somut gözlemleri ve yetkili birimlerin rolünü açıklar.",
+    "example": "Veli çocuğunun haksız değerlendirildiğini söyleyerek yüksek sesle konuşur. Danışman önce kaygıyı dinler, görüşme sınırlarını hatırlatır, somut gözlemleri ve yetkili birimlerin rolünü açıklar. Veli görüşmesinde yüksek sesle yapılan itirazı öğrencinin karakteriyle ilgili bir yargıya dönüştürmeyin.",
     "check": [
       "Görüşme sınırları net mi?",
       "Suçlayıcı dil kullanılmadı mı?",
       "Kararlar uygulanabilir mi?",
-      "Riskli durumda kurum prosedürü açık mı?"
+      "Veli görüşmesinde yüksek sesle yapılan itirazı öğrencinin karakteriyle ilgili bir yargıya dönüştürmeyin."
     ],
     "faq": [
       [
@@ -646,12 +678,8 @@
         "Hayır. Amaç ortak yarara dönük uygulanabilir destek ve saygılı iletişimdir."
       ],
       [
-        "Tehdit varsa görüşmeye devam edilmeli mi?",
-        "Güvenlik önceliklidir"
-      ],
-      [
-        " kurumun ilgili prosedürleri işletilir",
-        " kurumun ilgili prosedürleri işletilir."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Veli görüşmesinde yüksek sesle yapılan itirazı öğrencinin karakteriyle ilgili bir yargıya dönüştürmeyin. Güvenlik sınırı ve somut olgu üzerinden ilerleyin."
       ]
     ],
     "search_terms": [
@@ -663,11 +691,15 @@
   {
     "slug": "bireyi-tanima-gozlem-formu",
     "title": "Bireyi Tanımada Gözlem Formu: Hazırlama ve Kullanma",
-    "summary": "Okul PDR uygulamalarında gözlemi amaca uygun, nesnel ve gizliliğe duyarlı biçimde kaydetme rehberi.",
+    "summary": "Okul PDR uygulamalarında gözlemi amaca uygun, nesnel ve gizliliğe duyarlı biçimde kaydetme rehberi. Öğrenci güvenliği, uygulama sınırları ve somut okul örnekleriyle açıklanır.",
     "sections": [
       [
         "Gözlemin amacını yaz",
         "Hangi öğrenme veya etkileşim davranışına bakılacağını önceden belirle."
+      ],
+      [
+        "Konuya özgü dikkat edilmesi gerekenler",
+        "Gözlem formunda tarih, ortam, görev, verilen destek ve öğrencinin tepkisi ayrı alanlar olmalıdır. Gözlemden tanısal sonuç çıkarılmamalıdır."
       ],
       [
         "Gözlenebilir davranış seç",
@@ -686,12 +718,12 @@
         "Gereksiz kişisel bilgileri kaydetme; kurumun kayıt ve saklama kurallarına uy."
       ]
     ],
-    "example": "Öğrencinin derste katılmadığı bildiriliyor. Gözlemde hangi etkinliklerde katılımın arttığı ve azaldığı somut örneklerle not edilir; öğrenciyle ayrı görüşülerek bağlam anlaşılır.",
+    "example": "Öğrencinin derste katılmadığı bildiriliyor. Gözlemde hangi etkinliklerde katılımın arttığı ve azaldığı somut örneklerle not edilir; öğrenciyle ayrı görüşülerek bağlam anlaşılır. Gözlem formunda tarih, ortam, görev, verilen destek ve öğrencinin tepkisi ayrı alanlar olmalıdır.",
     "check": [
       "Gözlem davranışı somut mu?",
       "Bağlam kaydedildi mi?",
       "Yorum ile veri ayrıldı mı?",
-      "Gizlilik korundu mu?"
+      "Gözlem formunda tarih, ortam, görev, verilen destek ve öğrencinin tepkisi ayrı alanlar olmalıdır."
     ],
     "faq": [
       [
@@ -699,8 +731,8 @@
         "Hayır. Gözlem yalnızca değerlendirmeyi destekleyen bir veri kaynağıdır."
       ],
       [
-        "Öğrencinin her hareketi kaydedilmeli mi?",
-        "Hayır. Amaçla ilişkili ve gerekli verilerle sınırlı kalınmalıdır."
+        "Bu rehberde özellikle hangi hata önlenmeli?",
+        "Gözlem formunda tarih, ortam, görev, verilen destek ve öğrencinin tepkisi ayrı alanlar olmalıdır. Gözlemden tanısal sonuç çıkarılmamalıdır."
       ]
     ],
     "search_terms": [
