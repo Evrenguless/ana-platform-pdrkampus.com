@@ -1,7 +1,22 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-10-12T01:55:46+03:00",
+  "updatedAt": "2026-10-12T13:51:46+03:00",
   "records": [
+    {
+      "id": "c1ab5cba-d22b-40ab-b89b-1d27431a422c",
+      "title": "İSTANBUL KALKINMA AJANSI - PERSONEL ALIM İLANI 5 UZMAN",
+      "institution": "İSTANBUL KALKINMA AJANSI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=c1ab5cba-d22b-40ab-b89b-1d27431a422c",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/457882ef-be31-4a48-94f1-93ba3793814d.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-02",
+      "sourceCurrent": true
+    },
     {
       "id": "826fbdb8-f082-4294-9ac6-cd0abd98a7c9",
       "title": "ÖZELLEŞTİRME İDARESİ BAŞKANLIĞI - 2026-2 ÖZELLEŞTİRME İDARESİ BAŞKANLIĞI UZMAN YARDIMCILIĞI GİRİŞ SINAVI DUYURUSU",
@@ -12,6 +27,21 @@
       "deadline": "2026-10-26T18:00:00+03:00",
       "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=826fbdb8-f082-4294-9ac6-cd0abd98a7c9",
       "logoUrl": "https://kariyerkapisi.gov.tr/UPS/20db5f91-de4a-4167-af52-7a68bdfa626f.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-19",
+      "sourceCurrent": true
+    },
+    {
+      "id": "a14f0db5-110e-4656-a977-7b6b17b55fbb",
+      "title": "BANKACILIK DÜZENLEME VE DENETLEME KURUMU BAŞKANLIĞI (BDDK) - BANKACILIK DÜZENLEME VE DENETLEME KURUMU - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+      "institution": "BANKACILIK DÜZENLEME VE DENETLEME KURUMU BAŞKANLIĞI (BDDK)",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=a14f0db5-110e-4656-a977-7b6b17b55fbb",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/b5ef0b05-fa3d-4f00-a71e-1b0a484433fa.png",
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-19",
@@ -78,6 +108,36 @@
       "sourceCurrent": true
     },
     {
+      "id": "f64bcfee-da05-46c5-8324-b42254c169a2",
+      "title": "SERMAYE PİYASASI KURULU BAŞKANLIĞI - SERMAYE PİYASASI KURULU MESLEK PERSONEL YARDIMCILIĞI GİRİŞ SINAVI 2026",
+      "institution": "SERMAYE PİYASASI KURULU BAŞKANLIĞI",
+      "unit": "",
+      "category": "A Grubu Memur (Kariyer Meslek)",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=f64bcfee-da05-46c5-8324-b42254c169a2",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/a3d5f33a-83cf-4f7b-ac1d-e59ebff44375.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-12",
+      "sourceCurrent": true
+    },
+    {
+      "id": "d72bc5ed-a952-4452-9fea-b05616038765",
+      "title": "TASARRUF MEVDUATI SİGORTA FONU BAŞKANLIĞI - FON DENETÇİ YARDIMCILIĞI, FON UZMAN YARDIMCILIĞI ve FON AVUKATLIĞI GİRİŞ SINAVI İLANI 2026",
+      "institution": "TASARRUF MEVDUATI SİGORTA FONU BAŞKANLIĞI",
+      "unit": "",
+      "category": "A Grubu Memur (Kariyer Meslek)",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=d72bc5ed-a952-4452-9fea-b05616038765",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/35e398d1-2cbb-4fea-983c-a76e0b2c06a5.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-12",
+      "sourceCurrent": true
+    },
+    {
       "id": "5a71a4f2-6023-4194-822c-01e687eb9b15",
       "title": "VAKIFLAR GENEL MÜDÜRLÜĞÜ - VAKIF UZMAN YARDIMCILIĞI ALIM İLANI",
       "institution": "VAKIFLAR GENEL MÜDÜRLÜĞÜ",
@@ -87,6 +147,36 @@
       "deadline": null,
       "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=5a71a4f2-6023-4194-822c-01e687eb9b15",
       "logoUrl": "https://kariyerkapisi.gov.tr/UPS/736e3f6c-5038-45f7-b417-60290c676392.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-12",
+      "sourceCurrent": true
+    },
+    {
+      "id": "292b13a1-7511-4f89-896d-b19f526fcab1",
+      "title": "MİLLİ SARAYLAR İDARESİ BAŞKANLIĞI - 158 Sözleşmeli Personel Alımı İlanı",
+      "institution": "MİLLİ SARAYLAR İDARESİ BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=292b13a1-7511-4f89-896d-b19f526fcab1",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/851d0960-ba6e-40ed-99cc-2dc6e9867ec2.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-12",
+      "sourceCurrent": true
+    },
+    {
+      "id": "17bdedb4-3b36-4f67-9543-d6755941032b",
+      "title": "JANDARMA VE SAHİL GÜVENLİK AKADEMİSİ BAŞKANLIĞI - 2027 YILI J.GN.K.LIĞI MUVAZZAF SUBAY TEMİNİ",
+      "institution": "JANDARMA VE SAHİL GÜVENLİK AKADEMİSİ BAŞKANLIĞI",
+      "unit": "",
+      "category": "Askeri Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=17bdedb4-3b36-4f67-9543-d6755941032b",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/11ccecda-5dda-4e54-8306-f258a32d237c.png",
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-12",
@@ -254,7 +344,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-09-28",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "61dc4762-6ce3-483c-b629-eaaf6090fb88",
@@ -269,7 +359,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-09-28",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "215c245e-8d5b-4b93-bc10-0c859069aefa",
@@ -299,7 +389,7 @@
       "manualSlug": "duzce-universitesi-2026-2-sozlesmeli-personel",
       "withdrawn": false,
       "publishedAt": "2026-09-28",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "89bd5bac-9eb0-4cd1-93f9-8b154a5189f5",
