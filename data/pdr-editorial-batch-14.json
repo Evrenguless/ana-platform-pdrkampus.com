@@ -1,0 +1,1202 @@
+[
+  {
+    "slug": "rehberlikte-randevu-duzeni",
+    "title": "Rehberlik Randevu Düzeni | Okul rehberlik servisi",
+    "summary": "Rehberlik Randevu Düzeni için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Öğrenciler ders sırasında servise ulaşamaz. Önce erişim engellerini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; erişim engellerini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Gönüllü başvuru ve acil erişim yollarını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Randevu bekleme süresini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Öğrenciler ders sırasında servise ulaşamaz. İlk görüşmede ihtiyaç belirlenir, ardından gönüllü başvuru ve acil erişim yollarını için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Erişim engellerini görüşmede netleştirin.",
+      "Gönüllü başvuru ve acil erişim yollarını için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Randevu bekleme süresini izleyin."
+    ],
+    "faq": [
+      [
+        "Rehberlik Randevu Düzeni için ilk adım nedir?",
+        "Erişim engellerini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Randevu bekleme süresini başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "rehberlik randevu düzeni"
+    ]
+  },
+  {
+    "slug": "rehberlikte-ilk-ogrenci-bilgilendirmesi",
+    "title": "İlk Görüşme Bilgilendirmesi | Okul rehberlik servisi",
+    "summary": "İlk Görüşme Bilgilendirmesi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Öğrenci görüşme içeriğinin öğretmene aktarılacağından kaygılanır. Önce gizlilik beklentisini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; gizlilik beklentisini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Görüşme sınırları açıklamasını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Öğrencinin anladığı bilgiyi kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Öğrenci görüşme içeriğinin öğretmene aktarılacağından kaygılanır. İlk görüşmede ihtiyaç belirlenir, ardından görüşme sınırları açıklamasını için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Gizlilik beklentisini görüşmede netleştirin.",
+      "Görüşme sınırları açıklamasını için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Öğrencinin anladığı bilgiyi izleyin."
+    ],
+    "faq": [
+      [
+        "İlk Görüşme Bilgilendirmesi için ilk adım nedir?",
+        "Gizlilik beklentisini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Öğrencinin anladığı bilgiyi başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "ilk görüşme bilgilendirmesi"
+    ]
+  },
+  {
+    "slug": "rehberlikte-gorusme-suresi",
+    "title": "Görüşme Süresi Planlama | Okul rehberlik servisi",
+    "summary": "Görüşme Süresi Planlama için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Öğrenci her teneffüs servise başvurur. Önce destek ihtiyacının örüntüsünü somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; destek ihtiyacının örüntüsünü yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Öngörülebilir görüşme zamanını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Görüşme yararını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Öğrenci her teneffüs servise başvurur. İlk görüşmede ihtiyaç belirlenir, ardından öngörülebilir görüşme zamanını için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Destek ihtiyacının örüntüsünü görüşmede netleştirin.",
+      "Öngörülebilir görüşme zamanını için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Görüşme yararını izleyin."
+    ],
+    "faq": [
+      [
+        "Görüşme Süresi Planlama için ilk adım nedir?",
+        "Destek ihtiyacının örüntüsünü yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Görüşme yararını başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "görüşme süresi planlama"
+    ]
+  },
+  {
+    "slug": "rehberlikte-oncelik-belirleme",
+    "title": "Rehberlik Başvurularında Öncelik | Okul rehberlik servisi",
+    "summary": "Rehberlik Başvurularında Öncelik için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Aynı gün çok sayıda öğrenci yardım ister. Önce acil güvenlik ihtiyacını somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; acil güvenlik ihtiyacını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Risk düzeyine uygun başvuru akışını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Bekleyen öğrencilerin güvenliğini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Aynı gün çok sayıda öğrenci yardım ister. İlk görüşmede ihtiyaç belirlenir, ardından risk düzeyine uygun başvuru akışını için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Acil güvenlik ihtiyacını görüşmede netleştirin.",
+      "Risk düzeyine uygun başvuru akışını için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Bekleyen öğrencilerin güvenliğini izleyin."
+    ],
+    "faq": [
+      [
+        "Rehberlik Başvurularında Öncelik için ilk adım nedir?",
+        "Acil güvenlik ihtiyacını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Bekleyen öğrencilerin güvenliğini başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "rehberlik başvurularında öncelik"
+    ]
+  },
+  {
+    "slug": "rehberlikte-olay-kaydi",
+    "title": "Olay ve Müdahale Kaydı | Okul rehberlik servisi",
+    "summary": "Olay ve Müdahale Kaydı için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Kriz sonrası hangi desteğin verildiği belirsiz kalır. Önce zorunlu kayıt kapsamını somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; zorunlu kayıt kapsamını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Olgusal ve kısa müdahale kaydını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Kararlaştırılan takip tarihini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Kriz sonrası hangi desteğin verildiği belirsiz kalır. İlk görüşmede ihtiyaç belirlenir, ardından olgusal ve kısa müdahale kaydını için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Zorunlu kayıt kapsamını görüşmede netleştirin.",
+      "Olgusal ve kısa müdahale kaydını için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Kararlaştırılan takip tarihini izleyin."
+    ],
+    "faq": [
+      [
+        "Olay ve Müdahale Kaydı için ilk adım nedir?",
+        "Zorunlu kayıt kapsamını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Kararlaştırılan takip tarihini başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "olay ve müdahale kaydı"
+    ]
+  },
+  {
+    "slug": "rehberlikte-ogrenci-onam-bilgilendirme",
+    "title": "Öğrenciyi Bilgilendirme ve Katılım | Okul rehberlik servisi",
+    "summary": "Öğrenciyi Bilgilendirme ve Katılım için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Öğrenci yönlendirildiği görüşmenin amacını bilmez. Önce katılımın sınırlarını somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; katılımın sınırlarını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Yaşa uygun amaç açıklamasını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Öğrencinin sorularını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Öğrenci yönlendirildiği görüşmenin amacını bilmez. İlk görüşmede ihtiyaç belirlenir, ardından yaşa uygun amaç açıklamasını için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Katılımın sınırlarını görüşmede netleştirin.",
+      "Yaşa uygun amaç açıklamasını için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Öğrencinin sorularını izleyin."
+    ],
+    "faq": [
+      [
+        "Öğrenciyi Bilgilendirme ve Katılım için ilk adım nedir?",
+        "Katılımın sınırlarını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Öğrencinin sorularını başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "öğrenciyi bilgilendirme ve katılım"
+    ]
+  },
+  {
+    "slug": "rehberlikte-dis-kurum-yonlendirme",
+    "title": "Dış Kuruma Yönlendirme | Okul rehberlik servisi",
+    "summary": "Dış Kuruma Yönlendirme için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Okul desteğiyle çözülemeyen yoğun güçlük sürer. Önce işlev kaybı ve güvenliği somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; işlev kaybı ve güvenliği yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Uygun uzman başvurusunu öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Okul desteğinin sürmesini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Okul desteğiyle çözülemeyen yoğun güçlük sürer. İlk görüşmede ihtiyaç belirlenir, ardından uygun uzman başvurusunu için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Işlev kaybı ve güvenliği görüşmede netleştirin.",
+      "Uygun uzman başvurusunu için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Okul desteğinin sürmesini izleyin."
+    ],
+    "faq": [
+      [
+        "Dış Kuruma Yönlendirme için ilk adım nedir?",
+        "Işlev kaybı ve güvenliği yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Okul desteğinin sürmesini başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "dış kuruma yönlendirme"
+    ]
+  },
+  {
+    "slug": "rehberlikte-veli-randevusu",
+    "title": "Veli Randevusu Planlama | Okul rehberlik servisi",
+    "summary": "Veli Randevusu Planlama için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Veli sınıf kapısında mahrem sorun konuşmak ister. Önce özel görüşme gereksinimini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; özel görüşme gereksinimini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Gizli görüşme zamanı ve yeri düzenini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Geri dönüş tarihini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Veli sınıf kapısında mahrem sorun konuşmak ister. İlk görüşmede ihtiyaç belirlenir, ardından gizli görüşme zamanı ve yeri düzenini için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Özel görüşme gereksinimini görüşmede netleştirin.",
+      "Gizli görüşme zamanı ve yeri düzenini için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Geri dönüş tarihini izleyin."
+    ],
+    "faq": [
+      [
+        "Veli Randevusu Planlama için ilk adım nedir?",
+        "Özel görüşme gereksinimini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Geri dönüş tarihini başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "veli randevusu planlama"
+    ]
+  },
+  {
+    "slug": "rehberlikte-sinif-etkinligi-secimi",
+    "title": "Sınıf Etkinliği Seçme | Okul rehberlik servisi",
+    "summary": "Sınıf Etkinliği Seçme için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Öğretmen zorbalık için rastgele etkinlik talep eder. Önce ihtiyacın sınıf düzeyini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; ihtiyacın sınıf düzeyini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Yaşa uygun hedefli etkinlik seçimini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Etkinlik sonrası davranışı kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Öğretmen zorbalık için rastgele etkinlik talep eder. İlk görüşmede ihtiyaç belirlenir, ardından yaşa uygun hedefli etkinlik seçimini için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Ihtiyacın sınıf düzeyini görüşmede netleştirin.",
+      "Yaşa uygun hedefli etkinlik seçimini için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Etkinlik sonrası davranışı izleyin."
+    ],
+    "faq": [
+      [
+        "Sınıf Etkinliği Seçme için ilk adım nedir?",
+        "Ihtiyacın sınıf düzeyini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Etkinlik sonrası davranışı başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "sınıf etkinliği seçme"
+    ]
+  },
+  {
+    "slug": "rehberlikte-kurum-ici-gorev-paylasimi",
+    "title": "Kurum İçi Görev Paylaşımı | Okul rehberlik servisi",
+    "summary": "Kurum İçi Görev Paylaşımı için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Krizde görevli kişilerin kim olduğu bilinmez. Önce yetki ve koruma sorumluluklarını somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; yetki ve koruma sorumluluklarını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Yazılı başvuru ve yönlendirme akışını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Görev bilgisinin güncelliğini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Krizde görevli kişilerin kim olduğu bilinmez. İlk görüşmede ihtiyaç belirlenir, ardından yazılı başvuru ve yönlendirme akışını için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Yetki ve koruma sorumluluklarını görüşmede netleştirin.",
+      "Yazılı başvuru ve yönlendirme akışını için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Görev bilgisinin güncelliğini izleyin."
+    ],
+    "faq": [
+      [
+        "Kurum İçi Görev Paylaşımı için ilk adım nedir?",
+        "Yetki ve koruma sorumluluklarını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Görev bilgisinin güncelliğini başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "kurum içi görev paylaşımı"
+    ]
+  },
+  {
+    "slug": "rehberlikte-gizli-dosya-erisim",
+    "title": "Gizli Dosyalara Erişim | Okul rehberlik servisi",
+    "summary": "Gizli Dosyalara Erişim için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Öğrenci kayıtları herkesin eriştiği klasörde durur. Önce erişim yetkisini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; erişim yetkisini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Rol bazlı dosya saklamayı öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Erişim kayıtlarını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Öğrenci kayıtları herkesin eriştiği klasörde durur. İlk görüşmede ihtiyaç belirlenir, ardından rol bazlı dosya saklamayı için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Erişim yetkisini görüşmede netleştirin.",
+      "Rol bazlı dosya saklamayı için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Erişim kayıtlarını izleyin."
+    ],
+    "faq": [
+      [
+        "Gizli Dosyalara Erişim için ilk adım nedir?",
+        "Erişim yetkisini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Erişim kayıtlarını başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "gizli dosyalara erişim"
+    ]
+  },
+  {
+    "slug": "rehberlikte-ogrenci-izleme-takvimi",
+    "title": "Öğrenci İzleme Takvimi | Okul rehberlik servisi",
+    "summary": "Öğrenci İzleme Takvimi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Görüşmede planlanan destek aylarca izlenmez. Önce müdahale önceliğini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; müdahale önceliğini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Sorumlu ve tarih belirtilen takip planını öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Öğrenci ilerlemesini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Görüşmede planlanan destek aylarca izlenmez. İlk görüşmede ihtiyaç belirlenir, ardından sorumlu ve tarih belirtilen takip planını için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Müdahale önceliğini görüşmede netleştirin.",
+      "Sorumlu ve tarih belirtilen takip planını için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Öğrenci ilerlemesini izleyin."
+    ],
+    "faq": [
+      [
+        "Öğrenci İzleme Takvimi için ilk adım nedir?",
+        "Müdahale önceliğini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Öğrenci ilerlemesini başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "öğrenci izleme takvimi"
+    ]
+  },
+  {
+    "slug": "rehberlikte-sinif-ihtiyac-toplama",
+    "title": "Sınıf İhtiyaç Verisi Toplama | Okul rehberlik servisi",
+    "summary": "Sınıf İhtiyaç Verisi Toplama için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Bir sınıfta arkadaşlık sorunları arttığı söylenir. Önce gözlem ve öğrenci deneyimini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; gözlem ve öğrenci deneyimini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Kişisel veri toplamayan ihtiyaç analizini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Sınıf güvenliği göstergelerini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Bir sınıfta arkadaşlık sorunları arttığı söylenir. İlk görüşmede ihtiyaç belirlenir, ardından kişisel veri toplamayan ihtiyaç analizini için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Gözlem ve öğrenci deneyimini görüşmede netleştirin.",
+      "Kişisel veri toplamayan ihtiyaç analizini için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Sınıf güvenliği göstergelerini izleyin."
+    ],
+    "faq": [
+      [
+        "Sınıf İhtiyaç Verisi Toplama için ilk adım nedir?",
+        "Gözlem ve öğrenci deneyimini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Sınıf güvenliği göstergelerini başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "sınıf ihtiyaç verisi toplama"
+    ]
+  },
+  {
+    "slug": "rehberlikte-ogrenci-gorusme-hedefi",
+    "title": "Öğrenci Görüşmesi Hedefi | Okul rehberlik servisi",
+    "summary": "Öğrenci Görüşmesi Hedefi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Görüşmelerde çok konu konuşulur ama izleme olmaz. Önce öğrencinin önceliğini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; öğrencinin önceliğini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Tek görüşmelik somut hedefi öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Kararlaştırılan küçük adımı kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Görüşmelerde çok konu konuşulur ama izleme olmaz. İlk görüşmede ihtiyaç belirlenir, ardından tek görüşmelik somut hedefi için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Öğrencinin önceliğini görüşmede netleştirin.",
+      "Tek görüşmelik somut hedefi için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Kararlaştırılan küçük adımı izleyin."
+    ],
+    "faq": [
+      [
+        "Öğrenci Görüşmesi Hedefi için ilk adım nedir?",
+        "Öğrencinin önceliğini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Kararlaştırılan küçük adımı başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "öğrenci görüşmesi hedefi"
+    ]
+  },
+  {
+    "slug": "rehberlikte-uzmanlik-sinirlari",
+    "title": "Mesleki Yetkinlik Sınırları | Okul rehberlik servisi",
+    "summary": "Mesleki Yetkinlik Sınırları için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Okuldan kapsamı aşan klinik yorum istenir. Önce yetkinlik ve güvenlik ihtiyacını somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; yetkinlik ve güvenlik ihtiyacını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Uygun mesleki danışma ve yönlendirmeyi öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Okul destek planını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Okuldan kapsamı aşan klinik yorum istenir. İlk görüşmede ihtiyaç belirlenir, ardından uygun mesleki danışma ve yönlendirmeyi için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Yetkinlik ve güvenlik ihtiyacını görüşmede netleştirin.",
+      "Uygun mesleki danışma ve yönlendirmeyi için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Okul destek planını izleyin."
+    ],
+    "faq": [
+      [
+        "Mesleki Yetkinlik Sınırları için ilk adım nedir?",
+        "Yetkinlik ve güvenlik ihtiyacını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Okul destek planını başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "mesleki yetkinlik sınırları"
+    ]
+  },
+  {
+    "slug": "rehberlikte-mevzuat-guncelleme",
+    "title": "Rehberlik Mevzuatı Takibi | Okul rehberlik servisi",
+    "summary": "Rehberlik Mevzuatı Takibi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Eski bir formun yeni okul usulüne uymadığı fark edilir. Önce güncel resmi düzenlemeyi somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; güncel resmi düzenlemeyi yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Yetkili kurum metninden doğrulamayı öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Belge şablonlarını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Eski bir formun yeni okul usulüne uymadığı fark edilir. İlk görüşmede ihtiyaç belirlenir, ardından yetkili kurum metninden doğrulamayı için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Güncel resmi düzenlemeyi görüşmede netleştirin.",
+      "Yetkili kurum metninden doğrulamayı için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Belge şablonlarını izleyin."
+    ],
+    "faq": [
+      [
+        "Rehberlik Mevzuatı Takibi için ilk adım nedir?",
+        "Güncel resmi düzenlemeyi yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Belge şablonlarını başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "rehberlik mevzuatı takibi"
+    ]
+  },
+  {
+    "slug": "rehberlikte-grup-gizliligi",
+    "title": "Grup Çalışmasında Gizlilik | Okul rehberlik servisi",
+    "summary": "Grup Çalışmasında Gizlilik için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Öğrenciler grup içi paylaşımları dışarı taşır. Önce grup sınırlarını somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; grup sınırlarını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Gizlilik ve istisna bilgilendirmesini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Grup güvenliğini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Öğrenciler grup içi paylaşımları dışarı taşır. İlk görüşmede ihtiyaç belirlenir, ardından gizlilik ve istisna bilgilendirmesini için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Grup sınırlarını görüşmede netleştirin.",
+      "Gizlilik ve istisna bilgilendirmesini için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Grup güvenliğini izleyin."
+    ],
+    "faq": [
+      [
+        "Grup Çalışmasında Gizlilik için ilk adım nedir?",
+        "Grup sınırlarını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Grup güvenliğini başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "grup çalışmasında gizlilik"
+    ]
+  },
+  {
+    "slug": "rehberlikte-calisma-verimliligi",
+    "title": "Rehberlik İş Yükünü Düzenleme | Okul rehberlik servisi",
+    "summary": "Rehberlik İş Yükünü Düzenleme için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Tekrarlayan evrak işleri görüşmeleri geciktirir. Önce zorunlu ve ertelenebilir işleri somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; zorunlu ve ertelenebilir işleri yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Haftalık öncelik düzenini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Öğrenciye ayrılan zamanı kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Tekrarlayan evrak işleri görüşmeleri geciktirir. İlk görüşmede ihtiyaç belirlenir, ardından haftalık öncelik düzenini için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Zorunlu ve ertelenebilir işleri görüşmede netleştirin.",
+      "Haftalık öncelik düzenini için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Öğrenciye ayrılan zamanı izleyin."
+    ],
+    "faq": [
+      [
+        "Rehberlik İş Yükünü Düzenleme için ilk adım nedir?",
+        "Zorunlu ve ertelenebilir işleri yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Öğrenciye ayrılan zamanı başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "rehberlik iş yükünü düzenleme"
+    ]
+  },
+  {
+    "slug": "rehberlikte-yonetici-bilgilendirme",
+    "title": "Okul Yönetimine Bilgi Sunma | Okul rehberlik servisi",
+    "summary": "Okul Yönetimine Bilgi Sunma için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Yönetim özel öğrenci görüşme notlarını ister. Önce bilgilendirme yetkisini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; bilgilendirme yetkisini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Kimliksiz toplu hizmet verisini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Mahremiyet korunmasını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Yönetim özel öğrenci görüşme notlarını ister. İlk görüşmede ihtiyaç belirlenir, ardından kimliksiz toplu hizmet verisini için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Bilgilendirme yetkisini görüşmede netleştirin.",
+      "Kimliksiz toplu hizmet verisini için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Mahremiyet korunmasını izleyin."
+    ],
+    "faq": [
+      [
+        "Okul Yönetimine Bilgi Sunma için ilk adım nedir?",
+        "Bilgilendirme yetkisini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Mahremiyet korunmasını başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "okul yönetimine bilgi sunma"
+    ]
+  },
+  {
+    "slug": "rehberlikte-aileye-geri-bildirim",
+    "title": "Aileye Destek Geri Bildirimi | Okul rehberlik servisi",
+    "summary": "Aileye Destek Geri Bildirimi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Aile okulda verilen desteğin tüm ayrıntısını öğrenmek ister. Önce öğrenci yararı ve paylaşım yetkisini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; öğrenci yararı ve paylaşım yetkisini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Gerekli destek adımı özetini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Aile ve öğrenci güvenini kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Aile okulda verilen desteğin tüm ayrıntısını öğrenmek ister. İlk görüşmede ihtiyaç belirlenir, ardından gerekli destek adımı özetini için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Öğrenci yararı ve paylaşım yetkisini görüşmede netleştirin.",
+      "Gerekli destek adımı özetini için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Aile ve öğrenci güvenini izleyin."
+    ],
+    "faq": [
+      [
+        "Aileye Destek Geri Bildirimi için ilk adım nedir?",
+        "Öğrenci yararı ve paylaşım yetkisini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Aile ve öğrenci güvenini başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "aileye destek geri bildirimi"
+    ]
+  },
+  {
+    "slug": "rehberlikte-ogrenci-anonim-geri-bildirim",
+    "title": "Anonim Hizmet Geri Bildirimi | Okul rehberlik servisi",
+    "summary": "Anonim Hizmet Geri Bildirimi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Öğrenciler başvurmanın zor olduğunu belirtir. Önce erişilebilirlik verisini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; erişilebilirlik verisini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Kısa anonim geri bildirim yöntemini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Başvuru oranındaki değişimi kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Öğrenciler başvurmanın zor olduğunu belirtir. İlk görüşmede ihtiyaç belirlenir, ardından kısa anonim geri bildirim yöntemini için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Erişilebilirlik verisini görüşmede netleştirin.",
+      "Kısa anonim geri bildirim yöntemini için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Başvuru oranındaki değişimi izleyin."
+    ],
+    "faq": [
+      [
+        "Anonim Hizmet Geri Bildirimi için ilk adım nedir?",
+        "Erişilebilirlik verisini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Başvuru oranındaki değişimi başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "anonim hizmet geri bildirimi"
+    ]
+  },
+  {
+    "slug": "rehberlikte-olumlu-davranis-destegi",
+    "title": "Olumlu Davranış Desteği | Okul rehberlik servisi",
+    "summary": "Olumlu Davranış Desteği için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Sınıfta sık tekrar eden söz kesme davranışı görülür. Önce davranışın bağlamını somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; davranışın bağlamını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Öğretmenle önleyici sınıf düzenini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Hedef davranış örüntüsünü kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Sınıfta sık tekrar eden söz kesme davranışı görülür. İlk görüşmede ihtiyaç belirlenir, ardından öğretmenle önleyici sınıf düzenini için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Davranışın bağlamını görüşmede netleştirin.",
+      "Öğretmenle önleyici sınıf düzenini için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Hedef davranış örüntüsünü izleyin."
+    ],
+    "faq": [
+      [
+        "Olumlu Davranış Desteği için ilk adım nedir?",
+        "Davranışın bağlamını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Hedef davranış örüntüsünü başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "olumlu davranış desteği"
+    ]
+  },
+  {
+    "slug": "rehberlikte-toplanti-gundemi",
+    "title": "Rehberlik Toplantısı Gündemi | Okul rehberlik servisi",
+    "summary": "Rehberlik Toplantısı Gündemi için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Ekip toplantıları karar verilmeden sona erer. Önce toplantının karar ihtiyacını somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; toplantının karar ihtiyacını yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Gündem, sorumlu ve tarih belirlemeyi öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Kararların uygulanmasını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Ekip toplantıları karar verilmeden sona erer. İlk görüşmede ihtiyaç belirlenir, ardından gündem, sorumlu ve tarih belirlemeyi için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Toplantının karar ihtiyacını görüşmede netleştirin.",
+      "Gündem, sorumlu ve tarih belirlemeyi için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Kararların uygulanmasını izleyin."
+    ],
+    "faq": [
+      [
+        "Rehberlik Toplantısı Gündemi için ilk adım nedir?",
+        "Toplantının karar ihtiyacını yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Kararların uygulanmasını başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "rehberlik toplantısı gündemi"
+    ]
+  },
+  {
+    "slug": "rehberlikte-okul-veri-mahremiyeti",
+    "title": "Okul Rehberlik Verisinde Mahremiyet | Okul rehberlik servisi",
+    "summary": "Okul Rehberlik Verisinde Mahremiyet için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Öğrenci anketi kişi adıyla ortak dosyaya aktarılır. Önce kişisel veri riskini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; kişisel veri riskini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "En az veri ve sınırlı erişimi öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Erişim yetkisinin korunmasını kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Öğrenci anketi kişi adıyla ortak dosyaya aktarılır. İlk görüşmede ihtiyaç belirlenir, ardından en az veri ve sınırlı erişimi için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Kişisel veri riskini görüşmede netleştirin.",
+      "En az veri ve sınırlı erişimi için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Erişim yetkisinin korunmasını izleyin."
+    ],
+    "faq": [
+      [
+        "Okul Rehberlik Verisinde Mahremiyet için ilk adım nedir?",
+        "Kişisel veri riskini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Erişim yetkisinin korunmasını başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "okul rehberlik verisinde mahremiyet"
+    ]
+  },
+  {
+    "slug": "rehberlikte-donemlik-hedefler",
+    "title": "Dönemlik Rehberlik Hedefi Yazma | Okul rehberlik servisi",
+    "summary": "Dönemlik Rehberlik Hedefi Yazma için okul ortamında uygulanabilecek öğrenci yararını gözeten planlama, uygulama ve izleme önerileri.",
+    "sections": [
+      [
+        "İhtiyacı belirlemek",
+        "Yıllık planda çok sayıda belirsiz hedef bulunur. Önce okul ihtiyacının önceliğini somut davranışlar üzerinden değerlendirin."
+      ],
+      [
+        "Koruyucu değerlendirme",
+        "Öğrencinin anlatımını ve güvenlik gereksinimini dinleyin; okul ihtiyacının önceliğini yalnızca yetişkin varsayımlarına göre yorumlamayın."
+      ],
+      [
+        "Uygulama adımı",
+        "Gözlenebilir sonuç hedefini öğrencilerin yaşına ve gerçek koşullara uygun küçük bir adım olarak deneyin."
+      ],
+      [
+        "İş birliği ve sınırlar",
+        "Öğretmen, aile veya okul ekibiyle gerekli görevleri açıklaştırın; öğrenciye ait özel bilgileri gereksiz yere paylaşmayın."
+      ],
+      [
+        "Takip göstergesi",
+        "Dönemlik gerçekleşmeyi kısa bir takip görüşmesi ya da gözlemle değerlendirin; işe yaramayan yöntemi değiştirin."
+      ]
+    ],
+    "example": "Yıllık planda çok sayıda belirsiz hedef bulunur. İlk görüşmede ihtiyaç belirlenir, ardından gözlenebilir sonuç hedefini için gönüllü ve izlenebilir bir adım seçilir.",
+    "check": [
+      "Okul ihtiyacının önceliğini görüşmede netleştirin.",
+      "Gözlenebilir sonuç hedefini için bir sorumlu ve tarih seçin.",
+      "Özel öğrenci bilgisini yalnızca gerekli yetkili kişilerle paylaşın.",
+      "Dönemlik gerçekleşmeyi izleyin."
+    ],
+    "faq": [
+      [
+        "Dönemlik Rehberlik Hedefi Yazma için ilk adım nedir?",
+        "Okul ihtiyacının önceliğini yargılamadan değerlendirmek ve öğrencinin bakış açısını dinlemektir."
+      ],
+      [
+        "Uygulamanın etkisi nasıl anlaşılır?",
+        "Dönemlik gerçekleşmeyi başlangıçla karşılaştırarak takip edilir."
+      ]
+    ],
+    "search_terms": [
+      "rehberlik servisi",
+      "dönemlik rehberlik hedefi yazma"
+    ]
+  }
+]
