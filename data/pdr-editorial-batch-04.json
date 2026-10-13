@@ -27,6 +27,18 @@
       [
         "Dönem sonunda planı nasıl güncelleriz?",
         "Dönemlik izleme yaparak planın etkisini ve güncel kurum gereklerini gözden geçir."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Plan öncesinde devamsızlık kayıtlarını yalnızca sayı olarak değil sınıf, gün ve dönem örüntülerine göre inceleyin. Öğretmenlerin bildirdiği çatışma ile öğrencilerin anlattığı dışlanma aynı sorun olmayabilir. Anonim öğrenci görüşleri ve daha önceki etkinliklerin sonuçlarını birlikte değerlendirin. Böylece okulun en görünür şikâyetini otomatik olarak en önemli ihtiyaç kabul etmekten kaçınırsınız. Güvenlik riski belirlenen durumları ise sıradan sınıf etkinliği takviminden önce koruyucu hizmetlere yönlendirin."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Her öncelik için hedef grup, başlangıç göstergesi, yapılacak faaliyet, sorumlu kişi ve izleme tarihini aynı satırda yazın. Örneğin 'okul aidiyetini artırmak' yerine 'beşinci sınıf öğrencilerinin okulda yardım isteyebilecekleri iki yetişkini tanımlayabilmesi' hedefi seçilebilir. Bir sınıf oturumu, öğretmen bilgilendirmesi ve erişilebilir başvuru haritası aynı hedefe hizmet edebilir; fakat etkinliğe katılım sayısı öğrencinin gerçekten yardım yolu öğrendiğinin kanıtı değildir."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Kasım ayında yapılan sınıf çalışmasının ardından öğrencilerden güvenli başvuru yolunu kurgusal olayla göstermelerini isteyin. Aralık veli buluşmasında sınıf ihtiyaçlarını kişisel verileri paylaşmadan anlatın. Dönem sonunda devamsızlık, başvuruya erişim ve aidiyet göstergelerinin yönünü karşılaştırın. Değişim yoksa yeni seminer eklemek yerine hedef, uygulama yöntemi veya okul koşullarını yeniden inceleyin."
       ]
     ],
     "example": "Bir ortaokulda devamsızlık ve akran çatışması bildirimleri artıyor. Rehberlik servisi öğretmen gözlemlerini ve öğrenci geri bildirimlerini iki önceliğe ayırıyor; kasım ayına sınıf çalışması, aralık ayına veli oturumu koyuyor. Dönem sonunda devam ve katılım göstergelerini yeniden değerlendiriyor. Yıllık planda etkinlik sayısını tek hedef yapmayın; devamsızlık ve aidiyet gibi ihtiyaçlar için sonuç göstergelerini ve sorumlu kişileri belirleyin.",
@@ -34,7 +46,8 @@
       "☐ Okul ihtiyaçlarından yıllık hedeflere",
       "☐ Öncelik seçimi: Her ihtiyaç aynı ağırlıkta mı?",
       "☐ Hedefe uygun çalışma türü ve takvim",
-      "Yıllık planda etkinlik sayısını tek hedef yapmayın; devamsızlık ve aidiyet gibi ihtiyaçlar için sonuç göstergelerini ve sorumlu kişileri belirleyin."
+      "Yıllık planda etkinlik sayısını tek hedef yapmayın; devamsızlık ve aidiyet gibi ihtiyaçlar için sonuç göstergelerini ve sorumlu kişileri belirleyin.",
+      "Her öncelik için hedef grup, başlangıç göstergesi, yapılacak faaliyet, sorumlu kişi ve izleme tarihini aynı satırda yazın."
     ],
     "faq": [
       [
@@ -43,7 +56,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Yıllık planda etkinlik sayısını tek hedef yapmayın; devamsızlık ve aidiyet gibi ihtiyaçlar için sonuç göstergelerini ve sorumlu kişileri belirleyin."
+        "Kasım ayında yapılan sınıf çalışmasının ardından öğrencilerden güvenli başvuru yolunu kurgusal olayla göstermelerini isteyin. Aralık veli buluşmasında sınıf ihtiyaçlarını kişisel verileri paylaşmadan anlatın. Dönem sonunda devamsızlık, başvuruya erişim ve aidiyet göstergelerinin yönünü karşılaştırın. Değişim yoksa yeni seminer eklemek yerine hedef, uygulama yöntemi veya okul koşullarını yeniden inceleyin."
       ]
     ],
     "search_terms": [
@@ -79,6 +92,18 @@
       [
         "Geri bildirimle sonraki buluşmayı geliştirmek",
         "Katılım ve geri bildirime göre sonraki veli çalışmasını düzenle."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Seminer konusunu yalnızca öğretmenin uygun bulduğu popüler başlıktan seçmeyin. Velilerin hangi durumlarda desteğe ihtiyaç duyduğunu kısa anonim sorularla, sınıf öğretmenlerinin gözlemleriyle ve başvuru konularıyla birlikte öğrenin. 'Ekran süresi' diye görünen ihtiyacın aslında oyun bitişindeki çatışma veya çevrim içi güvenlik kaygısı olup olmadığını ayırın. Çocukların ve ailelerin kişisel öykülerini toplu ortamda açıklatmayın."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Bir seminerin sonunda velilerin uygulayabileceği tek beceriyi belirleyin: örneğin suçlayıcı cümleyi açık bir ihtiyaç sorusuna dönüştürmek. Oturuma kısa bir bilgi bölümü, iki kurgusal ev içi senaryo ve gönüllü uygulama ekleyin. 'Telefonu bırakmıyorsun' yerine 'Oyunu bitirirken ne yardımcı olur?' gibi bir soru denenebilir. Farklı yaş grupları ve aile koşulları için aynı kuralı dayatmayın; güvenlik riski bulunan aile sorunlarını özel destek kanalına yönlendirin."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Seminer sonunda katılımcıların memnuniyetini ölçmekle yetinmeyin. Velilerden hangi cümleyi evde deneyebileceklerini, nerede zorlanabileceklerini ve hangi ek bilgiye ihtiyaç duyduklarını anonim biçimde öğrenin. Tek bir buluşmanın davranış değişikliğini garanti etmediğini belirtin. Bir sonraki oturumun konusunu yeniden gelen sorulara göre güncelleyin; küçük katılımcı grubunda kimliği ortaya çıkarabilecek ayrıntıları rapora taşımayın."
       ]
     ],
     "example": "Altıncı sınıf velileri ekran kullanımı konusunda destek istiyor. Seminerin ilk bölümünde iki kurgusal aile konuşması karşılaştırılıyor; ardından veliler evde deneyebilecekleri bir iletişim cümlesi seçiyor. Anonim sorular sonraki veli buluşmasının konusunu belirliyor. Veli seminerinde kurgusal örneklerle genel beceriyi çalışın; kişisel aile deneyimlerini topluluk önünde açıklama zorunluluğu getirmeyin.",
@@ -86,7 +111,8 @@
       "☐ Velilerin gerçek sorularından konu seçmek",
       "☐ Yargılamayan örnek olaylar hazırlamak",
       "☐ Anonim sorular ve güvenli katılım",
-      "Veli seminerinde kurgusal örneklerle genel beceriyi çalışın; kişisel aile deneyimlerini topluluk önünde açıklama zorunluluğu getirmeyin."
+      "Veli seminerinde kurgusal örneklerle genel beceriyi çalışın; kişisel aile deneyimlerini topluluk önünde açıklama zorunluluğu getirmeyin.",
+      "Bir seminerin sonunda velilerin uygulayabileceği tek beceriyi belirleyin: örneğin suçlayıcı cümleyi açık bir ihtiyaç sorusuna dönüştürmek."
     ],
     "faq": [
       [
@@ -95,7 +121,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Veli seminerinde kurgusal örneklerle genel beceriyi çalışın; kişisel aile deneyimlerini topluluk önünde açıklama zorunluluğu getirmeyin."
+        "Seminer sonunda katılımcıların memnuniyetini ölçmekle yetinmeyin. Velilerden hangi cümleyi evde deneyebileceklerini, nerede zorlanabileceklerini ve hangi ek bilgiye ihtiyaç duyduklarını anonim biçimde öğrenin. Tek bir buluşmanın davranış değişikliğini garanti etmediğini belirtin. Bir sonraki oturumun konusunu yeniden gelen sorulara göre güncelleyin; küçük katılımcı grubunda kimliği ortaya çıkarabilecek ayrıntıları rapora taşımayın."
       ]
     ],
     "search_terms": [
@@ -131,6 +157,18 @@
       [
         "İzlemeyi yeni destek kararına dönüştürmek",
         "İzleme kaydını yeni destek kararlarıyla ilişkilendir."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Öğrenciyi izlemek için önce tam olarak hangi davranışın gözleneceğini tanımlayın. 'Derse ilgisiz' yerine 'ilk etkinliğe yönerge verildikten sonra kaç dakikada başladı?' sorusu daha ölçülebilirdir. Başlangıç düzeyini birden fazla benzer ders ortamında gözleyin ve o sırada verilen yetişkin desteğini kaydedin. Öğrencinin görüşü ile öğretmen gözlemi farklıysa bu farkı hata değil yeni araştırılacak bağlam olarak ele alın."
+      ],
+      [
+        "Okulda somut uygulama",
+        "İzleme formunda tarih, ortam, görev, hedef davranış, verilen destek, sonuç ve bir sonraki adım alanları bulunabilir. Öğrencinin özel aile anlatısı veya gereksiz tanı tahmini bu forma yazılmamalıdır. Örneğin yönergenin iki adım hâline getirilmesinden önce ve sonra öğrencinin göreve başlama süresini karşılaştırabilirsiniz. Ölçümlerin aynı biçimde tutulması gerekir; yoksa görünen değişim gerçek ilerlemeden değil farklı görevden kaynaklanabilir."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "İki hafta sonunda çizelgedeki veriyi öğrenci ve öğretmenle yorumlayın. Başlama süresi kısalsa bile öğrenci kendini daha fazla baskı altında hissediyorsa destek yöntemini yeniden değerlendirin. Ölçüm yalnızca yetişkinin rahatlığını değil öğrencinin öğrenme ve katılımını yansıtmalıdır. Kayıt erişimini yetkili personelle sınırlayın; izleme kararı tamamlandığında belgeyi kurumun geçerli saklama kurallarına göre yönetin."
       ]
     ],
     "example": "Derse başlamakta zorlanan bir öğrenci için formda haftada üç gün ilk etkinliğe başlama süresi, denenen destek ve öğrencinin geri bildirimi tutuluyor. İki hafta sonra öğretmenle veriler gözden geçirilerek yönergeyi kısaltma uygulamasının sürdürülmesine karar veriliyor. Öğrenci izleme formunda başlangıç davranışı, denenen destek ve takip tarihi yer almalıdır.",
@@ -138,7 +176,8 @@
       "☐ İzlenecek davranışı gözlenebilir yazmak",
       "☐ Formda gerçekten gerekli alanları seçmek",
       "☐ Veriye erişim ve gizliliği korumak",
-      "Öğrenci izleme formunda başlangıç davranışı, denenen destek ve takip tarihi yer almalıdır."
+      "Öğrenci izleme formunda başlangıç davranışı, denenen destek ve takip tarihi yer almalıdır.",
+      "İzleme formunda tarih, ortam, görev, hedef davranış, verilen destek, sonuç ve bir sonraki adım alanları bulunabilir."
     ],
     "faq": [
       [
@@ -147,7 +186,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Öğrenci izleme formunda başlangıç davranışı, denenen destek ve takip tarihi yer almalıdır. Gereksiz kişisel veri toplamaktan kaçının."
+        "İki hafta sonunda çizelgedeki veriyi öğrenci ve öğretmenle yorumlayın. Başlama süresi kısalsa bile öğrenci kendini daha fazla baskı altında hissediyorsa destek yöntemini yeniden değerlendirin. Ölçüm yalnızca yetişkinin rahatlığını değil öğrencinin öğrenme ve katılımını yansıtmalıdır. Kayıt erişimini yetkili personelle sınırlayın; izleme kararı tamamlandığında belgeyi kurumun geçerli saklama kurallarına göre yönetin."
       ]
     ],
     "search_terms": [
@@ -183,6 +222,18 @@
       [
         "Çözüm becerisini günlük sınıfa taşımak",
         "Bir sonraki etkinlik için davranış hedefi ve geri bildirim planla."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Problem çözme etkinliği için öğrencilerin özel çatışmasını değil yaşa uygun kurgusal bir sınıf durumunu seçin. 'İki öğrenci grup ödevinde aynı görevi istiyor' örneğinde önce kimin haklı olduğuna karar verdirmeyin; öğrencilerden ne olduğunu yorumdan ayırmalarını isteyin. Duyguların farklı olabileceğini belirtin. Tehdit veya güç farkı içeren olayları eşit taraflı anlaşmazlık gibi ele almadan güvenlik değerlendirmesini öne alın."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Öğrenci grupları en az üç çözüm üretsin: görevleri sırayla yapmak, görevi parçalara bölmek veya farklı katılım biçimleri seçmek gibi. Her seçenek için 'Kim katılabilir?', 'Kimin sınırı korunur?', 'Uygulanabilir mi?' sorularını tartışın. Öğretmen tek doğru cevabı hemen açıklamasın; öğrencilere gerekçelerini söyleme fırsatı versin. Sınıfta konuşmak istemeyenler yazılı kartla katılabilsin."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Kapanışta her öğrenci kurgusal durum için güvenli bir ilk adım seçsin ve nedenini bir cümleyle açıklasın. Gelecek hafta sınıf içinde grup görevi paylaşımını gözleyin; etkinlikte doğru cevabı verebilmek becerinin günlük davranışa geçtiği anlamına gelmez. Öğrencilerin gerçek anlaşmazlıklarını sınıfın önünde tartışma malzemesi yapmayın. Zorbalık belirtileri varsa ayrı koruyucu okul süreci işletin."
       ]
     ],
     "example": "Yedinci sınıfa iki arkadaşın grup ödevinde görevleri paylaşamadığı kurgusal bir olay sunuluyor. Öğrenciler sorunu kişilere yüklemeden tanımlıyor, üç çözüm öneriyor ve her birinin adil olup olmadığını tartışıyor. Çıkış kartına uygulanabilir bir adım yazıyorlar. Problem çözme kartlarında eşit güçte anlaşmazlık ile zorbalığı ayırın; tehdit varsa kartla uzlaşmayı zorlamayın.",
@@ -190,7 +241,8 @@
       "☐ Kurgusal sınıf probleminden başlamak",
       "☐ Tek cevap yerine çözüm seçenekleri üretmek",
       "☐ Seçenekleri güvenlik ve adaletle değerlendirmek",
-      "Problem çözme kartlarında eşit güçte anlaşmazlık ile zorbalığı ayırın; tehdit varsa kartla uzlaşmayı zorlamayın."
+      "Problem çözme kartlarında eşit güçte anlaşmazlık ile zorbalığı ayırın; tehdit varsa kartla uzlaşmayı zorlamayın.",
+      "Öğrenci grupları en az üç çözüm üretsin: görevleri sırayla yapmak, görevi parçalara bölmek veya farklı katılım biçimleri seçmek gibi."
     ],
     "faq": [
       [
@@ -199,7 +251,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Problem çözme kartlarında eşit güçte anlaşmazlık ile zorbalığı ayırın; tehdit varsa kartla uzlaşmayı zorlamayın."
+        "Kapanışta her öğrenci kurgusal durum için güvenli bir ilk adım seçsin ve nedenini bir cümleyle açıklasın. Gelecek hafta sınıf içinde grup görevi paylaşımını gözleyin; etkinlikte doğru cevabı verebilmek becerinin günlük davranışa geçtiği anlamına gelmez. Öğrencilerin gerçek anlaşmazlıklarını sınıfın önünde tartışma malzemesi yapmayın. Zorbalık belirtileri varsa ayrı koruyucu okul süreci işletin."
       ]
     ],
     "search_terms": [
@@ -235,6 +287,18 @@
       [
         "Devam verisiyle desteği yeniden düzenlemek",
         "Değişimi izlerken güvenlik ve koruma yükümlülüklerini gözet."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Okul terki riskinde devamsızlığın artması tek başına neden açıklamaz. Öğrencinin hangi günlerde ve derslerde gelmediğini inceleyerek ulaşım, aile sorumluluğu, sağlık, akademik güçlük ve sınıf güvenliği gibi koşulları ayrı konuşun. Bir öğrencinin sürekli geç kalmasını isteksizlik olarak etiketlemek, çözülebilecek bir ulaşım engelini gözden kaçırabilir. Görüşmeyi bir ceza öncesi sorgu değil güvenli destek başvurusu olarak kurun."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Öğrenciyle okula yeniden katılmayı kolaylaştıracak bir yetişkin, bir öğrenme desteği ve bir ulaşılabilir kısa hedef belirleyin. Örneğin ilk ders yerine okula girişte kaygı yaratan durum belirlenmişse öğretmenle güvenli karşılama planı yapılabilir. Ders açığı yaşayan öğrenci için birden çok ödevi aynı haftaya yığmak yerine öğretmenlerin önceliklendirdiği küçük bir telafi adımı seçin. Zorbalık varsa devam hedefi güvenlik önleminin yerini alamaz."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Aileyle görüşmede öğrencinin kendi anlatımını ayrı koruyun; ailenin sağlayabileceği ulaşım düzeni ile okulun sağlayacağı güvenlik ve öğrenme desteğini karıştırmayın. Birkaç hafta boyunca yalnızca devam sayısına değil öğrencinin derse katılımına ve aidiyetine de bakın. İlerleme gerçekleşmezse hedefi sertleştirmek yerine engelin doğru belirlenip belirlenmediğini yeniden inceleyin. Risk sürüyorsa yetkili destek ve yönlendirme süreçleri devreye alınmalıdır."
       ]
     ],
     "example": "Dokuzuncu sınıfta devamsızlığı artan öğrenciyle görüşüldüğünde sabah ulaşım sorunu ve sınıfa ait hissedememe ortaya çıkıyor. Aile ve okul yönetimi ulaşım seçeneğini değerlendirirken öğrenci güven duyduğu öğretmenle haftalık kısa görüşme yapıyor; dört hafta sonra devam verileri inceleniyor. Okul terki riskini yalnızca devamsızlık sayısına indirgemeyin.",
@@ -242,7 +306,8 @@
       "☐ Devamsızlık ve aidiyeti birlikte okumak",
       "☐ Koruyucu yetişkin ve akran bağlarını bulmak",
       "☐ Aile ve okulun sorumluluğunu netleştirmek",
-      "Okul terki riskini yalnızca devamsızlık sayısına indirgemeyin."
+      "Okul terki riskini yalnızca devamsızlık sayısına indirgemeyin.",
+      "Öğrenciyle okula yeniden katılmayı kolaylaştıracak bir yetişkin, bir öğrenme desteği ve bir ulaşılabilir kısa hedef belirleyin."
     ],
     "faq": [
       [
@@ -251,7 +316,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Okul terki riskini yalnızca devamsızlık sayısına indirgemeyin. Öğrencinin güvenlik, ulaşım ve sınıfa ait olma deneyimini birlikte değerlendirin."
+        "Aileyle görüşmede öğrencinin kendi anlatımını ayrı koruyun; ailenin sağlayabileceği ulaşım düzeni ile okulun sağlayacağı güvenlik ve öğrenme desteğini karıştırmayın. Birkaç hafta boyunca yalnızca devam sayısına değil öğrencinin derse katılımına ve aidiyetine de bakın. İlerleme gerçekleşmezse hedefi sertleştirmek yerine engelin doğru belirlenip belirlenmediğini yeniden inceleyin. Risk sürüyorsa yetkili destek ve yönlendirme süreçleri devreye alınmalıdır."
       ]
     ],
     "search_terms": [
@@ -287,6 +352,18 @@
       [
         "Kararları kayıt ve takip ile tamamlamak",
         "Kararları uygun usulle kaydedip yeniden değerlendirme tarihi koyun."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "BEP toplantısından önce mevcut performansı gösteren tarihli ve somut sınıf görevlerini toplayın. Öğrencinin görsel ipucuyla tamamladığı çalışma ile tek başına yaptığı görevi ayrı gösterin. Ailenin evde gözlediği ilerleme önemli olabilir; fakat ev ve sınıf koşulları aynı olmadığından bunu doğrudan okul kazanımı saymayın. Toplantıda yalnızca güçlükleri değil öğrencinin güçlü olduğu katılım biçimlerini de görünür kılın."
+      ],
+      [
+        "Okulda somut uygulama",
+        "'Okuması gelişecek' gibi geniş bir hedefi koşul, gözlenebilir davranış, başarı ölçütü ve izleme süresini içeren küçük bir hedefe dönüştürün. Örneğin öğrencinin kısa metinde ana bilgiyi görsel destekle bulabilmesi ayrı, destek olmadan bulabilmesi ayrı değerlendirilebilir. Her hedef için ölçümü kim yapacak, materyali kim uyarlayacak ve veriyi hangi tarihte ekip inceleyecek sorularını yanıtlayın. Kararları yalnızca sözlü bırakmayın."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Toplantı sonunda aileye uygulanacak okul desteğini anlaşılır dille açıklayın ve öğrencinin katılım düzeyine uygun görüşünü almaya çalışın. Bir sonraki toplantıda yalnızca hedefin gerçekleşip gerçekleşmediğini değil seçilen desteğin etkisini de konuşun. Öğrenci ilerlemiyorsa 'yeterince çabalamadı' demek yerine ölçüt, görev güçlüğü, ipucu ve ortam koşullarını gözden geçirin. Kişisel belgeleri yalnızca yetkili kişilerle paylaşın."
       ]
     ],
     "example": "BEP toplantısında öğrencinin mevcut okuma performansı örnek çalışmalarla gösteriliyor. Ekip, çok geniş yazılmış hedefi koşulu ve başarı ölçütü belli iki küçük hedefe ayırıyor; sınıf öğretmeni materyal uyarlamasını üstleniyor ve bir sonraki veri inceleme tarihi belirleniyor. BEP toplantısında gözlenebilir performansı belirli destek koşuluyla ilişkilendirin.",
@@ -294,7 +371,8 @@
       "☐ BEP ekibini toplantı öncesinde hazırlamak",
       "☐ Ölçülebilir hedefleri ekipçe belirlemek",
       "☐ Uyarlamalar için sorumluluk dağıtmak",
-      "BEP toplantısında gözlenebilir performansı belirli destek koşuluyla ilişkilendirin."
+      "BEP toplantısında gözlenebilir performansı belirli destek koşuluyla ilişkilendirin.",
+      "'Okuması gelişecek' gibi geniş bir hedefi koşul, gözlenebilir davranış, başarı ölçütü ve izleme süresini içeren küçük bir hedefe dönüştürün."
     ],
     "faq": [
       [
@@ -303,7 +381,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "BEP toplantısında gözlenebilir performansı belirli destek koşuluyla ilişkilendirin. Sorumlu, uygulama biçimi ve yeni ölçüm tarihi karara yazılmalıdır."
+        "Toplantı sonunda aileye uygulanacak okul desteğini anlaşılır dille açıklayın ve öğrencinin katılım düzeyine uygun görüşünü almaya çalışın. Bir sonraki toplantıda yalnızca hedefin gerçekleşip gerçekleşmediğini değil seçilen desteğin etkisini de konuşun. Öğrenci ilerlemiyorsa 'yeterince çabalamadı' demek yerine ölçüt, görev güçlüğü, ipucu ve ortam koşullarını gözden geçirin. Kişisel belgeleri yalnızca yetkili kişilerle paylaşın."
       ]
     ],
     "search_terms": [
@@ -339,6 +417,18 @@
       [
         "Değerlendirme ve destek için ekip kurmak",
         "Gerekli değerlendirme ve yönlendirmeyi ilgili uzman ve kurum süreçleriyle yürüt."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Bir öğrenci yazılı yönergeyi takip etmekte zorlanıyor diye doğrudan tanı çıkarılamaz. Öğretmenin gözleminde görevin uzunluğu, yönergenin türü, verilen destek ve öğrencinin hangi adımda zorlandığı görünür olmalıdır. Aynı kazanımı sözlü açıklamayla gösterebilmesi, öğretim ve değerlendirme uyarlamalarını planlamak için yararlı bilgidir. Öğrencinin güçlü yönlerini görmeden sadece hata örneklerini biriktirmeyin."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Görevi kısa numaralı adımlara bölmek, görsel örnek sunmak veya cevap biçimini uyarlamak seçenek olabilir. Hangi uyarlamanın kazanımı değiştirmeden erişimi kolaylaştırdığını ders öğretmeniyle değerlendirin. Örneğin öğrenciden metnin ana fikrini bulması isteniyorsa uzun yazma yükü ayrıca beceri hedefi değilse kısa sözlü yanıt seçeneği düşünülebilir. Uyarlamalar öğrenciyi sınıfın önünde farklılaştıracak bir gösteriye dönüşmemelidir."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "İki hafta içinde farklı görevlerde neyin değiştiğini kaydedin: öğrencinin bağımsız başladığı adım, gereken ipucu ve öğrenme sonucu. Başarının yalnızca öğretmen yardımı artınca ortaya çıkıp çıkmadığını ayrıca inceleyin. İhtiyaç sürüyorsa ilgili okul ekibi ve yetkili eğitsel değerlendirme süreçleriyle çalışın; gözlem notlarından klinik sonuç üretmeyin. Aileye yardım düzeyi ile öğrencinin gerçekten öğrendiği kazanımı ayrı açıklayın."
       ]
     ],
     "example": "Öğrenci sözlü olarak anlattığı bilgiyi uzun yazılı yönergede gösteremiyor. Öğretmen aynı kazanımı koruyarak yönergeyi numaralı adımlara ayırıyor ve örnek cevap sunuyor. Öğrenciyle iki haftalık uygulamanın hangi bölümünün işe yaradığı konuşuluyor; tanı çıkarılmıyor. Uzun yazılı yönergeyle zorlanmayı tek başına tanı göstergesi saymayın; aynı kazanımı farklı yönerge veya yanıt biçimiyle tekrar değerlendirin.",
@@ -346,7 +436,8 @@
       "☐ Görev türüne göre zorlanmayı ayırt etmek",
       "☐ Yönergeleri erişilebilir adımlara bölmek",
       "☐ Akran kıyaslaması olmadan gelişimi izlemek",
-      "Uzun yazılı yönergeyle zorlanmayı tek başına tanı göstergesi saymayın; aynı kazanımı farklı yönerge veya yanıt biçimiyle tekrar değerlendirin."
+      "Uzun yazılı yönergeyle zorlanmayı tek başına tanı göstergesi saymayın; aynı kazanımı farklı yönerge veya yanıt biçimiyle tekrar değerlendirin.",
+      "Görevi kısa numaralı adımlara bölmek, görsel örnek sunmak veya cevap biçimini uyarlamak seçenek olabilir."
     ],
     "faq": [
       [
@@ -355,7 +446,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Uzun yazılı yönergeyle zorlanmayı tek başına tanı göstergesi saymayın; aynı kazanımı farklı yönerge veya yanıt biçimiyle tekrar değerlendirin."
+        "İki hafta içinde farklı görevlerde neyin değiştiğini kaydedin: öğrencinin bağımsız başladığı adım, gereken ipucu ve öğrenme sonucu. Başarının yalnızca öğretmen yardımı artınca ortaya çıkıp çıkmadığını ayrıca inceleyin. İhtiyaç sürüyorsa ilgili okul ekibi ve yetkili eğitsel değerlendirme süreçleriyle çalışın; gözlem notlarından klinik sonuç üretmeyin. Aileye yardım düzeyi ile öğrencinin gerçekten öğrendiği kazanımı ayrı açıklayın."
       ]
     ],
     "search_terms": [
@@ -391,6 +482,18 @@
       [
         "Aidiyet ve güvenlik hissini takip etmek",
         "Öğrencinin aidiyet deneyimini ve güvenliğini takip görüşmelerinde değerlendir."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Teneffüste tek kalmak her zaman istenmeyen yalnızlık değildir. Öğrenciye nerede yalnız kalmayı tercih ettiğini, hangi ortamda dışarıda bırakıldığını ve kendini güvende hissedip hissetmediğini ayrı sorun. Bir grup öğrencinin sürekli oyun dışına çıkarılması, özellikle güç dengesizliği ve alay eşlik ediyorsa zorbalık bakımından değerlendirilmelidir. Hedef öğrencinin özel anlatımını sınıf tartışmasına taşımayın."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Öğretmenle oyun kuralları, grup oluşturma biçimi ve yetişkin gözetimini inceleyin. Dönüşümlü roller veya ortak ilgi etkinliği sunmak daha kapsayıcı olabilir; ancak öğrenciyi istemediği arkadaşlığa zorlamak doğru değildir. Kurgusal arkadaşlık senaryolarıyla sınıfa katılım daveti ve reddin saygılı biçimde karşılanmasını çalışabilirsiniz. Tekrar eden tehdit varsa yalnızca sosyal beceri etkinliğiyle yetinmeyin; koruma düzeni oluşturun."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Takip görüşmesinde kaç arkadaşı olduğundan çok teneffüste güvenlik ve aidiyet deneyimini sorun. Öğrenci bir etkinliğe katıldı diye zorbalık riskinin bittiğini varsaymayın. Öğretmenin gözetim düzenlemesiyle öğrencinin kendi seçtiği katılım biçiminin işe yarayıp yaramadığını ayrı gözleyin. Misilleme veya yeni dışlanma ortaya çıkarsa yetişkin müdahalesini güncelleyin. Sonuçları diğer öğrencilerin kimliğini açığa çıkarmadan kaydedin."
       ]
     ],
     "example": "Beşinci sınıfta teneffüste yalnız kaldığını söyleyen öğrenciyle özel görüşme yapılıyor. Öğretmen kimseyi işaret etmeden gönüllü küçük grup oyunları düzenliyor; rehberlik servisi öğrencinin kendini güvende hissettiği anları bir sonraki görüşmede soruyor. Akran dışlanmasının öğrencinin seçiminden mi zorlayıcı grup ortamından mı kaynaklandığını dinleyin.",
@@ -398,7 +501,8 @@
       "☐ Dışlanma örüntüsünü güvenle anlamak",
       "☐ Kapsayıcı grup görevleri tasarlamak",
       "☐ Öğretmenin sınıf düzenini gözden geçirmek",
-      "Akran dışlanmasının öğrencinin seçiminden mi zorlayıcı grup ortamından mı kaynaklandığını dinleyin."
+      "Akran dışlanmasının öğrencinin seçiminden mi zorlayıcı grup ortamından mı kaynaklandığını dinleyin.",
+      "Öğretmenle oyun kuralları, grup oluşturma biçimi ve yetişkin gözetimini inceleyin."
     ],
     "faq": [
       [
@@ -407,7 +511,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Akran dışlanmasının öğrencinin seçiminden mi zorlayıcı grup ortamından mı kaynaklandığını dinleyin. Tekrarlı zorbalık varsa koruyucu okul yaklaşımını başlatın."
+        "Takip görüşmesinde kaç arkadaşı olduğundan çok teneffüste güvenlik ve aidiyet deneyimini sorun. Öğrenci bir etkinliğe katıldı diye zorbalık riskinin bittiğini varsaymayın. Öğretmenin gözetim düzenlemesiyle öğrencinin kendi seçtiği katılım biçiminin işe yarayıp yaramadığını ayrı gözleyin. Misilleme veya yeni dışlanma ortaya çıkarsa yetişkin müdahalesini güncelleyin. Sonuçları diğer öğrencilerin kimliğini açığa çıkarmadan kaydedin."
       ]
     ],
     "search_terms": [
@@ -443,6 +547,18 @@
       [
         "Aile iletişimini birlikte değerlendirmek",
         "İş birliği planını öğrenci ve veliyle yeniden değerlendir."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Sınav döneminde aile ile öğrenci aynı hedefi söylediği hâlde farklı şeyler kastedebilir. Veli yüksek notu güvence olarak görürken öğrenci her akşam net sorgulandığı için kaygılanabilir. Görüşmeye iki tarafın beklentisini ayrı dinleyerek başlayın. Öğrencinin uyku, dinlenme ve ders dışı etkinlik ihtiyacını başarının karşıtı saymayın; yoğun zorlanma ve güvenlik riskini ayrıca değerlendirin."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Veliye deneme sonucunu 'Kaçıncı oldun?' sorusuyla değil 'Hangi konuda destek istersin?' gibi açık bir soruyla konuşma seçeneği sunun. Haftada bir kısa plan gözden geçirme zamanı belirlemek, her akşam uzun puan tartışmasından daha sürdürülebilir olabilir. Öğrencinin çalışma stratejisini kendisinin seçmesine alan açın; aileyi her görevin denetleyicisine dönüştürmeyin. Özel danışma görüşmesi notlarını aileye otomatik aktarmayın."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "İki hafta sonra öğrenci ve velinin deneyimini mümkün olduğunda ayrı ayrı değerlendirin. Tartışmalar azalsa bile öğrencinin hâlâ baskı hissetmesi mümkündür; bu nedenle yalnızca konuşma sayısını başarı ölçütü yapmayın. Gerekirse aileden beklentiyi ifade ederken kıyaslamayı bırakmasını, öğretmenden bireysel süreç geri bildirimi vermesini isteyin. Kaygı günlük işlevi belirgin etkiliyorsa uygun uzman desteği gereksinimini ele alın."
       ]
     ],
     "example": "LGS'ye hazırlanan öğrencinin ailesi her akşam deneme netlerini soruyor; tartışmalar artıyor. Görüşmede aile haftada bir kısa değerlendirme zamanı belirliyor ve günlük konuşmalara ders dışı konular ekliyor. İki hafta sonra öğrenci ve veli ayrı ayrı bu değişimin etkisini anlatıyor. Sınav döneminde veliyle günlük net sorgulaması yerine öğrencinin isteyebildiği destek ve dinlenme koşulları üzerine konuşun.",
@@ -450,7 +566,8 @@
       "☐ Sınav beklentilerini iki taraftan dinlemek",
       "☐ Ders ve dinlenme düzenini birlikte planlamak",
       "☐ Sınav tartışmalarında güvenli ara vermek",
-      "Sınav döneminde veliyle günlük net sorgulaması yerine öğrencinin isteyebildiği destek ve dinlenme koşulları üzerine konuşun."
+      "Sınav döneminde veliyle günlük net sorgulaması yerine öğrencinin isteyebildiği destek ve dinlenme koşulları üzerine konuşun.",
+      "Veliye deneme sonucunu 'Kaçıncı oldun?' sorusuyla değil 'Hangi konuda destek istersin?' gibi açık bir soruyla konuşma seçeneği sunun."
     ],
     "faq": [
       [
@@ -459,7 +576,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Sınav döneminde veliyle günlük net sorgulaması yerine öğrencinin isteyebildiği destek ve dinlenme koşulları üzerine konuşun."
+        "İki hafta sonra öğrenci ve velinin deneyimini mümkün olduğunda ayrı ayrı değerlendirin. Tartışmalar azalsa bile öğrencinin hâlâ baskı hissetmesi mümkündür; bu nedenle yalnızca konuşma sayısını başarı ölçütü yapmayın. Gerekirse aileden beklentiyi ifade ederken kıyaslamayı bırakmasını, öğretmenden bireysel süreç geri bildirimi vermesini isteyin. Kaygı günlük işlevi belirgin etkiliyorsa uygun uzman desteği gereksinimini ele alın."
       ]
     ],
     "search_terms": [
@@ -495,6 +612,18 @@
       [
         "Etkinliği yeni araştırma sorusuyla bitirmek",
         "Kesin meslek seçtirmeden yeni araştırma soruları oluştur."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Meslek tanıtımı etkinliğinde amaç öğrencinin hemen tek meslek seçmesi değil, meslekler hakkında araştırılabilir sorular geliştirmesidir. Meslek adının yanında günlük görevler, çalışma ortamı ve eğitim yolunu inceleyin. Aynı unvan farklı kurumlarda farklı işler içerebilir. Meslekleri cinsiyet veya yalnızca gelir üzerinden tanımlayan kalıp yargıları kurgusal örneklerle tartışın; kişisel aile mesleklerini sınıfta açıklama zorunluluğu getirmeyin."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Öğrencilerden iki mesleğin günlük işlerinde yapılan üç görev, kullanılan iki beceri ve bilinmeyen bir koşulu araştırmalarını isteyin. Bunun için kurumların güncel meslek tanımları ve eğitim programı bilgileri kullanılabilir. Tanıtım videosunda geçen iddiaları tek kaynakla kesinleştirmeyin; öğrencilerin bulgularının tarih ve kaynağını not ettirin. Grup sunumlarında meslekleri 'iyi' veya 'kötü' diye sıralamak yerine farklı çalışma koşullarını karşılaştırın."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Çıkış kartında öğrenciler daha önce yanlış bildikleri bir meslek özelliğini ve yeni araştırmak istedikleri bir soruyu yazsın. Ders öğretmeniyle etkinlik sonrası öğrencilerin bilgi doğrulama davranışını gözleyin. Bir sonraki oturumda gerçek meslek çalışanından soru alınacaksa kişisel veya kurumsal gizli bilgiler istenmemelidir. Öğrencinin ilgisi değişirse bunu kararsızlık kusuru değil araştırma sürecinin doğal bir parçası olarak ele alın."
       ]
     ],
     "example": "Sekizinci sınıf öğrencileri ilgilerini çeken iki mesleğin günlük görevlerini ve eğitim yollarını güvenilir kaynaklardan araştırıyor. Küçük gruplarda mesleklerle ilgili kalıp yargıları tartışıyor, etkinliği 'hangisini seçeceğim?' yerine yeni bir araştırma sorusuyla bitiriyorlar. Meslek tanıtımında aynı adı taşıyan mesleklerin farklı ortam ve görevlerini güncel kaynaklardan karşılaştırın; 'kesin iş' vaadinden kaçının.",
@@ -502,7 +631,8 @@
       "☐ Meslek keşfinde yaşa uygun hedef seçmek",
       "☐ Kalıp yargıları fark ettirmek",
       "☐ İki mesleği günlük görevleriyle karşılaştırmak",
-      "Meslek tanıtımında aynı adı taşıyan mesleklerin farklı ortam ve görevlerini güncel kaynaklardan karşılaştırın; 'kesin iş' vaadinden kaçının."
+      "Meslek tanıtımında aynı adı taşıyan mesleklerin farklı ortam ve görevlerini güncel kaynaklardan karşılaştırın; 'kesin iş' vaadinden kaçının.",
+      "Öğrencilerden iki mesleğin günlük işlerinde yapılan üç görev, kullanılan iki beceri ve bilinmeyen bir koşulu araştırmalarını isteyin."
     ],
     "faq": [
       [
@@ -511,7 +641,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Meslek tanıtımında aynı adı taşıyan mesleklerin farklı ortam ve görevlerini güncel kaynaklardan karşılaştırın; 'kesin iş' vaadinden kaçının."
+        "Çıkış kartında öğrenciler daha önce yanlış bildikleri bir meslek özelliğini ve yeni araştırmak istedikleri bir soruyu yazsın. Ders öğretmeniyle etkinlik sonrası öğrencilerin bilgi doğrulama davranışını gözleyin. Bir sonraki oturumda gerçek meslek çalışanından soru alınacaksa kişisel veya kurumsal gizli bilgiler istenmemelidir. Öğrencinin ilgisi değişirse bunu kararsızlık kusuru değil araştırma sürecinin doğal bir parçası olarak ele alın."
       ]
     ],
     "search_terms": [
@@ -547,6 +677,18 @@
       [
         "Özel yaşantıyı zorlamadan çalışmayı bitirmek",
         "Kişisel travma paylaşımı zorlamadan güvenli kapanış yap."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Psikolojik sağlamlığı her koşulda güçlü durmak veya üzülmemek diye tanıtmayın. Öğrencinin zorlayıcı bir durum karşısında destek alabilmesi ve farklı seçenekleri görebilmesi de önemli becerilerdir. Sınıf çalışmasında gerçek kayıp veya travma öyküleri toplamak yerine okul değişikliği gibi kurgusal bir olay seçin. Zarar verici olayın sorumluluğunu olayı yaşayan çocuğun yetersiz baş etmesine yüklemeyin."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Kurgusal karakterin zorlandığı anı, daha önce kullandığı yararlı davranışı ve ulaşabileceği iki güvenilir yetişkini bir haritada gösterin. Öğrencilerden tek bir 'doğru' baş etme yöntemi seçmelerini istemeyin; biri kısa mola, diğeri yetişkin desteği veya görev uyarlaması ihtiyacını fark edebilir. Etkinlik tüm öğrenciler için gönüllü katılım biçimleri içermelidir. Acil risk bildirimini sınıf içi tartışmaya dönüştürmeden yetkili desteğe yönlendirin."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Oturum sonunda öğrencilerin bir kurgusal durumda kime başvuracağını ve hangi desteği isteyebileceğini anlatmasını değerlendirin. Kişisel güç gösterisi veya ne kadar dayanıklı olduklarına ilişkin sıralama yapmayın. Sonraki haftalarda sınıf içinde yardım istemeyi kolaylaştıran koşulları öğretmenle izleyin. Korku, uyku bozulması veya yoğun işlev kaybı sürüyorsa uygun profesyonel destek gereksinimini ayrıca değerlendirin."
       ]
     ],
     "example": "Kurgusal bir öğrenci okul değişikliği sonrası kendini yalnız hissediyor. Altıncı sınıf grupları bu öğrencinin başvurabileceği yetişkinleri, arkadaşlık fırsatlarını ve kendi güçlü yönlerini belirliyor. Kimsenin gerçek kayıp veya travma deneyimini paylaşması istenmiyor. Psikolojik sağlamlık, zorlayıcı yaşantıyı yalnız başına aşma zorunluluğu değildir.",
@@ -554,7 +696,8 @@
       "☐ Psikolojik sağlamlık kavramını doğru tanıtmak",
       "☐ Birden fazla baş etme yolu üretmek",
       "☐ Yardım istemeyi güçlü bir seçenek saymak",
-      "Psikolojik sağlamlık, zorlayıcı yaşantıyı yalnız başına aşma zorunluluğu değildir."
+      "Psikolojik sağlamlık, zorlayıcı yaşantıyı yalnız başına aşma zorunluluğu değildir.",
+      "Kurgusal karakterin zorlandığı anı, daha önce kullandığı yararlı davranışı ve ulaşabileceği iki güvenilir yetişkini bir haritada gösterin."
     ],
     "faq": [
       [
@@ -563,7 +706,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Psikolojik sağlamlık, zorlayıcı yaşantıyı yalnız başına aşma zorunluluğu değildir. Kurgusal olaylarda güvenilir yetişkin ve sınıf aidiyeti seçeneklerini görünür kılın."
+        "Oturum sonunda öğrencilerin bir kurgusal durumda kime başvuracağını ve hangi desteği isteyebileceğini anlatmasını değerlendirin. Kişisel güç gösterisi veya ne kadar dayanıklı olduklarına ilişkin sıralama yapmayın. Sonraki haftalarda sınıf içinde yardım istemeyi kolaylaştıran koşulları öğretmenle izleyin. Korku, uyku bozulması veya yoğun işlev kaybı sürüyorsa uygun profesyonel destek gereksinimini ayrıca değerlendirin."
       ]
     ],
     "search_terms": [
@@ -599,6 +742,18 @@
       [
         "Bir haftalık denemenin sonucunu konuşmak",
         "Bir hafta sonraki görüşmede işe yarayan düzenlemeleri değerlendir."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Ertelemeyi yalnızca 'disiplinsizlik' olarak tanımlamayın. Öğrencinin ödevi tam olarak hangi anda bırakıp başka etkinliğe yöneldiğini sorun. İlk sorunun yönergesini anlamaması, uzun görevin gözünde büyümesi veya yanlış yapma kaygısı farklı destekler gerektirir. Öğrencinin bir görevi ertelemediği günlerde neyin farklı olduğunu da araştırın; başarıyı yalnızca yapılmayan iş üzerinden değerlendirmeyin."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Öğrenciyle 'fen ödevini bitir' gibi geniş bir hedeften önce ilk beş dakikada yapılacak işi seçin: başlığı okumak, öğretmene soru hazırlamak veya ilk iki soruyu incelemek gibi. Görevin ilk adımı okuldayken açıklığa kavuşursa evde başlamak kolaylaşabilir. Kısa çalışma blokları ve mola seçeneklerini öğrencinin gerçek yaşam yüküne göre düzenleyin. Velinin her adımı kontrol etmesi yerine bağımsız başlatma davranışını destekleyin."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Bir hafta boyunca göreve başlama zamanını, kullanılan ipucunu ve öğrencinin zorlanma deneyimini kısa çizelgede izleyin. Ödev tamamlanmasa bile öğrenci yönergeyi anlayıp çalışmaya başlayabildiyse bunun üzerine yeni bir adım kurabilirsiniz. İşe yaramayan planı daha sıkı ceza veya daha uzun çalışma zorunluluğuna dönüştürmeyin. Gerekirse görev miktarı, öğretmen açıklaması ve ders düzeyine uygun desteği yeniden değerlendirin."
       ]
     ],
     "example": "Öğrenci fen ödevini sürekli geceye bırakıyor. Birlikte yapılan incelemede ilk sorunun yönergesini anlamadığı için başlamaktan kaçındığı görülüyor. İlk hafta hedefi ödevi bitirmek değil, okuldan çıkmadan öğretmene ilk adımı sormak ve evde beş dakika denemek oluyor. Akademik ertelemeyi karakter özelliği gibi değerlendirmeyin.",
@@ -606,7 +761,8 @@
       "☐ Ertelemenin başladığı anı belirlemek",
       "☐ Başlamayı kolaylaştıran küçük hedef seçmek",
       "☐ Çalışma ortamını ve görevi düzenlemek",
-      "Akademik ertelemeyi karakter özelliği gibi değerlendirmeyin."
+      "Akademik ertelemeyi karakter özelliği gibi değerlendirmeyin.",
+      "Öğrenciyle 'fen ödevini bitir' gibi geniş bir hedeften önce ilk beş dakikada yapılacak işi seçin: başlığı okumak, öğretmene soru hazırlamak veya ilk iki soruyu incelemek gibi."
     ],
     "faq": [
       [
@@ -615,7 +771,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Akademik ertelemeyi karakter özelliği gibi değerlendirmeyin. Öğrenci hangi yönergeyi anlamadığını belirleyip ilk soruyu yapmaya yönelik kısa destek seçsin."
+        "Bir hafta boyunca göreve başlama zamanını, kullanılan ipucunu ve öğrencinin zorlanma deneyimini kısa çizelgede izleyin. Ödev tamamlanmasa bile öğrenci yönergeyi anlayıp çalışmaya başlayabildiyse bunun üzerine yeni bir adım kurabilirsiniz. İşe yaramayan planı daha sıkı ceza veya daha uzun çalışma zorunluluğuna dönüştürmeyin. Gerekirse görev miktarı, öğretmen açıklaması ve ders düzeyine uygun desteği yeniden değerlendirin."
       ]
     ],
     "search_terms": [
@@ -651,6 +807,18 @@
       [
         "Günlük iletişim hedefini takip etmek",
         "Bir haftalık somut iletişim hedefi ve takip belirle."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Ortaokul arkadaşlık etkinliğinde 'herkes herkesle arkadaş olmalı' mesajı vermeyin. Sağlıklı iletişim, kişisel sınırların korunması ve güvenli katılım hedeflenir; yakın arkadaşlık zorunlu değildir. Dışlanma, alay veya güç dengesizliği bildirilmişse bunları genel sosyal beceri eksikliği olarak yorumlamayın. Öğrencilerin gerçek arkadaşlık anlaşmazlıklarını sınıfın önünde konuşturmak yerine kurgusal bir durum hazırlayın."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Küçük gruplarda bir öğrenci kısa kurgu olayı anlatır, diğeri duyduğu önemli iki bilgiyi kendi sözleriyle özetler. Sonra roller değiştirilir. Konuşmak istemeyen öğrenci yazılı kart kullanabilir. Etkinliği izin isteme, kişisel bilgi paylaşmama ve istenmeyen davranışı reddetme cümleleriyle genişletin. Öğretmen öğrencilerin en popüler arkadaşını seçmesini istemesin; görev grupları güvenli ve dönüşümlü biçimde düzenlensin."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Günlük sınıf yaşamında söz kesmeme, davet ederken ısrar etmeme ve yardım isterken saygılı olma gibi tek davranışı izleyin. Öğrencileri arkadaş sayısı veya sosyal başarı sırasına koymayın. Bir hafta sonra öğrencilerin kendi deneyimlerini paylaşabildikleri güvenli geri bildirim yolu sunun. Dışlanan öğrenci varsa bireysel güvenlik desteğini sürdürün; herkesin önünde sembolik barışma töreni yaptırmayın."
       ]
     ],
     "example": "Sınıfa yeni katılan öğrenciler için gönüllü küçük grup etkinliği hazırlanıyor. Gruplar bir arkadaşın sözünü kesmeden dinleme ve söylediklerini kendi sözcükleriyle özetleme pratiği yapıyor. Kimsenin kişisel aile deneyimini açıklaması gerekmiyor. Arkadaşlık etkinliğinde gerçek öğrenci çatışmalarını sınıf önünde canlandırmayın; kurgusal olaylar ve değişen küçük grup görevleri kullanın.",
@@ -658,7 +826,8 @@
       "☐ Arkadaşlık etkinliğinin becerisini seçmek",
       "☐ Dinleme ve yeniden ifade etme çalışması",
       "☐ Saygı ile yakın arkadaşlığı ayırmak",
-      "Arkadaşlık etkinliğinde gerçek öğrenci çatışmalarını sınıf önünde canlandırmayın; kurgusal olaylar ve değişen küçük grup görevleri kullanın."
+      "Arkadaşlık etkinliğinde gerçek öğrenci çatışmalarını sınıf önünde canlandırmayın; kurgusal olaylar ve değişen küçük grup görevleri kullanın.",
+      "Küçük gruplarda bir öğrenci kısa kurgu olayı anlatır, diğeri duyduğu önemli iki bilgiyi kendi sözleriyle özetler."
     ],
     "faq": [
       [
@@ -667,7 +836,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Arkadaşlık etkinliğinde gerçek öğrenci çatışmalarını sınıf önünde canlandırmayın; kurgusal olaylar ve değişen küçük grup görevleri kullanın."
+        "Günlük sınıf yaşamında söz kesmeme, davet ederken ısrar etmeme ve yardım isterken saygılı olma gibi tek davranışı izleyin. Öğrencileri arkadaş sayısı veya sosyal başarı sırasına koymayın. Bir hafta sonra öğrencilerin kendi deneyimlerini paylaşabildikleri güvenli geri bildirim yolu sunun. Dışlanan öğrenci varsa bireysel güvenlik desteğini sürdürün; herkesin önünde sembolik barışma töreni yaptırmayın."
       ]
     ],
     "search_terms": [
@@ -703,6 +872,18 @@
       [
         "Öğrenciyi tekrar sorgulamadan desteklemek",
         "Gereksiz tekrar anlatımı önleyerek okul içi güvenli desteği koordine et."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "İhmal veya istismar şüphesi, okulda basit bir iletişim becerisi etkinliğiyle çözülecek konu değildir. Öğrencinin o anda güvende olup olmadığı önceliklidir. Öğrenci bir olay anlatıyorsa onu kesmeden dinleyin; yönlendirici ayrıntı soruları, tekrar tekrar anlatma isteği veya kendi başına kanıt arama girişimi uygun değildir. Öğrenciye koşulsuz gizlilik sözü vermeyin; güvenliği için yetkili kişilere gerekli bilgilerin aktarılabileceğini yaşına uygun açıklayın."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Okul çalışanının görevi olayın doğru olup olmadığını soruşturarak hükme bağlamak değil, öğrencinin güvenliğini sağlamak ve yürürlükteki yetkili bildirim/koruma sürecini gecikmeden işletmektir. Duyulan ifadeyi olgusal biçimde ve gerekli kapsamda kaydedin. Şüpheli kişiye veya otomatik olarak tüm aile üyelerine bilgi vermenin öğrenciyi tehlikeye sokup sokmayacağını yetkili koruma sürecinde değerlendirin. Acil tehlike varsa sıradan görüşme randevusu beklenmez."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Bildirimden sonra da okulun görevi tamamen bitmez: öğrencinin güvenli sınıf katılımı, yetkili destek hizmetine erişimi ve izlem sorumlusu belirlenmelidir. Çocuğu farklı görevlilere aynı olayı tekrar tekrar anlattırmayın. Bilgileri yalnızca yetkili kişilerle paylaşın; sınıf toplantısı, genel personel mesajı veya veli grubu üzerinden yaymayın. Bu içerik kesin bir hukuki protokol sayılmaz; güncel mevzuat ve uzman koruma değerlendirmesiyle onaylanmadan yayımlanmamalıdır."
       ]
     ],
     "example": "Öğrenci okulda kendisini güvende hissetmediği bir durumdan söz ediyor. Personel yönlendirici sorularla ayrıntı toplamaya veya iddiayı kendi başına kanıtlamaya çalışmıyor; öğrencinin acil güvenliğini değerlendirip yürürlükteki bildirim ve koruma süreçlerini gecikmeden işletiyor. İhmal ve istismar şüphesinde öğrenciden ayrıntılı tekrar anlatım veya kanıt toplamasını istemeyin.",
@@ -710,7 +891,8 @@
       "☐ Acil güvenliği değerlendirmek",
       "☐ Gizliliğin sınırlarını yaşa uygun anlatmak",
       "☐ Yetkili bildirim sürecini geciktirmemek",
-      "İhmal ve istismar şüphesinde öğrenciden ayrıntılı tekrar anlatım veya kanıt toplamasını istemeyin."
+      "İhmal ve istismar şüphesinde öğrenciden ayrıntılı tekrar anlatım veya kanıt toplamasını istemeyin.",
+      "Okul çalışanının görevi olayın doğru olup olmadığını soruşturarak hükme bağlamak değil, öğrencinin güvenliğini sağlamak ve yürürlükteki yetkili bildirim/koruma sürecini gecikmeden işletmektir."
     ],
     "faq": [
       [
@@ -719,7 +901,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "İhmal ve istismar şüphesinde öğrenciden ayrıntılı tekrar anlatım veya kanıt toplamasını istemeyin. Anlık güvenliği sağlayın ve yürürlükteki yetkili bildirim süreçlerini izleyin."
+        "Bildirimden sonra da okulun görevi tamamen bitmez: öğrencinin güvenli sınıf katılımı, yetkili destek hizmetine erişimi ve izlem sorumlusu belirlenmelidir. Çocuğu farklı görevlilere aynı olayı tekrar tekrar anlattırmayın. Bilgileri yalnızca yetkili kişilerle paylaşın; sınıf toplantısı, genel personel mesajı veya veli grubu üzerinden yaymayın. Bu içerik kesin bir hukuki protokol sayılmaz; güncel mevzuat ve uzman koruma değerlendirmesiyle onaylanmadan yayımlanmamalıdır."
       ]
     ],
     "search_terms": [
@@ -755,6 +937,18 @@
       [
         "Dönem sonunda tekrar kayıtları temizlemek",
         "Dönem sonunda işlevsiz kayıtları ve arşiv düzenini gözden geçir."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Rehberlik servisinde belge türleri aynı hassasiyete sahip değildir. Sınıf etkinliği katılım kaydı, genel faaliyet raporu ve bireysel öğrenci görüşmesi ayrı amaçlarla tutulur. Önce yürürlükteki kurum belge yükümlülüklerini doğrulayın; daha eski yıllardan kalan her formu zorunlu sanmayın. Tek bir etkinliğin üç farklı dosyaya aynı ayrıntıyla yazılması hem iş yükünü hem de gereksiz veri çoğaltma riskini artırabilir."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Belgeler için asgari gerekli alanları belirleyin: işlem tarihi, ilgili çalışma, sorumlu görevli ve uygun takip adımı gibi. Bireysel öğrencilerin özel anlatıları genel faaliyet dosyasında yer almamalıdır. Ortak ekip klasörüne kimin erişebildiğini ve dosyaların kişisel cihazlarda çoğalıp çoğalmadığını kontrol edin. Saklama ve silme kararlarını kişisel tercihe göre değil kurumun yürürlükteki kayıt ve veri koruma usullerine uygun alın."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Dönem sonunda her belge türünün hâlâ hangi ihtiyacı karşıladığını inceleyin. Fazla kopyaların varlığını tespit etmek, yetkili kayıtları keyfî biçimde silmek anlamına gelmez. Erişim hatası veya yanlış klasöre aktarılmış kişisel bilgi saptanırsa kurumun yetkili veri güvenliği süreci başlatılmalıdır. Güncellenen arşiv düzenini yalnızca rehberlik çalışanları için değil ilgili okul yöneticilerine de görevleri ölçüsünde açıklayın."
       ]
     ],
     "example": "Dönem sonunda rehberlik servisi aynı sınıf etkinliğini üç ayrı belgede tekrar kaydettiğini fark ediyor. Güncel kurum usulleri inceleniyor; faaliyet takibi için gerekli alanlar korunurken gereksiz kopyalar azaltılıyor. Bireysel öğrenci kayıtlarının erişimi ayrıca sınırlandırılıyor. Servis arşivinde gereksiz kopya belgeyi azaltırken erişim ve saklama kurallarını koruyun; bireysel öğrenci kayıtlarını genel faaliyet belgelerinden ayırın.",
@@ -762,7 +956,8 @@
       "☐ Rehberlik kayıtlarını türlerine ayırmak",
       "☐ Yalnızca gerekli öğrenci verisini tutmak",
       "☐ Arşiv erişimini güvenli düzenlemek",
-      "Servis arşivinde gereksiz kopya belgeyi azaltırken erişim ve saklama kurallarını koruyun; bireysel öğrenci kayıtlarını genel faaliyet belgelerinden ayırın."
+      "Servis arşivinde gereksiz kopya belgeyi azaltırken erişim ve saklama kurallarını koruyun; bireysel öğrenci kayıtlarını genel faaliyet belgelerinden ayırın.",
+      "Belgeler için asgari gerekli alanları belirleyin: işlem tarihi, ilgili çalışma, sorumlu görevli ve uygun takip adımı gibi."
     ],
     "faq": [
       [
@@ -771,7 +966,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Servis arşivinde gereksiz kopya belgeyi azaltırken erişim ve saklama kurallarını koruyun; bireysel öğrenci kayıtlarını genel faaliyet belgelerinden ayırın."
+        "Dönem sonunda her belge türünün hâlâ hangi ihtiyacı karşıladığını inceleyin. Fazla kopyaların varlığını tespit etmek, yetkili kayıtları keyfî biçimde silmek anlamına gelmez. Erişim hatası veya yanlış klasöre aktarılmış kişisel bilgi saptanırsa kurumun yetkili veri güvenliği süreci başlatılmalıdır. Güncellenen arşiv düzenini yalnızca rehberlik çalışanları için değil ilgili okul yöneticilerine de görevleri ölçüsünde açıklayın."
       ]
     ],
     "search_terms": [
@@ -807,6 +1002,18 @@
       [
         "Aile ve okul desteklerini koordine etmek",
         "Aile ve ilgili birimlerle bireyselleştirilmiş destek planla."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Üstün yetenekli veya yüksek başarı gösteren öğrenciye destek, daha fazla çalışma kâğıdı verilmesiyle sınırlanmamalıdır. Öğrencinin merak ettiği konuların derinliği kadar sosyal aidiyeti, sıkılma deneyimi ve başarısızlığa verdiği tepkiyi de dinleyin. Dersleri hızlı tamamlaması her durumda arkadaşlık kurmayı kolaylaştırmaz. Tek bir test sonucu ya da not üzerinden bütün ihtiyaçlarını tanımlamaktan kaçının."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Sınıf öğretmeniyle kazanımı koruyan derinleştirme görevi veya öğrencinin ilgisine dayalı küçük araştırma planlayın. Görev, öğrenciyi sürekli öğretmenin yardımcısı yapmak veya arkadaşlarından koparmak amacı taşımamalıdır. Ortak grup çalışmasında farklı becerilerin katkısını görünür kılın ve öğrenciye liderlik görevi dayatmayın. Mükemmeliyetçilik nedeniyle yeni şeyler denemekten kaçınıyorsa güvenli hata yapma ve geri bildirim fırsatları sunun."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Birkaç hafta sonra yalnızca görevlerin tamamlanmasını değil öğrencinin yeni şey öğrendiğini, gönüllü katıldığını ve sınıf ilişkilerinde nasıl hissettiğini sorun. Aile ve öğretmenin gözlemleri yararlı olabilir; yine de öğrencinin kendi deneyimini ayrı değerlendirin. İlgisi değişirse planı güncelleyin. Gerekli eğitimsel değerlendirme ve desteklerde okulun yetkili uzman ekibiyle çalışın; başarıyı öğrencinin değeriyle eşitleyen beklentileri azaltın."
       ]
     ],
     "example": "Ders görevlerini erken bitiren öğrenci grup çalışmalarında kendini dışarıda hissediyor. Öğretmenle ilgi alanına uygun derinleşme görevi planlanırken rehberlik görüşmesinde arkadaşlık ve aidiyet ihtiyacı konuşuluyor; destek yalnızca akademik başarıya indirgenmiyor. Üstün yetenekli öğrenciye destek yalnızca ek test vermek değildir.",
@@ -814,7 +1021,8 @@
       "☐ Öğrenciyi yalnızca başarıyla tanımlamamak",
       "☐ Zenginleştirme görevleri planlamak",
       "☐ Aidiyet ve mükemmeliyetçilik baskısını izlemek",
-      "Üstün yetenekli öğrenciye destek yalnızca ek test vermek değildir."
+      "Üstün yetenekli öğrenciye destek yalnızca ek test vermek değildir.",
+      "Sınıf öğretmeniyle kazanımı koruyan derinleştirme görevi veya öğrencinin ilgisine dayalı küçük araştırma planlayın."
     ],
     "faq": [
       [
@@ -823,7 +1031,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Üstün yetenekli öğrenciye destek yalnızca ek test vermek değildir. İlgi derinleşmesi, akran ilişkileri ve gönüllü katılım birlikte planlanmalıdır."
+        "Birkaç hafta sonra yalnızca görevlerin tamamlanmasını değil öğrencinin yeni şey öğrendiğini, gönüllü katıldığını ve sınıf ilişkilerinde nasıl hissettiğini sorun. Aile ve öğretmenin gözlemleri yararlı olabilir; yine de öğrencinin kendi deneyimini ayrı değerlendirin. İlgisi değişirse planı güncelleyin. Gerekli eğitimsel değerlendirme ve desteklerde okulun yetkili uzman ekibiyle çalışın; başarıyı öğrencinin değeriyle eşitleyen beklentileri azaltın."
       ]
     ],
     "search_terms": [
@@ -859,6 +1067,18 @@
       [
         "Güvenlik planını ve takip tarihini belirlemek",
         "Güvenli izleme ve yeniden görüşme tarihi planla."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Veli zorbalık bildirimiyle geldiğinde önce çocuğun güncel güvenliğini ve tekrarlama riskini değerlendirin. Ailenin kaygısını ciddiye alın ancak görüşmenin odağını başka öğrencilerin kişisel bilgilerini öğrenmeye çevirmeyin. Hedef öğrencinin anlattığı olayla öğretmenin gördüğü davranışı ayrı ve olgusal kaydedin. Güç dengesizliği ve misilleme ihtimali varsa iki aileyi hemen yüzleştirmek veya çocukları barışmaya zorlamak uygun değildir."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Veliye hangi alanlarda yetişkin gözetiminin artırılacağı, öğrencinin güvenli başvuru noktası ve ilk takip zamanını açıklayın. Çocuğa her teneffüs olayı kendi başına çözme sorumluluğu yüklemeyin. Aileyle evde gözlenen okula gitme isteği, uyku veya kaçınma davranışlarını konuşun; ancak bunları okul olayının kesin kanıtı saymayın. Sınıf etkinlikleri bireysel koruma düzeninin yerine geçmemelidir."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Takipte öğrencinin yeniden tehdit alıp almadığını ve hangi okul alanlarında daha güvende hissettiğini ayrı sorun. Zorbalığın durduğunu yalnızca tek bir özür üzerinden ilan etmeyin. Veliye süreç hakkında gerekli bilgileri sunarken diğer çocukların disiplin veya özel görüşme kayıtlarını koruyun. Okul koruma yaklaşımı işe yaramıyorsa görevlilerin sorumluluklarını ve izlem sıklığını yeniden düzenleyin."
       ]
     ],
     "example": "Veli, çocuğunun teneffüslerde sürekli alay edildiğini bildiriyor. Görüşmede başka öğrencilerin özel bilgileri paylaşılmadan güvenlik adımları açıklanıyor. Öğrenciyle ayrı görüşme, öğretmen gözlemi ve takip tarihi planlanıyor; aileler otomatik olarak karşı karşıya getirilmiyor. Zorbalıkta veliyle görüşürken diğer öğrencinin kimliğini veya görüşme ayrıntılarını açıklamayın.",
@@ -866,7 +1086,8 @@
       "☐ Veli görüşmesinde güvenliği merkeze almak",
       "☐ Ailenin evdeki gözlemlerini dinlemek",
       "☐ Okul ve aile için ayrı destek adımları",
-      "Zorbalıkta veliyle görüşürken diğer öğrencinin kimliğini veya görüşme ayrıntılarını açıklamayın."
+      "Zorbalıkta veliyle görüşürken diğer öğrencinin kimliğini veya görüşme ayrıntılarını açıklamayın.",
+      "Veliye hangi alanlarda yetişkin gözetiminin artırılacağı, öğrencinin güvenli başvuru noktası ve ilk takip zamanını açıklayın."
     ],
     "faq": [
       [
@@ -875,7 +1096,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Zorbalıkta veliyle görüşürken diğer öğrencinin kimliğini veya görüşme ayrıntılarını açıklamayın. Misilleme izlemi ve güvenli erişim planını paylaşın."
+        "Takipte öğrencinin yeniden tehdit alıp almadığını ve hangi okul alanlarında daha güvende hissettiğini ayrı sorun. Zorbalığın durduğunu yalnızca tek bir özür üzerinden ilan etmeyin. Veliye süreç hakkında gerekli bilgileri sunarken diğer çocukların disiplin veya özel görüşme kayıtlarını koruyun. Okul koruma yaklaşımı işe yaramıyorsa görevlilerin sorumluluklarını ve izlem sıklığını yeniden düzenleyin."
       ]
     ],
     "search_terms": [
@@ -911,6 +1132,18 @@
       [
         "Kazanımı ölçerek sonraki oturuma geçmek",
         "Kazanıma uygun kısa geri bildirim toplayıp sonraki oturumu düzenle."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Grup rehberliği oturumunun amacı, katılımcı profili ve gönüllülük sınırları oturum başlamadan açıklanmalıdır. Arkadaşlık becerisi grubu ile yoğun güvenlik riski yaşayan öğrencinin bireysel destek ihtiyacı aynı değildir. Grubun amacı bir tanı koymak ya da öğrenciyi kişisel öykülerini açıklamaya ikna etmek olmamalıdır. Küçük grup etkinliklerinin öğrenciler için güvenli olup olmadığını önceden değerlendirin."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Örneğin otuz dakikalık oturumda kısa tanışma, kurgusal yardım isteme senaryosu, farklı seçenekleri deneme ve gönüllü kapanış geri bildirimi için süre ayırın. Konuşmak istemeyenler yazılı yanıt verebilir; sınıfın önünde duygu açıklama baskısı kurulmaz. Gizliliğin mutlak garanti edilemeyeceğini ve güvenlik istisnalarını yaşa uygun biçimde paylaşın. Bir öğrencinin anlattığı özel bilgiyi tüm gruba yeniden özetlemekten kaçının."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Oturum sonunda öğrencinin kurgusal durumda güvenilir yetişkine nasıl ulaşacağını ifade edip edemediğini değerlendirin. Katılımcı sayısı tek başına beceri kazanımı değildir. Bir sonraki oturumun zorluk düzeyini grubun öğrenme ve rahatlık deneyimine göre uyarlayın. Açığa çıkan bireysel güvenlik ihtiyacı varsa bunu grup içinde derinleştirmek yerine güvenli bireysel ve yetkili yönlendirme kanallarına taşıyın."
       ]
     ],
     "example": "Altıncı sınıfta yardım isteme becerisi için 30 dakikalık grup oturumu hazırlanıyor: beş dakika açılış, on dakika kurgusal senaryo, on dakika seçenekleri deneme ve beş dakika kapanış. Katılımcılar özel yaşantılarını anlatmaya zorlanmıyor. Grup rehberliğinde katılımın amacı ile gizlilik ve güvenlik istisnalarını baştan açıklayın.",
@@ -918,7 +1151,8 @@
       "☐ Grup çalışmasının amacını ve sınırını çizmek",
       "☐ Oturumu süre ve etkinliklere bölmek",
       "☐ Gizlilik ve gönüllülük ilkelerini açıklamak",
-      "Grup rehberliğinde katılımın amacı ile gizlilik ve güvenlik istisnalarını baştan açıklayın."
+      "Grup rehberliğinde katılımın amacı ile gizlilik ve güvenlik istisnalarını baştan açıklayın.",
+      "Örneğin otuz dakikalık oturumda kısa tanışma, kurgusal yardım isteme senaryosu, farklı seçenekleri deneme ve gönüllü kapanış geri bildirimi için süre ayırın."
     ],
     "faq": [
       [
@@ -927,7 +1161,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Grup rehberliğinde katılımın amacı ile gizlilik ve güvenlik istisnalarını baştan açıklayın. Kişisel yaşantı anlatımını zorunlu tutmayın."
+        "Oturum sonunda öğrencinin kurgusal durumda güvenilir yetişkine nasıl ulaşacağını ifade edip edemediğini değerlendirin. Katılımcı sayısı tek başına beceri kazanımı değildir. Bir sonraki oturumun zorluk düzeyini grubun öğrenme ve rahatlık deneyimine göre uyarlayın. Açığa çıkan bireysel güvenlik ihtiyacı varsa bunu grup içinde derinleştirmek yerine güvenli bireysel ve yetkili yönlendirme kanallarına taşıyın."
       ]
     ],
     "search_terms": [
@@ -963,6 +1197,18 @@
       [
         "Suçlamadan güvenli davranışı pekiştirmek",
         "Öğrencileri suçlamadan güvenli davranış seçeneklerini tekrarla."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Dijital mahremiyet çalışmasında çocuğa hangi bilgilerin kişisel olduğunu yalnızca soyut tanımlarla anlatmayın. Fotoğraf, okul bilgisi, konum ve özel mesajın yeniden paylaşımı gibi ayrı kurgusal örnekler kullanın. Bir fotoğrafın çekilmesine izin verilmesi, otomatik olarak internet üzerinde yayımlanmasına izin verildiği anlamına gelmez. Öğrencilere gerçek telefonlarını veya arkadaşlarının özel mesajlarını göstermelerini istemeyin."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Kurgusal öğrenci sınıf fotoğrafını gruba göndermeden önce 'Kimler görünüyor?', 'Herkes izin verdi mi?', 'Başkası bunu yeniden yayabilir mi?' sorularını cevaplasın. Grup tartışmasında hayır deme, paylaşmama ve yardım isteme cümleleri hazırlayın. İzinsiz görsel yayılmışsa öğrenciyi suçlamadan dinleme ve güvenilir yetişkine başvurma yolunu anlatın. Zararlı içeriğin kanıt adı altında yeniden dolaşımını teşvik etmeyin."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Ders sonunda öğrenciler üç farklı paylaşım için izin gerekip gerekmediğini açıklasın ve bir güvenli başvuru kişisi söylesin. Sadece kuralları ezberleyebilmeyi dijital güvenlik davranışıyla eşitlemeyin. Öğretmen sınıfın çevrim içi iletişim kurallarını gözden geçirirken öğrencilerin kişisel hesaplarını denetleme gösterisi yapmamalıdır. Devam eden tehdit veya zorbalık bildirimlerinde okulun koruyucu süreçlerini başlatın."
       ]
     ],
     "example": "Dördüncü sınıfta bir arkadaşın fotoğrafının izin alınmadan paylaşılacağı kurgusal durum tartışılıyor. Gruplar fotoğrafı paylaşmadan önce sorulabilecek cümleyi ve izinsiz paylaşım yaşandığında başvurulacak güvenilir yetişkini belirliyor. Dijital mahremiyet için gerçek öğrencilerin fotoğraflarını kullanmadan kurgusal izin senaryosu hazırlayın.",
@@ -970,7 +1216,8 @@
       "☐ Kişisel bilgiyi somut örneklerle tanıtmak",
       "☐ Fotoğraf paylaşımında izin ve sınır",
       "☐ Güvensiz paylaşımda yardım istemek",
-      "Dijital mahremiyet için gerçek öğrencilerin fotoğraflarını kullanmadan kurgusal izin senaryosu hazırlayın."
+      "Dijital mahremiyet için gerçek öğrencilerin fotoğraflarını kullanmadan kurgusal izin senaryosu hazırlayın.",
+      "Kurgusal öğrenci sınıf fotoğrafını gruba göndermeden önce 'Kimler görünüyor?', 'Herkes izin verdi mi?', 'Başkası bunu yeniden yayabilir mi?' sorularını cevaplasın."
     ],
     "faq": [
       [
@@ -979,7 +1226,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Dijital mahremiyet için gerçek öğrencilerin fotoğraflarını kullanmadan kurgusal izin senaryosu hazırlayın. Paylaşma ve yeniden yayma için ayrı izin gereksinimini konuşun."
+        "Ders sonunda öğrenciler üç farklı paylaşım için izin gerekip gerekmediğini açıklasın ve bir güvenli başvuru kişisi söylesin. Sadece kuralları ezberleyebilmeyi dijital güvenlik davranışıyla eşitlemeyin. Öğretmen sınıfın çevrim içi iletişim kurallarını gözden geçirirken öğrencilerin kişisel hesaplarını denetleme gösterisi yapmamalıdır. Devam eden tehdit veya zorbalık bildirimlerinde okulun koruyucu süreçlerini başlatın."
       ]
     ],
     "search_terms": [
@@ -1015,6 +1262,18 @@
       [
         "Başvuru noktasını herkes için erişilebilir kılmak",
         "Etkinlik sonunda her öğrencinin yardım yolunu bildiğini değerlendir."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Çocuklara yardım istemeyi öğretirken tüm yetişkinlerin aynı görevi üstlendiği varsayılmamalıdır. Ders sorusunda sınıf öğretmeni, teneffüs güvenlik durumunda nöbetçi öğretmen, kişisel destekte rehberlik servisi gibi başvuru yolları okulun gerçek düzenine göre gösterilmelidir. 'Güvenli yetişkin' kavramını koşulsuz gizlilik sözüyle açıklamayın. Çocukları kendi özel yaşantılarını anlatmaya zorlamadan kurgusal durumlar üzerinden çalışın."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Öğrencilere kısa örnek olaylar sunun: anlamadığı yönergeyi sormak, arkadaşının tehdit ettiğini bildirmek veya kendini güvende hissetmediği bir alandan uzaklaşmak gibi. Her olay için kime, nerede ve nasıl ulaşacağını okul haritasında gösterin. 'Yardıma ihtiyacım var' ya da 'Şu an güvende değilim' cümlelerini gönüllü olarak prova ettirin. Acil tehlikede rutin görüşme randevusunun beklenmeyeceğini özellikle anlatın."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Uygulamanın sonunda öğrencilerin gerçek okulda doğru başvuru noktasını bulup bulamadığını güvenli bir senaryoyla kontrol edin. Sınıfın bir kısmı öğretmeni ulaşılmaz buluyorsa sorumluluğu çocuğa yüklemek yerine erişim düzenini değiştirin. Öğrencilerin konuşarak, yazarak veya güvenilir yetişkin aracılığıyla yardım isteme seçeneklerini koruyun. Şüpheli istismar veya acil güvenlik bildirimi geldiğinde sınıf etkinliği sürdürmek yerine yetkili koruma süreci işletilmelidir."
       ]
     ],
     "example": "Üçüncü sınıfta teneffüste kendini güvende hissetmeyen kurgusal bir çocuk anlatılıyor. Öğrenciler okul krokisinde ulaşılabilecek yetişkinleri gösteriyor ve 'Yardıma ihtiyacım var' cümlesini gönüllü eşli çalışmada deniyor. Yardım isteme etkinliğinde olağan soru ve acil tehlike için farklı okul yetişkinlerini tanıtın; öğrencinin randevu beklemesini gerektiren yanlış kural koymayın.",
@@ -1022,7 +1281,8 @@
       "☐ Yardım istemeyi olağanlaştırmak",
       "☐ Kurgusal durumlarda yardım yolunu seçmek",
       "☐ Kısa yardım cümlelerini uygulamak",
-      "Yardım isteme etkinliğinde olağan soru ve acil tehlike için farklı okul yetişkinlerini tanıtın; öğrencinin randevu beklemesini gerektiren yanlış kural koymayın."
+      "Yardım isteme etkinliğinde olağan soru ve acil tehlike için farklı okul yetişkinlerini tanıtın; öğrencinin randevu beklemesini gerektiren yanlış kural koymayın.",
+      "Öğrencilere kısa örnek olaylar sunun: anlamadığı yönergeyi sormak, arkadaşının tehdit ettiğini bildirmek veya kendini güvende hissetmediği bir alandan uzaklaşmak gibi."
     ],
     "faq": [
       [
@@ -1031,7 +1291,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Yardım isteme etkinliğinde olağan soru ve acil tehlike için farklı okul yetişkinlerini tanıtın; öğrencinin randevu beklemesini gerektiren yanlış kural koymayın."
+        "Uygulamanın sonunda öğrencilerin gerçek okulda doğru başvuru noktasını bulup bulamadığını güvenli bir senaryoyla kontrol edin. Sınıfın bir kısmı öğretmeni ulaşılmaz buluyorsa sorumluluğu çocuğa yüklemek yerine erişim düzenini değiştirin. Öğrencilerin konuşarak, yazarak veya güvenilir yetişkin aracılığıyla yardım isteme seçeneklerini koruyun. Şüpheli istismar veya acil güvenlik bildirimi geldiğinde sınıf etkinliği sürdürmek yerine yetkili koruma süreci işletilmelidir."
       ]
     ],
     "search_terms": [
@@ -1067,6 +1327,18 @@
       [
         "Söz kesmeden dinleme davranışını izlemek",
         "Öğretmenle bir haftalık gözlem ve geri bildirim planla."
+      ],
+      [
+        "Uygulama öncesi değerlendirme",
+        "Saygı kavramını 'herkes aynı fikri paylaşsın' şeklinde öğretmeyin. Öğrencilerin farklı oyun, etkinlik veya konuşma tercihlerini kabul etmek, başkalarını aşağılamadan itiraz edebilmek ve söz kesmeden dinlemek somut davranışlardır. Kimlik, aile biçimi veya özel yaşantıyı sınıf tartışmasının konusu yapmayın. İncitici veya ayrımcı davranışa yalnızca 'bir görüş' muamelesi yapmadan güvenli sınıf sınırını koruyun."
+      ],
+      [
+        "Okulda somut uygulama",
+        "Kurgusal iki arkadaş aynı oyunu seçemez; öğrenciler birbirlerinin isteğini kendi cümleleriyle özetleyip alternatif etkinlik önerir. 'Katılmıyorum çünkü...' ifadesiyle 'Sen yanılıyorsun' yargısının farkını karşılaştırın. Konuşmak istemeyen öğrencilerin kartla fikir bildirmesine izin verin. Kişisel sınırını korumak isteyen öğrencinin bir etkinliğe katılmama seçeneğini de tartışın; yakın arkadaşlık zorunlu değildir."
+      ],
+      [
+        "İzleme ve sonuçların yorumlanması",
+        "Bir sonraki hafta sınıfın söz kesmeden dinleme, izin isteme ve farklı tercihe saygı gösterme davranışlarını gözlemleyin. Etkinlik sonunda öğrenciler doğru cümleyi tekrar etse bile aynı davranışı günlük ortamda sürdürmeyebilir. Bu yüzden öğretmenin geri bildirimi ve öğrenci deneyimi birlikte ele alınmalıdır. Tekrarlanan alay veya dışlama varsa kişisel olayı sınıfta teşhir etmek yerine okulun koruyucu destek sürecini işletin."
       ]
     ],
     "example": "Beşinci sınıf öğrencileri aynı oyunu oynamak istemeyen iki kurgusal arkadaşın hikâyesini okuyor. Farklı tercihleri küçümsemeden ifade eden cümleler üretiyor ve sınıfça 'söz kesmeden dinlemek' davranışını bir hafta boyunca izliyor. Saygı etkinliğinde öğrencilerin seçim hakkını ve reddetme sınırını birlikte ele alın; farklılığın açıklanmasını veya kişisel öykü paylaşılmasını istemeyin.",
@@ -1074,7 +1346,8 @@
       "☐ Saygıyı gözlenebilir davranışa dönüştürmek",
       "☐ Karakterlerin ihtiyaçlarını karşılaştırmak",
       "☐ Katılmadan da saygılı yanıt vermek",
-      "Saygı etkinliğinde öğrencilerin seçim hakkını ve reddetme sınırını birlikte ele alın; farklılığın açıklanmasını veya kişisel öykü paylaşılmasını istemeyin."
+      "Saygı etkinliğinde öğrencilerin seçim hakkını ve reddetme sınırını birlikte ele alın; farklılığın açıklanmasını veya kişisel öykü paylaşılmasını istemeyin.",
+      "Kurgusal iki arkadaş aynı oyunu seçemez; öğrenciler birbirlerinin isteğini kendi cümleleriyle özetleyip alternatif etkinlik önerir."
     ],
     "faq": [
       [
@@ -1083,7 +1356,7 @@
       ],
       [
         "Bu rehberde özellikle hangi hata önlenmeli?",
-        "Saygı etkinliğinde öğrencilerin seçim hakkını ve reddetme sınırını birlikte ele alın; farklılığın açıklanmasını veya kişisel öykü paylaşılmasını istemeyin."
+        "Bir sonraki hafta sınıfın söz kesmeden dinleme, izin isteme ve farklı tercihe saygı gösterme davranışlarını gözlemleyin. Etkinlik sonunda öğrenciler doğru cümleyi tekrar etse bile aynı davranışı günlük ortamda sürdürmeyebilir. Bu yüzden öğretmenin geri bildirimi ve öğrenci deneyimi birlikte ele alınmalıdır. Tekrarlanan alay veya dışlama varsa kişisel olayı sınıfta teşhir etmek yerine okulun koruyucu destek sürecini işletin."
       ]
     ],
     "search_terms": [
