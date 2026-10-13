@@ -22,7 +22,9 @@ GUIDES=[
 ("İlk görüşmede ne sorulur?","Öğrenciden son iki haftada kendisini derse yakın hissettiği ve uzak hissettiği anları anlatmasını isteyin. Güçlü bulduğu dersleri, zorlandığı etkinlikleri ve kendi seçtiği hedefleri birlikte belirleyin."),
 ("Uygulanabilir küçük hedefler","Bir haftalık süreç için öğrencinin kontrol edebileceği tek bir davranış belirleyin: örneğin ders başında beş dakikalık hazırlık ya da tamamlanabilir bir çalışma adımı. Sonucu yalnızca notla değil, çaba ve süreçle birlikte değerlendirin."),
 ("Öğretmen ve aileyle iş birliği","Öğretmenle geri bildirimin somut ve yargısız olmasını, veliyle ise karşılaştırma ve baskı yerine düzenli destek sağlanmasını konuşun. Öğrencinin mahremiyetini koruyun."),
-("İzleme ve yeniden değerlendirme","Bir veya iki hafta sonra öğrencinin seçtiği hedefi, karşılaştığı engelleri ve işe yarayan yöntemleri gözden geçirin. Süreğen güçlüklerde daha kapsamlı okul değerlendirmesi ve gerektiğinde uygun uzmana yönlendirme yapın.")
+("İzleme ve yeniden değerlendirme","Bir veya iki hafta sonra öğrencinin seçtiği hedefi, karşılaştığı engelleri ve işe yarayan yöntemleri gözden geçirin. Süreğen güçlüklerde daha kapsamlı okul değerlendirmesi ve gerektiğinde uygun uzmana yönlendirme yapın."),
+("Öğrencinin seçtiği ilk adımı denemek","Ödevine başlayamayan öğrencinin hangi ders, yönerge ve zamanda zorlandığını birlikte inceleyin. Kendi seçtiği iki gün için yalnızca ilk soruya başlamak gibi ulaşılabilir bir adım belirleyin. Öğretmen bu adımı kişilik yorumu yerine gözlenebilir davranış olarak izlesin. Tamamlanmayan günlerde öğrenciyi isteksiz ilan etmek yerine yönergenin güçlüğünü ve gerekli yardımı yeniden konuşun."),
+("Motivasyon desteğinin sonucunu yorumlamak","Bir hafta sonunda başlangıç davranışının kaç kez denendiğini öğrencinin deneyimiyle karşılaştırın. Daha uzun çalışma saatlerini tek başarı göstergesi yapmayın; öğrencinin göreve bağımsız başlama, yardım isteme ve zorlandığında yeniden deneme davranışlarını ayrı değerlendirin. Aileye kıyaslama yerine öğrencinin seçtiği desteği uygulama önerisi sunun.")
 ]},
 {
 "slug":"dikkat-odaklanma-okulda-destek",
@@ -33,7 +35,9 @@ GUIDES=[
 ("Görevi daha yönetilebilir hâle getirin","Uzun yönergeleri kısa parçalara ayırmak, önemli adımları görünür kılmak ve kısa kontrol noktaları belirlemek öğrenme sürecini destekleyebilir. Düzenlemeyi öğrenciyle birlikte deneyin."),
 ("Çevresel etkenleri değerlendirin","Gürültü, oturma düzeni, uyku, duygusal zorlanma ve görevin anlaşılabilirliği gibi etkenleri inceleyin. Öğrenciye tek bir açıklama dayatmayın."),
 ("Öğretmenle ortak izleme ölçütü belirleyin","Yalnızca 'dikkatliydi' demek yerine göreve başlama süresi veya tamamlanan adımlar gibi gözlenebilir göstergeler seçin. Ölçütlerin öğrenciyi etiketlemek için kullanılmamasına dikkat edin."),
-("Gerektiğinde yönlendirme","Güçlük birden fazla ortamda sürüyor ve günlük işlevselliği etkiliyorsa aileyle gizliliğe uygun görüşün; değerlendirme gereksinimini ilgili uzmanlarla ele alın.")
+("Gerektiğinde yönlendirme","Güçlük birden fazla ortamda sürüyor ve günlük işlevselliği etkiliyorsa aileyle gizliliğe uygun görüşün; değerlendirme gereksinimini ilgili uzmanlarla ele alın."),
+("Yönergeyi üç adımda sınama","Öğrenci uzun yazılı yönergede göreve başlayamıyorsa öğretmen aynı kazanımı görsel olarak üç küçük adıma ayırabilir. İlk görevin tamamlanmasını, ihtiyaç duyulan yetişkin ipucunu ve öğrencinin rahatlık düzeyini birbirinden ayrı kaydedin. Kısa yönergeyle başarı göstermesi tek başına dikkat tanısı oluşturmaz; ders ve ortam koşullarını birlikte değerlendirin."),
+("Destek düzeyini öğretmenle karşılaştırma","İlk haftanın sonunda öğrenci bağımsız başlayabiliyor mu, yoksa öğretmenin hatırlatması mı artmış, iki soruyu ayırın. Yönergeyi sadeleştirmenin öğrenilen beceriyi değiştirmediğinden emin olun. Öğrencinin okul dışı işlevi belirgin etkileniyorsa aileyle güvenli iletişim ve yetkili uzman değerlendirme yolunu değerlendirin.")
 ]},
 {
 "slug":"bep-hazirlama-okul-ekibi",
@@ -44,7 +48,9 @@ GUIDES=[
 ("Ölçülebilir hedef oluşturun","Her hedefte beklenen davranışın, koşulun ve başarı ölçütünün anlaşılır olmasına dikkat edin. Hedeflerin öğrencinin mevcut düzeyi ve eğitim ortamıyla uyumunu kontrol edin."),
 ("Uyarlamaları somutlaştırın","Materyal, süre, yönerge, ortam ve ölçme yönteminde ihtiyaç duyulan düzenlemeleri ayrı ayrı belirtin. Aynı uyarlamanın her öğrenciye uygun olacağını varsaymayın."),
 ("Ekip rollerini netleştirin","Öğretmen, aile, rehberlik servisi ve ilgili diğer personelin görev paylaşımını belirleyin. Öğrencinin görüşünün alınabileceği uygun fırsatları değerlendirin."),
-("İlerlemeyi belgeleyin","Belirlenen aralıklarla öğrenme örneklerini gözden geçirin. Hedefler işlevsel değilse verilere dayalı değişiklikleri BEP geliştirme süreçleri içinde ele alın. Güncel mevzuat ve kurum usullerini esas alın.")
+("İlerlemeyi belgeleyin","Belirlenen aralıklarla öğrenme örneklerini gözden geçirin. Hedefler işlevsel değilse verilere dayalı değişiklikleri BEP geliştirme süreçleri içinde ele alın. Güncel mevzuat ve kurum usullerini esas alın."),
+("Başlangıç örneğini ölçülebilir hedefe bağlamak","BEP ekibi öğrencinin aynı metindeki beş sorudan hangilerini hangi görsel ipucuyla yanıtladığını örnek çalışma üzerinde gösterebilir. Öğrencinin yardımsız performansı ile öğretmen desteğiyle yaptığı görevleri aynı düzey gibi kaydetmeyin. Hedefin hangi koşulda, hangi davranışla ve hangi ölçütle gerçekleşeceğini ekipçe açıkça yazın."),
+("Ekip kararını ve izlem kanıtını belirlemek","Toplantıda materyal uyarlamasını kim hazırlayacak, ölçümü hangi öğretmen yapacak ve veriler hangi tarihte gözden geçirilecek sorularını yanıtlayın. Öğrenciye uygun biçimde söz hakkı tanıyın ve ailenin evde gözlediği beceriyi okul verisinden ayrı değerlendirin. Hedef karşılanmıyorsa öğrenciyi suçlamadan görev, destek ve ölçütü BEP ekibinde yeniden düzenleyin.")
 ]},
 {
 "slug":"okula-uyum-ilk-haftalar",
@@ -55,7 +61,9 @@ GUIDES=[
 ("Güvenli karşılama düzenleyin","Okulun temel alanlarını, ulaşılabilecek yetişkinleri ve günlük rutinleri yaşa uygun biçimde tanıtın. Soru sormayı kolaylaştıran kısa ve düşük baskılı etkinlikler kullanın."),
 ("Akran desteğini planlayın","Gönüllü akran rehberliği ve iş birliğine dayalı sınıf etkinlikleri düzenleyin. Öğrencinin katılmak istemediği sosyal etkinliklerde zorlayıcı davranmayın."),
 ("Veli ve öğretmen geri bildirimini birleştirin","İlk haftaların sonunda devam, sınıf katılımı, teneffüs deneyimi ve yardım isteme davranışlarını değerlendirin. Mahremiyet ilkeleri doğrultusunda bilgi paylaşın."),
-("Uyum güçlüğü sürerse","Çekilme, yoğun kaygı veya devamsızlık gibi belirtiler devam ederse bireysel görüşme ve okulun uygun destek/yönlendirme süreçlerini planlayın.")
+("Uyum güçlüğü sürerse","Çekilme, yoğun kaygı veya devamsızlık gibi belirtiler devam ederse bireysel görüşme ve okulun uygun destek/yönlendirme süreçlerini planlayın."),
+("İlk günün erişilebilir destek haritası","Yeni öğrenciyle okulun girişini, sınıfını, teneffüs alanını ve ulaşabileceği güvenilir yetişkinleri yaşına uygun biçimde tanıtın. Tanışma etkinliğini herkesin önünde kişisel öyküsünü anlatma zorunluluğuna dönüştürmeyin. Öğrenci isterse bir akranın gönüllü olarak mekânları göstermesi veya resimli harita kullanması destek olabilir."),
+("İlk iki haftada aidiyet ve güvenliği izlemek","Öğrencinin ilk hafta hangi alanda daha güvende hissettiğini, derse nasıl katıldığını ve yardım istemenin kolay olup olmadığını kısa görüşmeyle değerlendirin. Teneffüste yalnız kalması gönüllü tercih mi yoksa dışlanma mı ayrımını öğrenciyi dinleyerek yapın. Yoğun kaygı veya tehdit bildirimi varsa rutin uyum çalışmasına ek olarak koruyucu okul süreci başlatın.")
 ]},
 {
 "slug":"veli-gorusmesi-hazirlik-izleme",
@@ -66,7 +74,9 @@ GUIDES=[
 ("Yargısız başlangıç yapın","Velinin gözlemlerini kesintiye uğratmadan dinleyin. Suçlayıcı ifadeler yerine belirli okul gözlemlerini paylaşın ve farklı bakış açılarını anlamaya çalışın."),
 ("Somut destek adımları belirleyin","Evde ve okulda uygulanabilecek az sayıda, gerçekçi adım üzerinde anlaşın. Her adım için sorumluluğu ve yeniden görüşme zamanını netleştirin."),
 ("Kayıt ve mahremiyet","Görüşme kaydını kurumun güncel usullerine uygun ve asgari veri ilkesiyle tutun. Öğrencinin özel paylaşımlarını gereksiz yere aktarmayın."),
-("Takip görüşmesi planlayın","Kararlaştırılan adımların işe yarayıp yaramadığını somut örneklerle değerlendirin. Destek ihtiyacı devam ederse okul içi iş birliğini ve gerekli yönlendirmeleri gözden geçirin.")
+("Takip görüşmesi planlayın","Kararlaştırılan adımların işe yarayıp yaramadığını somut örneklerle değerlendirin. Destek ihtiyacı devam ederse okul içi iş birliğini ve gerekli yönlendirmeleri gözden geçirin."),
+("Veli anlatımını gözlemle ayırmak","Veli çocuğun ders çalışmadığını söylediğinde hangi gün, görev veya ortamda zorlanma yaşandığını sorun. Öğrencinin okul deneyimini ve varsa öğretmen gözlemini ayrı değerlendirin. Görüşme sırasında başka öğrencilerin özel bilgilerini karşılaştırma için paylaşmayın; veli ve okulun değiştirebileceği birer somut destek adımı seçin."),
+("Bir sonraki görüşmeye ölçülebilir karar bırakmak","Görüşme sonunda örneğin öğrencinin ilk ödeve başlama süresini kısaltmaya yönelik destek, uygulama sorumlusu ve iki haftalık kontrol tarihini yazın. Takipte yalnızca velinin memnuniyetini değil öğrencinin katılım ve zorlanma deneyimini de dinleyin. Çocuk güvenliğini ilgilendiren bir bildirim varsa genel aile görüşmesi planıyla yetinmeden yetkili koruma kanalını kullanın.")
 ]}
 ]
 def esc(s):
