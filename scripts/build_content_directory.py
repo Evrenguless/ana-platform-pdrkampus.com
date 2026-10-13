@@ -5,6 +5,7 @@ from pathlib import Path
 from collections import defaultdict
 from sitemap_tools import read_urlset,render_sitemaps
 from seo_engine import Page
+from campus_tools import navigation, footer as campus_footer
 ROOT=Path(__file__).resolve().parents[1];BASE='https://pdrkampus.com';SIZE=80
 LABELS={'kaynaklar':'Kütüphane kaynakları','konular':'Rehberlik konuları','sayfalar':'Rehberler ve araçlar'}
 E=html.escape
@@ -27,7 +28,7 @@ def build():
  def page(path,title,description,body,items):
   url=BASE+path
   schema={'@context':'https://schema.org','@graph':[{'@type':'CollectionPage','url':url,'name':title,'description':description,'inLanguage':'tr-TR'},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'PDR Kampüs','item':BASE+'/'},{'@type':'ListItem','position':2,'name':title,'item':url}]},{'@type':'ItemList','itemListElement':[{'@type':'ListItem','position':i+1,'name':t,'url':u} for i,(u,t,_) in enumerate(items)]}]}
-  outputs[path.lstrip('/')+'index.html']=f'<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{E(title)} | PDR Kampüs</title><meta name="description" content="{E(description,quote=True)}"><link rel="canonical" href="{url}"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(description,quote=True)}"><meta property="og:url" content="{url}"><meta property="og:type" content="website">'+styles+'<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace('<','\\u003c')+'</script></head><body id="top">'+header+'<main class="catalog-shell"><p class="catalog-kicker"><a href="/">Ana sayfa</a> / <a href="/icerikler/">Kampüs içerikleri</a></p><h1>'+E(title)+'</h1><p class="catalog-lead">'+E(description)+'</p>'+body+'</main>'+footer+'<script src="/src/menu.js?v=20261013" defer></script></body></html>'
+  outputs[path.lstrip('/')+'index.html']=f'<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{E(title)} | PDR Kampüs</title><meta name="description" content="{E(description,quote=True)}"><link rel="canonical" href="{url}"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(description,quote=True)}"><meta property="og:url" content="{url}"><meta property="og:type" content="website">'+styles+'<link rel="stylesheet" href="/assets/campus-tools.css?v=20261014"><script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace('<','\\u003c')+'</script></head><body id="top">'+header+navigation('platform')+'<main class="catalog-shell"><p class="catalog-kicker"><a href="/">Ana sayfa</a> / <a href="/icerikler/">Kampüs içerikleri</a></p><h1>'+E(title)+'</h1><p class="catalog-lead">'+E(description)+'</p>'+body+'</main>'+campus_footer('platform')+footer+'<script src="/src/menu.js?v=20261013" defer></script></body></html>'
  cards=[]
  for group,label in LABELS.items():
   items=groups[group];chunks=[items[i:i+SIZE] for i in range(0,len(items),SIZE)]
