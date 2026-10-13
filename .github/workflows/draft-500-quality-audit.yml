@@ -1,0 +1,62 @@
+name: Draft 500 PDR guide quality audit
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - feature/500-konu-icerik-sistemi
+    paths:
+      - 'data/pdr-editorial-batch-*.json'
+      - 'scripts/build_first_editorial_batch.py'
+      - 'scripts/prepare_first_50.py'
+      - 'scripts/audit_500_publication_readiness.py'
+      - '.github/workflows/draft-500-quality-audit.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  draft-quality:
+    name: Check 500 draft guides without publishing
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build and run existing structural audits
+        run: python3 scripts/prepare_first_50.py > /tmp/500-draft-build.json
+      - name: Run editorial length and reuse audits
+        run: |
+          python3 scripts/audit_500_editorial_depth.py > /tmp/500-editorial-summary.json
+          python3 scripts/audit_500_publication_readiness.py > /tmp/500-publication-summary.json
+      - name: Add overview to workflow summary
+        if: always()
+        run: |
+          if [ -f seo/icerik-plani/500-rehber-yayin-oncesi-denetim.json ]; then
+            python3 - <<'PY'
+          import json,os
+          from pathlib import Path
+          info=json.loads(Path("seo/icerik-plani/500-rehber-yayin-oncesi-denetim.json").read_text(encoding="utf-8"))["summary"]
+          with open(os.environ["GITHUB_STEP_SUMMARY"],"a",encoding="utf-8") as f:
+              f.write("## 500 PDR rehberi — taslak kalite kontrolü\n\n")
+              for name in ("pages_checked","main_text_avg_words","under_125","under_250",
+                           "pages_without_source_cards","candidate_duplicate_pairs","identical_chapter_groups"):
+                  f.write(f"- {name}: **{info[name]}**\n")
+              f.write("\n**Yayın onayı: HAYIR.** İçerik, kaynak, mobil ve uzman denetimi ayrıca gerekir.\n")
+          PY
+          fi
+      - name: Upload audit evidence only
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdr-500-draft-quality-report
+          if-no-files-found: warn
+          retention-days: 30
+          path: |
+            seo/icerik-plani/500-rehber-yayin-oncesi-denetim.json
+            seo/icerik-plani/500-rehber-derin-icerik-denetimi.json
+            seo/icerik-plani/ilk-50-kalite-raporu.json
+            seo/icerik-plani/ilk-50-yayin-kapisi.json
+            seo/icerik-plani/ilk-500-toplu-durum.json
