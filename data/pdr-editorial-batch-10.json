@@ -23,6 +23,14 @@
       [
         "İzleme için somut göstergeler",
         "İşlev kaybı sürerse uygun uzman desteğini ele alın. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Birinci sınıf öğrencisi sabah velisinden ayrılmakta zorlanır; kısa karşılama rutini ve takip planı oluşturulur. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Çocuğun kapıdaki zorlanmasını, sınıfa geçtikten sonraki katılımını ve sağlık yakınmalarını ayrı gözleyin. İlk görüşmeden sonra öğretmen ve aileyle tutarlı karşılama rutini belirleyin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. İşlev kaybı sürerse uygun uzman desteğini ele alın. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Birinci sınıf öğrencisi sabah velisinden ayrılmakta zorlanır; kısa karşılama rutini ve takip planı oluşturulur. Çocuğun kapıdaki zorlanmasını, sınıfa geçtikten sonraki katılımını ve sağlık yakınmalarını ayrı gözleyin.",
@@ -30,7 +38,8 @@
       "Çocuğun kapıdaki zorlanmasını, sınıfa geçtikten sonraki katılımını ve sağlık yakınmalarını ayrı gözleyin.",
       "Öğretmen ve aileyle tutarlı karşılama rutini belirleyin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Uzun vedaları artıran uygulamaları birlikte değerlendirin. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -70,6 +79,14 @@
       [
         "İzleme için somut göstergeler",
         "Yeni denemede süreç değişimini değerlendirin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Beklediğinden düşük puan alan öğrenci kendini başarısız ilan eder; süreçte işe yarayan çalışma stratejileri ayrıştırılır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin sonucuna ilişkin ilk duygusunu dinleyin; hemen yeni çalışma planı dayatmayın. İlk görüşmeden sonra yanlış türleri ve hazırlık koşullarını somutlaştırın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Yeni denemede süreç değişimini değerlendirin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Beklediğinden düşük puan alan öğrenci kendini başarısız ilan eder; süreçte işe yarayan çalışma stratejileri ayrıştırılır. Öğrencinin sonucuna ilişkin ilk duygusunu dinleyin; hemen yeni çalışma planı dayatmayın.",
@@ -77,7 +94,8 @@
       "Öğrencinin sonucuna ilişkin ilk duygusunu dinleyin; hemen yeni çalışma planı dayatmayın.",
       "Yanlış türleri ve hazırlık koşullarını somutlaştırın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Yapabileceği bir sonraki stratejiyi birlikte seçin. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -117,6 +135,14 @@
       [
         "İzleme için somut göstergeler",
         "Etkinlik sonunda güvenli paylaşım kuralı oluşturun. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Lise öğrencileri özel mesajların izinsiz paylaşımını tartışır; gerçek öğrenci yazışmaları kullanılmaz. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Özel mesaj, fotoğraf ve grup sohbetinde yeniden paylaşımın izin gerektirdiğini kurgusal örnekle ele alın. İlk görüşmeden sonra öğrencilerden özel mesaj veya deneyim istemeyin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Öğrenci güvenliği veya yetkili bildirim gerektiren bir durum ortaya çıkarsa olağan sınıf etkinliğini durdurun. Gizliliği ve yetkili koruma sürecini öne alın; kişisel ayrıntıyı gereksiz kişilere açıklamayın. Etkinlik sonunda güvenli paylaşım kuralı oluşturun. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Lise öğrencileri özel mesajların izinsiz paylaşımını tartışır; gerçek öğrenci yazışmaları kullanılmaz. Özel mesaj, fotoğraf ve grup sohbetinde yeniden paylaşımın izin gerektirdiğini kurgusal örnekle ele alın.",
@@ -124,7 +150,8 @@
       "Özel mesaj, fotoğraf ve grup sohbetinde yeniden paylaşımın izin gerektirdiğini kurgusal örnekle ele alın.",
       "Öğrencilerden özel mesaj veya deneyim istemeyin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Zorlayıcı durumda güvenilir yetişkin başvurusunu öğretin. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -164,6 +191,14 @@
       [
         "İzleme için somut göstergeler",
         "Kurum içinde gerekli en az bilgiyle güvenli takibi sürdürün. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğretmen öğrencinin temel ihtiyaçlarının düzenli karşılanmadığına ilişkin gözlemler bildirir; güvenlik ve resmî bildirim süreci değerlendirilir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Çocuğun temel gereksinimleriyle ilgili gözlenebilir durumu olgusal kaydedin. İlk görüşmeden sonra mevcut güvenlik ve acil yardım gereksinimini değerlendirin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Öğrenci güvenliği veya yetkili bildirim gerektiren bir durum ortaya çıkarsa olağan sınıf etkinliğini durdurun. Gizliliği ve yetkili koruma sürecini öne alın; kişisel ayrıntıyı gereksiz kişilere açıklamayın. Kurum içinde gerekli en az bilgiyle güvenli takibi sürdürün. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğretmen öğrencinin temel ihtiyaçlarının düzenli karşılanmadığına ilişkin gözlemler bildirir; güvenlik ve resmî bildirim süreci değerlendirilir. Çocuğun temel gereksinimleriyle ilgili gözlenebilir durumu olgusal kaydedin.",
@@ -171,7 +206,8 @@
       "Çocuğun temel gereksinimleriyle ilgili gözlenebilir durumu olgusal kaydedin.",
       "Mevcut güvenlik ve acil yardım gereksinimini değerlendirin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Yetkili koruma ve bildirim süreçlerini mevzuata göre izleyin. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -211,6 +247,14 @@
       [
         "İzleme için somut göstergeler",
         "Güvenli devir ve okul destek planını kayıt altına alın. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci kendine zarar verme düşüncesinden söz eder; danışman öğrenciyi yalnız bırakmadan acil güvenlik ve yetkili yönlendirme sürecini başlatır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin kendine zarar vermeyi düşündüğünü belirtmesi durumunda bunu sıradan motivasyon görüşmesi saymayın. İlk görüşmeden sonra gizlilik sözü vererek güvenlik bilgisini saklamayın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Öğrenci güvenliği veya yetkili bildirim gerektiren bir durum ortaya çıkarsa olağan sınıf etkinliğini durdurun. Gizliliği ve yetkili koruma sürecini öne alın; kişisel ayrıntıyı gereksiz kişilere açıklamayın. Güvenli devir ve okul destek planını kayıt altına alın. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci kendine zarar verme düşüncesinden söz eder; danışman öğrenciyi yalnız bırakmadan acil güvenlik ve yetkili yönlendirme sürecini başlatır. Öğrencinin kendine zarar vermeyi düşündüğünü belirtmesi durumunda bunu sıradan motivasyon görüşmesi saymayın.",
@@ -218,7 +262,8 @@
       "Öğrencinin kendine zarar vermeyi düşündüğünü belirtmesi durumunda bunu sıradan motivasyon görüşmesi saymayın.",
       "Gizlilik sözü vererek güvenlik bilgisini saklamayın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Gerektiğinde acil sağlık ve yetkili koruma birimlerini devreye alın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -258,6 +303,14 @@
       [
         "İzleme için somut göstergeler",
         "Görev tamamlama değişimini farklı derslerde izleyin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Uzun yönergelerde görevini kaybeden öğrenciye görsel adım listesi sunulur; sınıf içinde damgalanmadan desteklenir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin hangi yönerge adımında güçlük yaşadığını gözleyin. İlk görüşmeden sonra yönergeleri kısa ve açık parçalara ayırın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Kurgusal olaylardan yararlanın; öğrencilerin özel deneyimlerini topluluk önünde açıklatmayın. İsteyen öğrencilere yazılı veya küçük grup yanıtı imkânı sunun. Görev tamamlama değişimini farklı derslerde izleyin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Uzun yönergelerde görevini kaybeden öğrenciye görsel adım listesi sunulur; sınıf içinde damgalanmadan desteklenir. Öğrencinin hangi yönerge adımında güçlük yaşadığını gözleyin.",
@@ -265,7 +318,8 @@
       "Öğrencinin hangi yönerge adımında güçlük yaşadığını gözleyin.",
       "Yönergeleri kısa ve açık parçalara ayırın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Görsel ipucu ve mola seçeneklerini öğretmenle planlayın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -305,6 +359,14 @@
       [
         "İzleme için somut göstergeler",
         "Öğrencinin kendini ait hissetme düzeyini izleyin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci grup oyunlarına nasıl katılacağını bilemez; gönüllü ve küçük bir ortak etkinlik hedefi belirlenir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin gönüllü yalnızlığıyla dışlanmasını ayırın. İlk görüşmeden sonra zorla eşleştirme yerine ilgi temelli etkinlik sunun adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Öğrencinin kendini ait hissetme düzeyini izleyin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci grup oyunlarına nasıl katılacağını bilemez; gönüllü ve küçük bir ortak etkinlik hedefi belirlenir. Öğrencinin gönüllü yalnızlığıyla dışlanmasını ayırın.",
@@ -312,7 +374,8 @@
       "Öğrencinin gönüllü yalnızlığıyla dışlanmasını ayırın.",
       "Zorla eşleştirme yerine ilgi temelli etkinlik sunun. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Öğretmenle güvenli katılım fırsatı düzenleyin. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -352,6 +415,14 @@
       [
         "İzleme için somut göstergeler",
         "Denemeden sonra sonuçları yeniden değerlendirin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "İki arkadaş aynı oyun aracını ister; öğrenciler suçlama yerine sıra ve alternatif kullanım önerileri geliştirir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Eşit güçte iki öğrenci arasında küçük oyun anlaşmazlığında herkesin ihtiyacını dinleyin. İlk görüşmeden sonra birden fazla güvenli çözüm seçeneği üretin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Denemeden sonra sonuçları yeniden değerlendirin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "İki arkadaş aynı oyun aracını ister; öğrenciler suçlama yerine sıra ve alternatif kullanım önerileri geliştirir. Eşit güçte iki öğrenci arasında küçük oyun anlaşmazlığında herkesin ihtiyacını dinleyin.",
@@ -359,7 +430,8 @@
       "Eşit güçte iki öğrenci arasında küçük oyun anlaşmazlığında herkesin ihtiyacını dinleyin.",
       "Birden fazla güvenli çözüm seçeneği üretin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Çözümlerin haklar ve uygulanabilirlik yönünü tartışın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -399,6 +471,14 @@
       [
         "İzleme için somut göstergeler",
         "Duygu sözcüklerinin günlük kullanımını değerlendirin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenciler sınav öncesi 'kötüyüm' ifadesini kaygı, hayal kırıklığı ve yorgunluk olarak ayrıştırır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. 'Kötüyüm' ifadesini tek duyguya zorlamadan kaygı, yorgunluk ve hayal kırıklığı örnekleriyle karşılaştırın. İlk görüşmeden sonra gönüllü ve kurgusal örneklerle ifade çalışın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Duygu sözcüklerinin günlük kullanımını değerlendirin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenciler sınav öncesi 'kötüyüm' ifadesini kaygı, hayal kırıklığı ve yorgunluk olarak ayrıştırır. 'Kötüyüm' ifadesini tek duyguya zorlamadan kaygı, yorgunluk ve hayal kırıklığı örnekleriyle karşılaştırın.",
@@ -406,7 +486,8 @@
       "'Kötüyüm' ifadesini tek duyguya zorlamadan kaygı, yorgunluk ve hayal kırıklığı örnekleriyle karşılaştırın.",
       "Gönüllü ve kurgusal örneklerle ifade çalışın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Konuşmak istemeyene yazılı seçenek sunun. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -446,6 +527,14 @@
       [
         "İzleme için somut göstergeler",
         "Bir hafta sonra çatışma örüntüsünü gözden geçirin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Evde bağırışla yürüyen ödev saatinde aile ve çocuk için kısa, öngörülebilir kurallar belirlenir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Ev ödev zamanında bağırma yerine anlaşılır görev başlangıcı ve dinlenme kuralı seçin. İlk görüşmeden sonra yaşa uygun az sayıda açık sınır belirleyin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Bir hafta sonra çatışma örüntüsünü gözden geçirin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Evde bağırışla yürüyen ödev saatinde aile ve çocuk için kısa, öngörülebilir kurallar belirlenir. Ev ödev zamanında bağırma yerine anlaşılır görev başlangıcı ve dinlenme kuralı seçin.",
@@ -453,7 +542,8 @@
       "Ev ödev zamanında bağırma yerine anlaşılır görev başlangıcı ve dinlenme kuralı seçin.",
       "Yaşa uygun az sayıda açık sınır belirleyin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Çocuğun sesini ve onarım fırsatını koruyun. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -493,6 +583,14 @@
       [
         "İzleme için somut göstergeler",
         "Kararlaştırılan destek için takip tarihi verin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Devamsızlığı artan öğrencinin velisiyle konuşulurken suçlama yerine ulaşım ve okul güvenliği engelleri sorulur. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Devamsızlık tarihini somut aktarın; aileden ulaşım, bakım ve okuldaki güvenlik koşullarını öğrenin. İlk görüşmeden sonra sağlık, ulaşım ve okul deneyimini ayrı sorun adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Kararlaştırılan destek için takip tarihi verin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Devamsızlığı artan öğrencinin velisiyle konuşulurken suçlama yerine ulaşım ve okul güvenliği engelleri sorulur. Devamsızlık tarihini somut aktarın; aileden ulaşım, bakım ve okuldaki güvenlik koşullarını öğrenin.",
@@ -500,7 +598,8 @@
       "Devamsızlık tarihini somut aktarın; aileden ulaşım, bakım ve okuldaki güvenlik koşullarını öğrenin.",
       "Sağlık, ulaşım ve okul deneyimini ayrı sorun. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Öğrenciyle de güvenli bir değerlendirme planlayın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -540,6 +639,14 @@
       [
         "İzleme için somut göstergeler",
         "Öğrencinin desteğin yararına ilişkin görüşünü tekrar alın. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci zorlandığı ders görevleri için seçebildiği görsel destekleri BEP ekibine aktarır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrenciye ders etkinliğinde hangi görsel, sözlü veya alternatif yanıt biçiminin işe yaradığını sorun. İlk görüşmeden sonra toplantıyı öğrencinin tanısına indirgemeyin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yapılan uyarlamayı ve öğrencinin bağımsız performansını ayrı kaydedin; bir sınıf gözleminden tanı çıkarmayın. Gerekli kararı yetkili eğitsel ekiple verin. Öğrencinin desteğin yararına ilişkin görüşünü tekrar alın. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci zorlandığı ders görevleri için seçebildiği görsel destekleri BEP ekibine aktarır. Öğrenciye ders etkinliğinde hangi görsel, sözlü veya alternatif yanıt biçiminin işe yaradığını sorun.",
@@ -547,7 +654,8 @@
       "Öğrenciye ders etkinliğinde hangi görsel, sözlü veya alternatif yanıt biçiminin işe yaradığını sorun.",
       "Toplantıyı öğrencinin tanısına indirgemeyin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Hedef ve uyarlamaları anlaşılır dille açıklayın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -587,6 +695,14 @@
       [
         "İzleme için somut göstergeler",
         "Uygulamanın etkisini ölçülebilir gözlemle izleyin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Okul ekibi değerlendirme raporunun eğitimsel önerilerini görev ve uyarlamalarla ilişkilendirir; kişisel veriler yayılmaz. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Raporun güncel eğitsel önerisini ilgili görev ve kazanımla ilişkilendirin; kişisel bilgileri sınıf ya da ortak dosyada gereksiz paylaşmayın. İlk görüşmeden sonra bEP ekibinin sorumluluklarını kurum düzenine göre belirleyin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yapılan uyarlamayı ve öğrencinin bağımsız performansını ayrı kaydedin; bir sınıf gözleminden tanı çıkarmayın. Gerekli kararı yetkili eğitsel ekiple verin. Uygulamanın etkisini ölçülebilir gözlemle izleyin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Okul ekibi değerlendirme raporunun eğitimsel önerilerini görev ve uyarlamalarla ilişkilendirir; kişisel veriler yayılmaz. Raporun güncel eğitsel önerisini ilgili görev ve kazanımla ilişkilendirin; kişisel bilgileri sınıf ya da ortak dosyada gereksiz paylaşmayın.",
@@ -594,7 +710,8 @@
       "Raporun güncel eğitsel önerisini ilgili görev ve kazanımla ilişkilendirin; kişisel bilgileri sınıf ya da ortak dosyada gereksiz paylaşmayın.",
       "BEP ekibinin sorumluluklarını kurum düzenine göre belirleyin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Kişisel bilgileri yetkisiz kişilerle paylaşmayın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -634,6 +751,14 @@
       [
         "İzleme için somut göstergeler",
         "Gerçek olayda öğrenci mahremiyetini koruyarak destek verin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Kurgusal öğrenci oyunda haksızlığa uğradığını düşünür; güvenli uzaklaşma ve sözlü ifade seçenekleri üretir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Kurgusal öğrencinin duygu, düşünce ve davranışını ayırın. İlk görüşmeden sonra kurgusal olayda beden ve düşünce işaretlerini ayırın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Kurgusal olaylardan yararlanın; öğrencilerin özel deneyimlerini topluluk önünde açıklatmayın. İsteyen öğrencilere yazılı veya küçük grup yanıtı imkânı sunun. Gerçek olayda öğrenci mahremiyetini koruyarak destek verin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Kurgusal öğrenci oyunda haksızlığa uğradığını düşünür; güvenli uzaklaşma ve sözlü ifade seçenekleri üretir. Kurgusal öğrencinin duygu, düşünce ve davranışını ayırın.",
@@ -641,7 +766,8 @@
       "Kurgusal öğrencinin duygu, düşünce ve davranışını ayırın.",
       "Kurgusal olayda beden ve düşünce işaretlerini ayırın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Güvenli mola ve yardım isteme seçeneklerini çalışın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -681,6 +807,14 @@
       [
         "İzleme için somut göstergeler",
         "Öğrencinin araştırma adımlarını takip edin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci arkadaşlarının seçtiği alana yönelir; kendi ilgi, ders deneyimi ve güncel okul koşullarını karşılaştırır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin ilgi alanı ile arkadaş grubunun tercihini ayrı kaydedin. İlk görüşmeden sonra arkadaş etkisi ve aile beklentisini görünür kılın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "İlgili yılın resmî program veya sınav koşullarını doğrulayın. Öğrencinin tercih sırasını ya da mesleki kararını onun yerine belirlemeyin. Öğrencinin araştırma adımlarını takip edin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci arkadaşlarının seçtiği alana yönelir; kendi ilgi, ders deneyimi ve güncel okul koşullarını karşılaştırır. Öğrencinin ilgi alanı ile arkadaş grubunun tercihini ayrı kaydedin.",
@@ -688,7 +822,8 @@
       "Öğrencinin ilgi alanı ile arkadaş grubunun tercihini ayrı kaydedin.",
       "Arkadaş etkisi ve aile beklentisini görünür kılın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Tek görüşmede kesin meslek kararı dayatmayın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -728,6 +863,14 @@
       [
         "İzleme için somut göstergeler",
         "Kaygı günlük işlevi etkiliyorsa uygun desteği ele alın. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Son sınıf öğrencisi meslek seçimini tek şans olarak görür; farklı eğitim yolları ve belirsizlik konuşulur. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin yanlış seçim yapma korkusunu küçümsemeden kontrol edilebilir araştırma adımları belirleyin. İlk görüşmeden sonra bilgi eksikliği ile duygusal zorluğu ayırın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Kaygı günlük işlevi etkiliyorsa uygun desteği ele alın. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Son sınıf öğrencisi meslek seçimini tek şans olarak görür; farklı eğitim yolları ve belirsizlik konuşulur. Öğrencinin yanlış seçim yapma korkusunu küçümsemeden kontrol edilebilir araştırma adımları belirleyin.",
@@ -735,7 +878,8 @@
       "Öğrencinin yanlış seçim yapma korkusunu küçümsemeden kontrol edilebilir araştırma adımları belirleyin.",
       "Bilgi eksikliği ile duygusal zorluğu ayırın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Güncel güvenilir bilgiye ulaşma görevleri belirleyin. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -775,6 +919,14 @@
       [
         "İzleme için somut göstergeler",
         "Yardım isteme davranışındaki değişimi gözleyin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci anlamadığı soruyu gizler; öğretmen yardım isteme cümleleri ve alternatif başvuru yolları tanıtır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. 'Soruyu anlamadım' demekte zorlanan öğrenciye somut soru cümlesi geliştirtin. İlk görüşmeden sonra kısa ve açık yardım cümlesi örnekleri verin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Kurgusal olaylardan yararlanın; öğrencilerin özel deneyimlerini topluluk önünde açıklatmayın. İsteyen öğrencilere yazılı veya küçük grup yanıtı imkânı sunun. Yardım isteme davranışındaki değişimi gözleyin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci anlamadığı soruyu gizler; öğretmen yardım isteme cümleleri ve alternatif başvuru yolları tanıtır. 'Soruyu anlamadım' demekte zorlanan öğrenciye somut soru cümlesi geliştirtin.",
@@ -782,7 +934,8 @@
       "'Soruyu anlamadım' demekte zorlanan öğrenciye somut soru cümlesi geliştirtin.",
       "Kısa ve açık yardım cümlesi örnekleri verin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Yüz yüze ve yazılı başvuru seçenekleri sunun. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -822,6 +975,14 @@
       [
         "İzleme için somut göstergeler",
         "Rehberlik servisiyle geri bildirim sürecini belirleyin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğretmen öğrenci için 'sorunlu' yazmak yerine gözlenen davranış, tarih ve yapılan sınıf desteğini kaydeder. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Başvuru formuna 'sorunlu' gibi kişilik sıfatları yerine davranışın tarihi, ortamı, sıklığı ve denenen sınıf desteğini yazın. İlk görüşmeden sonra denenen sınıf içi destekleri kaydedin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Rehberlik servisiyle geri bildirim sürecini belirleyin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğretmen öğrenci için 'sorunlu' yazmak yerine gözlenen davranış, tarih ve yapılan sınıf desteğini kaydeder. Başvuru formuna 'sorunlu' gibi kişilik sıfatları yerine davranışın tarihi, ortamı, sıklığı ve denenen sınıf desteğini yazın.",
@@ -829,7 +990,8 @@
       "Başvuru formuna 'sorunlu' gibi kişilik sıfatları yerine davranışın tarihi, ortamı, sıklığı ve denenen sınıf desteğini yazın.",
       "Denenen sınıf içi destekleri kaydedin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Yalnızca gerekli kişisel bilgileri ekleyin. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -869,6 +1031,14 @@
       [
         "İzleme için somut göstergeler",
         "Yeni dönem için ölçülebilir iki öncelik belirleyin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Rehberlik servisi etkinlik sayıları yanında hangi ihtiyacın karşılandığını ve nelerin sürdüğünü inceler. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Kaç seminer yapıldığıyla öğrencilerin hangi güvenli becerileri geliştirdiğini ayrı raporlayın. İlk görüşmeden sonra öğrenci mahremiyetini koruyan toplu değerlendirme yapın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Yeni dönem için ölçülebilir iki öncelik belirleyin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Rehberlik servisi etkinlik sayıları yanında hangi ihtiyacın karşılandığını ve nelerin sürdüğünü inceler. Kaç seminer yapıldığıyla öğrencilerin hangi güvenli becerileri geliştirdiğini ayrı raporlayın.",
@@ -876,7 +1046,8 @@
       "Kaç seminer yapıldığıyla öğrencilerin hangi güvenli becerileri geliştirdiğini ayrı raporlayın.",
       "Öğrenci mahremiyetini koruyan toplu değerlendirme yapın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "İşe yaramayan uygulamalar için neden analizi yapın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -916,6 +1087,14 @@
       [
         "İzleme için somut göstergeler",
         "Toplantı sonrası açık kalan genel soruları derleyin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Toplantıda bir veli başka öğrencinin disiplin durumunu sorar; danışman mahremiyeti koruyup genel okul yaklaşımını açıklar. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Başka öğrencinin disiplin veya görüşme bilgisi sorulduğunda kişisel kayıtları açıklamayın. İlk görüşmeden sonra gergin soruya sakin ve somut yanıt verin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Toplantı sonrası açık kalan genel soruları derleyin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Toplantıda bir veli başka öğrencinin disiplin durumunu sorar; danışman mahremiyeti koruyup genel okul yaklaşımını açıklar. Başka öğrencinin disiplin veya görüşme bilgisi sorulduğunda kişisel kayıtları açıklamayın.",
@@ -923,7 +1102,8 @@
       "Başka öğrencinin disiplin veya görüşme bilgisi sorulduğunda kişisel kayıtları açıklamayın.",
       "Gergin soruya sakin ve somut yanıt verin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Bireysel sorun için uygun özel görüşme kanalı sunun. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -963,6 +1143,14 @@
       [
         "İzleme için somut göstergeler",
         "Yoğun kaygı yaşayan öğrenciye özel başvuru imkânı tanıyın. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğretmen deneme sonucunu sınıf önünde açıklamak yerine bireysel ilerlemeye odaklanan geri bildirim kullanır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Netleri veya sınıf sıralarını herkesin önünde açıklamanın etkisini değerlendirin. İlk görüşmeden sonra başarısızlık etiketlerini öğretmen diliyle azaltın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Yoğun kaygı yaşayan öğrenciye özel başvuru imkânı tanıyın. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğretmen deneme sonucunu sınıf önünde açıklamak yerine bireysel ilerlemeye odaklanan geri bildirim kullanır. Netleri veya sınıf sıralarını herkesin önünde açıklamanın etkisini değerlendirin.",
@@ -970,7 +1158,8 @@
       "Netleri veya sınıf sıralarını herkesin önünde açıklamanın etkisini değerlendirin.",
       "Başarısızlık etiketlerini öğretmen diliyle azaltın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Hazırlık ve geri bildirim için öngörülebilir rutin kurun. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -1010,6 +1199,14 @@
       [
         "İzleme için somut göstergeler",
         "Güvenli okul desteği ve takip planını sürdürün. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci evde tartışmaların arttığını söyler; danışman güvenliği değerlendirip güvenilir destek akışını açıklar. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrenci evdeki çatışmayı anlattığında tehdit veya fiziksel zarar ihtimalini ayrı değerlendirin. İlk görüşmeden sonra öğrenciyi ebeveynler arasında arabulucu yapmayın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Güvenli okul desteği ve takip planını sürdürün. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci evde tartışmaların arttığını söyler; danışman güvenliği değerlendirip güvenilir destek akışını açıklar. Öğrenci evdeki çatışmayı anlattığında tehdit veya fiziksel zarar ihtimalini ayrı değerlendirin.",
@@ -1017,7 +1214,8 @@
       "Öğrenci evdeki çatışmayı anlattığında tehdit veya fiziksel zarar ihtimalini ayrı değerlendirin.",
       "Öğrenciyi ebeveynler arasında arabulucu yapmayın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Yasal bildirim ve yetkili destek sınırlarına uyun. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -1057,6 +1255,14 @@
       [
         "İzleme için somut göstergeler",
         "Öğrencilerden gerçek özel olaylarını açıklamalarını istemeyin. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Arkadaş grubu öğrenciyi istemediği bir şakaya katılmaya çağırır; öğrenci hayır deme ve uzaklaşma seçeneklerini dener. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. İstenmeyen şakaya katılma teklifini kurgusal örnekle ele alın. İlk görüşmeden sonra akran karşısında alay edilmeyi normalleştirmeyin adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Öğrencilerden gerçek özel olaylarını açıklamalarını istemeyin. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Arkadaş grubu öğrenciyi istemediği bir şakaya katılmaya çağırır; öğrenci hayır deme ve uzaklaşma seçeneklerini dener. İstenmeyen şakaya katılma teklifini kurgusal örnekle ele alın.",
@@ -1064,7 +1270,8 @@
       "İstenmeyen şakaya katılma teklifini kurgusal örnekle ele alın.",
       "Akran karşısında alay edilmeyi normalleştirmeyin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Güvenli uzaklaşma ve yetişkin yardımını çalışın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -1104,6 +1311,14 @@
       [
         "İzleme için somut göstergeler",
         "Öz değerlendirmeyi öğretmen gözlemiyle dengeli karşılaştırın. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci proje sonrası 'iyi-kötü' yerine hazırlık, katılım ve bir sonraki deneme davranışını değerlendirir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrenci projenin sonunda yalnızca 'iyi' veya 'kötü' yerine hazırlık, grup katılımı ve değiştirmek istediği tek adımı yazar. İlk görüşmeden sonra etiket ve akran karşılaştırmalarından kaçının adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Öz değerlendirmeyi öğretmen gözlemiyle dengeli karşılaştırın. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci proje sonrası 'iyi-kötü' yerine hazırlık, katılım ve bir sonraki deneme davranışını değerlendirir. Öğrenci projenin sonunda yalnızca 'iyi' veya 'kötü' yerine hazırlık, grup katılımı ve değiştirmek istediği tek adımı yazar.",
@@ -1111,7 +1326,8 @@
       "Öğrenci projenin sonunda yalnızca 'iyi' veya 'kötü' yerine hazırlık, grup katılımı ve değiştirmek istediği tek adımı yazar.",
       "Etiket ve akran karşılaştırmalarından kaçının. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Bir güçlü yön ve bir gelişim adımı seçtirin. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -1151,6 +1367,14 @@
       [
         "İzleme için somut göstergeler",
         "Sınıfta anlaşılmayan sorular için güvenli kanal sunun. İşe yaramayan desteği aynı biçimde sürdürmek yerine yeni seçenek belirleyin. Planlanan adımı takip görüşmesinde öğrenciyle değerlendirip gerektiğinde değiştirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Yeni sınıfa rehberlik servisi tanıtılırken gizlilik, başvuru ve acil yardım sınırları örneklerle açıklanır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencilere okulda başvuru saatlerini, destek konularını, gizlilik sınırlarını ve acil güvenlik ihtiyaçlarında doğrudan ulaşılacak yetişkinleri tanıtın. İlk görüşmeden sonra gizlilik ve güvenlik istisnalarını yaşa uygun açıklayın adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Sınıfta anlaşılmayan sorular için güvenli kanal sunun. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Yeni sınıfa rehberlik servisi tanıtılırken gizlilik, başvuru ve acil yardım sınırları örneklerle açıklanır. Öğrencilere okulda başvuru saatlerini, destek konularını, gizlilik sınırlarını ve acil güvenlik ihtiyaçlarında doğrudan ulaşılacak yetişkinleri tanıtın.",
@@ -1158,7 +1382,8 @@
       "Öğrencilere okulda başvuru saatlerini, destek konularını, gizlilik sınırlarını ve acil güvenlik ihtiyaçlarında doğrudan ulaşılacak yetişkinleri tanıtın.",
       "Gizlilik ve güvenlik istisnalarını yaşa uygun açıklayın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
       "Zorunlu görüşme ile gönüllü başvuruyu ayırın. Bilgiyi yalnızca destekle görevli kişilerle ve gerektiği ölçüde paylaşın.",
-      "Somut değişimi öğrencinin görüşüyle birlikte izleyin."
+      "Somut değişimi öğrencinin görüşüyle birlikte izleyin.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
