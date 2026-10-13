@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-10-12T13:51:46+03:00",
+  "updatedAt": "2026-10-13T13:37:43+03:00",
   "records": [
     {
       "id": "c1ab5cba-d22b-40ab-b89b-1d27431a422c",
@@ -12,6 +12,21 @@
       "deadline": null,
       "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=c1ab5cba-d22b-40ab-b89b-1d27431a422c",
       "logoUrl": "https://kariyerkapisi.gov.tr/UPS/457882ef-be31-4a48-94f1-93ba3793814d.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-02",
+      "sourceCurrent": true
+    },
+    {
+      "id": "11272843-b0f1-470e-af31-cc176fa0e5d4",
+      "title": "MEVLANA KALKINMA AJANSI - Personel Alım İlanı-İnşaat Mühendisliği (1 Uzman)",
+      "institution": "MEVLANA KALKINMA AJANSI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=11272843-b0f1-470e-af31-cc176fa0e5d4",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/f4585584-ae3e-4781-8db7-27b95460c8c6.png",
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-02",
@@ -45,6 +60,21 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-19",
+      "sourceCurrent": true
+    },
+    {
+      "id": "cb266bf7-8022-4349-b285-053be1f91922",
+      "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ PERSONEL ALIMI İLANI",
+      "institution": "İSTANBUL TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=cb266bf7-8022-4349-b285-053be1f91922",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/1b9659f5-a37d-40d9-994d-1f6a51c7234c.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-13",
       "sourceCurrent": true
     },
     {
@@ -374,7 +404,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-09-28",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "90be2def-8597-49a5-a02e-e49b6649aaa4",
