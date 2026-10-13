@@ -23,6 +23,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Bir hafta sonra devam durumunu ve güvenliği kontrol et. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Pazartesi devamsızlığı artan öğrencinin o günlerde akran dışlanması yaşadığı anlaşılır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin son haftalarda hangi gün ve derslerde okula gelmediğini gösteren kayıtları kendi anlatımıyla karşılaştırın. İlk görüşmeden sonra ulaşım, öğrenme ve güvenlik engellerini ayır adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Bir hafta sonra devam durumunu ve güvenliği kontrol et. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Pazartesi devamsızlığı artan öğrencinin o günlerde akran dışlanması yaşadığı anlaşılır. Devam hedefi koymadan önce öğrencinin okulda kendini güvende hissedip hissetmediğini ve zorbalık deneyimini değerlendirin.",
@@ -30,7 +38,8 @@
       "Öğrencinin son haftalarda hangi gün ve derslerde okula gelmediğini gösteren kayıtları kendi anlatımıyla karşılaştırın.",
       "Devam hedefi koymadan önce öğrencinin okulda kendini güvende hissedip hissetmediğini ve zorbalık deneyimini değerlendirin.",
       "Ulaşım, öğrenme ve güvenlik engellerini ayır.",
-      "Bir hafta sonra devam durumunu ve güvenliği kontrol et."
+      "Bir hafta sonra devam durumunu ve güvenliği kontrol et.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -70,6 +79,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Öğrenciyle değişimin sonucunu konuş. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Sunumda zorlanan öğrenci için genel başarısızlık yargısı yerine konuşma hızı ve hazırlık biçimi ele alınır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin sunum hedefini ve hangi davranışı geliştirmek istediğini kendi sözüyle alın. İlk görüşmeden sonra işe yarayan uygulamayı görünür kıl adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Öğrenciyle değişimin sonucunu konuş. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Sunumda zorlanan öğrenci için genel başarısızlık yargısı yerine konuşma hızı ve hazırlık biçimi ele alınır. Tek geri bildirimde yalnızca bir uygulanabilir değişiklik önerin ve öğrencinin buna katılıp katılmadığını sorun.",
@@ -77,7 +94,8 @@
       "Öğrencinin sunum hedefini ve hangi davranışı geliştirmek istediğini kendi sözüyle alın.",
       "Tek geri bildirimde yalnızca bir uygulanabilir değişiklik önerin ve öğrencinin buna katılıp katılmadığını sorun.",
       "İşe yarayan uygulamayı görünür kıl.",
-      "Öğrenciyle değişimin sonucunu konuş."
+      "Öğrenciyle değişimin sonucunu konuş.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -117,6 +135,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Öğrenci geri bildiriminden başvuru düzenini geliştir. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenciler rehberlik servisine nasıl ulaşacaklarını bilmediklerini belirtince başvuru yolları sınıflarda tanıtılır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin rehberlik servisine hangi saatlerde ulaşamadığını, kapının açık olup olmadığını ve acil durumda hangi yetişkini bulabildiğini sorun. İlk görüşmeden sonra acil durum akışını olağan randevudan ayır adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Öğrenci geri bildiriminden başvuru düzenini geliştir. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenciler rehberlik servisine nasıl ulaşacaklarını bilmediklerini belirtince başvuru yolları sınıflarda tanıtılır. Rutin randevu ile acil güvenlik bildirimini ayrı gösteren bir okul haritası oluşturun.",
@@ -124,7 +150,8 @@
       "Öğrencinin rehberlik servisine hangi saatlerde ulaşamadığını, kapının açık olup olmadığını ve acil durumda hangi yetişkini bulabildiğini sorun.",
       "Rutin randevu ile acil güvenlik bildirimini ayrı gösteren bir okul haritası oluşturun.",
       "Acil durum akışını olağan randevudan ayır.",
-      "Öğrenci geri bildiriminden başvuru düzenini geliştir."
+      "Öğrenci geri bildiriminden başvuru düzenini geliştir.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -164,6 +191,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Karar gerekçesini gerekli düzeyde kaydet. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğretmen özel görüşme içeriğini ister; öğrenci güvenliği ve gereksiz bilgi paylaşımının sınırları değerlendirilir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğretmenin bilgi talebinde amaç, öğrencinin yararı, gizlilik yükümlülüğü ve güvenlik istisnasını ayrı ele alın. İlk görüşmeden sonra gereksiz öğrenci bilgisini koru adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Karar gerekçesini gerekli düzeyde kaydet. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğretmen özel görüşme içeriğini ister; öğrenci güvenliği ve gereksiz bilgi paylaşımının sınırları değerlendirilir. Kararı kişisel sezgiyle vermek yerine yetkili mesleki danışma ve kurumun yürürlükteki prosedüründen destek alın.",
@@ -171,7 +206,8 @@
       "Öğretmenin bilgi talebinde amaç, öğrencinin yararı, gizlilik yükümlülüğü ve güvenlik istisnasını ayrı ele alın.",
       "Kararı kişisel sezgiyle vermek yerine yetkili mesleki danışma ve kurumun yürürlükteki prosedüründen destek alın.",
       "Gereksiz öğrenci bilgisini koru.",
-      "Karar gerekçesini gerekli düzeyde kaydet."
+      "Karar gerekçesini gerekli düzeyde kaydet.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -211,6 +247,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Belirgin işlev kaybında uzman desteğini değerlendir. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Yedinci sınıf öğrencisi grup sunumundan kaçınır; eşli çalışmadan küçük gruba geçiş gönüllü planlanır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin sunumda mı, arkadaşla konuşmada mı, yoksa kalabalıkta mı zorlandığını ayrıştırın. İlk görüşmeden sonra gönüllü küçük katılım adımı seç adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Belirgin işlev kaybında uzman desteğini değerlendir. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Yedinci sınıf öğrencisi grup sunumundan kaçınır; eşli çalışmadan küçük gruba geçiş gönüllü planlanır. Gönüllü küçük grup katılımı tasarlayın; sıkıntı günlük işlevi belirgin etkiliyorsa uygun uzman değerlendirmesini konuşun.",
@@ -218,7 +262,8 @@
       "Öğrencinin sunumda mı, arkadaşla konuşmada mı, yoksa kalabalıkta mı zorlandığını ayrıştırın.",
       "Gönüllü küçük grup katılımı tasarlayın; sıkıntı günlük işlevi belirgin etkiliyorsa uygun uzman değerlendirmesini konuşun.",
       "Gönüllü küçük katılım adımı seç.",
-      "Belirgin işlev kaybında uzman desteğini değerlendir."
+      "Belirgin işlev kaybında uzman desteğini değerlendir.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -258,6 +303,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Bir hafta sonunda programı öğrenciyle düzelt. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Her gün dört saat çalışmayı hedefleyip başlayamayan öğrenciyle kısa ve uygulanabilir oturumlar belirlenir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin ders, ulaşım, ev sorumluluğu ve dinlenme zamanlarını haftalık tabloya yazın. İlk görüşmeden sonra başlanabilir kısa oturumlar planla adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Bir hafta sonunda programı öğrenciyle düzelt. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Her gün dört saat çalışmayı hedefleyip başlayamayan öğrenciyle kısa ve uygulanabilir oturumlar belirlenir. Her çalışma bloğunun hangi kazanıma hizmet ettiğini netleştirin; programı aile denetimi veya ceza listesi hâline getirmeyin.",
@@ -265,7 +318,8 @@
       "Öğrencinin ders, ulaşım, ev sorumluluğu ve dinlenme zamanlarını haftalık tabloya yazın.",
       "Her çalışma bloğunun hangi kazanıma hizmet ettiğini netleştirin; programı aile denetimi veya ceza listesi hâline getirmeyin.",
       "Başlanabilir kısa oturumlar planla.",
-      "Bir hafta sonunda programı öğrenciyle düzelt."
+      "Bir hafta sonunda programı öğrenciyle düzelt.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -305,6 +359,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "İlk hafta sonunda yeniden görüş. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Hastalık nedeniyle uzak kalan öğrenci için ders yükü ve sınıfa dönüş ayrı düzenlenir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Uzun devamsızlıktan sonra öğrencinin ders açığını ve sınıfa yeniden katılma kaygısını ayrı değerlendirin. İlk görüşmeden sonra ilk gün için küçük katılım hedefi koy adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. İlk hafta sonunda yeniden görüş. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Hastalık nedeniyle uzak kalan öğrenci için ders yükü ve sınıfa dönüş ayrı düzenlenir. Öğretmenle telafi görevlerinin önceliğini belirleyin ve gönüllü bir sosyal katılım fırsatı oluşturun.",
@@ -312,7 +374,8 @@
       "Uzun devamsızlıktan sonra öğrencinin ders açığını ve sınıfa yeniden katılma kaygısını ayrı değerlendirin.",
       "Öğretmenle telafi görevlerinin önceliğini belirleyin ve gönüllü bir sosyal katılım fırsatı oluşturun.",
       "İlk gün için küçük katılım hedefi koy.",
-      "İlk hafta sonunda yeniden görüş."
+      "İlk hafta sonunda yeniden görüş.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -352,6 +415,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "İki hafta sonra aidiyeti yeniden değerlendir. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Dönem ortasında gelen öğrenci öğle arasında yalnız kalır; gönüllü kulüp katılımı ve takip planlanır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin eski okulda rahat ettiği etkinlikleri, yeni sınıfın kurallarını bilip bilmediğini ve teneffüste hangi alanlara gidebildiğini konuşun. İlk görüşmeden sonra gönüllü akran ve kulüp seçenekleri sun adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. İki hafta sonra aidiyeti yeniden değerlendir. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Dönem ortasında gelen öğrenci öğle arasında yalnız kalır; gönüllü kulüp katılımı ve takip planlanır. Tanışmayı kişisel öykü anlatma zorunluluğuna çevirmeden kulüp veya ortak ilgi etkinliği sunun.",
@@ -359,7 +430,8 @@
       "Öğrencinin eski okulda rahat ettiği etkinlikleri, yeni sınıfın kurallarını bilip bilmediğini ve teneffüste hangi alanlara gidebildiğini konuşun.",
       "Tanışmayı kişisel öykü anlatma zorunluluğuna çevirmeden kulüp veya ortak ilgi etkinliği sunun.",
       "Gönüllü akran ve kulüp seçenekleri sun.",
-      "İki hafta sonra aidiyeti yeniden değerlendir."
+      "İki hafta sonra aidiyeti yeniden değerlendir.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -399,6 +471,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Seçilen kararı gözden geçir. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci iki kulüp arasında kalır; ilgi, ulaşım ve zaman ölçütlerini karşılaştırır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin iki kulüp arasında kalması üzerinden ilgi, zaman ve ulaşım ölçütlerini kartlara yazdırın. İlk görüşmeden sonra olası sonuçları karşılaştır adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Seçilen kararı gözden geçir. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci iki kulüp arasında kalır; ilgi, ulaşım ve zaman ölçütlerini karşılaştırır. Kararın değiştirilebilirliğini de konuşun; öğrenci seçiminin sonuçlarını daha sonra kendi değerlendirsin.",
@@ -406,7 +486,8 @@
       "Öğrencinin iki kulüp arasında kalması üzerinden ilgi, zaman ve ulaşım ölçütlerini kartlara yazdırın.",
       "Kararın değiştirilebilirliğini de konuşun; öğrenci seçiminin sonuçlarını daha sonra kendi değerlendirsin.",
       "Olası sonuçları karşılaştır.",
-      "Seçilen kararı gözden geçir."
+      "Seçilen kararı gözden geçir.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -446,6 +527,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Bir haftalık güçlü yön kullanma hedefi seç. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenciler ortak proje sırasında çizim, planlama ve anlatımın birlikte değer taşıdığını keşfeder. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Güçlü yönleri sınav notu veya popülerlik üzerinden sıralamayın. İlk görüşmeden sonra öğrencinin gönüllü katılımını sağla adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Kurgusal olaylardan yararlanın; öğrencilerin özel deneyimlerini topluluk önünde açıklatmayın. İsteyen öğrencilere yazılı veya küçük grup yanıtı imkânı sunun. Bir haftalık güçlü yön kullanma hedefi seç. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenciler ortak proje sırasında çizim, planlama ve anlatımın birlikte değer taşıdığını keşfeder. Öğrencilerin birbirini puanlamasını istemeyin; bireysel gelişim ve farklı katılım yollarını öne çıkarın.",
@@ -453,7 +542,8 @@
       "Güçlü yönleri sınav notu veya popülerlik üzerinden sıralamayın.",
       "Öğrencilerin birbirini puanlamasını istemeyin; bireysel gelişim ve farklı katılım yollarını öne çıkarın.",
       "Öğrencinin gönüllü katılımını sağla.",
-      "Bir haftalık güçlü yön kullanma hedefi seç."
+      "Bir haftalık güçlü yön kullanma hedefi seç.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -493,6 +583,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Evde denenebilir tek adımı takip et. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Çocuk tanımadığı kişiden mesaj alır; aile suçlama yerine güvenli yardım isteme yolunu konuşur. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Velinin çocuğun kullandığı uygulama ve çevrim içi iletişim ortamını ne kadar tanıdığını yargılamadan sorun. İlk görüşmeden sonra rahatsız edici içerikte suçlayıcı tepkiyi önle adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Evde denenebilir tek adımı takip et. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Çocuk tanımadığı kişiden mesaj alır; aile suçlama yerine güvenli yardım isteme yolunu konuşur. Çocuk rahatsız edici mesaj aldığında cezalandırılma korkusu yaşamadan yetişkine anlatabileceği güvenli yolu önceden belirleyin.",
@@ -500,7 +598,8 @@
       "Velinin çocuğun kullandığı uygulama ve çevrim içi iletişim ortamını ne kadar tanıdığını yargılamadan sorun.",
       "Çocuk rahatsız edici mesaj aldığında cezalandırılma korkusu yaşamadan yetişkine anlatabileceği güvenli yolu önceden belirleyin.",
       "Rahatsız edici içerikte suçlayıcı tepkiyi önle.",
-      "Evde denenebilir tek adımı takip et."
+      "Evde denenebilir tek adımı takip et.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -540,6 +639,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Yeni izleme tarihini kararlaştır. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci görsel ipucuyla görevi tamamlar; ekip sözlü yönergede zorlanmayı ayrıca değerlendirir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. BEP toplantısına yalnızca genel izlenim değil tarihli görev örnekleri, bağımsız performans ve kullanılan ipucu düzeyini getirin. İlk görüşmeden sonra hedef ve kullanılan desteği ayrı değerlendir adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yapılan uyarlamayı ve öğrencinin bağımsız performansını ayrı kaydedin; bir sınıf gözleminden tanı çıkarmayın. Gerekli kararı yetkili eğitsel ekiple verin. Yeni izleme tarihini kararlaştır. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci görsel ipucuyla görevi tamamlar; ekip sözlü yönergede zorlanmayı ayrıca değerlendirir. Görsel destekle başarılan görev ile destek olmadan başarılan kazanımı aynı düzeyde kaydetmeyin.",
@@ -547,7 +654,8 @@
       "BEP toplantısına yalnızca genel izlenim değil tarihli görev örnekleri, bağımsız performans ve kullanılan ipucu düzeyini getirin.",
       "Görsel destekle başarılan görev ile destek olmadan başarılan kazanımı aynı düzeyde kaydetmeyin.",
       "Hedef ve kullanılan desteği ayrı değerlendir.",
-      "Yeni izleme tarihini kararlaştır."
+      "Yeni izleme tarihini kararlaştır.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -587,6 +695,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Akran ilişkilerindeki değişimi izle. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Grup çalışmasında roller dönüşümlü verilir; bir öğrencinin sürekli yardım alan olarak kalması önlenir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Bir öğrencinin sürekli yardım alan, diğerinin sürekli yardımcı olmamasına dikkat edin. İlk görüşmeden sonra sabit yardımcı öğrenci etiketi oluşturma adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Kurgusal olaylardan yararlanın; öğrencilerin özel deneyimlerini topluluk önünde açıklatmayın. İsteyen öğrencilere yazılı veya küçük grup yanıtı imkânı sunun. Akran ilişkilerindeki değişimi izle. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Grup çalışmasında roller dönüşümlü verilir; bir öğrencinin sürekli yardım alan olarak kalması önlenir. Destek sırasında öğrencinin gönüllülüğünü ve bağımsız katılımını izleyin.",
@@ -594,7 +710,8 @@
       "Bir öğrencinin sürekli yardım alan, diğerinin sürekli yardımcı olmamasına dikkat edin.",
       "Destek sırasında öğrencinin gönüllülüğünü ve bağımsız katılımını izleyin.",
       "Sabit yardımcı öğrenci etiketi oluşturma.",
-      "Akran ilişkilerindeki değişimi izle."
+      "Akran ilişkilerindeki değişimi izle.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -634,6 +751,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Kararı öğrenci açısından tekrar değerlendir. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Aile seçmeli ders değişikliği ister; öğrencinin ilgisi ve zorlandığı alanlar da kararda dikkate alınır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Veli ile öğrencinin aynı konuda farklı hedefleri olabilir. İlk görüşmeden sonra mahrem bilgi paylaşımını açıkla adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Kararı öğrenci açısından tekrar değerlendir. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Aile seçmeli ders değişikliği ister; öğrencinin ilgisi ve zorlandığı alanlar da kararda dikkate alınır. Özel görüşme ayrıntılarını velinin talebiyle otomatik paylaşmayın; güvenlik ve yetki sınırlarını açıklayın.",
@@ -641,7 +766,8 @@
       "Veli ile öğrencinin aynı konuda farklı hedefleri olabilir.",
       "Özel görüşme ayrıntılarını velinin talebiyle otomatik paylaşmayın; güvenlik ve yetki sınırlarını açıklayın.",
       "Mahrem bilgi paylaşımını açıkla.",
-      "Kararı öğrenci açısından tekrar değerlendir."
+      "Kararı öğrenci açısından tekrar değerlendir.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -681,6 +807,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Belirlenen sınıf düzenlemesinin etkisini izle. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenciler teneffüste güvende hissetmediklerini bildirir; okul isim açıklamadan gözetimi güçlendirir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Sınıf iklimi anketinde güvenlik, aidiyet ve yardım kanalı erişimi gibi kısa ve açık sorular seçin. İlk görüşmeden sonra kısa ve tek anlamlı sorular yaz adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Belirlenen sınıf düzenlemesinin etkisini izle. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenciler teneffüste güvende hissetmediklerini bildirir; okul isim açıklamadan gözetimi güçlendirir. Sonuçları öğrencileri etiketlemek için değil öğretmen gözetimi ve sınıf düzenlemesi için kullanın.",
@@ -688,7 +822,8 @@
       "Sınıf iklimi anketinde güvenlik, aidiyet ve yardım kanalı erişimi gibi kısa ve açık sorular seçin.",
       "Sonuçları öğrencileri etiketlemek için değil öğretmen gözetimi ve sınıf düzenlemesi için kullanın.",
       "Kısa ve tek anlamlı sorular yaz.",
-      "Belirlenen sınıf düzenlemesinin etkisini izle."
+      "Belirlenen sınıf düzenlemesinin etkisini izle.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -728,6 +863,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Çocukları kişisel açıklamaya zorlama. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Oyunda itilerek katılmaya zorlanan kurgusal öğrenci için hayır deme ve yetişkinden destek seçenekleri çalışılır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Kişisel eşya, fiziksel mesafe ve istenmeyen temas için kurgusal örnekler kullanın. İlk görüşmeden sonra güvenli hayır deme cümlesi çalış adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Çocukları kişisel açıklamaya zorlama. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Oyunda itilerek katılmaya zorlanan kurgusal öğrenci için hayır deme ve yetişkinden destek seçenekleri çalışılır. Sınır ihlalini önleme sorumluluğunu yalnızca çocuğa yüklemeyin; açıklama geldiğinde sorgulayıcı tekrar sorularla ayrıntı zorlamayın.",
@@ -735,7 +878,8 @@
       "Kişisel eşya, fiziksel mesafe ve istenmeyen temas için kurgusal örnekler kullanın.",
       "Sınır ihlalini önleme sorumluluğunu yalnızca çocuğa yüklemeyin; açıklama geldiğinde sorgulayıcı tekrar sorularla ayrıntı zorlamayın.",
       "Güvenli hayır deme cümlesi çalış.",
-      "Çocukları kişisel açıklamaya zorlama."
+      "Çocukları kişisel açıklamaya zorlama.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -775,6 +919,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "İlerlemeyi öğrencinin kendi başlangıcıyla karşılaştır. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Yazılı anlatımda zorlanan öğrenci kısa paragraflarla ilerleyip çabasını izler. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin hangi görevde yardımla, hangi görevde bağımsız ilerleyebildiğini belirleyin. İlk görüşmeden sonra ulaşılabilir bir deneme davranışı seç adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. İlerlemeyi öğrencinin kendi başlangıcıyla karşılaştır. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Yazılı anlatımda zorlanan öğrenci kısa paragraflarla ilerleyip çabasını izler. Öğrencinin seçtiği küçük yazma hedefini iki hafta boyunca izleyin; yalnızca sonuç puanına bakmayın.",
@@ -782,7 +934,8 @@
       "Öğrencinin hangi görevde yardımla, hangi görevde bağımsız ilerleyebildiğini belirleyin.",
       "Öğrencinin seçtiği küçük yazma hedefini iki hafta boyunca izleyin; yalnızca sonuç puanına bakmayın.",
       "Ulaşılabilir bir deneme davranışı seç.",
-      "İlerlemeyi öğrencinin kendi başlangıcıyla karşılaştır."
+      "İlerlemeyi öğrencinin kendi başlangıcıyla karşılaştır.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -822,6 +975,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Bir güvenli paylaşım davranışı belirle. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Kurgusal bir fotoğraf paylaşımı üzerinden izin, kalıcılık ve başvuru yolları tartışılır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Kurgusal fotoğraf paylaşımında görünen kişilerin izni, konum ve yeniden yayılma olasılığını karşılaştırın. İlk görüşmeden sonra paylaşımın yeniden yayılma olasılığını göster adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Bir güvenli paylaşım davranışı belirle. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Kurgusal bir fotoğraf paylaşımı üzerinden izin, kalıcılık ve başvuru yolları tartışılır. İzinsiz paylaşım bildirimi için öğrenciye güvenilir yetişkin ve uygun platform desteğini tanıtın.",
@@ -829,7 +990,8 @@
       "Kurgusal fotoğraf paylaşımında görünen kişilerin izni, konum ve yeniden yayılma olasılığını karşılaştırın.",
       "İzinsiz paylaşım bildirimi için öğrenciye güvenilir yetişkin ve uygun platform desteğini tanıtın.",
       "Paylaşımın yeniden yayılma olasılığını göster.",
-      "Bir güvenli paylaşım davranışı belirle."
+      "Bir güvenli paylaşım davranışı belirle.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -869,6 +1031,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Belirgin zorlanmada uygun yönlendirmeyi sürdür. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Zorlayıcı olay sonrası öğrenci sınıfta konuşmak istemez; bireysel başvuru seçeneği sunulur. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin destek almak isteyip istemediğini ve hemen güvende olup olmadığını anlamaya çalışın. İlk görüşmeden sonra okulun yetkili destek akışını açıkla adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Belirgin zorlanmada uygun yönlendirmeyi sürdür. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Zorlayıcı olay sonrası öğrenci sınıfta konuşmak istemez; bireysel başvuru seçeneği sunulur. Acil risk varsa kurumun güvenlik ve sağlık yönlendirme akışını bekletmeden kullanın.",
@@ -876,7 +1046,8 @@
       "Öğrencinin destek almak isteyip istemediğini ve hemen güvende olup olmadığını anlamaya çalışın.",
       "Acil risk varsa kurumun güvenlik ve sağlık yönlendirme akışını bekletmeden kullanın.",
       "Okulun yetkili destek akışını açıkla.",
-      "Belirgin zorlanmada uygun yönlendirmeyi sürdür."
+      "Belirgin zorlanmada uygun yönlendirmeyi sürdür.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -916,6 +1087,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Katılım deneyimini birlikte değerlendir. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Sınıf ortak kitaplık düzenler; öğrenciler kendi seçtikleri görevle gönüllü katkıda bulunur. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Kitaplık düzenleme gibi yaşa uygun bir ihtiyacı öğrencilerle tanımlayın. İlk görüşmeden sonra görevi ölçülebilir küçük parçalara ayır adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Katılım deneyimini birlikte değerlendir. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Sınıf ortak kitaplık düzenler; öğrenciler kendi seçtikleri görevle gönüllü katkıda bulunur. Etkinlik sonrası kaç saat çalışıldığından çok iş birliği ve sorumluluk deneyimini tartışın.",
@@ -923,7 +1102,8 @@
       "Kitaplık düzenleme gibi yaşa uygun bir ihtiyacı öğrencilerle tanımlayın.",
       "Etkinlik sonrası kaç saat çalışıldığından çok iş birliği ve sorumluluk deneyimini tartışın.",
       "Görevi ölçülebilir küçük parçalara ayır.",
-      "Katılım deneyimini birlikte değerlendir."
+      "Katılım deneyimini birlikte değerlendir.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -963,6 +1143,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Denemeler sonrası yöntemi yeniden değerlendir. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci net hedefinin yanında süreci yönetebileceği bir tekrar hedefi belirler. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Net hedefi ile çalışma davranışı hedefini ayırın. İlk görüşmeden sonra ulaşılabilir haftalık görev seç adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Denemeler sonrası yöntemi yeniden değerlendir. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci net hedefinin yanında süreci yönetebileceği bir tekrar hedefi belirler. Hedef tutmazsa öğrenciyi suçlamak yerine yöntem, destek ve zaman koşullarını değerlendirin.",
@@ -970,7 +1158,8 @@
       "Net hedefi ile çalışma davranışı hedefini ayırın.",
       "Hedef tutmazsa öğrenciyi suçlamak yerine yöntem, destek ve zaman koşullarını değerlendirin.",
       "Ulaşılabilir haftalık görev seç.",
-      "Denemeler sonrası yöntemi yeniden değerlendir."
+      "Denemeler sonrası yöntemi yeniden değerlendir.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -1010,6 +1199,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Öğrencinin ilişki deneyimini gizlilikle izle. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Arkadaşları şaka adıyla öğrencinin sınırlarını ihlal eder; öğrenci saygılı ilişki ölçütlerini tartışır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Lakap, zorla paylaşım ve arkadaşlık baskısını saygı ölçütleriyle değerlendirin. İlk görüşmeden sonra kişisel sınır ve karşılıklılığı tanımla adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Öğrencinin ilişki deneyimini gizlilikle izle. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Arkadaşları şaka adıyla öğrencinin sınırlarını ihlal eder; öğrenci saygılı ilişki ölçütlerini tartışır. Tekrarlayan dışlama varsa sıradan akran anlaşmazlığı gibi uzlaşmaya zorlamayın.",
@@ -1017,7 +1214,8 @@
       "Lakap, zorla paylaşım ve arkadaşlık baskısını saygı ölçütleriyle değerlendirin.",
       "Tekrarlayan dışlama varsa sıradan akran anlaşmazlığı gibi uzlaşmaya zorlamayın.",
       "Kişisel sınır ve karşılıklılığı tanımla.",
-      "Öğrencinin ilişki deneyimini gizlilikle izle."
+      "Öğrencinin ilişki deneyimini gizlilikle izle.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -1057,6 +1255,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Bir hafta sonra katılım örüntüsünü karşılaştır. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrencinin bir derse katılımı gün içinde değişir; görev güçlüğü ve ortam koşulları birlikte değerlendirilir. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Ders katılımındaki değişimin gününü, ders görevini, akran ortamını ve sağlık/uyku koşullarını ayrı sorun. İlk görüşmeden sonra öğrencinin seçtiği küçük ders hedefi belirle adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Bir hafta sonra katılım örüntüsünü karşılaştır. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrencinin bir derse katılımı gün içinde değişir; görev güçlüğü ve ortam koşulları birlikte değerlendirilir. Öğrenciyle işe yarayan bir ders düzeni değişikliği seçin; derse katılımı sonraki hafta gözleyin.",
@@ -1064,7 +1270,8 @@
       "Ders katılımındaki değişimin gününü, ders görevini, akran ortamını ve sağlık/uyku koşullarını ayrı sorun.",
       "Öğrenciyle işe yarayan bir ders düzeni değişikliği seçin; derse katılımı sonraki hafta gözleyin.",
       "Öğrencinin seçtiği küçük ders hedefi belirle.",
-      "Bir hafta sonra katılım örüntüsünü karşılaştır."
+      "Bir hafta sonra katılım örüntüsünü karşılaştır.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -1104,6 +1311,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Planın gerçekçi kısımlarını takip et. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenci büyük bir projeye başlamaz; teslim tarihinden geriye doğru küçük görevler planlar. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Büyük bir projeyi bilgi toplama, taslak hazırlama ve gözden geçirme adımlarına ayırın. İlk görüşmeden sonra görevi görünür küçük parçalara böl adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Planın gerçekçi kısımlarını takip et. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenci büyük bir projeye başlamaz; teslim tarihinden geriye doğru küçük görevler planlar. Bir sonraki görüşmede yapılmayan görevin nedenini konuşun; çok uzun listeyi sadeleştirin.",
@@ -1111,7 +1326,8 @@
       "Büyük bir projeyi bilgi toplama, taslak hazırlama ve gözden geçirme adımlarına ayırın.",
       "Bir sonraki görüşmede yapılmayan görevin nedenini konuşun; çok uzun listeyi sadeleştirin.",
       "Görevi görünür küçük parçalara böl.",
-      "Planın gerçekçi kısımlarını takip et."
+      "Planın gerçekçi kısımlarını takip et.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
@@ -1151,6 +1367,14 @@
       [
         "İzlem ve yeniden değerlendirme",
         "Herkesin yardım yolunu anlayıp anlamadığını değerlendir. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+      ],
+      [
+        "Okuldan örnekle uygulama tasarımı",
+        "Öğrenciler kurgusal bir güvenlik durumunda okul içi ve dışı uygun destek kişilerini belirler. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Acil güvenlik ihtiyacı, ders sorusu ve arkadaşlık sorunu için farklı başvuru noktalarını okul içindeki yerleriyle gösterin. İlk görüşmeden sonra okuldaki yetkili kişilere ulaşma yolunu göster adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
+      ],
+      [
+        "İzleme, sınırlar ve destek kararı",
+        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. Herkesin yardım yolunu anlayıp anlamadığını değerlendir. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
       ]
     ],
     "example": "Öğrenciler kurgusal bir güvenlik durumunda okul içi ve dışı uygun destek kişilerini belirler. Güvenilir yetişkinin her sırrı saklayacağı sözünü vermeyin; koruma gerektiren durumlarda yetkili paylaşım sınırını açıklayın.",
@@ -1158,7 +1382,8 @@
       "Acil güvenlik ihtiyacı, ders sorusu ve arkadaşlık sorunu için farklı başvuru noktalarını okul içindeki yerleriyle gösterin.",
       "Güvenilir yetişkinin her sırrı saklayacağı sözünü vermeyin; koruma gerektiren durumlarda yetkili paylaşım sınırını açıklayın.",
       "Okuldaki yetkili kişilere ulaşma yolunu göster.",
-      "Herkesin yardım yolunu anlayıp anlamadığını değerlendir."
+      "Herkesin yardım yolunu anlayıp anlamadığını değerlendir.",
+      "Uygulamanın başlangıç göstergesini ve sonraki takip tarihini kaydedin."
     ],
     "faq": [
       [
