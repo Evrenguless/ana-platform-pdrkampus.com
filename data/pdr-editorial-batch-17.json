@@ -23,13 +23,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Seçim sonrasında öğrencinin ders uyumu ve ilgi değişimini dönem içinde yeniden görüşün. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci arkadaşları sayısal alanı seçtiği için aynı tercihe yönelir, oysa sözel derslerde daha çok araştırma yaptığını anlatır. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin alanla ilgili ders deneyimini ve ilgisini birbirinden ayırın; tek bir sınav notunu belirleyici kabul etmeyin. Okulun güncel alan ve ders seçeneklerini resmî kayıtlarından doğrulayın; arkadaş seçimini otomatik ölçüt yapmayın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine seçim sonrasında öğrencinin ders uyumu ve ilgi değişimini dönem içinde yeniden görüşün adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı alan seçimini değerlendirme konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin alanla ilgili ders deneyimini ve ilgisini birbirinden ayırın; tek bir sınav notunu belirleyici kabul etmeyin.",
       "İki alanı ders içeriği, öğrencinin merakı ve öğrenme koşulları üzerinden karşılaştıran üç sütunlu çizelge hazırlayın.",
       "Seçim sonrasında öğrencinin ders uyumu ve ilgi değişimini dönem içinde yeniden görüşün.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -71,13 +80,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Bir sonraki görüşmede eksik kalan bilgileri tamamlayıp araştırma listesini öğrencinin ölçütlerine göre daraltın. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci yalnızca üniversitenin adını bildiği üç seçenek oluşturur. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin üniversite ararken önce bölüm, şehir, yaşam maliyeti veya eğitim dili gibi hangi ölçütü önemsediğini belirleyin. Sosyal medyadaki sıralama tablolarını güncel resmî program ve tercih bilgisiyle karşılaştırmadan kullanmayın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine bir sonraki görüşmede eksik kalan bilgileri tamamlayıp araştırma listesini öğrencinin ölçütlerine göre daraltın adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı üniversite araştırma planı konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin üniversite ararken önce bölüm, şehir, yaşam maliyeti veya eğitim dili gibi hangi ölçütü önemsediğini belirleyin.",
       "Araştırmayı program kodu, ders planı, eğitim dili, özel koşullar ve barınma başlıklarına bölün; her bilginin tarihini not edin.",
       "Bir sonraki görüşmede eksik kalan bilgileri tamamlayıp araştırma listesini öğrencinin ölçütlerine göre daraltın.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -119,13 +137,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Öğrenciye bir ay içinde denemek istediği yeni bir etkinlik seçtirin; ardından ilgi haritasını gözden geçirin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Fizikte başarılı olan öğrenci aynı zamanda senaryo yazmayı sevdiğini söyler. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrenciden derste ilgisini çeken konu, okul dışı merak ve sürdürmekte zorlandığı etkinlikler hakkında somut örnekler isteyin. İlgiyi yetenekle veya tek bir test puanıyla eşitlemeyin; öğrencinin fırsat bulamadığı alanları da hesaba katın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine öğrenciye bir ay içinde denemek istediği yeni bir etkinlik seçtirin; ardından ilgi haritasını gözden geçirin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı akademik ilgi haritası konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrenciden derste ilgisini çeken konu, okul dışı merak ve sürdürmekte zorlandığı etkinlikler hakkında somut örnekler isteyin.",
       "Ders, proje ve hobi örneklerinden oluşan bir ilgi haritası hazırlayın; her alan için 'bunu neden merak ediyorum?' sorusunu ekleyin.",
       "Öğrenciye bir ay içinde denemek istediği yeni bir etkinlik seçtirin; ardından ilgi haritasını gözden geçirin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -167,13 +194,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Etkinlik sonrasında öğrencinin beklentisiyle gördüğü gerçek görevleri karşılaştırın ve yeni araştırma sorularını yazdırın. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Sağlık mesleğine ilgisi olan öğrenci çalışma ortamının yalnızca hasta görüşmesinden oluşmadığını, kayıt ve ekip koordinasyonunun da önemli olduğunu öğrenir. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin tanımak istediği mesleğin hangi yönünü merak ettiğini sorun: günlük görevler, çalışma koşulları veya eğitim yolu olabilir. Gözlem etkinliğinde iş yeri güvenliği, öğrenci yaşı, kişisel veri ve kurum izni koşullarını önceden değerlendirin. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine etkinlik sonrasında öğrencinin beklentisiyle gördüğü gerçek görevleri karşılaştırın ve yeni araştırma sorularını yazdırın adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı meslek gölgeleme etkinliği konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin tanımak istediği mesleğin hangi yönünü merak ettiğini sorun: günlük görevler, çalışma koşulları veya eğitim yolu olabilir.",
       "Meslek çalışanına yöneltilecek görev, iş birliği ve zorluk konulu beş somut soru hazırlatın; gözlem mümkün değilse doğrulanmış meslek anlatımları kullanın.",
       "Etkinlik sonrasında öğrencinin beklentisiyle gördüğü gerçek görevleri karşılaştırın ve yeni araştırma sorularını yazdırın.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -215,13 +251,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Deneyim sonrasında ilginin değişip değişmediğini ve başka hangi ortamı görmenin yararlı olacağını değerlendirin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci tasarım ofisinde çizim kadar ekip toplantısı yapıldığını görür; beklediği meslek yaşamıyla gözlemlerini karşılaştıran kısa rapor hazırlar. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin staj veya gözlemden beklentisini belirleyin; deneyimin meslek kararı için tek kanıt olmayacağını açıklayın. Yaş, çalışma güvenliği, sigorta, kurum izni ve okulun ilgili kurallarını doğrulamadan yerleştirme önermeyin. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine deneyim sonrasında ilginin değişip değişmediğini ve başka hangi ortamı görmenin yararlı olacağını değerlendirin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı staj ve gözlem deneyimi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin staj veya gözlemden beklentisini belirleyin; deneyimin meslek kararı için tek kanıt olmayacağını açıklayın.",
       "Öğrenciye gün sonunda gözlediği üç görev, kullandığı iki beceri ve anlamadığı bir kavramı not ettirin.",
       "Deneyim sonrasında ilginin değişip değişmediğini ve başka hangi ortamı görmenin yararlı olacağını değerlendirin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -263,13 +308,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Kaygı günlük işlevselliği belirgin etkiliyorsa uygun uzman desteğini değerlendirin; karar adımlarını sonraki görüşmede izleyin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci tercih yapınca başka yolu kalmayacağını düşünür. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Gelecek kaygısının en çok hangi belirsizlikle ilişkili olduğunu dinleyin: sınav, gelir, aile veya meslek seçimi farklı destek gerektirir. Öğrencinin 'tek yanlış karar bütün hayatı belirler' düşüncesini kesin güvence vererek karşılamayın; gerçek seçenekleri görünür kılın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine kaygı günlük işlevselliği belirgin etkiliyorsa uygun uzman desteğini değerlendirin; karar adımlarını sonraki görüşmede izleyin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı gelecek belirsizliğiyle baş etme konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Gelecek kaygısının en çok hangi belirsizlikle ilişkili olduğunu dinleyin: sınav, gelir, aile veya meslek seçimi farklı destek gerektirir.",
       "Kontrol edilebilen adımlar ile henüz bilinmeyen sonuçları iki sütunda ayırın; bir bilgi edinme görevi belirleyin.",
       "Kaygı günlük işlevselliği belirgin etkiliyorsa uygun uzman desteğini değerlendirin; karar adımlarını sonraki görüşmede izleyin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -311,13 +365,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Görüşmeden sonra öğrencinin araştırma yapabildiği ve aile baskısının azalıp azalmadığı hakkında ayrı geri bildirim alın. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci öğretmenlik isterken ailesi farklı bölümde ısrar eder. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Ailenin meslek beklentisini ve öğrencinin kendi ilgisini farklı sorularla dinleyin; taraflardan birini yanlış ilan etmeyin. Kariyer kararını yalnızca gelir, prestij veya aile geçmişi üzerinden değerlendirmeyin; somut program koşullarını araştırın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine görüşmeden sonra öğrencinin araştırma yapabildiği ve aile baskısının azalıp azalmadığı hakkında ayrı geri bildirim alın adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı aile kariyer beklentisi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Ailenin meslek beklentisini ve öğrencinin kendi ilgisini farklı sorularla dinleyin; taraflardan birini yanlış ilan etmeyin.",
       "Öğrencinin önem verdiği üç ölçütle ailesinin kaygılarını yan yana yazarak ortak ve farklı noktaları belirleyin.",
       "Görüşmeden sonra öğrencinin araştırma yapabildiği ve aile baskısının azalıp azalmadığı hakkında ayrı geri bildirim alın.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -359,13 +422,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. İki hafta sonra öğrenciye kıyaslama baskısının hangi ortamlarda sürdüğünü ve hangi desteğin işe yaradığını sorun. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Sınıfta herkesin deneme sıralaması konuşulunca öğrenci çalışma isteğinin azaldığını anlatır. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin kimlerle ve hangi başarı göstergeleri üzerinden kıyaslandığını sorun; duygusal etkisini küçümsemeyin. Sınıf sıralamaları ve kişisel netlerin topluluk önünde paylaşılması mahremiyeti ve aidiyeti zedeleyebilir. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine iki hafta sonra öğrenciye kıyaslama baskısının hangi ortamlarda sürdüğünü ve hangi desteğin işe yaradığını sorun adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı akranla akademik kıyaslama konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin kimlerle ve hangi başarı göstergeleri üzerinden kıyaslandığını sorun; duygusal etkisini küçümsemeyin.",
       "Öğrencinin kendi önceki öğrenme davranışını, kullandığı stratejiyi ve iyileştirebildiği adımı kaydedin.",
       "İki hafta sonra öğrenciye kıyaslama baskısının hangi ortamlarda sürdüğünü ve hangi desteğin işe yaradığını sorun.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -407,13 +479,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Sonraki denemede toplam puanın yanı sıra seçilen stratejinin uygulanmasını da takip edin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Matematik neti düşen öğrencinin çoğu hatası uzun işlem sorularında süre yetmemesinden kaynaklanır. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Sınavın türü ve öğrencinin beklentisini belirleyin; sonuç ile öğrencinin genel yeterliğini birbirinden ayırın. Tek bir puandan öğrenme güçlüğü, isteksizlik veya gelecekte başarı hakkında kesin sonuç çıkarmayın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine sonraki denemede toplam puanın yanı sıra seçilen stratejinin uygulanmasını da takip edin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı sınav sonuçlarını yorumlama konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Sınavın türü ve öğrencinin beklentisini belirleyin; sonuç ile öğrencinin genel yeterliğini birbirinden ayırın.",
       "Soruları bilgi eksikliği, yönergeyi anlama, süre yönetimi ve dikkatsiz işlem gibi gözlenebilir kategorilere ayırın.",
       "Sonraki denemede toplam puanın yanı sıra seçilen stratejinin uygulanmasını da takip edin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -455,13 +536,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Bir sonraki denemede önce seçilen yöntemi değerlendirin; sonuç değişmediyse yeni açıklama ve destek arayın. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci denemede yanlış yaptığı her konuya eşit süre ayırır. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrenciden deneme sonrası hangi geri bildirimi yararlı bulduğunu sorun; yalnızca sonuç sıralaması vermekten kaçının. Geri bildirimi kişisel özellik etiketleriyle değil belirli soru, strateji ve çalışma koşullarıyla ilişkilendirin. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine bir sonraki denemede önce seçilen yöntemi değerlendirin; sonuç değişmediyse yeni açıklama ve destek arayın adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı etkili deneme geri bildirimi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrenciden deneme sonrası hangi geri bildirimi yararlı bulduğunu sorun; yalnızca sonuç sıralaması vermekten kaçının.",
       "Üç parçalı geri bildirim kullanın: işe yarayan yöntem, zorlanılan görev ve bir sonraki denemede değiştirilecek adım.",
       "Bir sonraki denemede önce seçilen yöntemi değerlendirin; sonuç değişmediyse yeni açıklama ve destek arayın.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -503,13 +593,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Bir hafta sonra uygulanmayan blokların nedenini öğrenciyle inceleyip programı sadeleştirin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci her akşam beş saat ders planlar ama iki gün sonra bırakır. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin haftalık okul, kurs, ulaşım ve dinlenme sürelerini gerçekçi olarak çıkarın. Programın öğrencinin uyku veya temel ihtiyaç zamanını tüketmesine izin vermeyin; her gün aynı performansı beklemeyin. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine bir hafta sonra uygulanmayan blokların nedenini öğrenciyle inceleyip programı sadeleştirin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı ders programı esnekliği konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin haftalık okul, kurs, ulaşım ve dinlenme sürelerini gerçekçi olarak çıkarın.",
       "Sabit zorunluluklardan sonra iki öncelikli ders için kısa çalışma blokları koyun; yetişmeyen görevler için esnek alan bırakın.",
       "Bir hafta sonra uygulanmayan blokların nedenini öğrenciyle inceleyip programı sadeleştirin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -551,13 +650,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. İki hafta boyunca öğrencinin dinlenmiş hissetme düzeyi ve ilk ders katılımını gözden geçirin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci gece sınav videosu izleyip sabah derste uyuklar. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Uyku düzensizliğinin hangi günlerde arttığını ve öğrencinin ders katılımını nasıl etkilediğini konuşun. Yorgunluk veya dikkat güçlüğünü tek başına ekrana bağlamayın; sağlık ve aile koşulları da değerlendirilebilir. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine iki hafta boyunca öğrencinin dinlenmiş hissetme düzeyi ve ilk ders katılımını gözden geçirin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı günlük yaşam ve uyku dengesi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Uyku düzensizliğinin hangi günlerde arttığını ve öğrencinin ders katılımını nasıl etkilediğini konuşun.",
       "Öğrencinin belirleyebileceği bir akşam geçiş rutini seçin; ödev, ulaşım ve ekran kullanımı saatlerini birlikte inceleyin.",
       "İki hafta boyunca öğrencinin dinlenmiş hissetme düzeyi ve ilk ders katılımını gözden geçirin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -599,13 +707,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Haftalık görüşmede tamamlanan görev kadar planın gerçekçiliğini de gözden geçirin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci iki yıl sonrası için mühendislik hedefi kurar fakat bugün ne yapacağını bilemez. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin uzak hedefini kendi cümlesiyle tanımlamasını isteyin; yetişkinin seçtiği hedefi doğrudan benimsetmeyin. Sonuç hedefini öğrencinin günlük kontrol edebileceği davranışla karıştırmayın; başarısızlık hissini artıran gerçek dışı sürelerden kaçının. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine haftalık görüşmede tamamlanan görev kadar planın gerçekçiliğini de gözden geçirin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı uzun vadeli hedef bölme konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin uzak hedefini kendi cümlesiyle tanımlamasını isteyin; yetişkinin seçtiği hedefi doğrudan benimsetmeyin.",
       "Dönem hedefini aylık araştırma, haftalık öğrenme ve bugünkü ilk adım olarak üç düzeye ayırın.",
       "Haftalık görüşmede tamamlanan görev kadar planın gerçekçiliğini de gözden geçirin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -647,13 +764,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Öğrencilerden özel deneyim açıklamasını istemeden bir dijital güvenlik kontrol sorusu seçmelerini sağlayın. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Bir öğrenci arkadaşının etkinlik videosunu herkese açık yayımlamak ister. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencilerin konum paylaşımı, ekran görüntüsü, parola ve özel mesaj sınırlarını ayrı örneklerle ele alın. Gerçek öğrenci hesaplarını sınıfta açmayın; siber zorbalık veya izinsiz görsel paylaşımında güvenliği önce değerlendirin. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine öğrencilerden özel deneyim açıklamasını istemeden bir dijital güvenlik kontrol sorusu seçmelerini sağlayın adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı dijital güvenlik ve mahremiyet konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencilerin konum paylaşımı, ekran görüntüsü, parola ve özel mesaj sınırlarını ayrı örneklerle ele alın.",
       "Kurgusal bir gönderide kimlerin görebileceğini, yeniden paylaşım olasılığını ve izin gereksinimini analiz ettirin.",
       "Öğrencilerden özel deneyim açıklamasını istemeden bir dijital güvenlik kontrol sorusu seçmelerini sağlayın.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Güvenlik bildirimi veya tekrarlanan zarar varsa sınıf etkinliğiyle yetinmeden yetkili koruma sürecini başlatın."
     ],
     "faq": [
       [
@@ -695,13 +821,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Etkinliğin sonunda öğrencilerin farklı sınırları ve yetişkinden yardım isteme yollarını anlayıp anlamadıklarını değerlendirin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Arkadaş grubu bir öğrenciyi istemediği buluşmaya katılmaya zorlar. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Rızayı karşılıklı, özgür ve geri alınabilir bir karar olarak yaşa uygun dille açıklayın. Akran baskısı, tehdit veya güç dengesizliği varsa 'karşılıklı anlaşma' varsayımından hareket etmeyin; önce güvenliği sağlayın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine etkinliğin sonunda öğrencilerin farklı sınırları ve yetişkinden yardım isteme yollarını anlayıp anlamadıklarını değerlendirin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı sosyal ilişkilerde rıza konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Rızayı karşılıklı, özgür ve geri alınabilir bir karar olarak yaşa uygun dille açıklayın.",
       "Kurgusal sosyal durumlarda istememe, fikrini değiştirme ve net sınır koyma cümleleri üzerinde çalışın.",
       "Etkinliğin sonunda öğrencilerin farklı sınırları ve yetişkinden yardım isteme yollarını anlayıp anlamadıklarını değerlendirin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -743,13 +878,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Kurgusal üç durumda öğrencinin doğru yetişkine ve acil yardıma ulaşma yolunu anlatmasını isteyin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci öğretmenini bulamadığı bir teneffüste tehdit edilir. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrenciye okulda hangi ihtiyaçlarda kimden yardım isteyebileceğini ve mahremiyet sınırlarını açıklayın. Yardım isteyince her bilginin gizli tutulacağına söz vermeyin; güvenlik gerektiren durumlarda yetkili kişilerle paylaşım olabileceğini belirtin. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine kurgusal üç durumda öğrencinin doğru yetişkine ve acil yardıma ulaşma yolunu anlatmasını isteyin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı güvenilir yetişkine başvuru konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrenciye okulda hangi ihtiyaçlarda kimden yardım isteyebileceğini ve mahremiyet sınırlarını açıklayın.",
       "Acil risk, ders güçlüğü ve akran çatışması için farklı okul başvuru haritaları oluşturun.",
       "Kurgusal üç durumda öğrencinin doğru yetişkine ve acil yardıma ulaşma yolunu anlatmasını isteyin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -791,13 +935,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Öğrencinin kendini daha açık ifade edebildiği ortamı ve yardıma ihtiyaç duyduğu anları bir sonraki görüşmede değerlendirin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci proje grubunda fikri dinlenmediği için susar. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin görüş bildirmekte zorlandığı ortamları sorun; çekingenliği kişilik kusuru gibi değerlendirmeyin. Sınıf önünde konuşmak istemeyen öğrencileri zorlamayın; yazılı veya küçük grup katılımı seçenekleri sunun. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine öğrencinin kendini daha açık ifade edebildiği ortamı ve yardıma ihtiyaç duyduğu anları bir sonraki görüşmede değerlendirin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı kendini ifade etme becerisi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin görüş bildirmekte zorlandığı ortamları sorun; çekingenliği kişilik kusuru gibi değerlendirmeyin.",
       "Kurgusal konuda gözlem, duygu ve istekten oluşan üç cümlelik açıklama alıştırması yapın.",
       "Öğrencinin kendini daha açık ifade edebildiği ortamı ve yardıma ihtiyaç duyduğu anları bir sonraki görüşmede değerlendirin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -839,13 +992,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Sonraki tartışmada öğrencilerin kişiyi değil görüşü eleştirebilme ve güvenli söz alma davranışını izleyin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Sınıf gezi güzergâhını seçerken iki gruba ayrılır. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Farklı görüşlerin ortaya çıktığı okul durumlarını tanımlayın; tartışmanın kişilere yönelip yönelmediğini gözleyin. Ayrımcılık, tehdit veya aşağılayıcı söylemi yalnızca 'farklı görüş' sayıp görmezden gelmeyin. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine sonraki tartışmada öğrencilerin kişiyi değil görüşü eleştirebilme ve güvenli söz alma davranışını izleyin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı farklı görüşlere saygı konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Farklı görüşlerin ortaya çıktığı okul durumlarını tanımlayın; tartışmanın kişilere yönelip yönelmediğini gözleyin.",
       "Kurgusal güncel olmayan bir okul kararı üzerinden kanıt sunma, söz kesmeme ve karşı görüşü özetleme etkinliği yapın.",
       "Sonraki tartışmada öğrencilerin kişiyi değil görüşü eleştirebilme ve güvenli söz alma davranışını izleyin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -887,13 +1049,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Bir ay sonra araştırma ve gözlem sonrası ilk sıralamanın değişip değişmediğini öğrenciyle konuşun. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci yüksek gelirle insanlara doğrudan yardım etmeyi aynı anda önemser. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrenciye meslekten beklediği koşulları sorun: esneklik, çalışma ortamı, toplumsal katkı veya gelir farklı ağırlıklarda olabilir. Mesleki değeri tek bir ölçek puanına indirgemeyin; seçilen değerlerin zamanla değişebileceğini açıklayın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine bir ay sonra araştırma ve gözlem sonrası ilk sıralamanın değişip değişmediğini öğrenciyle konuşun adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı mesleki değer keşfi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrenciye meslekten beklediği koşulları sorun: esneklik, çalışma ortamı, toplumsal katkı veya gelir farklı ağırlıklarda olabilir.",
       "Öğrenciden üç değeri sıralamasını ve iki mesleğin günlük görevleriyle bu değerleri karşılaştırmasını isteyin.",
       "Bir ay sonra araştırma ve gözlem sonrası ilk sıralamanın değişip değişmediğini öğrenciyle konuşun.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -935,13 +1106,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Tercih dönemi öncesi çizelgedeki değişebilen bilgileri resmî kaynaklardan yeniden doğrulayın. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenci iki üniversitede aynı bölüm adını görür; ders planlarında uygulama derslerinin farklı olduğunu fark edip tercihini yeniden değerlendirir. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin karşılaştırdığı programların isimlerini ve araştırma yılını doğrulayın; benzer adın aynı ders planı anlamına gelmeyebileceğini açıklayın. Güncel tercih kılavuzu ve üniversite ders planı dışındaki bilgileri kesin koşul gibi sunmayın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine tercih dönemi öncesi çizelgedeki değişebilen bilgileri resmî kaynaklardan yeniden doğrulayın adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı bölüm karşılaştırma çizelgesi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin karşılaştırdığı programların isimlerini ve araştırma yılını doğrulayın; benzer adın aynı ders planı anlamına gelmeyebileceğini açıklayın.",
       "Program kodu, eğitim dili, temel dersler, staj ve özel koşullar sütunlarıyla bir karşılaştırma çizelgesi oluşturun.",
       "Tercih dönemi öncesi çizelgedeki değişebilen bilgileri resmî kaynaklardan yeniden doğrulayın.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -983,13 +1163,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Etkinlik sonunda saat sayısından çok öğrencinin öğrendiği beceriyi ve topluluk etkisini tartışın. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Öğrenciler okul kitaplığının sınıflandırmasını yeniler. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Gönüllü etkinliğin öğrencinin ilgisi ve okul koşullarıyla nasıl örtüştüğünü sorun; zorunlu görev olarak sunmayın. Etkinlikte öğrenci yaşı, güvenlik, izin ve özel bilgi paylaşımı sınırlarını önceden değerlendirin. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine etkinlik sonunda saat sayısından çok öğrencinin öğrendiği beceriyi ve topluluk etkisini tartışın adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı gönüllü toplumsal katkı konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Gönüllü etkinliğin öğrencinin ilgisi ve okul koşullarıyla nasıl örtüştüğünü sorun; zorunlu görev olarak sunmayın.",
       "Küçük ölçekli bir okul katkısı seçin: kitaplık düzeni, akran destek afişi veya çevre düzeni gibi erişilebilir görevler olabilir.",
       "Etkinlik sonunda saat sayısından çok öğrencinin öğrendiği beceriyi ve topluluk etkisini tartışın.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1031,13 +1220,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Dönem sonunda öğrencinin hangi iş birliği ve planlama becerisini kullandığını somut örnekle değerlendirin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Kulüp başkanı bütün işleri kendisi yapınca toplantılar gecikir. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin kulüpte üstlendiği görevi ve bunun gönüllü olup olmadığını öğrenin; liderliği yalnızca unvan olarak ele almayın. Görevin ders yükü, güvenlik veya sosyal ilişkiler üzerindeki etkisini izleyin; sürekli aynı öğrenciye iş yüklenmesini önleyin. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine dönem sonunda öğrencinin hangi iş birliği ve planlama becerisini kullandığını somut örnekle değerlendirin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı okul kulübünde sorumluluk konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin kulüpte üstlendiği görevi ve bunun gönüllü olup olmadığını öğrenin; liderliği yalnızca unvan olarak ele almayın.",
       "Toplantı hazırlama, malzeme sorumluluğu ve geri bildirim toplama gibi görevleri dönüşümlü planlayın.",
       "Dönem sonunda öğrencinin hangi iş birliği ve planlama becerisini kullandığını somut örnekle değerlendirin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1079,13 +1277,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Öğrenci her seçenek için bir araştırma adımı belirleyip bir sonraki görüşmede elde ettiği yeni bilgileri sunar. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Mezun olacak öğrenci yalnızca tek programı düşünür. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin mezuniyet sonrası seçenekleri bildiğini varsaymayın; yükseköğretim, mesleki eğitim ve diğer yolları güncel bilgilerle tanıtın. Tek bir yolu başarının garantisi veya başarısızlığın işareti olarak sunmayın; maddi ve bölgesel koşulları dikkate alın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine öğrenci her seçenek için bir araştırma adımı belirleyip bir sonraki görüşmede elde ettiği yeni bilgileri sunar adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı mezuniyet sonrası seçenekler konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin mezuniyet sonrası seçenekleri bildiğini varsaymayın; yükseköğretim, mesleki eğitim ve diğer yolları güncel bilgilerle tanıtın.",
       "En az iki uygulanabilir yol için kabul şartları, başvuru tarihleri ve gerekli hazırlık adımlarını karşılaştırın.",
       "Öğrenci her seçenek için bir araştırma adımı belirleyip bir sonraki görüşmede elde ettiği yeni bilgileri sunar.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1127,13 +1334,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Bir hafta sonra evdeki konuşma biçiminin ve öğrencinin çalışma düzeninin değişimini ayrı değerlendirin. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Veli her sınavdan sonra sınıf sıralaması ister. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Sınav dönemi aile konuşmalarında en sık çatışma yaratan ifadeleri öğrenci ve veli açısından ayrı dinleyin. Deneme sonucunu tehdit, kıyaslama veya utandırma aracına dönüştürmenin öğrencinin yardım istemesini zorlaştırabileceğini açıklayın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine bir hafta sonra evdeki konuşma biçiminin ve öğrencinin çalışma düzeninin değişimini ayrı değerlendirin adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı sınav dönemi aile iletişimi konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Sınav dönemi aile konuşmalarında en sık çatışma yaratan ifadeleri öğrenci ve veli açısından ayrı dinleyin.",
       "Aileye 'Kaç net yaptın?' yerine 'Bu hafta hangi konuda desteğe ihtiyacın var?' gibi süreç odaklı soru seçenekleri sunun.",
       "Bir hafta sonra evdeki konuşma biçiminin ve öğrencinin çalışma düzeninin değişimini ayrı değerlendirin.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1175,13 +1391,22 @@
       [
         "Takip görüşmesinin odağı",
         "Öğrencinin seçtiği adım için gerçekçi bir izleme tarihi belirleyin. Geçişten sonraki ilk iki haftada öğrencinin aidiyet, ulaşım ve öğrenme düzenini gözden geçirmesini planlayın. Bir sonraki görüşmede öğrencinin deneyimini ve gerekli değişiklikleri birlikte değerlendirin."
+      ],
+      [
+        "Lisede öğrencinin kararını ve seçeneklerini çalışmak",
+        "Üniversiteye gidecek öğrenci barınma ve ders kayıtlarına ilişkin belirsizlik yaşar. Lise öğrencisinin bu durumdaki kendi hedeflerini aile veya öğretmen beklentilerinden ayrı öğrenin. Öğrencinin yeni ortama geçişte en çok neyi bilmediğini sorun: arkadaşlık, ulaşım, ders işleyişi veya başvuru yolları farklıdır. Geçiş kaygısını küçümsemeyin; zorbalık ya da güvenlik endişesi anlatılırsa bunu genel uyum etkinliğinden ayrı ele alın. Bir görüşmede bütün seçenekleri çözmeye çalışmak yerine geçişten sonraki ilk iki haftada öğrencinin aidiyet, ulaşım ve öğrenme düzenini gözden geçirmesini planlayın adımını ölçülebilir ve öğrencinin karar hakkına saygılı bir görev olarak tanımlayın. Sınav, alan ya da program bilgisi kullanılıyorsa ilgili yılın resmî kaynağının tarihini doğrulayın; geçmiş veriyi garanti diye sunmayın."
+      ],
+      [
+        "Seçilen adımın sonucunu yeniden değerlendirme",
+        "Bir sonraki görüşmede öğrencinin hangi seçeneği denediğini, bu seçeneğe ilişkin yeni hangi bilgiye ulaştığını ve nasıl hissettiğini sorun. Çalışmanın amacı yeni ortama geçiş hazırlığı konusunda öğrencinin kendi seçeneklerini görebilmesini desteklemektir. Sadece hedefe ulaşılıp ulaşılmadığını değil yöntemin gerçekçi olup olmadığını da gözden geçirin. Aile veya öğretmene yapılacak geri bildirimde öğrencinin kişisel danışma ayrıntılarını gereksiz yere paylaşmayın. Süreçte güvenlik riski belirlenirse normal kariyer ya da öğrenme planını erteleyip uygun yetkili desteğe geçin."
       ]
     ],
     "check": [
       "Öğrencinin yeni ortama geçişte en çok neyi bilmediğini sorun: arkadaşlık, ulaşım, ders işleyişi veya başvuru yolları farklıdır.",
       "Yeni okul veya eğitim ortamının ilk hafta rutinini, güvenilir yetişkinlerini ve ulaşılabilir destek noktalarını araştırma görevi verin.",
       "Geçişten sonraki ilk iki haftada öğrencinin aidiyet, ulaşım ve öğrenme düzenini gözden geçirmesini planlayın.",
-      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin."
+      "Öğrencinin seçtiği bir sonraki adımı ve takip tarihini kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
