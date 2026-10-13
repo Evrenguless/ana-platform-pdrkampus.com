@@ -91,8 +91,9 @@ def main():
         r.feed(src)
         slug = path.stem
         issues = []
-        if len(r.h1) != 1: issues.append("invalid_h1_count")
-        if len(r.desc) != 1: issues.append("invalid_description_count")
+        if len(r.h1) != 1 or not r.h1[0].strip(): issues.append("invalid_h1_count")
+        if not r.title.strip(): issues.append("missing_seo_title")
+        if len(r.desc) != 1 or not r.desc[0].strip(): issues.append("invalid_description_count")
         if len(r.canonical) != 1 or r.canonical[0] != f"https://pdrkampus.com/konu/{slug}/":
             issues.append("canonical_missing_or_mismatch")
         if not any("noindex" in value.lower() for value in r.robots):
@@ -113,6 +114,7 @@ def main():
         if not chapters: issues.append("missing_chapter_markup")
         if chapter_words < 125: issues.append("main_text_under_125")
         if chapter_words < 250: issues.append("main_text_under_250")
+        if len(chapters) < 5: issues.append("fewer_than_five_manuscript_chapters")
         for i, text in enumerate(chapters):
             if len(words(text)) < 15: issues.append("chapter_under_15_words")
             if len(words(text)) >= 15: repeated_texts[normalized(text)].append(slug)
