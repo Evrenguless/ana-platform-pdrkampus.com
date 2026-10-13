@@ -23,6 +23,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Yüksek görünen ilgi alanı için öğrenciden somut ders, hobi veya proje örneği isteyin; uyumsuz bulduğu sonuçlara ilişkin yorum hakkı tanıyın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci envanterde sosyal alanda yüksek puan alır, ancak bunun kendisini tanımlamadığını söyler. “İlgi envanteri sonuçlarını konuşma” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. İlgi envanterinin hangi amaçla uygulandığını ve sonuçların hangi grupları betimlediğini öğrenciye açıklayın. Tek ölçümden 'şu mesleği seçmelisin' kararı çıkarmayın. Yüksek görünen ilgi alanı için öğrenciden somut ders, hobi veya proje örneği isteyin; uyumsuz bulduğu sonuçlara ilişkin yorum hakkı tanıyın. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye ilgi envanteri sonuçlarını konuşma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "İlgi envanteri sonuçlarını konuşma görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Yüksek görünen ilgi alanı için öğrenciden somut ders, hobi veya proje örneği isteyin; uyumsuz bulduğu sonuçlara ilişkin yorum hakkı tanıyın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci envanterde sosyal alanda yüksek puan alır, ancak bunun kendisini tanımlamadığını söyler. Sonuç kesin karar yerine yeni deneyim araştırmak için kullanılır.",
@@ -71,6 +79,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciden iki meslek için bir iş gününde yapılan üç somut görev ve zorlayıcı bir koşul yazmasını isteyin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci psikolog olmayı yalnızca danışanla konuşmak sanır; çalışma ortamları ve görev çeşitliliğini araştırınca daha ayrıntılı sorular üretir. “Mesleklerin günlük görevleri” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Bir mesleğin günlük çalışma görevleri, zaman düzeni ve ekip ilişkileri hakkındaki güvenilir bilgileri araştırın; yalnızca popüler tanıtım videosuyla yetinmeyin. Öğrenciden iki meslek için bir iş gününde yapılan üç somut görev ve zorlayıcı bir koşul yazmasını isteyin. Bilinmeyen alanları uzman görüşmesi için soru hâline getirin. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye mesleklerin günlük görevleri hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Mesleklerin günlük görevleri görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciden iki meslek için bir iş gününde yapılan üç somut görev ve zorlayıcı bir koşul yazmasını isteyin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci psikolog olmayı yalnızca danışanla konuşmak sanır; çalışma ortamları ve görev çeşitliliğini araştırınca daha ayrıntılı sorular üretir.",
@@ -119,6 +135,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci ilgilendiği meslek için giriş koşulları, eğitim basamağı, uygulama gereksinimi ve güncel kaynak tarihini gösteren şema hazırlar. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci yazılımla ilgili meslekleri merak eder; farklı eğitim yollarının koşullarını araştırır ve tek okul adını zorunlu yol saymaz. “Eğitim yolu araştırma” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Bir iş alanına erişimin farklı eğitim, sertifika veya uygulama koşulları olabilir. Resmî ve güncel program bilgisi kullanılmadan yol garanti edilmemelidir. Öğrenci ilgilendiği meslek için giriş koşulları, eğitim basamağı, uygulama gereksinimi ve güncel kaynak tarihini gösteren şema hazırlar. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye eğitim yolu araştırma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Eğitim yolu araştırma görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci ilgilendiği meslek için giriş koşulları, eğitim basamağı, uygulama gereksinimi ve güncel kaynak tarihini gösteren şema hazırlar. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci yazılımla ilgili meslekleri merak eder; farklı eğitim yollarının koşullarını araştırır ve tek okul adını zorunlu yol saymaz.",
@@ -167,6 +191,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci üç değer seçerek iki iş ortamının bunlarla ilişkisini araştırır; mesleğe ait kanıtlanmamış genellemeleri veri gibi kullanmaz. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci hem toplumsal katkıyı hem esnek saatleri önemser. “Mesleki değerleri karşılaştırma” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Gelir, güvence, yaratıcılık, esneklik veya toplumsal katkı herkes için aynı önem sırasına sahip değildir. Ailenin sıralamasını öğrencininki yerine koymayın. Öğrenci üç değer seçerek iki iş ortamının bunlarla ilişkisini araştırır; mesleğe ait kanıtlanmamış genellemeleri veri gibi kullanmaz. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye mesleki değerleri karşılaştırma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Mesleki değerleri karşılaştırma görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci üç değer seçerek iki iş ortamının bunlarla ilişkisini araştırır; mesleğe ait kanıtlanmamış genellemeleri veri gibi kullanmaz. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci hem toplumsal katkıyı hem esnek saatleri önemser. İlgilendiği iki mesleğin gerçek çalışma koşullarını ayrı inceler.",
@@ -215,6 +247,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciden bir mesleğin bugün yapılan görevleri ve teknolojiden etkilenebilecek görevleri için doğrulanabilir örnekler bulmasını isteyin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci bir mesleğin tamamen biteceğini okur. “Gelecek mesleklerini araştırma” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Yapay zekâ veya otomasyonla ilgili meslek tahminleri belirsizdir. 'Kesin yok olacak' veya 'garanti iş' söylemlerini sorgulayın. Öğrenciden bir mesleğin bugün yapılan görevleri ve teknolojiden etkilenebilecek görevleri için doğrulanabilir örnekler bulmasını isteyin. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye gelecek mesleklerini araştırma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Gelecek mesleklerini araştırma görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciden bir mesleğin bugün yapılan görevleri ve teknolojiden etkilenebilecek görevleri için doğrulanabilir örnekler bulmasını isteyin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci bir mesleğin tamamen biteceğini okur. Haberin tarihini ve kaynağını araştırır, o alandaki değişen becerileri inceler.",
@@ -263,6 +303,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Bir mesleğin gerçek eğitim ve görev koşullarını kalıp yargılarından ayırın; tek kişilik örnekten bütün meslek grubuna hüküm çıkarmayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Sınıfta teknik mesleklerin yalnızca bir cinsiyete uygun olduğu söylenir. “Mesleklere ilişkin önyargı” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Cinsiyet, gelir, engellilik veya aile mesleği gibi etkenlere dayalı 'bu iş sana uygun değil' ifadelerini kurgusal örneklerle inceleyin. Bir mesleğin gerçek eğitim ve görev koşullarını kalıp yargılarından ayırın; tek kişilik örnekten bütün meslek grubuna hüküm çıkarmayın. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye mesleklere ilişkin önyargı hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Mesleklere ilişkin önyargı görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Bir mesleğin gerçek eğitim ve görev koşullarını kalıp yargılarından ayırın; tek kişilik örnekten bütün meslek grubuna hüküm çıkarmayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Sınıfta teknik mesleklerin yalnızca bir cinsiyete uygun olduğu söylenir. Öğrenciler meslek gereklerini tarafsız kaynaklarla araştırır.",
@@ -311,6 +359,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci ilk yıl derslerini ve uygulamalı ders oranını karşılaştırır; anlamadığı kavramlar için bölümün resmî açıklamalarını inceler. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci iki farklı üniversitede aynı bölüm adını görür; ders planları arasında zorunlu proje dersleri açısından fark bulur. “Bölüm ders planını okuma” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Aynı isimli programlarda zorunlu ders, seçmeli ders, uygulama ve eğitim dili değişebilir. Üniversitenin güncel ders planını temel alın. Öğrenci ilk yıl derslerini ve uygulamalı ders oranını karşılaştırır; anlamadığı kavramlar için bölümün resmî açıklamalarını inceler. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye bölüm ders planını okuma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Bölüm ders planını okuma görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci ilk yıl derslerini ve uygulamalı ders oranını karşılaştırır; anlamadığı kavramlar için bölümün resmî açıklamalarını inceler. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci iki farklı üniversitede aynı bölüm adını görür; ders planları arasında zorunlu proje dersleri açısından fark bulur.",
@@ -359,6 +415,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Program kodu, koşul, bilginin kaynağı ve kontrol tarihi alanlarını doldurun. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci bölüm tanıtım sitesinde hazırlık sınıfı yazmadığını görür; güncel resmî koşulda zorunlu hazırlık bilgisi bulunduğunu fark eder. “Resmî program koşulları” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Öğrenim dili, özel koşullar, program kodu ve kontenjan için ilgili yılın resmî tercih kılavuzunu kontrol edin. Geçen yılın ekran görüntüsünü geçerli koşul saymayın. Program kodu, koşul, bilginin kaynağı ve kontrol tarihi alanlarını doldurun. Eksik bilgiyi 'doğrulanmadı' olarak işaretleyin. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye resmî program koşulları hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Resmî program koşulları görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Program kodu, koşul, bilginin kaynağı ve kontrol tarihi alanlarını doldurun. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci bölüm tanıtım sitesinde hazırlık sınıfı yazmadığını görür; güncel resmî koşulda zorunlu hazırlık bilgisi bulunduğunu fark eder.",
@@ -407,6 +471,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Aileyle ortak görüşmede her tarafın üç karar ölçütünü yazdırın; öğrenci kendi kararını açıklarken kesintiye uğratılmasın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci tasarım alanına ilgi duyar, aile iş güvencesinden kaygılanır. “Aile meslek beklentisi” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Ailenin meslek tercihi çoğu zaman gelir, iş güvencesi veya şehir kaygısıyla bağlantılı olabilir. Öğrencinin ilgisini de ayrı değerlendirin. Aileyle ortak görüşmede her tarafın üç karar ölçütünü yazdırın; öğrenci kendi kararını açıklarken kesintiye uğratılmasın. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye aile meslek beklentisi hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Aile meslek beklentisi görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Aileyle ortak görüşmede her tarafın üç karar ölçütünü yazdırın; öğrenci kendi kararını açıklarken kesintiye uğratılmasın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci tasarım alanına ilgi duyar, aile iş güvencesinden kaygılanır. Program ve meslek seçenekleri ortak ölçütlerle araştırılır.",
@@ -455,6 +527,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Aynı mesleği seçen arkadaşlarından bağımsız olarak görev, eğitim yolu ve çalışma ortamı için bilgi toplama görevi verin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci üç arkadaşıyla aynı bölüme gitmek ister; ders planını araştırınca kendi ilgisinin başka alanlara da uzandığını görür. “Meslek seçiminde akran etkisi” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Öğrencinin bir mesleğe ilgisinin nereden başladığını ve neyi merak ettiğini sorun; arkadaş grubunun seçimini yanlış diye damgalamayın. Aynı mesleği seçen arkadaşlarından bağımsız olarak görev, eğitim yolu ve çalışma ortamı için bilgi toplama görevi verin. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye meslek seçiminde akran etkisi hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Meslek seçiminde akran etkisi görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Aynı mesleği seçen arkadaşlarından bağımsız olarak görev, eğitim yolu ve çalışma ortamı için bilgi toplama görevi verin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci üç arkadaşıyla aynı bölüme gitmek ister; ders planını araştırınca kendi ilgisinin başka alanlara da uzandığını görür.",
@@ -503,6 +583,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci yaptığı üç etkinliği ve bu etkinliklerde kullandığı davranışları yazar; meslek araştırmasında bu becerilerin kullanımını inceler. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Okul etkinliği organize eden öğrenci planlama becerisini fark eder; farklı mesleklerin hangi görevlerinde bu beceriyi kullandığını araştırır. “Güçlü yön ve beceri eşleştirme” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Ders başarısının yanında problem çözme, dinleme, örgütleme ve üretim gibi somut deneyimleri sorgulayın. 'Doğuştan yetenek' etiketlerinden kaçının. Öğrenci yaptığı üç etkinliği ve bu etkinliklerde kullandığı davranışları yazar; meslek araştırmasında bu becerilerin kullanımını inceler. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye güçlü yön ve beceri eşleştirme hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Güçlü yön ve beceri eşleştirme görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci yaptığı üç etkinliği ve bu etkinliklerde kullandığı davranışları yazar; meslek araştırmasında bu becerilerin kullanımını inceler. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Okul etkinliği organize eden öğrenci planlama becerisini fark eder; farklı mesleklerin hangi görevlerinde bu beceriyi kullandığını araştırır.",
@@ -551,6 +639,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. İki mesleğin çalışma yeri, insan ilişkisi, mesai ve hareketlilik özelliklerini doğrulanabilir bilgiye göre karşılaştırın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci masa başı iş istemediğini söyler, ancak merak ettiği mesleğin hem saha hem ofis görevleri olduğunu öğrenir. “İş ortamı tercihleri” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Sessiz ofis, hareketli saha, ekip çalışması veya bağımsız görev gibi tercihleri gerçek görev koşullarından ayırarak sorun. İki mesleğin çalışma yeri, insan ilişkisi, mesai ve hareketlilik özelliklerini doğrulanabilir bilgiye göre karşılaştırın. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye iş ortamı tercihleri hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "İş ortamı tercihleri görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. İki mesleğin çalışma yeri, insan ilişkisi, mesai ve hareketlilik özelliklerini doğrulanabilir bilgiye göre karşılaştırın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci masa başı iş istemediğini söyler, ancak merak ettiği mesleğin hem saha hem ofis görevleri olduğunu öğrenir.",
@@ -599,6 +695,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci yeni ortam için hangi bilgilere ihtiyaç duyduğunu belirler; üniversitenin resmî öğrenci hizmetlerinden araştırma yapar. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Başka şehirde okumak isteyen öğrenci yalnızca bölüm listesi hazırlamıştır; barınma ve akademik destek olanaklarını da araştırır. “Üniversite yaşamı beklentileri” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Ulaşım, barınma, sosyal katılım, akademik destek ve bağımsız yaşam becerileri öğrencinin deneyimini etkileyebilir. Öğrenci yeni ortam için hangi bilgilere ihtiyaç duyduğunu belirler; üniversitenin resmî öğrenci hizmetlerinden araştırma yapar. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye üniversite yaşamı beklentileri hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Üniversite yaşamı beklentileri görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci yeni ortam için hangi bilgilere ihtiyaç duyduğunu belirler; üniversitenin resmî öğrenci hizmetlerinden araştırma yapar. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Başka şehirde okumak isteyen öğrenci yalnızca bölüm listesi hazırlamıştır; barınma ve akademik destek olanaklarını da araştırır.",
@@ -647,6 +751,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci iki şehir için maliyet kalemlerini yazar ve güncel resmî burs/yurt bilgilerini kontrol eder; belirsiz tutarı tahmin olarak işaretler. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci burslu programı ücretsiz yaşam anlamına getirir; aylık barınma ve ulaşım giderlerini ayrı hesaplar. “Öğrenim maliyetini araştırma” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Öğrenim ücreti tek gider değildir; barınma, ulaşım, beslenme ve materyal harcamaları da olabilir. Fiyatların değişebileceğini belirtin. Öğrenci iki şehir için maliyet kalemlerini yazar ve güncel resmî burs/yurt bilgilerini kontrol eder; belirsiz tutarı tahmin olarak işaretler. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye öğrenim maliyetini araştırma hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Öğrenim maliyetini araştırma görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci iki şehir için maliyet kalemlerini yazar ve güncel resmî burs/yurt bilgilerini kontrol eder; belirsiz tutarı tahmin olarak işaretler. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci burslu programı ücretsiz yaşam anlamına getirir; aylık barınma ve ulaşım giderlerini ayrı hesaplar.",
@@ -695,6 +807,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. İki seçenek için günlük ulaşım süresi, konaklama ve sosyal destek erişimi alanlarını resmî bilgilerle karşılaştırın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci uzak şehirdeki bölümü ister; barınma ve ulaşım olanaklarını araştırınca tercih ölçütlerini yeniden düzenler. “Şehir ve ulaşım koşulları” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Şehir tercihini yalnızca üniversitenin tanınırlığına bağlamayın. Öğrencinin ulaşım, erişilebilirlik, güvenlik ve aile koşullarını dinleyin. İki seçenek için günlük ulaşım süresi, konaklama ve sosyal destek erişimi alanlarını resmî bilgilerle karşılaştırın. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye şehir ve ulaşım koşulları hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Şehir ve ulaşım koşulları görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. İki seçenek için günlük ulaşım süresi, konaklama ve sosyal destek erişimi alanlarını resmî bilgilerle karşılaştırın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci uzak şehirdeki bölümü ister; barınma ve ulaşım olanaklarını araştırınca tercih ölçütlerini yeniden düzenler.",
@@ -743,6 +863,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Yaş, kurum izni, güvenlik ve gönüllülük koşullarını doğrulayın; öğrenciye görevleri ve sorabileceği soruları önceden hazırlatın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci gönüllü kitaplık çalışmasında kataloglama ve ekip organizasyonu görevlerini görür; kendi ilgi alanını yeniden değerlendirir. “Staj ve gönüllülük fırsatları” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Öğrenci bir fırsatı özgeçmiş satırı için değil hangi beceriyi veya iş ortamını tanımak istediği için seçtiğini açıklayabilmelidir. Yaş, kurum izni, güvenlik ve gönüllülük koşullarını doğrulayın; öğrenciye görevleri ve sorabileceği soruları önceden hazırlatın. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye staj ve gönüllülük fırsatları hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Staj ve gönüllülük fırsatları görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Yaş, kurum izni, güvenlik ve gönüllülük koşullarını doğrulayın; öğrenciye görevleri ve sorabileceği soruları önceden hazırlatın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci gönüllü kitaplık çalışmasında kataloglama ve ekip organizasyonu görevlerini görür; kendi ilgi alanını yeniden değerlendirir.",
@@ -791,6 +919,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Bilinmeyenleri araştırılabilir sorulara dönüştürün; kesin garanti vermeden öğrenciye bir sonraki bilgi toplama adımını seçtirin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci hangi mesleği ömür boyu sürdüreceğini bilemediği için tercih yapamaz; önce günlük görevler ve eğitim yollarını araştırır. “Kariyer kararında belirsizlik” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Öğrencinin korktuğu şey yanlış bölüm, iş olanağı veya ailesinin tepkisi olabilir. Belirsizliği kişisel yetersizlik olarak çerçevelemeyin. Bilinmeyenleri araştırılabilir sorulara dönüştürün; kesin garanti vermeden öğrenciye bir sonraki bilgi toplama adımını seçtirin. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye kariyer kararında belirsizlik hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Kariyer kararında belirsizlik görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Bilinmeyenleri araştırılabilir sorulara dönüştürün; kesin garanti vermeden öğrenciye bir sonraki bilgi toplama adımını seçtirin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci hangi mesleği ömür boyu sürdüreceğini bilemediği için tercih yapamaz; önce günlük görevler ve eğitim yollarını araştırır.",
@@ -839,6 +975,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Her seçenek için güçlü yan, belirsizlik ve yeni araştırılacak bilgiyi tabloya yazın; doğrulanamayan alanları kesin puanlamayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci iki bölümü ilgi, ders planı ve şehir koşullarına göre değerlendirir; eksik bilgiyi tamamlamadan kararını kesinleştirmez. “Mesleki karar seçenek tablosu” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Öğrenci için önemli üç ölçütü kendisi belirlesin. Programları yalnızca taban puana göre sıralamak ilgiyi ve koşulları göz ardı edebilir. Her seçenek için güçlü yan, belirsizlik ve yeni araştırılacak bilgiyi tabloya yazın; doğrulanamayan alanları kesin puanlamayın. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye mesleki karar seçenek tablosu hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Mesleki karar seçenek tablosu görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Her seçenek için güçlü yan, belirsizlik ve yeni araştırılacak bilgiyi tabloya yazın; doğrulanamayan alanları kesin puanlamayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci iki bölümü ilgi, ders planı ve şehir koşullarına göre değerlendirir; eksik bilgiyi tamamlamadan kararını kesinleştirmez.",
@@ -887,6 +1031,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciye ana hedefi yanında başka bir eğitim veya gelişim seçeneğini somut başvuru koşullarıyla araştırma görevi verin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci istediği programa yerleşememe olasılığını düşünür; alternatif eğitim ve yeniden başvuru koşullarını öğrenerek seçenek listesi hazırlar. “Mezuniyet sonrası alternatifler” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Tek bir sınav veya program sonucu tüm mesleki yolları kapatmaz. Geçiş ve başvuru olanaklarını ilgili yılın resmî koşullarıyla araştırın. Öğrenciye ana hedefi yanında başka bir eğitim veya gelişim seçeneğini somut başvuru koşullarıyla araştırma görevi verin. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye mezuniyet sonrası alternatifler hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Mezuniyet sonrası alternatifler görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciye ana hedefi yanında başka bir eğitim veya gelişim seçeneğini somut başvuru koşullarıyla araştırma görevi verin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci istediği programa yerleşememe olasılığını düşünür; alternatif eğitim ve yeniden başvuru koşullarını öğrenerek seçenek listesi hazırlar.",
@@ -935,6 +1087,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Konuşmacıdan günlük görev, eğitim yolu, çalışma koşulu ve işin zorlayıcı yönleri üzerine somut örnekler isteyin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Meslek tanıtımında yalnızca başarı hikâyeleri anlatılır; öğrenciler mesleğin sıradan iş gününü öğrenmek için yeni sorular sorar. “Meslek tanıtım semineri” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Seminer tek mesleğin reklamı veya kesin iş garantisi sunumu olmamalıdır. Yaş düzeyine ve öğrencilerin gerçek sorularına göre planlayın. Konuşmacıdan günlük görev, eğitim yolu, çalışma koşulu ve işin zorlayıcı yönleri üzerine somut örnekler isteyin. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye meslek tanıtım semineri hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Meslek tanıtım semineri görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Konuşmacıdan günlük görev, eğitim yolu, çalışma koşulu ve işin zorlayıcı yönleri üzerine somut örnekler isteyin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Meslek tanıtımında yalnızca başarı hikâyeleri anlatılır; öğrenciler mesleğin sıradan iş gününü öğrenmek için yeni sorular sorar.",
@@ -983,6 +1143,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Meslek uzmanına 'Bir iş gününüz nasıl geçiyor?' ve 'Bu alanda hangi beceriler kullanılıyor?' gibi deneyim odaklı sorular hazırlayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci meslek sahibine yalnızca maaş sorusu yöneltmek ister; gerçek görevleri ve mesleğe hazırlık yollarını da öğrenmek için soru listesini genişletir. “Meslek uzmanına soru hazırlama” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Öğrencinin merak ettiği meslek görevlerini belirleyin; konuşmacının kişisel veya kurumsal gizli bilgilerini istemekten kaçının. Meslek uzmanına 'Bir iş gününüz nasıl geçiyor?' ve 'Bu alanda hangi beceriler kullanılıyor?' gibi deneyim odaklı sorular hazırlayın. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye meslek uzmanına soru hazırlama hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Meslek uzmanına soru hazırlama görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Meslek uzmanına 'Bir iş gününüz nasıl geçiyor?' ve 'Bu alanda hangi beceriler kullanılıyor?' gibi deneyim odaklı sorular hazırlayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci meslek sahibine yalnızca maaş sorusu yöneltmek ister; gerçek görevleri ve mesleğe hazırlık yollarını da öğrenmek için soru listesini genişletir.",
@@ -1031,6 +1199,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci tamamladığı araştırma, yeni deneyim ve kalan soruları üç başlıkta inceler; gelecek döneme tek ulaşılabilir adım seçer. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci sene başında hukuk isterken bir dönem sonra araştırma ilgisi gelişir; kariyer dosyası yeni sorularla güncellenir. “Kariyer planı dönemlik izleme” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Dönem başında yazılan meslek hedefi değişebilir. Öğrencinin değişen ilgilerini başarısızlık olarak değerlendirmeyin. Öğrenci tamamladığı araştırma, yeni deneyim ve kalan soruları üç başlıkta inceler; gelecek döneme tek ulaşılabilir adım seçer. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye kariyer planı dönemlik izleme hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Kariyer planı dönemlik izleme görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenci tamamladığı araştırma, yeni deneyim ve kalan soruları üç başlıkta inceler; gelecek döneme tek ulaşılabilir adım seçer. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci sene başında hukuk isterken bir dönem sonra araştırma ilgisi gelişir; kariyer dosyası yeni sorularla güncellenir.",
@@ -1079,6 +1255,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. İki ilgi alanından örnek proje seçin ve hangi becerilerin birlikte kullanılabileceğini araştırın; ilgili eğitim yollarını resmî kaynakla doğrulayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci çizim ve kodlama arasında kalır. “Çoklu ilgi alanı olan öğrenci” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Öğrenci hem yazılım hem sanat etkinliklerinden hoşlanabilir; erken dönemde tek seçenek dayatmayın. İki ilgi alanından örnek proje seçin ve hangi becerilerin birlikte kullanılabileceğini araştırın; ilgili eğitim yollarını resmî kaynakla doğrulayın. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye çoklu ilgi alanı olan öğrenci hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Çoklu ilgi alanı olan öğrenci görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. İki ilgi alanından örnek proje seçin ve hangi becerilerin birlikte kullanılabileceğini araştırın; ilgili eğitim yollarını resmî kaynakla doğrulayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci çizim ve kodlama arasında kalır. Dijital tasarım projelerini araştırarak iki ilgiyi bir araya getiren deneyimler planlar.",
@@ -1127,6 +1311,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciye aynı güçlü yönleri kullanan iki farklı alanı araştırma görevi verin; bunları bir mesleğin garantili geleceği gibi sunmayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci tek bölümü kazanamazsa hayatının biteceğini söyler. “Meslek seçiminde tek doğru yanılgısı” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Meslek kararı yaşam boyunca değişebilir; öğrencinin tek bir seçimle bütün geleceğini kilitlediği düşüncesini küçümsemeden ele alın. Öğrenciye aynı güçlü yönleri kullanan iki farklı alanı araştırma görevi verin; bunları bir mesleğin garantili geleceği gibi sunmayın. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye meslek seçiminde tek doğru yanılgısı hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Meslek seçiminde tek doğru yanılgısı görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Öğrenciye aynı güçlü yönleri kullanan iki farklı alanı araştırma görevi verin; bunları bir mesleğin garantili geleceği gibi sunmayın. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci tek bölümü kazanamazsa hayatının biteceğini söyler. Danışman seçenekleri ve karar ölçütlerini somut araştırmaya dönüştürür.",
@@ -1175,6 +1367,14 @@
       [
         "Kararı değil araştırma sürecini izlemek",
         "Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Program kodu ve özel koşullar için resmî kılavuzu, ders planı için üniversite sayfasını, destek hizmeti için güncel kurum duyurusunu kontrol edin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin."
+      ],
+      [
+        "Mesleki araştırma adımının hazırlanması",
+        "Öğrenci tanıtım broşüründeki eğitim dili ifadesini esas alır; resmî program kaydındaki güncel koşulu ayrıca doğrular. “Bölüm tanıtımında bilgi doğrulama” başlığını değerlendirirken öğrencinin kendi ilgi ve tercih ölçütlerini ailesinin beklentisinden ayrı öğrenin. Üniversite reklamlarında yer alan olanaklarla resmî program koşulları aynı belge değildir. Güncel resmî kılavuz ve bölüm sayfasını karşılaştırın. Program kodu ve özel koşullar için resmî kılavuzu, ders planı için üniversite sayfasını, destek hizmeti için güncel kurum duyurusunu kontrol edin. Öğrencinin zaten bildiği bilgileri, hangi kaynaktan doğruladığını ve eksik kalan soruları bir araştırma çizelgesinde ayırın. Öğrenciye bölüm tanıtımında bilgi doğrulama hakkında hangi bilginin kendi deneyiminden, hangisinin doğrulanmış kaynaktan geldiğini sorun. Eksik bilgileri yeni araştırma sorusu olarak yazın; kararı öğrencinin yerine vermeyin. Meslek adı, eğitim programı veya istihdam hakkında tek tanıtım metninden kesin sonuç çıkarmayın. Araştırmanın sonunda öğrenciye bir sonraki somut bilgi toplama adımını seçme hakkı tanıyın."
+      ],
+      [
+        "Araştırma sonucunu karara dönüştürmeden izlemek",
+        "Bölüm tanıtımında bilgi doğrulama görüşmesinden sonraki kontrolde kesin bir meslek kararı alınmış olmasını başarı ölçütü yapmayın. Öğrencinin seçtiği bilgi toplama ya da deneyim adımını belirli tarihte yeniden görüşün. Program kodu ve özel koşullar için resmî kılavuzu, ders planı için üniversite sayfasını, destek hizmeti için güncel kurum duyurusunu kontrol edin. Değişen ilgi ve yeni bilgileri önceki kararın hatası olarak değerlendirmeyin. Öğrenciden yeni öğrendiği bir bilgiyi ve hâlâ doğrulaması gereken bir koşulu açıklamasını isteyin. Üniversite programı veya sınav söz konusuysa resmî yıl, program kodu, ders planı ve özel koşulların güncelliğini kontrol edin. İlginin değişmesi karar verme başarısızlığı sayılmaz; seçeneklerin güçlü ve zor taraflarını birlikte değerlendirerek bir sonraki araştırma görevini güncelleyin."
       ]
     ],
     "example": "Öğrenci tanıtım broşüründeki eğitim dili ifadesini esas alır; resmî program kaydındaki güncel koşulu ayrıca doğrular.",
