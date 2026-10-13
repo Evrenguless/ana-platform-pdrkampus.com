@@ -25,12 +25,32 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Verify audit scripts compile
+        run: |
+          python3 -m py_compile scripts/prepare_first_50.py scripts/build_first_editorial_batch.py
+          python3 -m py_compile scripts/audit_500_editorial_depth.py scripts/audit_500_publication_readiness.py
       - name: Build and run existing structural audits
         run: python3 scripts/prepare_first_50.py > /tmp/500-draft-build.json
       - name: Run editorial length and reuse audits
         run: |
           python3 scripts/audit_500_editorial_depth.py > /tmp/500-editorial-summary.json
           python3 scripts/audit_500_publication_readiness.py > /tmp/500-publication-summary.json
+      - name: Assert full report integrity (not publication approval)
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          path=Path("seo/icerik-plani/500-rehber-yayin-oncesi-denetim.json")
+          report=json.loads(path.read_text(encoding="utf-8"))
+          summary=report["summary"]
+          pages=report["pages"]
+          assert summary["pages_checked"] == len(pages) == 500, "Incomplete coverage"
+          assert len({p["slug"] for p in pages}) == 500, "Duplicate slug"
+          assert all(p["chapter_count"] >= 5 for p in pages), "Manuscript extraction failed"
+          assert all(p["main_text_words"] > 0 for p in pages), "Missing manuscript words"
+          assert summary["publication_approved"] is False, "Never approve from heuristic audit"
+          print("Full 500-guide audit report verified; publication remains blocked.")
+          PY
       - name: Add overview to workflow summary
         if: always()
         run: |
