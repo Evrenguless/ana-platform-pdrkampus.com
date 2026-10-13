@@ -23,6 +23,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Kurgusal bir olayda 'Bunu yapmak istemiyorum' cümlesi, başka etkinliğe geçme ve güvenilir yetişkine başvurma seçeneklerini birlikte deneyin. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Sınıf sohbetinde bir öğrenci başkasının fotoğrafını paylaşmaya zorlanır. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Arkadaş grubunun 'herkes yapıyor' diyerek hangi davranışı istediğini sorun. Öğrenciyi grubu suçlamaya veya gerçek isim vermeye zorlamadan gönüllü tercih ile baskı arasındaki farkı konuşun. Öğrencinin kendi görüşünü dinledikten sonra tehdit, zorbalık veya tekrar eden zorlama varsa konu yalnızca sosyal beceri etkinliği olarak bırakılmamalıdır adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Sınıf sohbetinde bir öğrenci başkasının fotoğrafını paylaşmaya zorlanır. Öğrenciler izin almadan paylaşmayı reddetmenin ve yetişkinden destek istemenin güvenli yollarını tartışır.",
@@ -30,7 +38,8 @@
       "Arkadaş grubunun 'herkes yapıyor' diyerek hangi davranışı istediğini sorun.",
       "Kurgusal bir olayda 'Bunu yapmak istemiyorum' cümlesi, başka etkinliğe geçme ve güvenilir yetişkine başvurma seçeneklerini birlikte deneyin.",
       "Tehdit, zorbalık veya tekrar eden zorlama varsa konu yalnızca sosyal beceri etkinliği olarak bırakılmamalıdır.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -71,6 +80,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Kurgusal mesaj için 'Fotoğrafımı paylaşmanı istemiyorum' ve 'Bu konuşmadan çıkıyorum' örneklerini çalışın. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci grubunda birinin özel mesajı paylaşılıp şakaya çevrilir. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Sınıf mesaj grubunda gece geç saatlerde yazma, özel görsel isteme veya alaycı mesajlar farklı sınır ihlalleridir. Öğrencilerin özel yazışmalarını topluluk önünde açmayın. Öğrencinin kendi görüşünü dinledikten sonra izinsiz görsel yayma veya tehdit varsa ekran görüntüsünün yeniden yayılmasını önleyin ve yetkili bildirim sürecini izleyin adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci grubunda birinin özel mesajı paylaşılıp şakaya çevrilir. Sınıf gerçek hesapları göstermeden kurgusal mesajlarla izin, çıkış ve yardım seçeneklerini tartışır.",
@@ -78,7 +95,8 @@
       "Sınıf mesaj grubunda gece geç saatlerde yazma, özel görsel isteme veya alaycı mesajlar farklı sınır ihlalleridir.",
       "Kurgusal mesaj için 'Fotoğrafımı paylaşmanı istemiyorum' ve 'Bu konuşmadan çıkıyorum' örneklerini çalışın.",
       "İzinsiz görsel yayma veya tehdit varsa ekran görüntüsünün yeniden yayılmasını önleyin ve yetkili bildirim sürecini izleyin.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -119,6 +137,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Kurgusal iki arkadaşın etkinlik seçme ve sır saklama durumlarını karşılaştırın. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci arkadaşının her öğle arasında kendisiyle oturmasını şart koşar. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Arkadaşlığın yalnızca sürekli birlikte olmak anlamına gelmediğini açıklayın. İletişim başlatma, sırayla karar verme ve sınır saygısını ayrı örneklerle ele alın. Öğrencinin kendi görüşünü dinledikten sonra öğrenciye belli arkadaşlıkları sürdürme görevi verilmez adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci arkadaşının her öğle arasında kendisiyle oturmasını şart koşar. Öğrenciler birlikte vakit geçirmekle karşı tarafın seçimine saygı duymak arasındaki farkı tartışır.",
@@ -126,7 +152,8 @@
       "Arkadaşlığın yalnızca sürekli birlikte olmak anlamına gelmediğini açıklayın.",
       "Kurgusal iki arkadaşın etkinlik seçme ve sır saklama durumlarını karşılaştırın.",
       "Öğrenciye belli arkadaşlıkları sürdürme görevi verilmez.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -167,6 +194,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Kurgusal gönderi için 'Kime ait, izin var mı, yeniden yayılırsa ne olur?' sorularından oluşan üç adımlı kontrol geliştirin. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "İki arkadaş etkinlik fotoğrafı çeker; biri fotoğrafın herkese açık yayımlanmasını istemez. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Fotoğraf, etiketleme, grup daveti ve özel mesaj yönlendirme için ayrı izin örnekleri verin. Paylaşılmış bir görselin yeniden kullanılmasının otomatik olarak serbest olmadığını açıklayın. Öğrencinin kendi görüşünü dinledikten sonra bir içerik izinsiz paylaşıldıysa öğrenciyi suçlamadan dinleyin; güvenli kayıt ve gerekli yetişkin bildirimini açıklayın adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "İki arkadaş etkinlik fotoğrafı çeker; biri fotoğrafın herkese açık yayımlanmasını istemez. Sınıf çekilme ve yayımlama izninin farklı kararlar olduğunu tartışır.",
@@ -174,7 +209,8 @@
       "Fotoğraf, etiketleme, grup daveti ve özel mesaj yönlendirme için ayrı izin örnekleri verin.",
       "Kurgusal gönderi için 'Kime ait, izin var mı, yeniden yayılırsa ne olur?' sorularından oluşan üç adımlı kontrol geliştirin.",
       "Bir içerik izinsiz paylaşıldıysa öğrenciyi suçlamadan dinleyin; güvenli kayıt ve gerekli yetişkin bildirimini açıklayın.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -215,6 +251,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Kurgusal bir sınıf söylentisinde 'Bilmiyorum, aktarmayacağım' cümlesini ve bilgi doğrulama sınırlarını konuşun. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenciler bir arkadaşının okul değiştireceği söylentisini yayar. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Bir söylenti duyduğunda kimin söylediğini topluluk önünde sorgulamayın. Hedef öğrenci üzerinde dışlanma veya zorbalık riski olup olmadığını ayrı değerlendirin. Öğrencinin kendi görüşünü dinledikten sonra öğretmenle isim vermeden dedikodunun etkisi üzerine etkinlik planlayın adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenciler bir arkadaşının okul değiştireceği söylentisini yayar. Rehberlik servisi kişisel bilgileri açıklamadan söylentiye katılmama ve güvenli destek yollarını ele alır.",
@@ -222,7 +266,8 @@
       "Bir söylenti duyduğunda kimin söylediğini topluluk önünde sorgulamayın.",
       "Kurgusal bir sınıf söylentisinde 'Bilmiyorum, aktarmayacağım' cümlesini ve bilgi doğrulama sınırlarını konuşun.",
       "Öğretmenle isim vermeden dedikodunun etkisi üzerine etkinlik planlayın.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -263,6 +308,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Gerçek öğrenci yanlışı yerine kurgusal çözüm hatası kullanın. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci tahtaya çıkınca yanlış yapacağından korkar. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Öğrencinin hangi derste, hangi görevde veya hangi geri bildirimden sonra başarısızlık beklediğini sorun. Kaygıyı öğrencinin karakter özelliği olarak etiketlemeyin. Öğrencinin kendi görüşünü dinledikten sonra öğrencinin tercih ettiği kısa ve güvenli katılım adımı seçin adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci tahtaya çıkınca yanlış yapacağından korkar. Önce ikili grupta çözümünü anlatır, sonra isterse küçük gruba geçer; sonuçtan çok deneyimi değerlendirilir.",
@@ -270,7 +323,8 @@
       "Öğrencinin hangi derste, hangi görevde veya hangi geri bildirimden sonra başarısızlık beklediğini sorun.",
       "Gerçek öğrenci yanlışı yerine kurgusal çözüm hatası kullanın.",
       "Öğrencinin tercih ettiği kısa ve güvenli katılım adımı seçin.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -311,6 +365,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. 'Matematik çalışacağım' yerine 'iki soruyu okuyup bilmediğim kelimeyi işaretleyeceğim' gibi küçük bir başlangıç seçin. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci fen ödevine başlayamaz çünkü yönergeyi anlamamıştır. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Öğrencinin hangi derse, hangi saatte ve hangi görev türünde başlayamadığını belirleyin. Yönerge belirsizliği ile isteksizlik varsayımını birbirine karıştırmayın. Öğrencinin kendi görüşünü dinledikten sonra bir hafta boyunca başlangıç sayısı, görev güçlüğü ve çalışma koşulunu ayrı izleyin adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci fen ödevine başlayamaz çünkü yönergeyi anlamamıştır. Önce öğretmene soru hazırlama, sonra ilk iki maddeyi okuma adımı belirlenir.",
@@ -318,7 +380,8 @@
       "Öğrencinin hangi derse, hangi saatte ve hangi görev türünde başlayamadığını belirleyin.",
       "'Matematik çalışacağım' yerine 'iki soruyu okuyup bilmediğim kelimeyi işaretleyeceğim' gibi küçük bir başlangıç seçin.",
       "Bir hafta boyunca başlangıç sayısı, görev güçlüğü ve çalışma koşulunu ayrı izleyin.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -359,6 +422,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Ödevin tamamını bir oturumda bitirmek yerine ilk soruyu okuma gibi küçük adım seçin. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci uzun kompozisyonu erteledikçe kaygılanır. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Ödev hatırlatıldığında öğrencinin aklından ne geçtiğini ve hangi görevi zor bulduğunu sorun. Ertelemeyi yalnızca tembellik olarak açıklamayın. Öğrencinin kendi görüşünü dinledikten sonra aileye sürekli kontrol yerine kısa hatırlatma önerilebilir; öğretmen anlaşılmayan görevi açıklasın adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci uzun kompozisyonu erteledikçe kaygılanır. Konu başlığı ve ilk iki cümleyi yazma hedefiyle işe başlar; bir hafta sonra strateji gözden geçirilir.",
@@ -366,7 +437,8 @@
       "Ödev hatırlatıldığında öğrencinin aklından ne geçtiğini ve hangi görevi zor bulduğunu sorun.",
       "Ödevin tamamını bir oturumda bitirmek yerine ilk soruyu okuma gibi küçük adım seçin.",
       "Aileye sürekli kontrol yerine kısa hatırlatma önerilebilir; öğretmen anlaşılmayan görevi açıklasın.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -407,6 +479,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Öğrenciler kısa yürüyüş, ekrandan uzaklaşma veya sessiz dinlenme gibi seçenekleri karşılaştırabilir. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci üç saat boyunca ara vermeden test çözer ve dikkatinin dağıldığını söyler. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Sınav öncesi uzun çalışma, uykusuzluk ve kıyaslama baskısı ayrı değerlendirilmelidir. Her öğrencinin aynı mola yönteminden yararlanacağını varsaymayın. Öğrencinin kendi görüşünü dinledikten sonra çalışma süresiyle birlikte mola zamanını öğrencinin gerçek okul programına yerleştirin adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci üç saat boyunca ara vermeden test çözer ve dikkatinin dağıldığını söyler. Kısa mola seçeneklerinden birini dener, ertesi gün işe yarayıp yaramadığını değerlendirir.",
@@ -414,7 +494,8 @@
       "Sınav öncesi uzun çalışma, uykusuzluk ve kıyaslama baskısı ayrı değerlendirilmelidir.",
       "Öğrenciler kısa yürüyüş, ekrandan uzaklaşma veya sessiz dinlenme gibi seçenekleri karşılaştırabilir.",
       "Çalışma süresiyle birlikte mola zamanını öğrencinin gerçek okul programına yerleştirin.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -455,6 +536,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Örneğin iki hafta içinde kesirler konusunda yanlış yapılan soru türünü belirleme ve üç örnek çözüm deneme hedefi seçin. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci bir haftada bütün konuları bitirmeyi planlar. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. 'Daha iyi olacağım' veya 'Her dersten tam yapacağım' gibi sonuç odaklı ifadeleri öğrencinin kontrol edebileceği çalışma davranışından ayırın. Öğrencinin kendi görüşünü dinledikten sonra yapılamayan hedefi başarısızlık etiketi olarak kullanmayın adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci bir haftada bütün konuları bitirmeyi planlar. Rehberlik görüşmesinde iki öğrenme davranışı seçilir ve sonraki hafta hangi adımın işe yaradığı karşılaştırılır.",
@@ -462,7 +551,8 @@
       "'Daha iyi olacağım' veya 'Her dersten tam yapacağım' gibi sonuç odaklı ifadeleri öğrencinin kontrol edebileceği çalışma davranışından ayırın.",
       "Örneğin iki hafta içinde kesirler konusunda yanlış yapılan soru türünü belirleme ve üç örnek çözüm deneme hedefi seçin.",
       "Yapılamayan hedefi başarısızlık etiketi olarak kullanmayın.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -503,6 +593,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Öğrenci iki kulübü ilgi, saat ve etkinlik türüne göre değerlendirir. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci arkadaşları spor kulübünde olduğu için yazarlık kulübüne başvurmaz. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Öğrencinin arkadaşları hangi kulüpte diye değil, hangi etkinliği denemek istediğini sorun. Kontenjan, zaman ve erişilebilirlik koşullarını güncel okul bilgisinden öğrenin. Öğrencinin kendi görüşünü dinledikten sonra ilk katılımın zor geçmesi tek başına yanlış seçim anlamına gelmez adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci arkadaşları spor kulübünde olduğu için yazarlık kulübüne başvurmaz. İki kulübün faaliyetlerini öğrenip kendi tercihlerini değerlendirir.",
@@ -510,7 +608,8 @@
       "Öğrencinin arkadaşları hangi kulüpte diye değil, hangi etkinliği denemek istediğini sorun.",
       "Öğrenci iki kulübü ilgi, saat ve etkinlik türüne göre değerlendirir.",
       "İlk katılımın zor geçmesi tek başına yanlış seçim anlamına gelmez.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -551,6 +650,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Kısa bir sınıf etkinliğinde planlama, zamanı izleme ve sunma rolleri değiştirilsin. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Sınıf projesinde tek öğrenci bütün kararları almak ister. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Liderlik, sürekli emir vermek veya en yüksek notu almak değildir. Görev paylaşma, başkalarını dinleme ve sorumluluk alma davranışlarını tanımlayın. Öğrencinin kendi görüşünü dinledikten sonra aynı öğrencinin sürekli karar vermesini ve diğerlerinin dışlanmasını gözlemleyin adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Sınıf projesinde tek öğrenci bütün kararları almak ister. Dönüşümlü görev kartlarıyla herkesin sözü alınır; grup liderliğin dinlemeyi de gerektirdiğini keşfeder.",
@@ -558,7 +665,8 @@
       "Liderlik, sürekli emir vermek veya en yüksek notu almak değildir.",
       "Kısa bir sınıf etkinliğinde planlama, zamanı izleme ve sunma rolleri değiştirilsin.",
       "Aynı öğrencinin sürekli karar vermesini ve diğerlerinin dışlanmasını gözlemleyin.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -599,6 +707,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Öğrenciye okulda kimlere, ne zaman ve hangi yolla başvurabileceğini açıkça gösterin. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci teneffüs oyununa sürekli alınmadığını anlatır. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Öğrencinin dışarıda bırakıldığı ortamları ve tekrar sıklığını ayrı sorun. Güç dengesizliği veya tehdit varsa bunu sıradan anlaşmazlık olarak ele almayın. Öğrencinin kendi görüşünü dinledikten sonra gözetim ve katılım seçenekleri öğretmenle birlikte planlanır; kişisel olay sınıfta açıklanmaz adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci teneffüs oyununa sürekli alınmadığını anlatır. Rehberlik servisi öğrenciyle ayrı görüşür ve öğretmenle genel oyun alanı düzenlemesi planlar.",
@@ -606,7 +722,8 @@
       "Öğrencinin dışarıda bırakıldığı ortamları ve tekrar sıklığını ayrı sorun.",
       "Öğrenciye okulda kimlere, ne zaman ve hangi yolla başvurabileceğini açıkça gösterin.",
       "Gözetim ve katılım seçenekleri öğretmenle birlikte planlanır; kişisel olay sınıfta açıklanmaz.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -647,6 +764,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Öğrenci kurgusal günlük notundaki duygu, düşünce ve davranış ifadelerini farklı renklerle işaretleyebilir. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci aynı gün hem neşeli hem kaygılı hissettiğini söyler. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Ergenlikte duygular değişebilir; ancak yoğun zorlanmayı yalnızca 'ergenlik hali' diye açıklamayın. Süre, işlevsellik, okul koşulları ve güvenlik değerlendirilmelidir. Öğrencinin kendi görüşünü dinledikten sonra güvenilir yetişkin görüşmesi, dinlenme ve uygun okul düzenlemeleri öğrenciyle birlikte seçilebilir adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci aynı gün hem neşeli hem kaygılı hissettiğini söyler. Duyguların değişebileceği ve yardım istemenin mümkün olduğu kurgusal örnekle ele alınır.",
@@ -654,7 +779,8 @@
       "Ergenlikte duygular değişebilir; ancak yoğun zorlanmayı yalnızca 'ergenlik hali' diye açıklamayın.",
       "Öğrenci kurgusal günlük notundaki duygu, düşünce ve davranış ifadelerini farklı renklerle işaretleyebilir.",
       "Güvenilir yetişkin görüşmesi, dinlenme ve uygun okul düzenlemeleri öğrenciyle birlikte seçilebilir.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -695,6 +821,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Öğrencilere 'Kim yayımladı?', 'Hangi tarihli?', 'İddianın birincil kaynağı var mı?' sorularını uygulattırın. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Bir öğrenci mesaj grubunda sınav takviminin değiştiğini okur. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. İnternette dolaşan okul ve sınav haberlerinde yayın tarihi, yayımlayan kurum ve güncel resmî açıklamayı birbirinden ayırın. Öğrencinin kendi görüşünü dinledikten sonra yerleştirme, sınav ve okul usulleriyle ilgili bilgileri ilgili kurumun güncel duyurusundan doğrulayın adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Bir öğrenci mesaj grubunda sınav takviminin değiştiğini okur. Sınıf haber ekranını yeniden yaymadan resmî takvim ile karşılaştırır.",
@@ -702,7 +836,8 @@
       "İnternette dolaşan okul ve sınav haberlerinde yayın tarihi, yayımlayan kurum ve güncel resmî açıklamayı birbirinden ayırın.",
       "Öğrencilere 'Kim yayımladı?', 'Hangi tarihli?', 'İddianın birincil kaynağı var mı?' sorularını uygulattırın.",
       "Yerleştirme, sınav ve okul usulleriyle ilgili bilgileri ilgili kurumun güncel duyurusundan doğrulayın.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -743,6 +878,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Olayın tarihini, yerini ve davranışını somutlaştırın. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "İki öğrenci teneffüs sırasında tartışır; ancak birinin haftalardır tehdit edildiği öğrenilir. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Küçük bir anlaşmazlıkla tekrarlı zorbalık aynı değildir. Tehdit, korku ve güç farkı varsa önce öğrencinin güvenliğini sağlayın. Öğrencinin kendi görüşünü dinledikten sonra güvenli geçiş alanı, yetişkin gözetimi ve öğrencinin başvuru yolu belirlenebilir adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "İki öğrenci teneffüs sırasında tartışır; ancak birinin haftalardır tehdit edildiği öğrenilir. Okul uzlaştırma yerine koruma ve ayrı değerlendirme süreci başlatır.",
@@ -750,7 +893,8 @@
       "Küçük bir anlaşmazlıkla tekrarlı zorbalık aynı değildir.",
       "Olayın tarihini, yerini ve davranışını somutlaştırın.",
       "Güvenli geçiş alanı, yetişkin gözetimi ve öğrencinin başvuru yolu belirlenebilir.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Güvenlik bildirimi veya tekrarlanan zarar varsa sınıf etkinliğiyle yetinmeden yetkili koruma sürecini başlatın."
     ],
     "faq": [
       [
@@ -791,6 +935,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Kurgusal durumda 'Bu konuyu paylaşmak istemiyorum' ya da 'Şu an yalnız kalmak istiyorum' ifadelerini deneyin. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Arkadaş grubu öğrenciden sürekli özel fotoğraf ister. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Sosyal sınır, yalnızca fiziksel mesafe değil zaman, sohbet konusu ve dijital paylaşımı da kapsar. Öğrencilerin farklı rahatlık düzeylerine saygı gösterin. Öğrencinin kendi görüşünü dinledikten sonra ısrar, alay veya tehdit varsa sorumluluğu sınır koyan öğrenciye bırakmayın adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Arkadaş grubu öğrenciden sürekli özel fotoğraf ister. Öğrenci reddetme cümlesi ve yetişkin desteği seçeneği üzerinde çalışır.",
@@ -798,7 +950,8 @@
       "Sosyal sınır, yalnızca fiziksel mesafe değil zaman, sohbet konusu ve dijital paylaşımı da kapsar.",
       "Kurgusal durumda 'Bu konuyu paylaşmak istemiyorum' ya da 'Şu an yalnız kalmak istiyorum' ifadelerini deneyin.",
       "Israr, alay veya tehdit varsa sorumluluğu sınır koyan öğrenciye bırakmayın.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -839,6 +992,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Her güçlü yön için öğrencinin yaşadığı somut bir deneyim yazılabilir. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci 'hiçbir şeyde iyi değilim' der; kütüphane düzeninde gösterdiği planlama becerisi ve ders dışı ilgileri üzerinden güçlü yönlerini yeniden inceler. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Öğrenciden yalnızca ders başarısı istemek yerine organizasyon, yardım isteme ve yaratıcı düşünme gibi farklı beceri örnekleri sorun. Öğrencinin kendi görüşünü dinledikten sonra öğrenci fark ettiği beceriyi okul kulübünde veya grup görevinde gönüllü deneyebilir adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci 'hiçbir şeyde iyi değilim' der; kütüphane düzeninde gösterdiği planlama becerisi ve ders dışı ilgileri üzerinden güçlü yönlerini yeniden inceler.",
@@ -846,7 +1007,8 @@
       "Öğrenciden yalnızca ders başarısı istemek yerine organizasyon, yardım isteme ve yaratıcı düşünme gibi farklı beceri örnekleri sorun.",
       "Her güçlü yön için öğrencinin yaşadığı somut bir deneyim yazılabilir.",
       "Öğrenci fark ettiği beceriyi okul kulübünde veya grup görevinde gönüllü deneyebilir.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -887,6 +1049,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Seçenekleri ilgi, zaman, maliyet ve olası sonuç gibi uygun ölçütlerle karşılaştırın. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci iki seçmeli ders arasında kalır. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Öğrencinin hangi seçenekler arasında kaldığını ve kararı kimin vermesinin beklendiğini sorun. Aile veya arkadaş baskısını öğrencinin kendi isteğinden ayırın. Öğrencinin kendi görüşünü dinledikten sonra kararın değiştirilebilir olup olmadığını ve bilgi eksiklerini konuşun adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci iki seçmeli ders arasında kalır. İlgisini, ders saatini ve öğrenmek istediklerini yazar; danışman karar vermek yerine ölçütleri netleştirir.",
@@ -894,7 +1064,8 @@
       "Öğrencinin hangi seçenekler arasında kaldığını ve kararı kimin vermesinin beklendiğini sorun.",
       "Seçenekleri ilgi, zaman, maliyet ve olası sonuç gibi uygun ölçütlerle karşılaştırın.",
       "Kararın değiştirilebilir olup olmadığını ve bilgi eksiklerini konuşun.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -935,6 +1106,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Akran ilişkileri, sağlık, ulaşım ve ders güçlüklerini ayrı ele alın. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci yalnızca beden eğitimi günlerinde devamsızlık yapar. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Hangi günlerde, derslerde veya okul geçişlerinde devamsızlığın arttığını belirleyin. Neden konusunda öğrenci görüşünü almadan 'isteksizlik' hükmü vermeyin. Öğrencinin kendi görüşünü dinledikten sonra öğrencinin ve ailenin yapabileceği küçük adımı seçin; öğretmenle gerekli uyumu planlayın adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci yalnızca beden eğitimi günlerinde devamsızlık yapar. Görüşmede soyunma alanında alay yaşadığı anlaşılır; güvenlik düzenlemesi yapılarak takip edilir.",
@@ -942,7 +1121,8 @@
       "Hangi günlerde, derslerde veya okul geçişlerinde devamsızlığın arttığını belirleyin.",
       "Akran ilişkileri, sağlık, ulaşım ve ders güçlüklerini ayrı ele alın.",
       "Öğrencinin ve ailenin yapabileceği küçük adımı seçin; öğretmenle gerekli uyumu planlayın.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -983,6 +1163,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Bir gönderiyi kimlerin görebileceğini, başkalarının yeniden paylaşabilmesini ve gelecekte doğuracağı sonuçları tartışın. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Kurgusal öğrenci sınıf fotoğrafını herkese açık yayımlar. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Beğeni, yorum, fotoğraf ve konum paylaşımının farklı sürelerle görünür kalabileceğini açıklayın. Öğrencilerin gerçek hesaplarını sınıfta açmalarını istemeyin. Öğrencinin kendi görüşünü dinledikten sonra öğrenciler kendi belirledikleri bir paylaşım öncesi kontrol sorusu seçsin adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Kurgusal öğrenci sınıf fotoğrafını herkese açık yayımlar. Etkinlikte konum, izin ve tekrar paylaşımın etkisi ayrı ayrı değerlendirilir.",
@@ -990,7 +1178,8 @@
       "Beğeni, yorum, fotoğraf ve konum paylaşımının farklı sürelerle görünür kalabileceğini açıklayın.",
       "Bir gönderiyi kimlerin görebileceğini, başkalarının yeniden paylaşabilmesini ve gelecekte doğuracağı sonuçları tartışın.",
       "Öğrenciler kendi belirledikleri bir paylaşım öncesi kontrol sorusu seçsin.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1031,6 +1220,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Öğrenciyle oyun bitişi, dinlenme ve başka etkinliğe geçiş adımlarını konuşun. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci çevrim içi oyundan çıkınca ailesiyle tartışır. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Yalnızca geçen saati değil uyku, ders, arkadaşlık ve aile ilişkilerinin etkilenip etkilenmediğini sorun. Eğitsel kullanım ile dinlenme kullanımını ayırın. Öğrencinin kendi görüşünü dinledikten sonra bir hafta sonra ekran sonrası duygu durumu, uyku ve çatışmaları değerlendirin adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci çevrim içi oyundan çıkınca ailesiyle tartışır. Önceden anlaşılmış oturum bitişi ve akşam geçiş planını bir hafta denerler.",
@@ -1038,7 +1235,8 @@
       "Yalnızca geçen saati değil uyku, ders, arkadaşlık ve aile ilişkilerinin etkilenip etkilenmediğini sorun.",
       "Öğrenciyle oyun bitişi, dinlenme ve başka etkinliğe geçiş adımlarını konuşun.",
       "Bir hafta sonra ekran sonrası duygu durumu, uyku ve çatışmaları değerlendirin.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1079,6 +1277,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Öğrencinin önceki çalışma davranışıyla yeni davranışını karşılaştırın; sınıftaki başka öğrencilerin netleri hedef olarak dayatılmasın. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci kardeşinin netleriyle karşılaştırılır. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Öğrenci kimle ve hangi bağlamda kıyaslandığını anlatsın. Sıralama ve aile beklentisiyle öğrencinin öğrenme ihtiyacını birbirinden ayırın. Öğrencinin kendi görüşünü dinledikten sonra yetişkinlere süreç geri bildirimi ve mahremiyete saygılı dil önerin adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci kardeşinin netleriyle karşılaştırılır. Rehberlik görüşmesinde kendi çalışma stratejisindeki ilerleme ve aileyle kullanılacak destek dili konuşulur.",
@@ -1086,7 +1292,8 @@
       "Öğrenci kimle ve hangi bağlamda kıyaslandığını anlatsın.",
       "Öğrencinin önceki çalışma davranışıyla yeni davranışını karşılaştırın; sınıftaki başka öğrencilerin netleri hedef olarak dayatılmasın.",
       "Yetişkinlere süreç geri bildirimi ve mahremiyete saygılı dil önerin.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1127,6 +1334,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Ortak ilgi kulübü, küçük grup görevi ve tanışma etkinliği sunun. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Dönem ortasında sınıfa gelen öğrenci grup ödevlerinde yalnız kalır. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Öğrencinin hangi anlarda kendini dışarıda hissettiğini sorun. Her yalnızlığı akran reddi olarak yorumlamadan tercih ile dışlanmayı ayırın. Öğrencinin kendi görüşünü dinledikten sonra teneffüs, ders ve yemek alanındaki güvenlik ile aidiyet ayrı değerlendirilir adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Dönem ortasında sınıfa gelen öğrenci grup ödevlerinde yalnız kalır. Öğretmen değişen grup rolleri düzenler; iki hafta sonra öğrenciyle aidiyet konuşulur.",
@@ -1134,7 +1349,8 @@
       "Öğrencinin hangi anlarda kendini dışarıda hissettiğini sorun.",
       "Ortak ilgi kulübü, küçük grup görevi ve tanışma etkinliği sunun.",
       "Teneffüs, ders ve yemek alanındaki güvenlik ile aidiyet ayrı değerlendirilir.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1175,6 +1391,14 @@
       [
         "İzleme için somut ölçüt",
         "İlk uygulamayı tamamlanmış saymak yerine, öğrencinin sonraki günlerdeki deneyimini sorun. Kurgusal problem için 'Bu yönergede ikinci adımı anlamadım' gibi somut soru cümlesi kurdurun. İlerleme görülmezse aynı yöntemi zorlamak yerine koşulları yeniden inceleyin."
+      ],
+      [
+        "Ortaokulda akran ve sınıf bağlamını inceleme",
+        "Öğrenci fen sorusunu anlamaz fakat sınıfta soru sormaz. Ortaokul öğrencileri arasında grup ilişkileri ve bağımsız karar isteği hızla değişebilir; bu nedenle olayın hangi ders, teneffüs veya dijital ortamda yaşandığını ayırın. Öğrencinin soru sorunca alay edilme veya öğretmeni meşgul etme kaygısı taşıyıp taşımadığını sorun. Öğrenme güçlüğünü isteksizlikle karıştırmayın. Öğrencinin kendi görüşünü dinledikten sonra öğretmenle soru sorma zamanını ve sınıfın destekleyici tepkilerini planlayın adımını gönüllü, uygulanabilir bir okul çalışmasına dönüştürün. Grup baskısı, tehdit veya tekrar eden zarar varsa etkinlikten önce güvenlik gereksinimini değerlendirin."
+      ],
+      [
+        "Bir hafta sonra güvenlik ve aidiyet kontrolü",
+        "Öğrencinin kendi seçtiği davranış veya destek yolunu bir hafta sonra yeniden konuşun. Bu konuda sınıfta yapılacak düzenlemeyi öğrencinin onayı ve güvenliği açısından değerlendirin. Yalnızca etkinliğin yapılması değil öğrencinin teneffüs, sınıf veya çevrim içi ortamında neyin değiştiği değerlendirilmelidir. Öğretmen ve aileyle gereken bilgiyi paylaşırken bireysel görüşme ayrıntılarını koruyun. Tekrar eden dışlama ya da tehdit devam ediyorsa öğrenciyi uzlaşmaya zorlamadan yetişkin gözetimi ve koruma yaklaşımını güncelleyin."
       ]
     ],
     "example": "Öğrenci fen sorusunu anlamaz fakat sınıfta soru sormaz. Sorunun hangi kısmında takıldığını not edip öğretmene kısa soru iletmeyi dener.",
@@ -1182,7 +1406,8 @@
       "Öğrencinin soru sorunca alay edilme veya öğretmeni meşgul etme kaygısı taşıyıp taşımadığını sorun.",
       "Kurgusal problem için 'Bu yönergede ikinci adımı anlamadım' gibi somut soru cümlesi kurdurun.",
       "Öğretmenle soru sorma zamanını ve sınıfın destekleyici tepkilerini planlayın.",
-      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun."
+      "Öğrenciyle takip zamanı belirleyin ve güvenliği yeniden sorun.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
