@@ -1,7 +1,22 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-10-13T13:37:43+03:00",
+  "updatedAt": "2026-10-13T21:19:51+03:00",
   "records": [
+    {
+      "id": "db21f412-186a-4d5c-bc46-03dff9ea17fb",
+      "title": "ORTA KARADENİZ KALKINMA AJANSI (OKA) - 2026 YILI PERSONEL ALIM İLANI",
+      "institution": "ORTA KARADENİZ KALKINMA AJANSI (OKA)",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=db21f412-186a-4d5c-bc46-03dff9ea17fb",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/a1bff41a-1fe5-4e5c-84ac-ae82fd240947.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-02",
+      "sourceCurrent": true
+    },
     {
       "id": "c1ab5cba-d22b-40ab-b89b-1d27431a422c",
       "title": "İSTANBUL KALKINMA AJANSI - PERSONEL ALIM İLANI 5 UZMAN",
