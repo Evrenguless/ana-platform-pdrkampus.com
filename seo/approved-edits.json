@@ -461,8 +461,7 @@
     },
     "index.html": {
       "baseline_sha256": "bedeaaf558157b85dd4766ff700dc1c97859876bb357eead559c774399945895",
-      "reviewed_sha256": "44c452031384e919308300801a2dfeea436b469101d8e4838cd31dcb62711d38",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "12db352bdcd3d6228cfe164482db91370edb72b9dee11340da895df83863052f",
       "runtime_sha256": "1e7953d5a8a517af5509423a0caaf1cb1400aee60e1ad6536b3382c09f8201fd"
     },
     "kariyer/kariyer-gelisimi-ortaokul-lise/index.html": {
@@ -1241,8 +1240,7 @@
     },
     "sitemap.xml": {
       "baseline_sha256": "d3cc7b7448ac4ba6d3ae809821b6e5298b14d509f8f7844b48c09fd2715701c2",
-      "reviewed_sha256": "e40617d838f367c07f8f792ed490742353d5d490051a3453d6aa36dc42da0546",
-      "reason": "Regenerated canonical sitemap with nine new PDR guides."
+      "reviewed_sha256": "e40617d838f367c07f8f792ed490742353d5d490051a3453d6aa36dc42da0546"
     },
     "topluluk.html": {
       "baseline_sha256": "e73b19a12fd7d33801327f61799969e46685844e3504de5c4e9835352c14d1b9",
