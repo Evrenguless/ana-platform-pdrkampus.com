@@ -23,6 +23,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğretmen başlangıç performansını üç örnekle BEP ekibine getirir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğretmen başlangıç performansını üç örnekle BEP ekibine getirir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Üç farklı ders görevinde öğrencinin bağımsız yaptığı adımları kaydedin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğretmen başlangıç performansını üç örnekle BEP ekibine getirir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -30,7 +38,8 @@
       "Üç farklı ders görevinde öğrencinin bağımsız yaptığı adımları kaydedin.",
       "Öğrencinin ilk yönergeyi hangi destekle tamamladığını gözleyin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -71,6 +80,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Ekip iki haftada dört metinden üçünü doğru eşleme hedefini değerlendirir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Ekip iki haftada dört metinden üçünü doğru eşleme hedefini değerlendirir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Hedef davranışı, başarı yüzdesini ve gözlem süresini birlikte yazın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Ekip iki haftada dört metinden üçünü doğru eşleme hedefini değerlendirir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -78,7 +95,8 @@
       "Hedef davranışı, başarı yüzdesini ve gözlem süresini birlikte yazın.",
       "'daha iyi okuyacak' yerine ölçülebilir okuma görevini tanımlayın.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -119,6 +137,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğrencinin ipucuyla yaptığı kazanım ile bağımsız performansı farklı işaretlenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğrencinin ipucuyla yaptığı kazanım ile bağımsız performansı farklı işaretlenir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Aynı beceriyi farklı günlerde ve benzer koşullarda ölçün. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğrencinin ipucuyla yaptığı kazanım ile bağımsız performansı farklı işaretlenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -126,7 +152,8 @@
       "Aynı beceriyi farklı günlerde ve benzer koşullarda ölçün.",
       "Görev tamamlanma düzeyiyle verilen ipucu miktarını ayrı kaydedin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -167,6 +194,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğretmen sınıf uyarlamasını, aile ev deneyimini izler; ekip dört hafta sonra buluşur. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğretmen sınıf uyarlamasını, aile ev deneyimini izler; ekip dört hafta sonra buluşur. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. BEP toplantısındaki öğretmen, aile ve uzman görevlerini açıkça ayırın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğretmen sınıf uyarlamasını, aile ev deneyimini izler; ekip dört hafta sonra buluşur. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -174,7 +209,8 @@
       "BEP toplantısındaki öğretmen, aile ve uzman görevlerini açıkça ayırın.",
       "Her karar için sorumlu kişi ve takip tarihi belirleyin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -215,6 +251,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğrenci malzeme hazırlama sırasını üç görsel kartla takip eder. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğrenci malzeme hazırlama sırasını üç görsel kartla takip eder. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Uzun sözlü yönergeyi adım adım resimli kartlara dönüştürün. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğrenci malzeme hazırlama sırasını üç görsel kartla takip eder. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -222,7 +266,8 @@
       "Uzun sözlü yönergeyi adım adım resimli kartlara dönüştürün.",
       "Kartın öğrencinin görebildiği yerde ve uygun büyüklükte olduğuna bakın.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -263,6 +308,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğrenci yirmi dakikalık yazma yerine bölünmüş iki kısa oturumda çalışır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğrenci yirmi dakikalık yazma yerine bölünmüş iki kısa oturumda çalışır. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Görev süresini öğrencinin başlangıç performansına göre düzenleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğrenci yirmi dakikalık yazma yerine bölünmüş iki kısa oturumda çalışır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -270,7 +323,8 @@
       "Görev süresini öğrencinin başlangıç performansına göre düzenleyin.",
       "Ek süreyle birlikte görev miktarı ve mola ihtiyacını ayrı değerlendirin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -311,6 +365,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğrenci grup tartışmasında düşüncesini konuşmak yerine simge kartıyla gösterir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğrenci grup tartışmasında düşüncesini konuşmak yerine simge kartıyla gösterir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Sözlü yanıt dışındaki erişilebilir katılım seçeneklerini belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğrenci grup tartışmasında düşüncesini konuşmak yerine simge kartıyla gösterir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -318,7 +380,8 @@
       "Sözlü yanıt dışındaki erişilebilir katılım seçeneklerini belirleyin.",
       "Öğrenme kazanımını değiştirmeden yanıt biçimini uyarlayın.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -359,6 +422,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Görsel eşleştirmede güçlü olan öğrenci için yeni öğrenme kartları hazırlanır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Görsel eşleştirmede güçlü olan öğrenci için yeni öğrenme kartları hazırlanır. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Çocuğun bağımsız başardığı görevleri ve ilgilerini örneklerle kaydedin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Görsel eşleştirmede güçlü olan öğrenci için yeni öğrenme kartları hazırlanır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -366,7 +437,8 @@
       "Çocuğun bağımsız başardığı görevleri ve ilgilerini örneklerle kaydedin.",
       "Güçlü yönleri yalnızca not veya tanı kategorisiyle açıklamayın.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -407,6 +479,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Ailenin tarif ettiği resimli rutin sınıfta denenir ve sonucu ölçülür. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Ailenin tarif ettiği resimli rutin sınıfta denenir ve sonucu ölçülür. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Aileye evde işe yarayan stratejileri örnek üzerinden sorun. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Ailenin tarif ettiği resimli rutin sınıfta denenir ve sonucu ölçülür. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -414,7 +494,8 @@
       "Aileye evde işe yarayan stratejileri örnek üzerinden sorun.",
       "Ev koşulları ile okul koşullarının farklı olabileceğini açıkça belirtin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -455,6 +536,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Sınıfta yönerge kartı konur; öğrenci akranlarıyla aynı masada göreve başlar. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Sınıfta yönerge kartı konur; öğrenci akranlarıyla aynı masada göreve başlar. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Desteğin nerede, ne zaman ve kim tarafından sağlanacağını belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Sınıfta yönerge kartı konur; öğrenci akranlarıyla aynı masada göreve başlar. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -462,7 +551,8 @@
       "Desteğin nerede, ne zaman ve kim tarafından sağlanacağını belirleyin.",
       "Öğrenciyi sürekli sınıftan ayırmanın katılıma etkisini değerlendirin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -503,6 +593,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Grup çalışmasında sunma ve malzeme hazırlama rolleri dönüşümlü yürütülür. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Grup çalışmasında sunma ve malzeme hazırlama rolleri dönüşümlü yürütülür. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Akran yardımının gönüllü ve karşılıklı olmasını sağlayın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Grup çalışmasında sunma ve malzeme hazırlama rolleri dönüşümlü yürütülür. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -510,7 +608,8 @@
       "Akran yardımının gönüllü ve karşılıklı olmasını sağlayın.",
       "Bir çocuğu sürekli yardımcı veya yardım alan rolüne sabitlemeyin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -551,6 +650,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğrenci teneffüsten derse geçmeden iki dakika önce görsel işareti görür. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğrenci teneffüsten derse geçmeden iki dakika önce görsel işareti görür. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Etkinlik geçişini önceden gösteren kısa görsel sıra kullanın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğrenci teneffüsten derse geçmeden iki dakika önce görsel işareti görür. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -558,7 +665,8 @@
       "Etkinlik geçişini önceden gösteren kısa görsel sıra kullanın.",
       "Beklenmeyen değişikliklerde alternatif haber verme yöntemi belirleyin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -599,6 +707,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Gürültülü grup çalışmasında oturma ve mola seçeneği birlikte belirlenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Gürültülü grup çalışmasında oturma ve mola seçeneği birlikte belirlenir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Sınıftaki ses, ışık ve kalabalık koşullarını öğrencinin tepkisiyle birlikte değerlendirin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Gürültülü grup çalışmasında oturma ve mola seçeneği birlikte belirlenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -606,7 +722,8 @@
       "Sınıftaki ses, ışık ve kalabalık koşullarını öğrencinin tepkisiyle birlikte değerlendirin.",
       "Öğrencinin rahatsız olduğu uyaranı zorla tolere ettirmeye çalışmayın.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -647,6 +764,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Yönergesi anlaşılmayan görevde öğrenci ayağa kalkar; görev basamaklara ayrılır. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Yönergesi anlaşılmayan görevde öğrenci ayağa kalkar; görev basamaklara ayrılır. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Hedef davranışın önceki çevre koşullarını gözleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Yönergesi anlaşılmayan görevde öğrenci ayağa kalkar; görev basamaklara ayrılır. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -654,7 +779,8 @@
       "Hedef davranışın önceki çevre koşullarını gözleyin.",
       "Davranışın işlevini anlamadan yalnızca ceza veya ödül planlamayın.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -695,6 +821,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğrenci sözlü istemek yerine mola simgesini göstererek öğretmene başvurur. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğrenci sözlü istemek yerine mola simgesini göstererek öğretmene başvurur. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Öğrencinin yardım, mola veya seçim isteğini nasıl ifade edebildiğini belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğrenci sözlü istemek yerine mola simgesini göstererek öğretmene başvurur. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -702,7 +836,8 @@
       "Öğrencinin yardım, mola veya seçim isteğini nasıl ifade edebildiğini belirleyin.",
       "Iletişim kartı, işaret veya sözcük seçeneklerini ortamda erişilebilir tutun.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -743,6 +878,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Görsel ipucu sonrası öğrenci üç görevden ikisini bağımsız tamamlar. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Görsel ipucu sonrası öğrenci üç görevden ikisini bağımsız tamamlar. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Uyarlama öncesi ve sonrası aynı kazanıma ait ölçüm alın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Görsel ipucu sonrası öğrenci üç görevden ikisini bağımsız tamamlar. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -750,7 +893,8 @@
       "Uyarlama öncesi ve sonrası aynı kazanıma ait ölçüm alın.",
       "Yalnızca etkinliğe katılmayı öğrenme ilerlemesiyle karıştırmayın.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -791,6 +935,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "BEP ekibi iki hedefin ilerlemesini inceleyip bir uyarlamayı değiştirir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "BEP ekibi iki hedefin ilerlemesini inceleyip bir uyarlamayı değiştirir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Toplantı öncesinde ölçümler, aile gözlemi ve öğrenci katılımını toplayın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "BEP ekibi iki hedefin ilerlemesini inceleyip bir uyarlamayı değiştirir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -798,7 +950,8 @@
       "Toplantı öncesinde ölçümler, aile gözlemi ve öğrenci katılımını toplayın.",
       "Gündeme yalnızca tamamlanmayan hedefleri değil işe yarayan destekleri de ekleyin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -839,6 +992,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğretmen ölçümü 'yardımsız iki adım' olarak işaretler, tanı yorumu eklemez. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğretmen ölçümü 'yardımsız iki adım' olarak işaretler, tanı yorumu eklemez. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Kayıtta tarih, hedef, gözlem koşulu ve destek düzeyini belirtin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğretmen ölçümü 'yardımsız iki adım' olarak işaretler, tanı yorumu eklemez. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -846,7 +1007,8 @@
       "Kayıtta tarih, hedef, gözlem koşulu ve destek düzeyini belirtin.",
       "Öğrencinin kişisel bilgisini gerekli kayıt alanlarıyla sınırlayın.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -887,6 +1049,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğrencinin okuyamadığı küçük yazılı çalışma kâğıdı büyütülüp yeniden denenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğrencinin okuyamadığı küçük yazılı çalışma kâğıdı büyütülüp yeniden denenir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Yazı büyüklüğü, görsel kontrast ve erişilebilir dosya biçimini gözden geçirin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğrencinin okuyamadığı küçük yazılı çalışma kâğıdı büyütülüp yeniden denenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -894,7 +1064,8 @@
       "Yazı büyüklüğü, görsel kontrast ve erişilebilir dosya biçimini gözden geçirin.",
       "Materyalin gerçekten öğrenci tarafından kullanılabildiğini denetleyin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -935,6 +1106,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğrenci okuduğu metnin ana fikrini paragraf yazmak yerine görselle açıklar. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğrenci okuduğu metnin ana fikrini paragraf yazmak yerine görselle açıklar. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Aynı bilgiyi çizim, işaretleme veya kısa sözlü yanıtla ifade etmeye seçenek tanıyın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğrenci okuduğu metnin ana fikrini paragraf yazmak yerine görselle açıklar. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -942,7 +1121,8 @@
       "Aynı bilgiyi çizim, işaretleme veya kısa sözlü yanıtla ifade etmeye seçenek tanıyın.",
       "Yanıt biçimini değiştirirken ölçülen kazanımı koruyun.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -983,6 +1163,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Üç görevli tek ölçüm çizelgesinde hangi desteği uygulayacağını belirler. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Üç görevli tek ölçüm çizelgesinde hangi desteği uygulayacağını belirler. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Sınıf öğretmeni, rehberlik servisi ve özel eğitim desteğinin görevlerini netleştirin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Üç görevli tek ölçüm çizelgesinde hangi desteği uygulayacağını belirler. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -990,7 +1178,8 @@
       "Sınıf öğretmeni, rehberlik servisi ve özel eğitim desteğinin görevlerini netleştirin.",
       "Aynı hedef için çelişen yönergeler verilmesini önleyin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1031,6 +1220,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Ekip yeni değerlendirme sonrası BEP uyarlamalarını öğrencinin performansıyla gözden geçirir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Ekip yeni değerlendirme sonrası BEP uyarlamalarını öğrencinin performansıyla gözden geçirir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. RAM değerlendirmesindeki eğitsel önerileri okulun mevcut planıyla karşılaştırın. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Ekip yeni değerlendirme sonrası BEP uyarlamalarını öğrencinin performansıyla gözden geçirir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -1038,7 +1235,8 @@
       "RAM değerlendirmesindeki eğitsel önerileri okulun mevcut planıyla karşılaştırın.",
       "Resmî raporun güncelliğini doğrulamadan tanı veya yeni karar üretmeyin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1079,6 +1277,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Ortak afişte öğrenci simge seçer, arkadaşları yazı yazar; roller sonra değişir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Ortak afişte öğrenci simge seçer, arkadaşları yazı yazar; roller sonra değişir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Grup etkinliğinde her öğrenci için katkı yolu belirleyin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Ortak afişte öğrenci simge seçer, arkadaşları yazı yazar; roller sonra değişir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -1086,7 +1292,8 @@
       "Grup etkinliğinde her öğrenci için katkı yolu belirleyin.",
       "Öğrenciyi izleyici konumuna sabitleyecek tek görev düzeninden kaçının.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1127,6 +1334,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Öğrencinin çanta hazırlama adımları ev ve okulda farklı desteklerle izlenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Öğrencinin çanta hazırlama adımları ev ve okulda farklı desteklerle izlenir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Ev ve okulda gözlenebilecek ortak, ulaşılabilir tek davranış hedefi seçin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Öğrencinin çanta hazırlama adımları ev ve okulda farklı desteklerle izlenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -1134,7 +1349,8 @@
       "Ev ve okulda gözlenebilecek ortak, ulaşılabilir tek davranış hedefi seçin.",
       "Aileyi sınıftaki tüm eğitim çalışmalarından sorumlu tutmayın.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
@@ -1175,6 +1391,14 @@
       [
         "Gelişimi ve güvenliği yeniden değerlendirme",
         "Destekte öğrenilen yönerge sıralama, sınıfta gerçek materyallerle denenir. İzleme tarihini belirleyin; gelişim veya güvenlik hedefinin karşılanmadığı durumda planı güncelleyin."
+      ],
+      [
+        "Uyarlama kararını somut görevle sınama",
+        "Destekte öğrenilen yönerge sıralama, sınıfta gerçek materyallerle denenir. Bu durumda öğrencinin hangi görevi bağımsız tamamladığı, hangi aşamada ipucu aldığı ve destek verildiğinde neyin değiştiği ayrı kaydedilmelidir. Destek eğitimde işlenen beceri ile sınıf kullanımını eşleştirin. Tek bir gözlemden kesin hüküm çıkarmayın; hangi ortamda ve ne zaman yaşandığını öğrenciyle de konuşun. Önce aynı kazanım için erişilebilir bir görev örneği seçin. Ölçülebilir bir öğrenme veya katılım amacı belirleyin; uygulamayı öğrencinin erişebileceği biçimde uyarlayın. Öğretmen ve BEP ekibi kullanılan uyarlamanın hedef beceriyi değiştirmediğini tartışmalı; öğrenciye ait performansı yalnızca bir denemeyle tanımlamamalıdır."
+      ],
+      [
+        "BEP ekibinde ölçüm ve izleme",
+        "Uygulamadan önce ve sonra aynı kazanıma ilişkin tarihli görev örneklerini karşılaştırın. BEP ekibiyle öğretim desteği, sınıf uyarlaması ve aile bilgilendirmesi için sorumlu kişi belirleyin. Öğrencinin başarı düzeyi, kullandığı ipucu ve katılım isteği birbirinin yerine geçmez. Aile gözlemini ve sınıf performansını aynı koşulda ölçülmüş gibi raporlamayın. Destek işe yaramadığında öğrenciyi etiketlemek yerine BEP ekibinde görev, materyal, süre ve sorumlu kişiyi yeniden değerlendirin. Kişisel belgeleri yetkili erişim sınırında tutun."
       ]
     ],
     "example": "Destekte öğrenilen yönerge sıralama, sınıfta gerçek materyallerle denenir. İlk görüşme veya gözlemden sonra sorumlu yetişkin belirlenir; belirli bir takip tarihinde öğrencinin deneyimi yeniden değerlendirilir.",
@@ -1182,7 +1406,8 @@
       "Destek eğitimde işlenen beceri ile sınıf kullanımını eşleştirin.",
       "Destek eğitim başarısını sınıf içi genelleme olmuş gibi kabul etmeyin.",
       "Öğrenciye uygun destek ve güvenlik sorumlusunu belirleyin.",
-      "İzleme tarihini ve gözlenecek değişimi kaydedin."
+      "İzleme tarihini ve gözlenecek değişimi kaydedin.",
+      "Uygulama öncesi ve sonrası öğrencinin gerçek katılım deneyimini karşılaştırın."
     ],
     "faq": [
       [
