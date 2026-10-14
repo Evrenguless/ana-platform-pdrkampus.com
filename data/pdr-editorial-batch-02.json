@@ -526,27 +526,15 @@
     "sections": [
       [
         "Katılım engellerini belirleyin",
-        "Öğrencinin yapabildiklerini ve zorlandığı durumları ders, ortam ve görev düzeyinde gözlemleyin."
-      ],
-      [
-        "Konuya özgü dikkat edilmesi gerekenler",
-        "Öğrencinin görsel destekle yaptığı çalışma ile yardımsız performansını ayrı kaydedin. Kazanımı koruyarak yanıt biçimini uyarlamak BEP izlemi için somut veri sağlar."
+        "Öğrencinin yapabildiklerini ve zorlandığı durumları ders, ortam ve görev düzeyinde gözlemleyin. Öğrencinin görsel destekle yaptığı çalışma ile yardımsız performansını ayrı kaydedin. Kazanımı koruyarak yanıt biçimini uyarlamak BEP izlemi için somut veri sağlar."
       ],
       [
         "Öğretimi erişilebilir düzenleyin",
-        "Yönergeleri netleştirme, materyali uyarlama, alternatif yanıt biçimleri ve uygun süre düzenlemelerini öğretmenle birlikte değerlendirin."
-      ],
-      [
-        "Akran ilişkilerini destekleyin",
-        "Öğrenciyi ayrı bir kategori olarak görünür kılmayan, iş birliği fırsatı sunan etkinlikler tasarlayın."
+        "Yönergeleri netleştirme, materyali uyarlama, alternatif yanıt biçimleri ve uygun süre düzenlemelerini öğretmenle birlikte değerlendirin. Öğrenciyi ayrı bir kategori olarak görünür kılmayan, iş birliği fırsatı sunan etkinlikler tasarlayın."
       ],
       [
         "Ekip koordinasyonunu güçlendirin",
-        "BEP ve uygun destek süreçlerini ilgili öğretmen, aile ve okul ekibiyle birlikte yürütün."
-      ],
-      [
-        "İlerlemeyi gözden geçirin",
-        "Uyarlamaların katılım ve öğrenme üzerindeki etkisini somut veriyle izleyip gerektiğinde değiştirin."
+        "BEP ve uygun destek süreçlerini ilgili öğretmen, aile ve okul ekibiyle birlikte yürütün. Uyarlamaların katılım ve öğrenme üzerindeki etkisini somut veriyle izleyip gerektiğinde değiştirin."
       ],
       [
         "İlk değerlendirmeyi ayrıntılandırma",
@@ -559,9 +547,17 @@
       [
         "İzleme ve sorumluluk paylaşımı",
         "İki hafta sonra aynı kazanımın farklı ders ve görevlerde nasıl gösterildiğini karşılaştırın. Öğrenci görsel yardımla ilerliyorsa bunu bağımsız kazanımla aynı biçimde raporlamayın. Destek işe yaramıyorsa öğrenciyi suçlamadan yönerge, materyal veya görev koşullarını güncelleyin. Uygulamanın öğrencinin akran ilişkilerini ve katılım isteğini nasıl etkilediğini de değerlendirin."
+      ],
+      [
+        "Katılım engelini sınıf göreviyle incelemek",
+        "Kaynaştırma desteğinde öğrenci yalnızca rapor veya tanı üzerinden değerlendirilmez. Öğretmen hangi görevde hangi materyalle bağımsız çalışabildiğini gözler. Akranla katılım, yardım isteme ve yönerge erişimi ayrı düşünülebilir. Uyarlama öğrenciyi sürekli izleyici rolüne sabitlememeli; seçilebilir katkı sunmalıdır. BEP ekibi görev kazanımı, kullanılan destek ve kayıt sorumlusunu belirler. Özel bilgiler sınıfta açıklanmadan erişim seçenekleri hazırlanır. Yardım arttığında ürünün tamamlanması bağımsız öğrenme kanıtı sayılmaz; desteğin öğrencinin gerçek katılımına etkisi sonraki görevde ayrıca kontrol edilir."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal grup çalışmasında öğrenci malzemeyi sıralayarak katkı sunabilir. Yetişkin bütün seçimleri onun yerine yapıyorsa öğretmen görev düzenini değiştirir. Sonraki etkinlikte öğrencinin kendi seçimi ve yardım düzeyi ayrı gözlenir. Öğrenci istemediği role zorlanmaz; alternatif katılım değerlendirilir. Ailenin geri bildirimi farklı koşul olarak dinlenir. Amaç diğer öğrencilere aynı ürünü yaptırmak değil hedefe ulaşan erişilebilir ve güvenli öğretim fırsatı sağlamaktır; veri ve öğrenci deneyimiyle plan yetkili ekipte yeniden ele alınır."
       ]
     ],
-    "example": "Öğrenci uzun yazılı yönergeleri takip edemiyor. Öğretmen görevi küçük görsel adımlara ayırıyor; aynı kazanım için uygun alternatif yanıt biçimini değerlendiriyor ve iki hafta sonra ilerlemeyi gözden geçiriyor. Öğrencinin görsel destekle yaptığı çalışma ile yardımsız performansını ayrı kaydedin.",
+    "example": "Kurgusal uygulama: Kurgusal grup çalışmasında öğrenci malzemeyi sıralayarak katkı sunabilir. Yetişkin bütün seçimleri onun yerine yapıyorsa öğretmen görev düzenini değiştirir. Sonraki etkinlikte öğrencinin kendi seçimi ve yardım düzeyi ayrı gözlenir. Öğrenci istemediği role zorlanmaz; alternatif katılım değerlendirilir. Ailenin geri bildirimi farklı koşul olarak dinlenir. Amaç diğer öğrencilere aynı ürünü yaptırmak değil hedefe ulaşan erişilebilir ve güvenli öğretim fırsatı sağlamaktır; veri ve öğrenci deneyimiyle plan yetkili ekipte yeniden ele alınır.",
     "check": [
       "Öğrencinin güçlü yönleri tanımlandı mı?",
       "Uyarlama ders hedefiyle uyumlu mu?",
@@ -598,24 +594,16 @@
         "Acil tehdit bildiriminde öğrenciyi güvenli yerde tutmak ve yetkili acil yanıtı başlatmak, sınıf etkinliği düzenlemekten önce gelir. Ayrıntıları sosyal gruplarda yaymayın."
       ],
       [
-        "Olayı doğrulayın, ayrıntıyı yaymayın",
-        "Durumla ilgili gerekli bilgileri ilgili kişilerden alın; söylenti ve tanınabilir öğrenci bilgilerinin dolaşmasını önleyin."
+        "Olguyu kaydedin, soruşturma yürütmeyin",
+        "Güvenlik ve uygun yönlendirme için gerekli olgusal bilgiyi alın; söylenti ve tanınabilir öğrenci bilgilerinin dolaşmasını önleyin. Olayın kesin kanıtını aramak veya çocuğu yeniden sorgulamak okulun görevi değildir."
       ],
       [
         "Görev paylaşımını netleştirin",
-        "Okul yönetimi, ilgili birimler ve gerektiğinde acil yardım/uzman ekipleriyle yetki ve sorumlulukları belirleyin."
-      ],
-      [
-        "Psikososyal destek planlayın",
-        "Etkilenen öğrencilerin farklı ihtiyaçlarını gözetin; zorla toplu paylaşım veya ayrıntılı olay anlatımı istemeyin."
+        "Okul yönetimi, ilgili birimler ve gerektiğinde acil yardım/uzman ekipleriyle yetki ve sorumlulukları belirleyin. Etkilenen öğrencilerin farklı ihtiyaçlarını gözetin; zorla toplu paylaşım veya ayrıntılı olay anlatımı istemeyin."
       ],
       [
         "Takip ve kayıt",
-        "Gerekli kayıtları ilgili usullere göre sınırlı tutun, güvenlik ve yönlendirme adımlarını izleyin."
-      ],
-      [
-        "İlk değerlendirmeyi ayrıntılandırma",
-        "Ciddi tehdit veya zarar riski bildirildiğinde okulun ilk görevi öğrencinin ve çevrenin anlık güvenliğini sağlamaktır. Öğrenciye olayı sınıf önünde anlatmasını veya tek başına çözmesini istemeyin. Yetişkin çalışanlar durumun acil olup olmadığını yetkili prosedürle değerlendirip gerekiyorsa acil sağlık ve koruma hizmetini gecikmeden başlatmalıdır. Okulun görevi bağımsız soruşturma yürütmek ya da tanı koymak değildir."
+        "Gerekli kayıtları ilgili usullere göre sınırlı tutun, güvenlik ve yönlendirme adımlarını izleyin. Ciddi tehdit veya zarar riski bildirildiğinde okulun ilk görevi öğrencinin ve çevrenin anlık güvenliğini sağlamaktır. Öğrenciye olayı sınıf önünde anlatmasını veya tek başına çözmesini istemeyin. Yetişkin çalışanlar durumun acil olup olmadığını yetkili prosedürle değerlendirip gerekiyorsa acil sağlık ve koruma hizmetini gecikmeden başlatmalıdır. Okulun görevi bağımsız soruşturma yürütmek ya da tanı koymak değildir."
       ],
       [
         "Okulda uygulanabilir destek",
@@ -624,9 +612,17 @@
       [
         "İzleme ve sorumluluk paylaşımı",
         "Acil yanıtın ardından yetkili destek kurumuna güvenli devir, öğrencinin okula dönüş koşulları ve izlem sorumlusu netleştirilmelidir. Olayın bitmiş görünmesi riskin ortadan kalktığının kanıtı değildir. Bu içerik yürürlükteki hukuki prosedürün yerini tutmaz; klinik, koruma ve mevzuat uzmanı tarafından doğrulanmadan yayımlanmamalıdır."
+      ],
+      [
+        "İlk yanıtın sorumluluğunu boşta bırakmamak",
+        "İlk değerlendirmede devam eden tehlike, acil sağlık gereksinimi ve öğrencinin güvenli yetişkine erişimi önceliklidir. Bir görevli güvenli gözetimde kalırken kurumun yetkili acil kanalına haber verme ayrı görev olarak düzenlenir. Personel kendi yetkisi veya güvenliği dışında fiziksel müdahaleye girişmez. Ulaşılamayan yetkili için alternatif kurumsal iletişim yolu kullanılır; telefon çalması veya mesaj gönderilmesi güvenli devir sayılmaz. Ders programı ya da uzun kayıt formu acil yanıtın önüne geçirilmemelidir; gerekli olgular ihtiyaç kadar aktarılır."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal örnekte öğretmen ciddi tehdit duyduğunda sınıf konuşması düzenlemek yerine güvenli alan ve yetkili yardım sürecini işletir. Diğer öğrencilerin güvenliği de okul acil planında ele alınır. Devralan yetkili, zaman ve sonraki görev kayda geçirilir. Olayın söylentisini araştırmak amacıyla öğrencileri topluca konuşturmayın. Acil aşama sonrasında okul rutini, bireysel destek ve gerekli uzman yönlendirmesi ayrı planlanır; sakin görünüm tehlikenin tamamen bittiğine ilişkin tek kanıt değildir."
       ]
     ],
-    "example": "Okula ciddi tehdit içeren bir mesaj bildiriliyor. İlgili yetişkinler öğrencinin güvenliğini sağlar, yetkili birimlere okul prosedürü doğrultusunda başvurur ve kriz bilgilerini sınıf sohbet gruplarında yaymaz. Acil tehdit bildiriminde öğrenciyi güvenli yerde tutmak ve yetkili acil yanıtı başlatmak, sınıf etkinliği düzenlemekten önce gelir.",
+    "example": "Kurgusal uygulama: Kurgusal örnekte öğretmen ciddi tehdit duyduğunda sınıf konuşması düzenlemek yerine güvenli alan ve yetkili yardım sürecini işletir. Diğer öğrencilerin güvenliği de okul acil planında ele alınır. Devralan yetkili, zaman ve sonraki görev kayda geçirilir. Olayın söylentisini araştırmak amacıyla öğrencileri topluca konuşturmayın. Acil aşama sonrasında okul rutini, bireysel destek ve gerekli uzman yönlendirmesi ayrı planlanır; sakin görünüm tehlikenin tamamen bittiğine ilişkin tek kanıt değildir.",
     "check": [
       "Acil güvenlik kontrol edildi mi?",
       "Yetkili birimler bilgilendirildi mi?",

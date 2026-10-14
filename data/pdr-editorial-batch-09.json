@@ -367,9 +367,17 @@
       [
         "İzleme, sınırlar ve destek kararı",
         "Öğrenci güvenliği veya yetkili bildirim gerektiren bir durum ortaya çıkarsa olağan sınıf etkinliğini durdurun. Gizliliği ve yetkili koruma sürecini öne alın; kişisel ayrıntıyı gereksiz kişilere açıklamayın. Belirgin sıkıntı yaşayan öğrenciler için bireysel destek planla. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
+      ],
+      [
+        "Bilgi kapsamını ve yardım kanalını açıklamak",
+        "Sınıf açıklamasında yalnızca kurumun doğruladığı, gelişim düzeyine uygun ve gerekli genel bilgi kullanılmalıdır. Bilinmeyen noktayı tahminle doldurmayın veya mahremiyet sınırını öğrenci kimliği vererek aşmayın. Öğrencilerden olayın görüntüsünü ya da duydukları ayrıntıları sırayla paylaşmalarını istemeyin. Kısa açıklama sonrasında yardım isteyenin hangi yetkili yetişkine ulaşacağını gösterin. Soruya yanıt verilemediğinde bu sınırı açıkça belirtmek, kesin fakat yanlış güvence vermekten daha uygundur. Acil güvenlik ihtiyacı sınıf açıklamasının bitmesine kadar bekletilmez."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal örnekte öğrenci olayla ilgili bir söylenti sorar. Öğretmen özel kişi bilgisi vermeden doğrulanmış genel kısmı açıklar; ayrıntının paylaşılmayacağını ve destek yolunu belirtir. Daha fazla söylenti toplamak için sınıf anketi yapmaz. Sonraki günlerde dışlanma, hedef gösterme ve yardım erişimi gözlenir. Olay hakkında sessiz kalmayı seçen öğrenci başarısız katılımcı sayılmaz. Belirgin zorlanma için bireysel görüşme seçeneği bulunur; sınıf bilgilendirmesi terapi veya klinik değerlendirme yerine geçmez."
       ]
     ],
-    "example": "Okulu etkileyen zorlayıcı olayın ardından söylentiler artar; sınıfa doğrulanmış ve yaşa uygun bilgi verilir. Sınıfa yalnızca kurumun doğruladığı ve paylaşılmasına izin verilen bilgiyi verin.",
+    "example": "Kurgusal uygulama: Kurgusal örnekte öğrenci olayla ilgili bir söylenti sorar. Öğretmen özel kişi bilgisi vermeden doğrulanmış genel kısmı açıklar; ayrıntının paylaşılmayacağını ve destek yolunu belirtir. Daha fazla söylenti toplamak için sınıf anketi yapmaz. Sonraki günlerde dışlanma, hedef gösterme ve yardım erişimi gözlenir. Olay hakkında sessiz kalmayı seçen öğrenci başarısız katılımcı sayılmaz. Belirgin zorlanma için bireysel görüşme seçeneği bulunur; sınıf bilgilendirmesi terapi veya klinik değerlendirme yerine geçmez.",
     "check": [
       "Sınıfa yalnızca kurumun doğruladığı ve paylaşılmasına izin verilen bilgiyi verin.",
       "Gereksiz ayrıntı ve söylentileri yeniden yayma. Adımı öğrencinin koşullarına göre esnek biçimde uyarlayın .",

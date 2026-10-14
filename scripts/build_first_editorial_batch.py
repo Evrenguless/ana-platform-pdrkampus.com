@@ -50,7 +50,8 @@ GUIDES=[
 ("Ekip rollerini netleştirin","Öğretmen, aile, rehberlik servisi ve ilgili diğer personelin görev paylaşımını belirleyin. Öğrencinin görüşünün alınabileceği uygun fırsatları değerlendirin."),
 ("İlerlemeyi belgeleyin","Belirlenen aralıklarla öğrenme örneklerini gözden geçirin. Hedefler işlevsel değilse verilere dayalı değişiklikleri BEP geliştirme süreçleri içinde ele alın. Güncel mevzuat ve kurum usullerini esas alın."),
 ("Başlangıç örneğini ölçülebilir hedefe bağlamak","BEP ekibi öğrencinin aynı metindeki beş sorudan hangilerini hangi görsel ipucuyla yanıtladığını örnek çalışma üzerinde gösterebilir. Öğrencinin yardımsız performansı ile öğretmen desteğiyle yaptığı görevleri aynı düzey gibi kaydetmeyin. Hedefin hangi koşulda, hangi davranışla ve hangi ölçütle gerçekleşeceğini ekipçe açıkça yazın."),
-("Ekip kararını ve izlem kanıtını belirlemek","Toplantıda materyal uyarlamasını kim hazırlayacak, ölçümü hangi öğretmen yapacak ve veriler hangi tarihte gözden geçirilecek sorularını yanıtlayın. Öğrenciye uygun biçimde söz hakkı tanıyın ve ailenin evde gözlediği beceriyi okul verisinden ayrı değerlendirin. Hedef karşılanmıyorsa öğrenciyi suçlamadan görev, destek ve ölçütü BEP ekibinde yeniden düzenleyin.")
+("Ekip kararını ve izlem kanıtını belirlemek","Toplantıda materyal uyarlamasını kim hazırlayacak, ölçümü hangi öğretmen yapacak ve veriler hangi tarihte gözden geçirilecek sorularını yanıtlayın. Öğrenciye uygun biçimde söz hakkı tanıyın ve ailenin evde gözlediği beceriyi okul verisinden ayrı değerlendirin. Hedef karşılanmıyorsa öğrenciyi suçlamadan görev, destek ve ölçütü BEP ekibinde yeniden düzenleyin."),
+("Kararın sınıfta uygulanmasını kontrol etmek","Kurgusal bir görevde öğrenci beş bilgiden ikisini bağımsız, dördünü görsel ipucuyla bulabilir. Öğretmen iki koşulu ayrı kaydeder; yardım verilerek gelen başarıyı bağımsız kazanım gibi göstermez. Sonraki benzer görevde yönerge, materyal güçlüğü ve ipucu düzeyi karşılaştırılır. BEP ekibi desteğin fiilen uygulanıp uygulanmadığını kontrol etmeden hedefin uygunluğuna karar vermez. Öğrencinin kullandığı yanıt biçimi ve tercih ettiği destek uygun iletişimle dinlenir. Bu sayılar örnektir; gerçek ölçüt ve değerlendirme aralığı öğrencinin başlangıç verisi ve yetkili ekip kararıyla belirlenir.")
 ]},
 {
 "slug":"okula-uyum-ilk-haftalar",
@@ -203,6 +204,53 @@ def resources(slug):
     rows.sort(key=lambda item:(not item[0],-item[1],
                                 normalized_title(item[2].get("title",""))))
     return [row for _,_,row in rows[:9]]
+PRIMARY_SOURCE_PATH = ROOT / "data/pdr-editorial-primary-sources.json"
+
+def load_primary_sources():
+    """Explicit editorial references, independent of catalogue title matching."""
+    from urllib.parse import urlsplit
+    data = json.loads(PRIMARY_SOURCE_PATH.read_text(encoding="utf-8"))
+    if data.get("schema_version") != 1 or data.get("publication_approved") is not False:
+        raise ValueError("Invalid primary-source review scope")
+    for key, source in data["sources"].items():
+        target = urlsplit(source["url"])
+        if target.scheme != "https" or not target.hostname or target.username or target.password:
+            raise ValueError("Invalid primary-source URL: " + key)
+        for field in ("title", "publisher", "scope", "evidence", "checked_on"):
+            if not isinstance(source.get(field), str) or not source[field].strip():
+                raise ValueError("Missing source evidence: " + key)
+        if source.get("review_status") != "identity_and_scope_only":
+            raise ValueError("Source reference must not imply professional approval: " + key)
+    slugs = {g["slug"] for g in GUIDES}
+    for slug, refs in data["guides"].items():
+        if slug not in slugs or not refs or len(refs) != len(set(refs)):
+            raise ValueError("Invalid source mapping: " + slug)
+        if any(key not in data["sources"] for key in refs):
+            raise ValueError("Unknown source reference: " + slug)
+    return data
+
+PRIMARY_SOURCES = None
+
+def primary_source_cards(slug):
+    if PRIMARY_SOURCES is None:
+        raise RuntimeError("Primary sources must be loaded after manuscripts")
+    cards = []
+    for key in PRIMARY_SOURCES["guides"].get(slug, []):
+        source = PRIMARY_SOURCES["sources"][key]
+        cards.append(
+            '<a class="guide2-card" href="'+esc(source["url"])+'">'
+            '<span class="guide2-visual"><span class="guide2-card-fallback" aria-hidden="true">BAŞVURU KAYNAĞI</span></span>'
+            '<span class="guide2-card-body"><span class="guide2-meta">Kurumsal kaynak</span>'
+            '<strong>'+esc(source["title"])+'</strong><small>'+esc(source["publisher"])+
+            '</small><small>'+esc(source["scope"])+
+            '</small><span class="guide2-action">Kaynağı incele →</span></span></a>'
+        )
+    if not cards:
+        return ""
+    return ('<h3>Birincil başvuru kaynakları</h3>'
+            '<p>Kaynakların kimliği ve sınırlı konu kapsamı kontrol edilmiştir. Bu bağlantılar rehberin uzman onayı değildir; kurgusal uygulamalar öğrenci ve kurum koşullarına göre değerlendirilir.</p>'
+            '<div class="guide2-grid">'+''.join(cards)+'</div>')
+
 def source_cards(slug):
     cards=[]
     count=0
@@ -221,7 +269,10 @@ def source_cards(slug):
         cards.append(f'<a class="guide2-card" href="{esc(url)}" ><span class="guide2-visual">{visual}</span><span class="guide2-card-body"><span class="guide2-meta">{esc(r.get("level",""))} · {esc(r.get("type","Materyal"))}</span><strong>{title}</strong><small>{esc(r.get("source","Kaynak kurum"))}</small><span class="guide2-action">Kaynağı incele →</span></span></a>')
         count+=1
     if cards:
-        return '<div class="guide2-grid">'+"".join(cards)+'</div>'
+        return '<div class="guide2-grid">'+"".join(cards)+'</div>'+primary_source_cards(slug)
+    primary = primary_source_cards(slug)
+    if primary:
+        return primary
     from urllib.parse import quote
     query=quote(next((g["title"] for g in GUIDES if g["slug"]==slug),slug))
     return '<p>Bu rehber için doğrudan ilgili bir belge henüz seçilemedi. <a href="/kutuphane.html?q='+query+'">Kütüphanede ilgili kaynakları ara →</a></p>'
@@ -244,7 +295,9 @@ def load_editorial_batches():
             SEARCH_TERMS[slug] = record["search_terms"]
 
 def main():
+    global PRIMARY_SOURCES
     load_editorial_batches()
+    PRIMARY_SOURCES = load_primary_sources()
     source=REFERENCE.read_text(encoding="utf-8")
     if '<main' not in source or '</main>' not in source:raise SystemExit("Missing main in reference")
     head,tail=source.split("<main",1)

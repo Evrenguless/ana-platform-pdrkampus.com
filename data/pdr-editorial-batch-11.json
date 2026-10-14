@@ -666,11 +666,7 @@
     "sections": [
       [
         "Kazanımı değiştirmeden erişimi uyarlamak",
-        "Uzun yönergeleri küçük görsel adımlara bölün; bunun öğrencinin hangi beceriyi gösterdiğini değiştirmediğinden emin olun."
-      ],
-      [
-        "Etkinliğin güvenli sınırları",
-        "BEP ekibiyle başlangıç performansı ve destek düzeyini ayrı kaydedin."
+        "Uzun yönergeleri küçük görsel adımlara bölün; bunun öğrencinin hangi beceriyi gösterdiğini değiştirmediğinden emin olun. BEP ekibiyle başlangıç performansı ve destek düzeyini ayrı kaydedin."
       ],
       [
         "Örnek okul uygulaması",
@@ -691,9 +687,17 @@
       [
         "Takip ölçütleri ve düzeltici adımlar",
         "Çalışmanın sonunda öğrencinin öğrendiğini yalnızca bir kart doldurması veya etkinliğe katılmasıyla ölçmeyin. İlerlemeyi farklı ders ortamlarında gözle. Aynı becerinin bir sonraki ders ya da teneffüs ortamında hangi davranışla görülebileceğini öğretmenle belirleyin. İlerleme olmadığında öğrenciye daha fazla baskı kurmak yerine yönergeyi, grup düzenini veya sunulan desteği gözden geçirin. Öğrenciye ilişkin özel bilgi yalnızca ilgili görev ve güvenlik gereksinimi bulunan yetkili kişilerle paylaşılmalıdır."
+      ],
+      [
+        "Uyarlanan görevde aynı kazanımı kontrol etmek",
+        "Öğretmen dersin hedefini önce açıklar: bilgi bulma, yazma veya sözlü ifade farklı kazanımlardır. Yönergeyi resimle desteklemek erişimi artırabilir; fakat hedef yazılı ifade ise yanıt biçimini tamamen değiştirmek ölçülen beceriyi etkileyebilir. BEP ekibi bu ayrımı görev örneği üzerinde değerlendirir. Materyal, süre ve yanıt yolu için gerekli destek düzeyi ayrı yazılır. Öğrencinin tercih ettiği yöntem sorulur. Uyarlama hazırlayan ve uygulayan görevli belirlenir; bir görevde başarılı olunması tüm derslerde aynı desteğin uygun olacağı anlamına gelmez."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal derste öğrenci uzun yönergede göreve başlayamaz; öğretmen üç görsel adım dener. Gözlemde bağımsız başlama ve ek hatırlatma ayrı tutulur. Sonraki benzer görevde güçlük aynı kaldıysa yeni düzen değerlendirilir; değişmişse karşılaştırmanın sınırı belirtilir. Öğrenci yoruluyor veya materyali anlamıyorsa plan gözden geçirilir. Hedefin gerçekleşmemesi kişilik hükmü değildir. Yeni öğretim fırsatı ve ekip kararına göre destek düzenlenir; özel öğrenci bilgisi yalnızca görev için gerekli kişilerle paylaşılır."
       ]
     ],
-    "example": "Öğrenci uzun yazılı yönergelerde zorlanır; öğretmen görsel adım desteği dener. BEP ekibiyle başlangıç performansı ve destek düzeyini ayrı kaydedin.",
+    "example": "Kurgusal uygulama: Kurgusal derste öğrenci uzun yönergede göreve başlayamaz; öğretmen üç görsel adım dener. Gözlemde bağımsız başlama ve ek hatırlatma ayrı tutulur. Sonraki benzer görevde güçlük aynı kaldıysa yeni düzen değerlendirilir; değişmişse karşılaştırmanın sınırı belirtilir. Öğrenci yoruluyor veya materyali anlamıyorsa plan gözden geçirilir. Hedefin gerçekleşmemesi kişilik hükmü değildir. Yeni öğretim fırsatı ve ekip kararına göre destek düzenlenir; özel öğrenci bilgisi yalnızca görev için gerekli kişilerle paylaşılır.",
     "check": [
       "Uzun yönergeleri küçük görsel adımlara bölün; bunun öğrencinin hangi beceriyi gösterdiğini değiştirmediğinden emin olun.",
       "BEP ekibiyle başlangıç performansı ve destek düzeyini ayrı kaydedin.",

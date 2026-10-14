@@ -1,0 +1,3963 @@
+{
+  "report_date": "2026-10-14",
+  "repository_id": 1387603040,
+  "repository_current_name": "Evrenguless/ana-platform-pdrkampus.com",
+  "repository_requested_name": "Evrenguless/pdrkampus-platform",
+  "branch": "feature/500-konu-icerik-sistemi",
+  "baseline_commit": "60e4051949b86cf54477d9bb112b5531c3c355e5",
+  "baseline_actions_run": 38435919059,
+  "baseline_artifact": 11832837160,
+  "baseline_zip_sha256": "71fa143151843b6617b389b9158d1a6ad89c98517d73382064c5c5a4c5f4b335",
+  "global_before": {
+    "pages_checked": 500,
+    "draft_only": true,
+    "publication_approved": false,
+    "main_text_avg_words": 249.6,
+    "main_text_min_words": 123,
+    "under_125": 1,
+    "under_250": 286,
+    "pages_without_source_cards": 229,
+    "candidate_duplicate_pairs": 1450,
+    "identical_chapter_groups": 8,
+    "issues_by_kind": {
+      "main_text_under_250": 286,
+      "candidate_sources_not_editorially_verified": 500,
+      "chapter_under_15_words": 176,
+      "short_example_or_example_missing": 93,
+      "no_direct_source_cards": 229,
+      "specialist_review_required": 33,
+      "main_text_under_125": 1
+    }
+  },
+  "global_after": {
+    "pages_checked": 500,
+    "draft_only": true,
+    "publication_approved": false,
+    "main_text_avg_words": 261.7,
+    "main_text_min_words": 142,
+    "under_125": 0,
+    "under_250": 221,
+    "pages_without_source_cards": 137,
+    "candidate_duplicate_pairs": 840,
+    "identical_chapter_groups": 2,
+    "issues_by_kind": {
+      "main_text_under_250": 221,
+      "candidate_sources_not_editorially_verified": 500,
+      "chapter_under_15_words": 135,
+      "short_example_or_example_missing": 49,
+      "no_direct_source_cards": 137,
+      "specialist_review_required": 33
+    }
+  },
+  "priority_before": {
+    "guides": 118,
+    "average_words": 239.0,
+    "minimum_words": 123,
+    "under_250": 65,
+    "without_source_cards": 92,
+    "short_chapters": 41,
+    "short_examples": 44,
+    "source_cards": 160,
+    "candidate_pairs_within_priority": 602
+  },
+  "priority_after": {
+    "guides": 118,
+    "average_words": 290.4,
+    "minimum_words": 254,
+    "under_250": 0,
+    "without_source_cards": 0,
+    "short_chapters": 0,
+    "short_examples": 0,
+    "source_cards": 325,
+    "candidate_pairs_within_priority": 0
+  },
+  "changed_files": [
+    ".github/workflows/draft-500-quality-audit.yml",
+    "data/pdr-editorial-batch-02.json",
+    "data/pdr-editorial-batch-04.json",
+    "data/pdr-editorial-batch-05.json",
+    "data/pdr-editorial-batch-06.json",
+    "data/pdr-editorial-batch-07.json",
+    "data/pdr-editorial-batch-08.json",
+    "data/pdr-editorial-batch-09.json",
+    "data/pdr-editorial-batch-10.json",
+    "data/pdr-editorial-batch-11.json",
+    "data/pdr-editorial-batch-15.json",
+    "data/pdr-editorial-batch-18.json",
+    "data/pdr-editorial-batch-20.json",
+    "data/pdr-editorial-batch-22.json",
+    "data/pdr-editorial-primary-sources.json",
+    "scripts/build_first_editorial_batch.py",
+    "scripts/test_editorial_priority_guides.py",
+    "seo/icerik-plani/500-rehber-derin-icerik-denetimi.json",
+    "seo/icerik-plani/500-rehber-yayin-oncesi-denetim.json",
+    "seo/icerik-plani/ilk-50-kalite-raporu.json",
+    "seo/icerik-plani/ilk-50-yayin-kapisi.json",
+    "seo/icerik-plani/ilk-500-toplu-durum.json",
+    "seo/icerik-plani/priority-editorial-remediation-2026-10-14.json",
+    "seo/icerik-plani/priority-editorial-remediation-2026-10-14.md"
+  ],
+  "guide_metrics": [
+    {
+      "slug": "bep-ders-uyarlamasi",
+      "manuscript_file": "data/pdr-editorial-batch-11.json",
+      "before": {
+        "slug": "bep-ders-uyarlamasi",
+        "title": "BEP Kapsamında Ders Uyarlaması | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 234,
+        "example_words": 21,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "bep-ders-uyarlamasi",
+        "title": "BEP Kapsamında Ders Uyarlaması | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 370,
+        "example_words": 68,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "bep-guclu-yonler",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "bep-guclu-yonler",
+        "title": "BEP'te Güçlü Yönleri Belirleme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 133,
+        "example_words": 22,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "bep-guclu-yonler",
+        "title": "BEP'te Güçlü Yönleri Belirleme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 279,
+        "example_words": 22,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "bep-hazirlama-okul-ekibi",
+      "manuscript_file": "scripts/build_first_editorial_batch.py",
+      "before": {
+        "slug": "bep-hazirlama-okul-ekibi",
+        "title": "BEP Hazırlama: Okul Ekibi İçin Uygulama Rehberi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 187,
+        "example_words": 30,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "bep-hazirlama-okul-ekibi",
+        "title": "BEP Hazırlama: Okul Ekibi İçin Uygulama Rehberi | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 261,
+        "example_words": 30,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "bep-hedef-izleme-toplantisi",
+      "manuscript_file": "data/pdr-editorial-batch-07.json",
+      "before": {
+        "slug": "bep-hedef-izleme-toplantisi",
+        "title": "BEP Hedef İzleme Toplantısı | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 222,
+        "example_words": 25,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "bep-hedef-izleme-toplantisi",
+        "title": "BEP Hedef İzleme Toplantısı | PDR Kampüs",
+        "chapter_count": 9,
+        "main_text_words": 359,
+        "example_words": 71,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "bep-ogrenci-katilimi",
+      "manuscript_file": "data/pdr-editorial-batch-10.json",
+      "before": {
+        "slug": "bep-ogrenci-katilimi",
+        "title": "BEP Sürecinde Öğrenci Katılımı | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 238,
+        "example_words": 26,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "bep-ogrenci-katilimi",
+        "title": "BEP Sürecinde Öğrenci Katılımı | PDR Kampüs",
+        "chapter_count": 9,
+        "main_text_words": 375,
+        "example_words": 71,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "bep-olculebilir-hedef",
+      "manuscript_file": "data/pdr-editorial-batch-05.json",
+      "before": {
+        "slug": "bep-olculebilir-hedef",
+        "title": "BEP'te Ölçülebilir Hedef Nasıl Yazılır? | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 191,
+        "example_words": 31,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "bep-olculebilir-hedef",
+        "title": "BEP'te Ölçülebilir Hedef Nasıl Yazılır? | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 335,
+        "example_words": 78,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "bep-toplantisi-gundemi",
+      "manuscript_file": "data/pdr-editorial-batch-04.json",
+      "before": {
+        "slug": "bep-toplantisi-gundemi",
+        "title": "BEP Toplantısı: Gündem ve Ekip Kararları | PDR Kampüs",
+        "chapter_count": 9,
+        "main_text_words": 216,
+        "example_words": 45,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "bep-toplantisi-gundemi",
+        "title": "BEP Toplantısı: Gündem ve Ekip Kararları | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 354,
+        "example_words": 67,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "cocukta-guvenli-yardim-isteme",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "cocukta-guvenli-yardim-isteme",
+        "title": "Çocuklara Güvenli Yardım İsteme Öğretimi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 137,
+        "example_words": 29,
+        "resource_cards": 5,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "cocukta-guvenli-yardim-isteme",
+        "title": "Çocuklara Güvenli Yardım İsteme Öğretimi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 278,
+        "example_words": 29,
+        "resource_cards": 7,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-guidance",
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "ergenlik-veli-rehberligi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "ergenlik-veli-rehberligi",
+        "title": "Ergenlikte Değişimler: Veli Rehberi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 138,
+        "example_words": 25,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "ergenlik-veli-rehberligi",
+        "title": "Ergenlikte Değişimler: Veli Rehberi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 286,
+        "example_words": 25,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "ilkokul-arkadas-anlasmazligi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "ilkokul-arkadas-anlasmazligi",
+        "title": "İlkokulda Arkadaşlık Anlaşmazlığı | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 139,
+        "example_words": 26,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ilkokul-arkadas-anlasmazligi",
+        "title": "İlkokulda Arkadaşlık Anlaşmazlığı | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 278,
+        "example_words": 26,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "ilkokul-isbirlikci-oyun",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "ilkokul-isbirlikci-oyun",
+        "title": "İlkokulda İş Birlikçi Oyun | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 137,
+        "example_words": 26,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "ilkokul-isbirlikci-oyun",
+        "title": "İlkokulda İş Birlikçi Oyun | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 285,
+        "example_words": 26,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "ilkokul-istenmeyen-temasa-hayir-deme",
+      "manuscript_file": "data/pdr-editorial-batch-15.json",
+      "before": {
+        "slug": "ilkokul-istenmeyen-temasa-hayir-deme",
+        "title": "İstenmeyen temasa hayır deme | İlkokul | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 251,
+        "example_words": 17,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "ilkokul-istenmeyen-temasa-hayir-deme",
+        "title": "İstenmeyen temasa hayır deme | İlkokul | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 384,
+        "example_words": 67,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kariyer-aile-meslek-beklentisi",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-aile-meslek-beklentisi",
+        "title": "Aile meslek beklentisi | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 349,
+        "example_words": 18,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-aile-meslek-beklentisi",
+        "title": "Aile meslek beklentisi | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 275,
+        "example_words": 61,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-bolum-ders-planini-okuma",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-bolum-ders-planini-okuma",
+        "title": "Bölüm ders planını okuma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 365,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-bolum-ders-planini-okuma",
+        "title": "Bölüm ders planını okuma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 275,
+        "example_words": 59,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "yok-atlas",
+        "osym"
+      ]
+    },
+    {
+      "slug": "kariyer-bolum-tanitiminda-bilgi-dogrulama",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-bolum-tanitiminda-bilgi-dogrulama",
+        "title": "Bölüm tanıtımında bilgi doğrulama | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 383,
+        "example_words": 17,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-bolum-tanitiminda-bilgi-dogrulama",
+        "title": "Bölüm tanıtımında bilgi doğrulama | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 290,
+        "example_words": 62,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "yok-atlas",
+        "osym"
+      ]
+    },
+    {
+      "slug": "kariyer-coklu-ilgi-alani-olan-ogrenci",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-coklu-ilgi-alani-olan-ogrenci",
+        "title": "Çoklu ilgi alanı olan öğrenci | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 358,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-coklu-ilgi-alani-olan-ogrenci",
+        "title": "Çoklu ilgi alanı olan öğrenci | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 6,
+        "main_text_words": 287,
+        "example_words": 65,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-egitim-yolu-arastirma",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-egitim-yolu-arastirma",
+        "title": "Eğitim yolu araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 370,
+        "example_words": 20,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-egitim-yolu-arastirma",
+        "title": "Eğitim yolu araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 278,
+        "example_words": 62,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "yok-atlas",
+        "osym"
+      ]
+    },
+    {
+      "slug": "kariyer-gelecek-mesleklerini-arastirma",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-gelecek-mesleklerini-arastirma",
+        "title": "Gelecek mesleklerini araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 342,
+        "example_words": 18,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-gelecek-mesleklerini-arastirma",
+        "title": "Gelecek mesleklerini araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 271,
+        "example_words": 61,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-guclu-yon-ve-beceri-eslestirme",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-guclu-yon-ve-beceri-eslestirme",
+        "title": "Güçlü yön ve beceri eşleştirme | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 367,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-guclu-yon-ve-beceri-eslestirme",
+        "title": "Güçlü yön ve beceri eşleştirme | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 275,
+        "example_words": 59,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-ilgi-envanteri-sonuclarini-konusma",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-ilgi-envanteri-sonuclarini-konusma",
+        "title": "İlgi envanteri sonuçlarını konuşma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 382,
+        "example_words": 23,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-ilgi-envanteri-sonuclarini-konusma",
+        "title": "İlgi envanteri sonuçlarını konuşma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 279,
+        "example_words": 56,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-is-ortami-tercihleri",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-is-ortami-tercihleri",
+        "title": "İş ortamı tercihleri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 355,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-is-ortami-tercihleri",
+        "title": "İş ortamı tercihleri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 6,
+        "main_text_words": 273,
+        "example_words": 63,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-kariyer-kararinda-belirsizlik",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-kariyer-kararinda-belirsizlik",
+        "title": "Kariyer kararında belirsizlik | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 349,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-kariyer-kararinda-belirsizlik",
+        "title": "Kariyer kararında belirsizlik | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 6,
+        "main_text_words": 276,
+        "example_words": 65,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-kariyer-plani-donemlik-izleme",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-kariyer-plani-donemlik-izleme",
+        "title": "Kariyer planı dönemlik izleme | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 356,
+        "example_words": 18,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-kariyer-plani-donemlik-izleme",
+        "title": "Kariyer planı dönemlik izleme | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 6,
+        "main_text_words": 278,
+        "example_words": 64,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-meslek-seciminde-akran-etkisi",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-meslek-seciminde-akran-etkisi",
+        "title": "Meslek seçiminde akran etkisi | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 367,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-meslek-seciminde-akran-etkisi",
+        "title": "Meslek seçiminde akran etkisi | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 275,
+        "example_words": 58,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-meslek-seciminde-tek-dogru-yanilgisi",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-meslek-seciminde-tek-dogru-yanilgisi",
+        "title": "Meslek seçiminde tek doğru yanılgısı | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 363,
+        "example_words": 17,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-meslek-seciminde-tek-dogru-yanilgisi",
+        "title": "Meslek seçiminde tek doğru yanılgısı | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 287,
+        "example_words": 61,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-meslek-tanitim-semineri",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-meslek-tanitim-semineri",
+        "title": "Meslek tanıtım semineri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 356,
+        "example_words": 18,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-meslek-tanitim-semineri",
+        "title": "Meslek tanıtım semineri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 277,
+        "example_words": 63,
+        "resource_cards": 3,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-meslek-uzmanina-soru-hazirlama",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-meslek-uzmanina-soru-hazirlama",
+        "title": "Meslek uzmanına soru hazırlama | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 368,
+        "example_words": 22,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-meslek-uzmanina-soru-hazirlama",
+        "title": "Meslek uzmanına soru hazırlama | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 6,
+        "main_text_words": 282,
+        "example_words": 63,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-mesleki-degerleri-karsilastirma",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-mesleki-degerleri-karsilastirma",
+        "title": "Mesleki değerleri karşılaştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 358,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-mesleki-degerleri-karsilastirma",
+        "title": "Mesleki değerleri karşılaştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 274,
+        "example_words": 59,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-mesleki-karar-secenek-tablosu",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-mesleki-karar-secenek-tablosu",
+        "title": "Mesleki karar seçenek tablosu | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 366,
+        "example_words": 18,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-mesleki-karar-secenek-tablosu",
+        "title": "Mesleki karar seçenek tablosu | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 277,
+        "example_words": 61,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-mesleklere-iliskin-onyargi",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-mesleklere-iliskin-onyargi",
+        "title": "Mesleklere ilişkin önyargı | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 361,
+        "example_words": 17,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-mesleklere-iliskin-onyargi",
+        "title": "Mesleklere ilişkin önyargı | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 274,
+        "example_words": 59,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-mesleklerin-gunluk-gorevleri",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-mesleklerin-gunluk-gorevleri",
+        "title": "Mesleklerin günlük görevleri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 383,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-mesleklerin-gunluk-gorevleri",
+        "title": "Mesleklerin günlük görevleri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 282,
+        "example_words": 57,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-mezuniyet-sonrasi-alternatifler",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-mezuniyet-sonrasi-alternatifler",
+        "title": "Mezuniyet sonrası alternatifler | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 362,
+        "example_words": 18,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-mezuniyet-sonrasi-alternatifler",
+        "title": "Mezuniyet sonrası alternatifler | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 279,
+        "example_words": 61,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "yok-atlas",
+        "osym"
+      ]
+    },
+    {
+      "slug": "kariyer-ogrenim-maliyetini-arastirma",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-ogrenim-maliyetini-arastirma",
+        "title": "Öğrenim maliyetini araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 370,
+        "example_words": 16,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-ogrenim-maliyetini-arastirma",
+        "title": "Öğrenim maliyetini araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 281,
+        "example_words": 66,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "gsb-services",
+        "yok-atlas"
+      ]
+    },
+    {
+      "slug": "kariyer-resm-program-kosullari",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-resm-program-kosullari",
+        "title": "Resmî program koşulları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 357,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-resm-program-kosullari",
+        "title": "Resmî program koşulları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 269,
+        "example_words": 60,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "yok-atlas",
+        "osym"
+      ]
+    },
+    {
+      "slug": "kariyer-sehir-ve-ulasim-kosullari",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-sehir-ve-ulasim-kosullari",
+        "title": "Şehir ve ulaşım koşulları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 354,
+        "example_words": 16,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-sehir-ve-ulasim-kosullari",
+        "title": "Şehir ve ulaşım koşulları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 6,
+        "main_text_words": 276,
+        "example_words": 59,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "gsb-services",
+        "yok-atlas"
+      ]
+    },
+    {
+      "slug": "kariyer-staj-ve-gonulluluk-firsatlari",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-staj-ve-gonulluluk-firsatlari",
+        "title": "Staj ve gönüllülük fırsatları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 357,
+        "example_words": 17,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-staj-ve-gonulluluk-firsatlari",
+        "title": "Staj ve gönüllülük fırsatları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 274,
+        "example_words": 61,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "onet",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "kariyer-universite-yasami-beklentileri",
+      "manuscript_file": "data/pdr-editorial-batch-22.json",
+      "before": {
+        "slug": "kariyer-universite-yasami-beklentileri",
+        "title": "Üniversite yaşamı beklentileri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 346,
+        "example_words": 18,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "no_direct_source_cards",
+          "short_example_or_example_missing"
+        ]
+      },
+      "after": {
+        "slug": "kariyer-universite-yasami-beklentileri",
+        "title": "Üniversite yaşamı beklentileri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+        "chapter_count": 6,
+        "main_text_words": 270,
+        "example_words": 60,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "gsb-services",
+        "yok-atlas"
+      ]
+    },
+    {
+      "slug": "kriz-acil-guvenlik-degerlendirmesi",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-acil-guvenlik-degerlendirmesi",
+        "title": "Acil güvenlik değerlendirmesi | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 200,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-acil-guvenlik-degerlendirmesi",
+        "title": "Acil güvenlik değerlendirmesi | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 303,
+        "example_words": 30,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-afet-sonrasi-okula-donus",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-afet-sonrasi-okula-donus",
+        "title": "Afet sonrası okula dönüş | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 196,
+        "example_words": 20,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-afet-sonrasi-okula-donus",
+        "title": "Afet sonrası okula dönüş | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 308,
+        "example_words": 32,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "who-pfa"
+      ]
+    },
+    {
+      "slug": "kriz-aile-ici-siddet-anlatimi",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-aile-ici-siddet-anlatimi",
+        "title": "Aile içi şiddet anlatımı | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 206,
+        "example_words": 16,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-aile-ici-siddet-anlatimi",
+        "title": "Aile içi şiddet anlatımı | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 309,
+        "example_words": 32,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "child-protection"
+      ]
+    },
+    {
+      "slug": "kriz-gorusmede-ayrinti-zorlamama",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-gorusmede-ayrinti-zorlamama",
+        "title": "Görüşmede ayrıntı zorlamama | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 185,
+        "example_words": 20,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-gorusmede-ayrinti-zorlamama",
+        "title": "Görüşmede ayrıntı zorlamama | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 291,
+        "example_words": 28,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "who-pfa"
+      ]
+    },
+    {
+      "slug": "kriz-guvenilir-yetiskin-destegi",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-guvenilir-yetiskin-destegi",
+        "title": "Güvenilir yetişkin desteği | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 182,
+        "example_words": 17,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-guvenilir-yetiskin-destegi",
+        "title": "Güvenilir yetişkin desteği | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 294,
+        "example_words": 26,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-guvenli-uzman-yonlendirme",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-guvenli-uzman-yonlendirme",
+        "title": "Güvenli uzman yönlendirme | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 188,
+        "example_words": 17,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-guvenli-uzman-yonlendirme",
+        "title": "Güvenli uzman yönlendirme | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 291,
+        "example_words": 28,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-guvenlik-planini-guncelleme",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-guvenlik-planini-guncelleme",
+        "title": "Güvenlik planını güncelleme | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 180,
+        "example_words": 16,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-guvenlik-planini-guncelleme",
+        "title": "Güvenlik planını güncelleme | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 293,
+        "example_words": 31,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "nice-self-harm"
+      ]
+    },
+    {
+      "slug": "kriz-ihmal-suphesini-bildirme",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-ihmal-suphesini-bildirme",
+        "title": "İhmal şüphesini bildirme | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 190,
+        "example_words": 15,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-ihmal-suphesini-bildirme",
+        "title": "İhmal şüphesini bildirme | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 292,
+        "example_words": 30,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "child-protection"
+      ]
+    },
+    {
+      "slug": "kriz-istismar-suphesinde-yaklasim",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-istismar-suphesinde-yaklasim",
+        "title": "İstismar şüphesinde yaklaşım | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 203,
+        "example_words": 20,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-istismar-suphesinde-yaklasim",
+        "title": "İstismar şüphesinde yaklaşım | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 301,
+        "example_words": 29,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "child-protection"
+      ]
+    },
+    {
+      "slug": "kriz-izlem-ve-destek-devri",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-izlem-ve-destek-devri",
+        "title": "İzlem ve destek devri | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 183,
+        "example_words": 14,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-izlem-ve-destek-devri",
+        "title": "İzlem ve destek devri | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 295,
+        "example_words": 29,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-kaybedilen-yakin-sonrasi-okul",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-kaybedilen-yakin-sonrasi-okul",
+        "title": "Kaybedilen yakın sonrası okul | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 184,
+        "example_words": 17,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-kaybedilen-yakin-sonrasi-okul",
+        "title": "Kaybedilen yakın sonrası okul | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 291,
+        "example_words": 28,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "who-pfa"
+      ]
+    },
+    {
+      "slug": "kriz-kendine-zarar-ifadesi",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-kendine-zarar-ifadesi",
+        "title": "Kendine zarar ifadesi | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 209,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-kendine-zarar-ifadesi",
+        "title": "Kendine zarar ifadesi | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 313,
+        "example_words": 27,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "nice-self-harm"
+      ]
+    },
+    {
+      "slug": "kriz-kriz-sonrasi-devamsizlik",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-kriz-sonrasi-devamsizlik",
+        "title": "Kriz sonrası devamsızlık | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 177,
+        "example_words": 14,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-kriz-sonrasi-devamsizlik",
+        "title": "Kriz sonrası devamsızlık | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 284,
+        "example_words": 30,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-kriz-sonrasi-sinif-rutini",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-kriz-sonrasi-sinif-rutini",
+        "title": "Kriz sonrası sınıf rutini | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 189,
+        "example_words": 17,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-kriz-sonrasi-sinif-rutini",
+        "title": "Kriz sonrası sınıf rutini | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 305,
+        "example_words": 31,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-krizde-ogrenci-mahremiyeti",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-krizde-ogrenci-mahremiyeti",
+        "title": "Krizde öğrenci mahremiyeti | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 182,
+        "example_words": 18,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-krizde-ogrenci-mahremiyeti",
+        "title": "Krizde öğrenci mahremiyeti | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 286,
+        "example_words": 31,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "kvkk-principles"
+      ]
+    },
+    {
+      "slug": "kriz-krizde-ogretmen-koordinasyonu",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-krizde-ogretmen-koordinasyonu",
+        "title": "Krizde öğretmen koordinasyonu | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 181,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-krizde-ogretmen-koordinasyonu",
+        "title": "Krizde öğretmen koordinasyonu | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 287,
+        "example_words": 29,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-krizde-veli-bilgilendirme",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-krizde-veli-bilgilendirme",
+        "title": "Krizde veli bilgilendirme | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 189,
+        "example_words": 15,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-krizde-veli-bilgilendirme",
+        "title": "Krizde veli bilgilendirme | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 292,
+        "example_words": 28,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-kurum-ici-acil-gorevler",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-kurum-ici-acil-gorevler",
+        "title": "Kurum içi acil görevler | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 181,
+        "example_words": 18,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-kurum-ici-acil-gorevler",
+        "title": "Kurum içi acil görevler | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 285,
+        "example_words": 27,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-ogrenciye-acil-yardim-yolu",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-ogrenciye-acil-yardim-yolu",
+        "title": "Öğrenciye acil yardım yolu | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 173,
+        "example_words": 18,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-ogrenciye-acil-yardim-yolu",
+        "title": "Öğrenciye acil yardım yolu | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 282,
+        "example_words": 27,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-okulda-zarar-verme-riski",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-okulda-zarar-verme-riski",
+        "title": "Okulda zarar verme riski | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 186,
+        "example_words": 16,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-okulda-zarar-verme-riski",
+        "title": "Okulda zarar verme riski | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 292,
+        "example_words": 30,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-risk-bildirimini-kaydetme",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-risk-bildirimini-kaydetme",
+        "title": "Risk bildirimini kaydetme | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 184,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-risk-bildirimini-kaydetme",
+        "title": "Risk bildirimini kaydetme | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 287,
+        "example_words": 31,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "kvkk-principles"
+      ]
+    },
+    {
+      "slug": "kriz-supheli-olayda-bilgi-guvenligi",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-supheli-olayda-bilgi-guvenligi",
+        "title": "Şüpheli olayda bilgi güvenliği | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 174,
+        "example_words": 16,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-supheli-olayda-bilgi-guvenligi",
+        "title": "Şüpheli olayda bilgi güvenliği | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 287,
+        "example_words": 29,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "kvkk-principles"
+      ]
+    },
+    {
+      "slug": "kriz-tehdit-iceren-akran-davranisi",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-tehdit-iceren-akran-davranisi",
+        "title": "Tehdit içeren akran davranışı | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 189,
+        "example_words": 22,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-tehdit-iceren-akran-davranisi",
+        "title": "Tehdit içeren akran davranışı | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 297,
+        "example_words": 30,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "kriz-zorlayici-olay-sonrasi-sinif",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-zorlayici-olay-sonrasi-sinif",
+        "title": "Zorlayıcı olay sonrası sınıf | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 195,
+        "example_words": 19,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-zorlayici-olay-sonrasi-sinif",
+        "title": "Zorlayıcı olay sonrası sınıf | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 301,
+        "example_words": 29,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "who-pfa"
+      ]
+    },
+    {
+      "slug": "kriz-zorlayici-olayda-soylenti",
+      "manuscript_file": "data/pdr-editorial-batch-20.json",
+      "before": {
+        "slug": "kriz-zorlayici-olayda-soylenti",
+        "title": "Zorlayıcı olayda söylenti | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 182,
+        "example_words": 16,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "short_example_or_example_missing",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "kriz-zorlayici-olayda-soylenti",
+        "title": "Zorlayıcı olayda söylenti | Kriz ve Güvenlik | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 292,
+        "example_words": 29,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "lgs-kaygi-grup-calismasi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "lgs-kaygi-grup-calismasi",
+        "title": "LGS Kaygısı İçin Grup Çalışması | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 135,
+        "example_words": 33,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "lgs-kaygi-grup-calismasi",
+        "title": "LGS Kaygısı İçin Grup Çalışması | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 274,
+        "example_words": 33,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "nakille-gelen-ogrenci-uyumu",
+      "manuscript_file": "data/pdr-editorial-batch-07.json",
+      "before": {
+        "slug": "nakille-gelen-ogrenci-uyumu",
+        "title": "Nakille Gelen Öğrencinin Okula Uyumu | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 232,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "nakille-gelen-ogrenci-uyumu",
+        "title": "Nakille Gelen Öğrencinin Okula Uyumu | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 254,
+        "example_words": 28,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "ogrenci-hedef-belirleme-gorusmesi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "ogrenci-hedef-belirleme-gorusmesi",
+        "title": "Öğrenciyle Gerçekçi Hedef Belirleme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 128,
+        "example_words": 29,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "ogrenci-hedef-belirleme-gorusmesi",
+        "title": "Öğrenciyle Gerçekçi Hedef Belirleme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 268,
+        "example_words": 29,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "ogrenci-intihar-ifadesinde-acil-destek",
+      "manuscript_file": "data/pdr-editorial-batch-10.json",
+      "before": {
+        "slug": "ogrenci-intihar-ifadesinde-acil-destek",
+        "title": "Öğrenci İntihar İfadesinde Acil Destek | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 267,
+        "example_words": 32,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "ogrenci-intihar-ifadesinde-acil-destek",
+        "title": "Öğrenci İntihar İfadesinde Acil Destek | PDR Kampüs",
+        "chapter_count": 9,
+        "main_text_words": 409,
+        "example_words": 75,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "nice-self-harm"
+      ]
+    },
+    {
+      "slug": "ogrenci-risk-bildirimi-ilk-adim",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "ogrenci-risk-bildirimi-ilk-adim",
+        "title": "Öğrenci Risk Bildiriminde İlk Adımlar | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 153,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "ogrenci-risk-bildirimi-ilk-adim",
+        "title": "Öğrenci Risk Bildiriminde İlk Adımlar | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 302,
+        "example_words": 81,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "ogretmen-zorbalik-gozlem-formu",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "ogretmen-zorbalik-gozlem-formu",
+        "title": "Öğretmen İçin Zorbalık Gözlem Rehberi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 134,
+        "example_words": 23,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "ogretmen-zorbalik-gozlem-formu",
+        "title": "Öğretmen İçin Zorbalık Gözlem Rehberi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 274,
+        "example_words": 23,
+        "resource_cards": 11,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-guidance",
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "ogretmenle-ogrenci-vaka-gorusmesi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "ogretmenle-ogrenci-vaka-gorusmesi",
+        "title": "Öğretmenle Öğrenci Destek Görüşmesi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 130,
+        "example_words": 24,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "ogretmenle-ogrenci-vaka-gorusmesi",
+        "title": "Öğretmenle Öğrenci Destek Görüşmesi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 272,
+        "example_words": 24,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "okul-aidiyetini-gelistirme",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "okul-aidiyetini-gelistirme",
+        "title": "Okul Aidiyetini Geliştirme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 138,
+        "example_words": 24,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "okul-aidiyetini-gelistirme",
+        "title": "Okul Aidiyetini Geliştirme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 281,
+        "example_words": 24,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "okulda-ihmal-istismar-bildirimi",
+      "manuscript_file": "data/pdr-editorial-batch-04.json",
+      "before": {
+        "slug": "okulda-ihmal-istismar-bildirimi",
+        "title": "İhmal ve İstismar Şüphesinde İlk Okul Adımları | PDR Kampüs",
+        "chapter_count": 9,
+        "main_text_words": 237,
+        "example_words": 46,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "okulda-ihmal-istismar-bildirimi",
+        "title": "İhmal ve İstismar Şüphesinde İlk Okul Adımları | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 384,
+        "example_words": 77,
+        "resource_cards": 11,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "child-protection"
+      ]
+    },
+    {
+      "slug": "okulda-ihmal-suphesinde-ilk-adim",
+      "manuscript_file": "data/pdr-editorial-batch-10.json",
+      "before": {
+        "slug": "okulda-ihmal-suphesinde-ilk-adim",
+        "title": "Okulda İhmal Şüphesinde İlk Adım | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 258,
+        "example_words": 25,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "okulda-ihmal-suphesinde-ilk-adim",
+        "title": "Okulda İhmal Şüphesinde İlk Adım | PDR Kampüs",
+        "chapter_count": 9,
+        "main_text_words": 395,
+        "example_words": 73,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "child-protection"
+      ]
+    },
+    {
+      "slug": "okulda-kriz-ilk-degerlendirme",
+      "manuscript_file": "data/pdr-editorial-batch-02.json",
+      "before": {
+        "slug": "okulda-kriz-ilk-degerlendirme",
+        "title": "Okulda Kriz Bildirimi: İlk Değerlendirme ve Güvenli Yönlendirme | PDR Kampüs",
+        "chapter_count": 9,
+        "main_text_words": 242,
+        "example_words": 45,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "okulda-kriz-ilk-degerlendirme",
+        "title": "Okulda Kriz Bildirimi: İlk Değerlendirme ve Güvenli Yönlendirme | PDR Kampüs",
+        "chapter_count": 9,
+        "main_text_words": 389,
+        "example_words": 67,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "okulda-kriz-sonrasi-rutin",
+      "manuscript_file": "data/pdr-editorial-batch-05.json",
+      "before": {
+        "slug": "okulda-kriz-sonrasi-rutin",
+        "title": "Kriz Sonrası Sınıf Rutinine Dönüş | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 162,
+        "example_words": 29,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "okulda-kriz-sonrasi-rutin",
+        "title": "Kriz Sonrası Sınıf Rutinine Dönüş | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 307,
+        "example_words": 78,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "okulda-kriz-sonrasi-sinif-bilgilendirmesi",
+      "manuscript_file": "data/pdr-editorial-batch-09.json",
+      "before": {
+        "slug": "okulda-kriz-sonrasi-sinif-bilgilendirmesi",
+        "title": "Okul Krizi Sonrası Sınıf Bilgilendirmesi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 245,
+        "example_words": 26,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250",
+          "no_direct_source_cards",
+          "specialist_review_required"
+        ]
+      },
+      "after": {
+        "slug": "okulda-kriz-sonrasi-sinif-bilgilendirmesi",
+        "title": "Okul Krizi Sonrası Sınıf Bilgilendirmesi | PDR Kampüs",
+        "chapter_count": 9,
+        "main_text_words": 375,
+        "example_words": 68,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "specialist_review_required"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis"
+      ]
+    },
+    {
+      "slug": "okulda-yalnizlik-ogrenci-gorusmesi",
+      "manuscript_file": "data/pdr-editorial-batch-08.json",
+      "before": {
+        "slug": "okulda-yalnizlik-ogrenci-gorusmesi",
+        "title": "Okulda Yalnızlık Hisseden Öğrenciyle Görüşme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 219,
+        "example_words": 25,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "okulda-yalnizlik-ogrenci-gorusmesi",
+        "title": "Okulda Yalnızlık Hisseden Öğrenciyle Görüşme | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 285,
+        "example_words": 25,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "ortaokul-akran-baskisi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "ortaokul-akran-baskisi",
+        "title": "Ortaokulda Akran Baskısıyla Baş Etme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 138,
+        "example_words": 31,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "ortaokul-akran-baskisi",
+        "title": "Ortaokulda Akran Baskısıyla Baş Etme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 277,
+        "example_words": 31,
+        "resource_cards": 3,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "oz-saygi-sinif-etkinligi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "oz-saygi-sinif-etkinligi",
+        "title": "Öz Saygıyı Güçlendirme Sınıf Etkinliği | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 137,
+        "example_words": 26,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "oz-saygi-sinif-etkinligi",
+        "title": "Öz Saygıyı Güçlendirme Sınıf Etkinliği | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 282,
+        "example_words": 26,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-ailenin-gozlem-katkisi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-ailenin-gozlem-katkisi",
+        "title": "Ailenin gözlem katkısı | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 288,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-ailenin-gozlem-katkisi",
+        "title": "Ailenin gözlem katkısı | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 269,
+        "example_words": 62,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-aileyle-donemlik-hedef",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-aileyle-donemlik-hedef",
+        "title": "Aileyle dönemlik hedef | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 288,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-aileyle-donemlik-hedef",
+        "title": "Aileyle dönemlik hedef | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 278,
+        "example_words": 64,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-akran-katiliminin-guvenligi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-akran-katiliminin-guvenligi",
+        "title": "Akran katılımının güvenliği | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 282,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-akran-katiliminin-guvenligi",
+        "title": "Akran katılımının güvenliği | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 273,
+        "example_words": 65,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-alternatif-katilim-yontemi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-alternatif-katilim-yontemi",
+        "title": "Alternatif katılım yöntemi | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 276,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-alternatif-katilim-yontemi",
+        "title": "Alternatif katılım yöntemi | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 259,
+        "example_words": 59,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-degerlendirme-kaydi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-bep-degerlendirme-kaydi",
+        "title": "BEP değerlendirme kaydı | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 286,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-bep-degerlendirme-kaydi",
+        "title": "BEP değerlendirme kaydı | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 269,
+        "example_words": 61,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-ekibi-gorev-dagilimi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-bep-ekibi-gorev-dagilimi",
+        "title": "BEP ekibi görev dağılımı | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 299,
+        "example_words": 31,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-bep-ekibi-gorev-dagilimi",
+        "title": "BEP ekibi görev dağılımı | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 277,
+        "example_words": 62,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-hedef-olcutu",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-bep-hedef-olcutu",
+        "title": "BEP hedef ölçütü | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 288,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-bep-hedef-olcutu",
+        "title": "BEP hedef ölçütü | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 267,
+        "example_words": 63,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-kazanim-izleme",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-bep-kazanim-izleme",
+        "title": "BEP kazanım izleme | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 282,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-bep-kazanim-izleme",
+        "title": "BEP kazanım izleme | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 272,
+        "example_words": 64,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-performans-gozlemi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-bep-performans-gozlemi",
+        "title": "BEP performans gözlemi | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 278,
+        "example_words": 27,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-bep-performans-gozlemi",
+        "title": "BEP performans gözlemi | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 266,
+        "example_words": 61,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-toplanti-gundemi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-bep-toplanti-gundemi",
+        "title": "BEP toplantı gündemi | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 288,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-bep-toplanti-gundemi",
+        "title": "BEP toplantı gündemi | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 278,
+        "example_words": 62,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-destek-egitim-koordinasyonu",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-destek-egitim-koordinasyonu",
+        "title": "Destek eğitim koordinasyonu | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 282,
+        "example_words": 27,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-destek-egitim-koordinasyonu",
+        "title": "Destek eğitim koordinasyonu | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 283,
+        "example_words": 63,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-duyusal-gereksinime-duyarlilik",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-duyusal-gereksinime-duyarlilik",
+        "title": "Duyusal gereksinime duyarlılık | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 286,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-duyusal-gereksinime-duyarlilik",
+        "title": "Duyusal gereksinime duyarlılık | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 270,
+        "example_words": 60,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-egitimde-erisilebilir-materyal",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-egitimde-erisilebilir-materyal",
+        "title": "Eğitimde erişilebilir materyal | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 282,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-egitimde-erisilebilir-materyal",
+        "title": "Eğitimde erişilebilir materyal | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 262,
+        "example_words": 61,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-farkli-yanit-verme-yollari",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-farkli-yanit-verme-yollari",
+        "title": "Farklı yanıt verme yolları | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 291,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-farkli-yanit-verme-yollari",
+        "title": "Farklı yanıt verme yolları | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 277,
+        "example_words": 66,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-gecislerde-ongorulebilirlik",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-gecislerde-ongorulebilirlik",
+        "title": "Geçişlerde öngörülebilirlik | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 283,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-gecislerde-ongorulebilirlik",
+        "title": "Geçişlerde öngörülebilirlik | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 267,
+        "example_words": 62,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-gorev-suresi-uyarlamasi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-gorev-suresi-uyarlamasi",
+        "title": "Görev süresi uyarlaması | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 288,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-gorev-suresi-uyarlamasi",
+        "title": "Görev süresi uyarlaması | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 276,
+        "example_words": 64,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-gorsel-yonerge-uyarlamasi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-gorsel-yonerge-uyarlamasi",
+        "title": "Görsel yönerge uyarlaması | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 284,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-gorsel-yonerge-uyarlamasi",
+        "title": "Görsel yönerge uyarlaması | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 270,
+        "example_words": 62,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-islevsel-iletisim-firsatlari",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-islevsel-iletisim-firsatlari",
+        "title": "İşlevsel iletişim fırsatları | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 289,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-islevsel-iletisim-firsatlari",
+        "title": "İşlevsel iletişim fırsatları | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 273,
+        "example_words": 60,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-kapsayici-grup-etkinligi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-kapsayici-grup-etkinligi",
+        "title": "Kapsayıcı grup etkinliği | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 290,
+        "example_words": 30,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-kapsayici-grup-etkinligi",
+        "title": "Kapsayıcı grup etkinliği | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 276,
+        "example_words": 64,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-kaynastirma-sinif-destegi",
+      "manuscript_file": "data/pdr-editorial-batch-02.json",
+      "before": {
+        "slug": "ozel-egitim-kaynastirma-sinif-destegi",
+        "title": "Kaynaştırma Öğrencisi İçin Sınıf İçi Destek ve Uyarlamalar | PDR Kampüs",
+        "chapter_count": 9,
+        "main_text_words": 228,
+        "example_words": 39,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-kaynastirma-sinif-destegi",
+        "title": "Kaynaştırma Öğrencisi İçin Sınıf İçi Destek ve Uyarlamalar | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 365,
+        "example_words": 71,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-ogrencinin-guclu-yonleri",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-ogrencinin-guclu-yonleri",
+        "title": "Öğrencinin güçlü yönleri | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 286,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-ogrencinin-guclu-yonleri",
+        "title": "Öğrencinin güçlü yönleri | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 275,
+        "example_words": 62,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-okul-ici-kurum-is-birligi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-okul-ici-kurum-is-birligi",
+        "title": "Okul içi kurum iş birliği | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 286,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-okul-ici-kurum-is-birligi",
+        "title": "Okul içi kurum iş birliği | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 278,
+        "example_words": 64,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-olumlu-davranis-destegi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-olumlu-davranis-destegi",
+        "title": "Olumlu davranış desteği | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 278,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-olumlu-davranis-destegi",
+        "title": "Olumlu davranış desteği | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 271,
+        "example_words": 64,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-ram-degerlendirmesi-sonrasi",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-ram-degerlendirmesi-sonrasi",
+        "title": "RAM değerlendirmesi sonrası | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 288,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-ram-degerlendirmesi-sonrasi",
+        "title": "RAM değerlendirmesi sonrası | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 281,
+        "example_words": 67,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-sinif-ici-destek-duzeni",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-sinif-ici-destek-duzeni",
+        "title": "Sınıf içi destek düzeni | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 287,
+        "example_words": 29,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-sinif-ici-destek-duzeni",
+        "title": "Sınıf içi destek düzeni | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 272,
+        "example_words": 64,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-uyarlama-ise-yariyor-mu",
+      "manuscript_file": "data/pdr-editorial-batch-18.json",
+      "before": {
+        "slug": "ozel-egitim-uyarlama-ise-yariyor-mu",
+        "title": "Uyarlama işe yarıyor mu | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 281,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-uyarlama-ise-yariyor-mu",
+        "title": "Uyarlama işe yarıyor mu | Özel Eğitim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 271,
+        "example_words": 63,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-veli-isbirligi",
+      "manuscript_file": "data/pdr-editorial-batch-05.json",
+      "before": {
+        "slug": "ozel-egitim-veli-isbirligi",
+        "title": "Özel Eğitimde Veli İş Birliği Planı | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 169,
+        "example_words": 26,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "ozel-egitim-veli-isbirligi",
+        "title": "Özel Eğitimde Veli İş Birliği Planı | PDR Kampüs",
+        "chapter_count": 8,
+        "main_text_words": 305,
+        "example_words": 73,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "ram-yonlendirme-gorusmesi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "ram-yonlendirme-gorusmesi",
+        "title": "RAM Yönlendirmesi Öncesi Görüşme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 132,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "ram-yonlendirme-gorusmesi",
+        "title": "RAM Yönlendirmesi Öncesi Görüşme | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 271,
+        "example_words": 28,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-bep"
+      ]
+    },
+    {
+      "slug": "rehberlik-faaliyet-raporu",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "rehberlik-faaliyet-raporu",
+        "title": "Rehberlik Faaliyet Raporu Yazma | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 142,
+        "example_words": 29,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "rehberlik-faaliyet-raporu",
+        "title": "Rehberlik Faaliyet Raporu Yazma | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 286,
+        "example_words": 29,
+        "resource_cards": 11,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "kvkk-principles",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "rehberlik-servisine-basvuru",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "rehberlik-servisine-basvuru",
+        "title": "Rehberlik Servisine Nasıl Başvurulur? | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 136,
+        "example_words": 25,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "rehberlik-servisine-basvuru",
+        "title": "Rehberlik Servisine Nasıl Başvurulur? | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 281,
+        "example_words": 25,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "sinav-oz-bakim-plani",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "sinav-oz-bakim-plani",
+        "title": "Sınav Döneminde Öz Bakım Planı | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 135,
+        "example_words": 27,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "sinav-oz-bakim-plani",
+        "title": "Sınav Döneminde Öz Bakım Planı | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 284,
+        "example_words": 27,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "sinav-sonrasi-geri-bildirim",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "sinav-sonrasi-geri-bildirim",
+        "title": "Sınav Sonrası Öğrenciye Geri Bildirim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 133,
+        "example_words": 29,
+        "resource_cards": 1,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "sinav-sonrasi-geri-bildirim",
+        "title": "Sınav Sonrası Öğrenciye Geri Bildirim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 273,
+        "example_words": 29,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "sinif-rehberlik-etkinligi-tasarimi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "sinif-rehberlik-etkinligi-tasarimi",
+        "title": "Sınıf Rehberliği Etkinliği Tasarlama | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 142,
+        "example_words": 31,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "sinif-rehberlik-etkinligi-tasarimi",
+        "title": "Sınıf Rehberliği Etkinliği Tasarlama | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 285,
+        "example_words": 31,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "sosyal-duygusal-hedef-yazma",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "sosyal-duygusal-hedef-yazma",
+        "title": "Sosyal Duygusal Öğrenme Hedefi Yazma | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 123,
+        "example_words": 27,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_125",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "sosyal-duygusal-hedef-yazma",
+        "title": "Sosyal Duygusal Öğrenme Hedefi Yazma | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 268,
+        "example_words": 27,
+        "resource_cards": 3,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-program"
+      ]
+    },
+    {
+      "slug": "uyku-ve-ogrenme-ogrenci",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "uyku-ve-ogrenme-ogrenci",
+        "title": "Uyku ve Öğrenme: Öğrenci Rehberliği | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 141,
+        "example_words": 32,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "uyku-ve-ogrenme-ogrenci",
+        "title": "Uyku ve Öğrenme: Öğrenci Rehberliği | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 284,
+        "example_words": 32,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "veli-iletisim-etkinligi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "veli-iletisim-etkinligi",
+        "title": "Velilerle İletişim Becerileri Etkinliği | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 131,
+        "example_words": 25,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "veli-iletisim-etkinligi",
+        "title": "Velilerle İletişim Becerileri Etkinliği | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 268,
+        "example_words": 25,
+        "resource_cards": 10,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "veli-toplantisinda-gizlilik",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "veli-toplantisinda-gizlilik",
+        "title": "Veli Toplantılarında Öğrenci Gizliliği | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 126,
+        "example_words": 28,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "veli-toplantisinda-gizlilik",
+        "title": "Veli Toplantılarında Öğrenci Gizliliği | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 271,
+        "example_words": 28,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "kvkk-principles",
+        "meb-guidance"
+      ]
+    },
+    {
+      "slug": "yas-sonrasi-veli-iletisimi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "yas-sonrasi-veli-iletisimi",
+        "title": "Kayıp Sonrasında Veliyle İletişim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 139,
+        "example_words": 25,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "yas-sonrasi-veli-iletisimi",
+        "title": "Kayıp Sonrasında Veliyle İletişim | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 284,
+        "example_words": 25,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-crisis",
+        "who-pfa"
+      ]
+    },
+    {
+      "slug": "yks-bolum-meslek-arastirmasi",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "yks-bolum-meslek-arastirmasi",
+        "title": "YKS Bölüm ve Meslek Araştırması | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 139,
+        "example_words": 30,
+        "resource_cards": 0,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250",
+          "no_direct_source_cards"
+        ]
+      },
+      "after": {
+        "slug": "yks-bolum-meslek-arastirmasi",
+        "title": "YKS Bölüm ve Meslek Araştırması | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 288,
+        "example_words": 30,
+        "resource_cards": 2,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "yok-atlas",
+        "osym"
+      ]
+    },
+    {
+      "slug": "zorbalik-veli-ilk-bilgilendirme",
+      "manuscript_file": "data/pdr-editorial-batch-06.json",
+      "before": {
+        "slug": "zorbalik-veli-ilk-bilgilendirme",
+        "title": "Zorbalık Sonrası Veli Bilgilendirmesi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 136,
+        "example_words": 26,
+        "resource_cards": 9,
+        "issues": [
+          "candidate_sources_not_editorially_verified",
+          "chapter_under_15_words",
+          "main_text_under_250"
+        ]
+      },
+      "after": {
+        "slug": "zorbalik-veli-ilk-bilgilendirme",
+        "title": "Zorbalık Sonrası Veli Bilgilendirmesi | PDR Kampüs",
+        "chapter_count": 7,
+        "main_text_words": 276,
+        "example_words": 26,
+        "resource_cards": 11,
+        "issues": [
+          "candidate_sources_not_editorially_verified"
+        ]
+      },
+      "primary_reference_ids": [
+        "meb-guidance",
+        "meb-program"
+      ]
+    }
+  ],
+  "remaining_issues": {
+    "under_250": 221,
+    "missing_source_cards": 137,
+    "candidate_pairs": 840,
+    "identical_groups": [
+      {
+        "slugs": [
+          "sinav-aile-deneme-sonucu-iletisimi",
+          "sinav-deneme-analizi-gorusmesi",
+          "sinav-dusuk-puan-sonrasi-destek",
+          "sinav-gercekci-net-hedefi",
+          "sinav-kiyaslama-dilini-azaltma",
+          "sinav-konu-eksiklerini-belirleme",
+          "sinav-kucuk-calisma-oturumlari",
+          "sinav-lgs-yerlestirme-bilgisi",
+          "sinav-ogrenme-stratejisi-secme",
+          "sinav-okul-ve-kurs-yuk-dengesi",
+          "sinav-program-kosulu-inceleme",
+          "sinav-sinav-gunu-hazirligi",
+          "sinav-sinav-kaygisi-erken-belirtiler",
+          "sinav-sinav-oncesi-kaygi-dusunceleri",
+          "sinav-sinav-sonrasi-belirsizlik",
+          "sinav-sinav-sonucunu-aileye-aciklama",
+          "sinav-sinavda-yardim-isteme",
+          "sinav-tekrara-baslama-stratejisi",
+          "sinav-tercih-bilgi-kaynagi",
+          "sinav-uyku-ve-dinlenme-plani",
+          "sinav-yanlis-sorulari-siniflandirma",
+          "sinav-yeni-doneme-gecis-hedefi",
+          "sinav-yks-tercih-sirasi-degerlendirme",
+          "sinav-yuksek-beklenti-baskisi",
+          "sinav-zaman-baskisini-yonetme"
+        ],
+        "sample": "öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar ön"
+      },
+      {
+        "slugs": [
+          "zorbalik-akran-arabuluculugu-ayrimi",
+          "zorbalik-akran-grubunda-guc-farki",
+          "zorbalik-anonim-bildirim-sinirlari",
+          "zorbalik-dijital-kaniti-koruma",
+          "zorbalik-fiziksel-zorbalikta-guvenlik",
+          "zorbalik-grup-mudahalesi-sinirlari",
+          "zorbalik-grup-sohbetinde-alay",
+          "zorbalik-guvenli-okul-iklimi-geri-bildirimi",
+          "zorbalik-lakapla-hedef-gosterme",
+          "zorbalik-magdur-ogrenciyi-dinleme",
+          "zorbalik-misilleme-riskini-izleme",
+          "zorbalik-ogretmenden-gozlem-alma",
+          "zorbalik-okul-ici-koruyucu-ag",
+          "zorbalik-olay-sonrasi-izleme-tarihi",
+          "zorbalik-oyun-alaninda-dislanma",
+          "zorbalik-sinif-dilinde-ayrimcilik",
+          "zorbalik-sinifta-soylenti-dongusu",
+          "zorbalik-sosyal-dislama-davranisi",
+          "zorbalik-sozlu-zorbalik-bildirimi",
+          "zorbalik-tanik-ogrenciyi-destekleme",
+          "zorbalik-tekrarlanan-olay-kayitlari",
+          "zorbalik-teneffus-guvenligi-plani",
+          "zorbalik-veliye-guvenli-bilgilendirme",
+          "zorbalik-zarar-verici-davranis-gorusmesi",
+          "zorbalik-zorbalik-sonrasi-aidiyet"
+        ],
+        "sample": "öğretmen rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın"
+      }
+    ],
+    "specialist_review_required": 33,
+    "candidate_source_relevance_unverified": 500
+  },
+  "validation": {
+    "auditor_regressions_passed": 2,
+    "priority_regressions_passed": 5,
+    "javascript_passed": 46,
+    "structural_gate": "passed",
+    "500_report_integrity": "passed",
+    "publication_approved": false,
+    "wider_python_discovery": "84 tests initially ran: two environment errors (localhost permission, missing openpyxl), four missing pilot-fixture skips. Both affected modules then passed (6 tests each) with suitable runtime/localhost access. No unresolved test assertion failure."
+  },
+  "limitations": [
+    "Source identity and limited relevance are not expert endorsement. Evidence records distinguish direct reads, search-index verification, and failed live fetches.",
+    "No clinical/legal specialist approval or remote PDF-by-PDF full relevance validation.",
+    "No visual/device approval. Production pages and deployment configuration are unchanged."
+  ]
+}

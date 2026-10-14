@@ -869,11 +869,7 @@
       ],
       [
         "Yetişkin sorumluluğu",
-        "Sınır ihlallerini önlemek yalnızca çocuğun görevi değildir. Okulun güvenlik ve koruma yükümlülükleri uygulanmalıdır."
-      ],
-      [
-        "Şüpheli istismarda izlenecek yol",
-        "Öğrenci özel bir olay bildirirse sorgulayıcı tekrar sorular sormadan dinleyin; gecikmeden yetkili bildirim ve koruma sürecini işletin."
+        "Sınır ihlallerini önlemek yalnızca çocuğun görevi değildir. Okulun güvenlik ve koruma yükümlülükleri uygulanmalıdır. Öğrenci özel bir olay bildirirse sorgulayıcı tekrar sorular sormadan dinleyin; gecikmeden yetkili bildirim ve koruma sürecini işletin."
       ],
       [
         "Okul uygulamasından sonra",
@@ -886,9 +882,17 @@
       [
         "Çocuğun katılımını ve güvenliğini izleme",
         "Kapanışta çocuklardan kendi aile öykülerini değil kurgusal karakterin ne yapabileceğini göstermelerini isteyin. Öğrenci özel bir olay bildirirse sorgulayıcı tekrar sorular sormadan dinleyin; gecikmeden yetkili bildirim ve koruma sürecini işletin. Sonraki okul gününde öğretmen kısa bir gözlem yaparak becerinin etkinlik dışında kullanılıp kullanılmadığını kontrol etsin. Çocuğun kaç kez katıldığı kadar rahatlık, gönüllülük ve yardım isteme deneyimi de önemlidir. Başka bir öğrencinin güvenliğini ilgilendiren gerçek bildirim ortaya çıkarsa sınıf uygulamasını durdurup yetkili okul desteğini başlatın."
+      ],
+      [
+        "Reddetmeyi çocuğun tek koruması saymamak",
+        "Beden sınırı etkinliğinde kurgusal karakterle hayır deme, uzaklaşma ve güvenilir yetişkine ulaşma seçenekleri çalışılabilir. Çocuk donakalabilir veya karşı çıkamayabilir; böyle bir durumda sorumluluk ona yüklenmez. Öğrenciye istemediği teması başına gelmiş gibi canlandırma zorunluluğu konmaz. Gerçek bir olay bildirimi varsa etkinlikten ayrı güvenli dinleme ve gerekli yetkili koruma süreci işletilir. Yetişkin çocuğu yönlendirici ayrıntı sorularıyla sorgulamaz. Güvenli yardımcı kişi ve alternatif erişim yolu yaşa uygun biçimde gösterilir; mutlak sır sözü verilmez."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal karakter sarılmak istemediğini söylediğinde yetişkin onun sınırını kabul eder. Sınıf çalışması çocuğun yeterince güçlü olup olmadığını sınayan oyuna çevrilmez. Sonraki değerlendirmede öğrenciler olay anlatmak yerine hangi durumda hangi güvenilir yetişkinden yardım isteyebileceğini gösterebilir. Gerçek zarar bildirimi için arkadaşlara gözetim veya kanıt toplama görevi verilmez. Okulun güvenli ortam ve çocuk koruma yükümlülükleri çocuğun iletişim becerisinden bağımsızdır; güvenlik gereksinimi belirlenince yetkili süreç gecikmeden kullanılır."
       ]
     ],
-    "example": "Örnek: Kurgusal çocuk istemediği sarılmayı reddeder. Öğrenciler uzaklaşabileceği ve yardım isteyebileceği okul yetişkinlerini haritada bulur.",
+    "example": "Kurgusal uygulama: Kurgusal karakter sarılmak istemediğini söylediğinde yetişkin onun sınırını kabul eder. Sınıf çalışması çocuğun yeterince güçlü olup olmadığını sınayan oyuna çevrilmez. Sonraki değerlendirmede öğrenciler olay anlatmak yerine hangi durumda hangi güvenilir yetişkinden yardım isteyebileceğini gösterebilir. Gerçek zarar bildirimi için arkadaşlara gözetim veya kanıt toplama görevi verilmez. Okulun güvenli ortam ve çocuk koruma yükümlülükleri çocuğun iletişim becerisinden bağımsızdır; güvenlik gereksinimi belirlenince yetkili süreç gecikmeden kullanılır.",
     "check": [
       "Çocuk istenmeyen teması anlatıyorsa önce güvende olup olmadığını değerlendirin.",
       "Kurgusal oyunda kısa ve net reddetme, uzaklaşma ve güvenilir yetişkine haber verme seçenekleri ele alınır.",

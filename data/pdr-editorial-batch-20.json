@@ -9,16 +9,16 @@
         "Öğrencinin veya çevresindekilerin o anda zarar görme tehlikesini gecikmeden belirleyin. Sınıf içi etkinlik veya uzun görüşme yapmak için acil güvenlik yanıtını ertelemeyin."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Tehlikeyi görüşmeden önce ayırmak",
+        "İlk karar öğrencinin anlatısını tamamlatmak değil bulunduğu ortamın güvenli olup olmadığıdır. Devam eden saldırı, ciddi yaralanma veya yakın zarar tehlikesi varsa güvenli yetişkin gözetimini sağlayın ve yetkili acil müdahaleyi başlatın. Okul personeli kendi güvenliğini tehlikeye atacak fiziksel müdahaleye girişmemelidir. Uzun form doldurmak, risk puanı hesaplamak veya veliye ulaşmayı beklemek acil yanıtın önüne geçmemelidir."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. acil güvenlik değerlendirmesi konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Gözetim ve haberleşmeyi ayrı görevlendirmek",
+        "Bir yetişkin öğrencinin yanında kalırken başka görevli kurum planındaki acil sağlık ve koruma kanalına ulaşır. Görüşmede yalnızca olay yeri, o andaki tehlike ve gerekli yardım bilgisi aktarılır. Yetkiliye ulaşılamazsa alternatif iletişim yolu kullanılır; cevapsız arama güvenli devir sayılmaz. Devralan kişinin görevi, zaman ve öğrencinin bulunduğu güvenli alan kayıt altına alınır."
       ],
       [
         "İzlem ve güvenli devir",
@@ -31,9 +31,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Acil başvurunun yapıldığı zaman, iletişime geçilen yetkili görev ve öğrencinin güvenli devrinin tamamlanıp tamamlanmadığı ayrı kaydedilmelidir. Bir görevlinin telefonu açmaması müdahalenin sona erdiği anlamına gelmez; kurum planındaki alternatif yetkili iletişim yolu kullanılmalıdır."
+      ],
+      [
+        "İlk yanıtı tamamlanmış sayma ölçütü",
+        "Öğrencinin sakin görünmesi, tehlikenin sona erdiğini kanıtlamaz. Acil ekip gelene veya yetkili güvenli devir gerçekleşene kadar gözetim sorumluluğu açık kalır. Ders programına dönme kararı sadece zil saatine göre verilmez. Müdahale sonrasında sınıfa dönüş, güvenli iletişim kişisi ve yeni tehlike bildirim yolu öğrenci için anlaşılır biçimde ayrıca planlanır."
       ]
     ],
-    "example": "Öğrenci açık tehlike bildirdiğinde güvenli yetişkin gözetimi sağlanır ve kurumun yetkili acil yardım kanalı hemen devreye alınır.",
+    "example": "Kurgusal senaryo: Öğrenci teneffüste yakın zarar tehlikesi bildirir. Bir yetkili yetişkin güvenli gözetimde kalırken başka görevli kurumun acil yardım yolunu işletir; telefon cevapsız kaldığında alternatif yetkili kanala geçilir.",
     "check": [
       "Öğrencinin veya çevresindekilerin o anda zarar görme tehlikesini gecikmeden belirleyin.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -47,8 +51,8 @@
         "Öğrencinin veya çevresindekilerin o anda zarar görme tehlikesini gecikmeden belirleyin. Sınıf içi etkinlik veya uzun görüşme yapmak için acil güvenlik yanıtını ertelemeyin."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "İlk yanıtı tamamlanmış sayma ölçütü neden önemlidir?",
+        "Öğrencinin sakin görünmesi, tehlikenin sona erdiğini kanıtlamaz. Acil ekip gelene veya yetkili güvenli devir gerçekleşene kadar gözetim sorumluluğu açık kalır. Ders programına dönme kararı sadece zil saatine göre verilmez. Müdahale sonrasında sınıfa dönüş, güvenli iletişim kişisi ve yeni tehlike bildirim yolu öğrenci için anlaşılır biçimde ayrıca planlanır."
       ]
     ],
     "search_terms": [
@@ -66,16 +70,16 @@
         "Öğrencinin söylediği kritik ifadeyi anlamını değiştirmeden, tarih ve bağlamıyla kaydedin. Tanı, suçlama veya kanıtlanmamış yorum eklemeyin."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "İfade, gözlem ve yorumu ayırmak",
+        "Kayıtta öğrencinin kritik sözünü kısa ve anlamını koruyacak biçimde aktarın; doğrudan alıntıyı sizin özetinizden ayırın. Tarih, saat, yer, bilgiyi kimden aldığınız ve gerçekten gözlediğiniz durum ayrı alanlarda tutulmalıdır. Görülmeyen yaralanma, fail kimliği veya tanı hakkında tahmin yazmayın. Öğrencinin sözünü yetişkinin yorumuyla düzeltmek sonraki değerlendirmeyi yanıltabilir; belirsiz bilgi belirsiz olarak kalmalıdır."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. risk bildirimini kaydetme konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Bildirim sürecinin izini tutmak",
+        "Formun tamamlanması yardımın ulaştığı anlamına gelmez. Hangi yetkili göreve, ne zaman, hangi kanalla bilgi aktarıldığını; teyit alınmadıysa sonraki başvuruyu ayrıca yazın. Acil güvenlik yanıtı kayıt düzenlemesini beklememelidir. Notu kişisel mesaj grubuna göndermek yerine kurumun güvenli yetkili kayıt kanalını kullanın. Düzeltme gerektiğinde ilk kaydı silmeden kurum usulüne uygun tarihli ek açıklama bırakın."
       ],
       [
         "İzlem ve güvenli devir",
@@ -88,9 +92,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Kayıt, öğrencinin özel yaşantısını merak edenlerin erişeceği açık klasörde tutulmamalıdır. Bilginin kim tarafından hangi gerekçeyle incelendiği yetkili kurum usulüyle sınırlandırılmalı, hukuki saklama ve paylaşma koşulları uzman tarafından doğrulanmalıdır."
+      ],
+      [
+        "Kayıt erişimini amaca bağlamak",
+        "Kriz notu öğretmenler odasında dolaşan genel öğrenci dosyası değildir. Erişim, koruma ve müdahale görevi bulunan kişilerle sınırlandırılır; ders uyarlaması yapacak öğretmene tüm olay anlatısı verilmez. Teslim alanın kaydı güvenli biçimde aldığını teyit edin. Saklama, aktarım ve imha işlemlerinde güncel kurum usulü esas alınır; rehber herhangi bir sabit saklama süresi önermemektedir."
       ]
     ],
-    "example": "Bir öğretmen öğrencinin güvenlik ifadesini bildirir; okul kimle ne zaman iletişime geçildiğini ve alınan koruyucu önlemi kaydeder.",
+    "example": "Kurgusal senaryo: Öğrenci ders sonunda önemli bir güvenlik açıklaması yapar. Görevli kritik sözü, zamanı ve bağlamı yorumdan ayrı kaydeder; yetkili başvuru ve alınan teyit aynı olgusal süreçte görünür kalır.",
     "check": [
       "Öğrencinin söylediği kritik ifadeyi anlamını değiştirmeden, tarih ve bağlamıyla kaydedin.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -104,8 +112,8 @@
         "Öğrencinin söylediği kritik ifadeyi anlamını değiştirmeden, tarih ve bağlamıyla kaydedin. Tanı, suçlama veya kanıtlanmamış yorum eklemeyin."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Kayıt erişimini amaca bağlamak neden önemlidir?",
+        "Kriz notu öğretmenler odasında dolaşan genel öğrenci dosyası değildir. Erişim, koruma ve müdahale görevi bulunan kişilerle sınırlandırılır; ders uyarlaması yapacak öğretmene tüm olay anlatısı verilmez. Teslim alanın kaydı güvenli biçimde aldığını teyit edin. Saklama, aktarım ve imha işlemlerinde güncel kurum usulü esas alınır; rehber herhangi bir sabit saklama süresi önermemektedir."
       ]
     ],
     "search_terms": [
@@ -123,16 +131,16 @@
         "Öğrencinin kendine zarar vermekten söz etmesi sıradan bir motivasyon görüşmesi değildir. Öğrenciyi yalnız bırakmadan, güvenli gözetim altında yetkili acil sağlık ve koruma sürecini başlatın."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "İfadeyi doğrudan ve yargısız dinlemek",
+        "Kendine zarar düşüncesinden söz eden öğrenciyi ilgi çekmekle suçlamayın ve anlattığı için cezalandırmayın. Şu anda güvende olup olmadığını, yaralanma veya acil tıbbi yardım gereksinimini açık ve sakin biçimde sorun. Ayrıntılı yöntem anlatmasını istemeyin. Yakın tehlikede öğrenci yalnız bırakılmaz; güvenli gözetim ve yetkili acil sağlık yanıtı sağlanır. Okuldaki görüşme klinik değerlendirme yerine geçmez."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. kendine zarar ifadesi konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Sır sözü yerine güvenli yardım süreci",
+        "Öğrenciye onu korumak için gerekli kişilere sınırlı bilgi aktarılacağını yaşına uygun dille anlatın. Aile katılımı otomatik mesaj gönderimiyle değil güvenlik koşulları ve yetkili koruma değerlendirmesiyle ele alınır. Ailede zarar kaynağı olabileceğine ilişkin bildirim varsa güvenliği riske atan kişiyle doğrudan temas kurmayın. Acil destek için sıradan randevu gününü veya aile onayını beklemeyin."
       ],
       [
         "İzlem ve güvenli devir",
@@ -145,9 +153,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Ailenin bilgilendirilmesi ve uygun destek kanalına devir, öğrencinin güvenliğini gözeten yetkili usule göre yapılmalıdır. Öğrencinin destek hizmetine güvenli biçimde ulaştığı doğrulanmadan okul izlemi tek başına müdahale sayılmamalıdır. Bu rehberin klinik uzman incelemesi özellikle gereklidir."
+      ],
+      [
+        "Okul desteğini uzman değerlendirmesine bağlamak",
+        "Öğrenci sakinleştiği veya bir daha yapmayacağına söz verdiği için dosya kapatılmaz. Risk ölçeğiyle düşük risk etiketi vererek yönlendirmeyi sonlandırmayın. Sağlık uzmanının değerlendirmesi ve uygun destek planı doğrultusunda okulda ulaşılacak yetişkin, ders düzenlemesi ve takip teması belirlenir. Akranlar gözetim sorumlusu yapılmaz; okul ve sağlık desteğinin kim tarafından sürdürüleceği açıkça kararlaştırılır."
       ]
     ],
-    "example": "Öğrenci teneffüste kendine zarar vermeyi düşündüğünü söyler; öğretmen yanında kalır ve okulun acil destek zincirini gecikmeden işletir.",
+    "example": "Kurgusal senaryo: Öğrenci kendine zarar düşüncesini anlattıktan sonra sakinleşir. Görevli bunu tehlikenin bittiği kanıtı saymaz; güvenli gözetim ve uygun yetkili sağlık değerlendirmesine erişim sürecini sürdürür.",
     "check": [
       "Öğrencinin kendine zarar vermekten söz etmesi sıradan bir motivasyon görüşmesi değildir.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -161,8 +173,8 @@
         "Öğrencinin kendine zarar vermekten söz etmesi sıradan bir motivasyon görüşmesi değildir. Öğrenciyi yalnız bırakmadan, güvenli gözetim altında yetkili acil sağlık ve koruma sürecini başlatın."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Okul desteğini uzman değerlendirmesine bağlamak neden önemlidir?",
+        "Öğrenci sakinleştiği veya bir daha yapmayacağına söz verdiği için dosya kapatılmaz. Risk ölçeğiyle düşük risk etiketi vererek yönlendirmeyi sonlandırmayın. Sağlık uzmanının değerlendirmesi ve uygun destek planı doğrultusunda okulda ulaşılacak yetişkin, ders düzenlemesi ve takip teması belirlenir. Akranlar gözetim sorumlusu yapılmaz; okul ve sağlık desteğinin kim tarafından sürdürüleceği açıkça kararlaştırılır."
       ]
     ],
     "search_terms": [
@@ -180,16 +192,16 @@
         "Somut gözlemi tarihli ve olgusal kaydedin; çocuğu ayrıntı vermeye zorlamayın. İddiayı kendi başınıza araştırmaya çalışmak yerine güncel yetkili bildirim ve koruma sürecine başvurun."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Tek belirtiyi hükme dönüştürmemek",
+        "Sürekli açlık, bakım eksikliği veya devamsızlık farklı nedenlerle ilişkili olabilir. Somut tarihli gözlemleri ve öğrencinin kendi anlatımını ayrı kaydedin; ekonomik güçlüğü doğrudan ebeveyn kusuru diye etiketlemeyin. Bununla birlikte çocuğun güvenliği ve temel gereksinimleri etkileniyorsa kesin kanıt aramak adına koruma başvurusunu ertelemeyin. Okulun görevi soruşturma yürütmek değil korunma ihtiyacını yetkili kanala iletmektir."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. ihmal şüphesini bildirme konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Günlük ihtiyaç desteğini bildirimden ayırmak",
+        "Öğrencinin o gün güvenli beslenme, sağlık veya korunma gereksinimini kurum olanakları içinde ilgili görevliyle ele alın. Bu destek, gerekli çocuk koruma bildirimini ortadan kaldırmaz. Aileyle görüşmenin çocuğun riskini artırıp artırmayacağını yetkili süreçte değerlendirin. Sınıf arkadaşlarından aile hakkında bilgi toplamayın; yardımın kim tarafından takip edileceğini ve başvurunun ulaştığını nasıl teyit edeceğinizi belirleyin."
       ],
       [
         "İzlem ve güvenli devir",
@@ -202,9 +214,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Okulda sağlanabilecek geçici destek, yetkili koruma bildiriminin yerine geçmez. Çocuğun okula ve güvenilir yetişkine erişimi korunmalı; şüpheli olabilecek kişilere otomatik bilgi aktarımının yeni zarar doğurup doğurmayacağı yetkili kurumla değerlendirilmelidir."
+      ],
+      [
+        "İzlemde koşulu ve erişimi kaydetmek",
+        "Sonraki temaslarda yalnızca devam sayısına bakmayın; çocuğun temel ihtiyaçlara erişimini ve yeni güvenlik bildirimini uygun görevliyle izleyin. Yardım başvurusunun yapılmış olması hizmetin başladığı anlamına gelmeyebilir. Ulaşılamayan hizmet için ilgili kurumla güvenli takip yapılır. Öğrenciyi sınıf önünde yardım alan çocuk olarak tanıtmayın; koruma bilgisi yalnızca gerekli yetkili kişilerle paylaşılır."
       ]
     ],
-    "example": "Öğrencinin temel bakım gereksinimlerinin karşılanmadığına ilişkin tekrar eden okul gözlemleri yetkili sürece taşınır.",
+    "example": "Kurgusal senaryo: Öğretmen öğrencinin temel ihtiyaçlara erişimde zorlandığını farklı günlerde gözler. Yoksulluğu doğrudan aile kusuru saymadan olguları kaydeder; günlük destek ve gerekli yetkili koruma başvurusu ayrı ele alınır.",
     "check": [
       "Somut gözlemi tarihli ve olgusal kaydedin; çocuğu ayrıntı vermeye zorlamayın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -218,8 +234,8 @@
         "Somut gözlemi tarihli ve olgusal kaydedin; çocuğu ayrıntı vermeye zorlamayın. İddiayı kendi başınıza araştırmaya çalışmak yerine güncel yetkili bildirim ve koruma sürecine başvurun."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "İzlemde koşulu ve erişimi kaydetmek neden önemlidir?",
+        "Sonraki temaslarda yalnızca devam sayısına bakmayın; çocuğun temel ihtiyaçlara erişimini ve yeni güvenlik bildirimini uygun görevliyle izleyin. Yardım başvurusunun yapılmış olması hizmetin başladığı anlamına gelmeyebilir. Ulaşılamayan hizmet için ilgili kurumla güvenli takip yapılır. Öğrenciyi sınıf önünde yardım alan çocuk olarak tanıtmayın; koruma bilgisi yalnızca gerekli yetkili kişilerle paylaşılır."
       ]
     ],
     "search_terms": [
@@ -237,16 +253,16 @@
         "Çocuğa inanılır bir dinleme alanı sunun; yönlendirici tekrar sorularla ayrıntı toplamayın. Anlık güvenliğini sağlayıp ilgili koruma ve bildirim yükümlülüklerini gecikmeden işletin."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Açıklamayı soruşturmaya çevirmemek",
+        "Çocuk istismardan söz ettiğinde sakin biçimde dinleyin, anlattığı için teşekkür edin ve suçun onun sorumluluğu olmadığını belirtin. Kim, nasıl, kaç kez gibi ayrıntıları tekrar tekrar sordurmayın; yönlendirici sorular ve olay canlandırması kullanmayın. O andaki güvenlik ve acil sağlık ihtiyacı için gerekli bilgiyle yetinin. Okul çalışanı adli görüşme veya kanıt toplama görevi üstlenmez."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. istismar şüphesinde yaklaşım konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Şüpheli kişiyle temastan önce koruma",
+        "Çocuğun açıklamasını şüpheli kişiyle yüzleştirme veya aile içi uzlaştırma gerekçesiyle paylaşmayın. Veli konumundaki kişinin güvenli olup olmadığı yetkili koruma sürecinde değerlendirilmelidir. Bildirim için olayın kesinleşmesi veya veli onayı beklenmez; kurumun güncel yükümlülükleri ve yetkili çocuk koruma kanalı işletilir. Anlık tehlikede güvenli gözetim ve acil yardım, belge hazırlığından önce gelir."
       ],
       [
         "İzlem ve güvenli devir",
@@ -259,9 +275,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Çocuğu şüpheli kişiyle yüzleştirmek veya okul içinde bağımsız soruşturma yürütmek uygun değildir. Öğrencinin ifadesine ilişkin gerekli olgusal kayıt yetkili kişilere sınırlı biçimde aktarılır; güvenli hizmet devri ve okul desteği izlenir. Uzman çocuk koruma değerlendirmesi olmadan yayımlanmamalıdır."
+      ],
+      [
+        "İlk açıklamanın güvenli kaydı",
+        "Öğrencinin kendiliğinden söylediği kritik sözleri, zamanı ve bağlamı olgusal biçimde kaydedin. Görmediğiniz durumu olmuş gibi yazmayın; gözlem ve anlatımı ayırın. Notlar kişisel telefon veya toplu iletişim grubunda dolaştırılmaz. Çocuğun aynı öyküyü çok sayıda personele tekrarlaması önlenir; güvenli devir ve okulda ulaşabileceği destek kişisi ayrıca belirlenir."
       ]
     ],
-    "example": "Öğrenci rahatsız edici bir olay ima ettiğinde okul çalışanı sorgu yürütmez, güvenlik önlemi alarak yetkili koruma birimine bildirir.",
+    "example": "Kurgusal senaryo: Çocuk kendiliğinden bir zarar yaşantısını anlatır ve sonra konuşmak istemez. Yetişkin ayrıntıyı zorlamaz, anlık güvenliği değerlendirir ve gerekli yetkili koruma sürecini olayın kesinleşmesini beklemeden işletir.",
     "check": [
       "Çocuğa inanılır bir dinleme alanı sunun; yönlendirici tekrar sorularla ayrıntı toplamayın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -275,8 +295,8 @@
         "Çocuğa inanılır bir dinleme alanı sunun; yönlendirici tekrar sorularla ayrıntı toplamayın. Anlık güvenliğini sağlayıp ilgili koruma ve bildirim yükümlülüklerini gecikmeden işletin."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "İlk açıklamanın güvenli kaydı neden önemlidir?",
+        "Öğrencinin kendiliğinden söylediği kritik sözleri, zamanı ve bağlamı olgusal biçimde kaydedin. Görmediğiniz durumu olmuş gibi yazmayın; gözlem ve anlatımı ayırın. Notlar kişisel telefon veya toplu iletişim grubunda dolaştırılmaz. Çocuğun aynı öyküyü çok sayıda personele tekrarlaması önlenir; güvenli devir ve okulda ulaşabileceği destek kişisi ayrıca belirlenir."
       ]
     ],
     "search_terms": [
@@ -294,16 +314,16 @@
         "Öğrencinin eve dönerken zarar görme riski olup olmadığını değerlendirin. Şiddet şüphesi varsa bilgi paylaşılacak kişileri güvenlik bakımından yetkili süreçle belirleyin; otomatik olarak aileyi aramak uygun olmayabilir."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Eve dönüşü otomatik güvenli saymamak",
+        "Evde şiddet anlatan öğrencinin ders bitiminde kimin yanına döneceği ve o anda güvenli olup olmadığı önemlidir. Aileyi hemen telefonla aramak bazı durumlarda riski artırabilir. Şiddet kaynağı olduğu söylenen kişiyle yüzleştirme yapmayın. Acil tehlike ve sağlık gereksinimi için yetkili müdahaleyi başlatın; eve dönüş veya teslim kararını okulun tek başına çözebileceği bir aile anlaşmazlığı saymayın."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. aile içi şiddet anlatımı konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "İletişim yolunun güvenliğini sormak",
+        "Öğrencinin telefonu, mesajları veya evdeki konuşmaları kontrol ediliyor olabilir. Bildirim ve destek iletişiminde güvenli kanalın ne olduğunu yetkili koruma görevlisiyle değerlendirin. Kardeş veya arkadaş aracılığıyla haber göndermeyin. Öğrenciye tutulamayacak gizlilik sözü vermeden kimlerle hangi amaçla konuşulacağını açıklayın. Olgusal kayıt ve koruma başvurusu, aileyi ikna etme görüşmesinin tamamlanmasına bağlanmamalıdır."
       ],
       [
         "İzlem ve güvenli devir",
@@ -316,9 +336,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Okula dönüş, devam ve sınıf desteği şiddetin sona erdiği varsayımına dayanmamalıdır. Birden fazla güvenilir yetişkinin erişilebilirliği ve yetkili kurumla takip sorumluluğu planlanır. Güvenlik kararı bireysel okul danışmanlığı notuyla değil yetkili müdahale ve hukuki koruma prosedürüyle yönetilmelidir."
+      ],
+      [
+        "Okul işlevini koruyucu planla izlemek",
+        "Derslere dönüşte dikkat, devam ve güvenli yetişkine erişim gibi okul ihtiyaçlarını ele alın. Evdeki şiddet anlatısını bütün öğretmenlere aktarmadan gerekli esneklikler belirlenebilir. Yeni tehdit veya eve dönmekten korkma bildirimi çıktığında sıradan takip tarihini beklemeyin. Sosyal hizmet, sağlık ve ilgili yetkili koruma süreciyle iş birliği, okul personelinin rol sınırları içinde sürdürülür."
       ]
     ],
-    "example": "Öğrenci eve gitmekten korktuğunu söyler; yetkili okul görevlileri güvenli destek ve koruma sürecini başlatır.",
+    "example": "Kurgusal senaryo: Öğrenci eve dönmekten korktuğunu, evdeki bir kişinin kendisine zarar verebileceğini söyler. Görevli otomatik aile araması yapmak yerine güvenli gözetim ve yetkili koruma değerlendirmesiyle uygun iletişim yolunu ele alır.",
     "check": [
       "Öğrencinin eve dönerken zarar görme riski olup olmadığını değerlendirin.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -332,8 +356,8 @@
         "Öğrencinin eve dönerken zarar görme riski olup olmadığını değerlendirin. Şiddet şüphesi varsa bilgi paylaşılacak kişileri güvenlik bakımından yetkili süreçle belirleyin; otomatik olarak aileyi aramak uygun olmayabilir."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Okul işlevini koruyucu planla izlemek neden önemlidir?",
+        "Derslere dönüşte dikkat, devam ve güvenli yetişkine erişim gibi okul ihtiyaçlarını ele alın. Evdeki şiddet anlatısını bütün öğretmenlere aktarmadan gerekli esneklikler belirlenebilir. Yeni tehdit veya eve dönmekten korkma bildirimi çıktığında sıradan takip tarihini beklemeyin. Sosyal hizmet, sağlık ve ilgili yetkili koruma süreciyle iş birliği, okul personelinin rol sınırları içinde sürdürülür."
       ]
     ],
     "search_terms": [
@@ -351,16 +375,16 @@
         "Öğrenciyle ilgili ayrıntıları sınıf grupları veya tüm personel listesinde dolaştırmayın. Güvenlik için bilgiye ihtiyacı olan yetkili görevlileri belirleyin."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Bilgiyi görev kadar paylaşmak",
+        "Kriz bilgisi için kim, hangi kararı verecek ve bunun için neyi bilmesi gerekiyor sorularını sorun. Sağlık veya koruma görevlisine gerekli olgular aktarılırken sınıfta ders düzenlemesi yapacak öğretmene olayın bütün ayrıntıları gerekmez. Öğrencinin özel açıklamasını merak giderme amacıyla paylaşmayın. Mahremiyet, acil güvenlik için gerekli yetkili bildirimden kaçınma gerekçesi olarak da kullanılmamalıdır."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. krizde öğrenci mahremiyeti konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Öğrenciye paylaşımı açıklamak",
+        "Yaşa ve iletişim gereksinimine uygun biçimde hangi görevliye neden bilgi verileceğini anlatın. Mutlak sır sözü vermek yerine güvenlik sınırını başta netleştirin. Mümkün olan durumlarda öğrenciye aktarılacak bilgiyi anlaşılır biçimde özetleyin. Fakat gerekli acil müdahaleyi bu konuşmayı tamamlamaya bağlamayın. Ortak ekran, sınıf grubu ve herkesin eriştiği takvim notlarında kriz gerekçesi veya tanı bilgisi bulunmamalıdır."
       ],
       [
         "İzlem ve güvenli devir",
@@ -373,9 +397,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Öğretmene öğrencinin ayrıntılı açıklaması yerine sınıf düzeninde gereken uyarlama, temas sorumlusu ve acil durumda başvuru noktası bildirilebilir. Bilgiye erişim ve saklama düzeni kurumun veri koruma usullerine göre kontrol edilmelidir."
+      ],
+      [
+        "Yanlış paylaşıma karşı düzeltici adım",
+        "Olay bilgisi yetkisiz kişilere ulaştıysa yayılmayı durdurmak için kurumun veri ve koruma sorumlusuna haber verin. Mesajı daha geniş gruba taşıyarak düzeltmeye çalışmayın. Kimlerin hangi veriye eriştiği ve alınan önlem yetkili kayıt düzeninde ele alınır. Öğrencinin güvenliği ve olası damgalanma deneyimi ayrıca izlenir; yeni tehdit bilgisi çıkarsa koruyucu yanıt güncellenir."
       ]
     ],
-    "example": "Kriz sonrası sınıf öğretmenine öğrencinin özel anlatısı değil gerekli sınıf desteği ve güvenli başvuru yolu aktarılır.",
+    "example": "Kurgusal senaryo: Bir öğretmen öğrencinin kriz anlatısının tümünü ister. Yetkili ekip, ders düzenlemesi için gereken destek bilgisini paylaşır; özel öykü ve aile ayrıntılarını merak amacıyla aktarmadan güvenlik görevini sürdürür.",
     "check": [
       "Öğrenciyle ilgili ayrıntıları sınıf grupları veya tüm personel listesinde dolaştırmayın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -389,8 +417,8 @@
         "Öğrenciyle ilgili ayrıntıları sınıf grupları veya tüm personel listesinde dolaştırmayın. Güvenlik için bilgiye ihtiyacı olan yetkili görevlileri belirleyin."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Yanlış paylaşıma karşı düzeltici adım neden önemlidir?",
+        "Olay bilgisi yetkisiz kişilere ulaştıysa yayılmayı durdurmak için kurumun veri ve koruma sorumlusuna haber verin. Mesajı daha geniş gruba taşıyarak düzeltmeye çalışmayın. Kimlerin hangi veriye eriştiği ve alınan önlem yetkili kayıt düzeninde ele alınır. Öğrencinin güvenliği ve olası damgalanma deneyimi ayrıca izlenir; yeni tehdit bilgisi çıkarsa koruyucu yanıt güncellenir."
       ]
     ],
     "search_terms": [
@@ -408,16 +436,16 @@
         "Öğrencilere yalnızca doğrulanmış, yaşa uygun ve paylaşılması uygun bilgileri açıklayın. Kişisel yaşantıları anlattırma veya toplu travma ayrıntısı konuşma uygulamasından kaçının."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Sınıf konuşmasını olay anlatısına çevirmemek",
+        "Sınıfa verilecek bilgi doğrulanmış, kısa ve gelişim düzeyine uygun olmalıdır. Zorlayıcı olayın grafik ayrıntılarını, görüntülerini veya öğrenci kimliğini paylaşmayın. Her öğrenciden olay hakkında duygu veya yaşantı anlatmasını istemek zorunlu toplu açıklamaya dönüşebilir. Öğrenciler konuşmak, sessiz kalmak ya da bireysel destek istemek arasında güvenli seçenek bulmalıdır; sınıf çalışması terapi veya adli görüşme değildir."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. zorlayıcı olay sonrası sınıf konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Dersin akışında destek yolu bırakmak",
+        "Öğretmen günlük programı sade biçimde açıklayıp ihtiyaç halinde kime ulaşılacağını gösterir. Yoğun zorlanma yaşayan öğrenci için damgalamadan sakin alana geçiş ve yetişkin desteği planlanır. Akranların kriz yönetmesini beklemeyin. Anlık zarar tehlikesi veya ciddi sağlık ihtiyacı varsa sınıf etkinliği sürdürülmeden yetkili acil süreç işletilir. Katılımı ve bilgi paylaşımını öğrencilerin güvenliğine göre düzenleyin."
       ],
       [
         "İzlem ve güvenli devir",
@@ -430,9 +458,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Ders öğretmeni hangi öğrencilerin sessiz katılım, mola veya bireysel görüşme seçeneğine ihtiyaç duyduğunu gözleyebilir. Sınıf bilgilendirmesinde özel öğrenci ve aile bilgileri açıklanmamalı; yeni güvenlik ifadesi gelirse olağan sınıf etkinliği durdurularak yetkili müdahale başlatılmalıdır."
+      ],
+      [
+        "Sınıf gözlemini bireysel ihtiyaçtan ayırmak",
+        "Ders içindeki genel katılım değişimini isim vermeden değerlendirirken belirli öğrencinin desteğini özel görüşmede ele alın. Her sessizlik travma tanısı değildir; önceki durum, öğrencinin kendi deneyimi ve işlevdeki değişim birlikte değerlendirilir. Takipte söylenti, dışlanma ve güvenli yardım isteme yolları da gözlenir. Belirgin veya süren güçlükler uygun okul ve uzman değerlendirme sürecine taşınır."
       ]
     ],
-    "example": "Okul çevresindeki olaydan sonra sınıfta söylentiler artar; öğretmen belirsiz bilgileri teyit etmeden yinelemez ve destek kişilerini tanıtır.",
+    "example": "Kurgusal senaryo: Sınıf zorlayıcı olaydan sonra derse döner. Öğretmen kısa günlük programı ve yardım yolunu açıklar; öğrencilerin herkesin önünde olay anlatmasını istemez, uygun bireysel destek seçeneği bırakır.",
     "check": [
       "Öğrencilere yalnızca doğrulanmış, yaşa uygun ve paylaşılması uygun bilgileri açıklayın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -446,8 +478,8 @@
         "Öğrencilere yalnızca doğrulanmış, yaşa uygun ve paylaşılması uygun bilgileri açıklayın. Kişisel yaşantıları anlattırma veya toplu travma ayrıntısı konuşma uygulamasından kaçının."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Sınıf gözlemini bireysel ihtiyaçtan ayırmak neden önemlidir?",
+        "Ders içindeki genel katılım değişimini isim vermeden değerlendirirken belirli öğrencinin desteğini özel görüşmede ele alın. Her sessizlik travma tanısı değildir; önceki durum, öğrencinin kendi deneyimi ve işlevdeki değişim birlikte değerlendirilir. Takipte söylenti, dışlanma ve güvenli yardım isteme yolları da gözlenir. Belirgin veya süren güçlükler uygun okul ve uzman değerlendirme sürecine taşınır."
       ]
     ],
     "search_terms": [
@@ -465,16 +497,16 @@
         "Kayıp yaşayan öğrencilerin tepkileri farklıdır. Sınıf önünde kaybı anlatmaya zorlamadan ders yükü, güvenilir yetişkin desteği ve gönüllü görüşme seçeneği sunun."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Yas için tek takvim beklememek",
+        "Yakınını kaybeden öğrencinin sınıfa dönüşte ne kadar konuşmak istediğini kendisine uygun biçimde sorun. Herkesin önünde taziye konuşması veya kaybını anlatma etkinliği düzenlemeyin. Yas tepkileri zaman ve kişi bakımından değişebilir; ağlamamak ya da kısa süre gülmek ilgisizlik değildir. Kayıpla ilgili bilgiyi aile ve öğrencinin güvenli paylaşım sınırlarını dikkate alarak gerekli kişilerle sınırlayın."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. kaybedilen yakın sonrası okul konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Okul günü için seçilebilir destek",
+        "Öğrenciyle bir güvenilir yetişkin, zorlandığında kısa mola yolu ve eksik dersler için ulaşılabilir düzenleme belirleyin. Doğum günü, özel gün veya ders içeriği kaybı hatırlatabilir; önceden bilgi vermek ve alternatif katılım sunmak düşünülebilir. Aileden yalnızca okul desteği için gerekli bilgi alınır. Acil güvenlik veya sağlık kaygısı varsa bunu olağan yas desteğinden ayrı yetkili müdahaleye taşıyın."
       ],
       [
         "İzlem ve güvenli devir",
@@ -487,9 +519,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Aile ve öğrenciyle yapılacak temasın kapsamını güvenlik ve mahremiyet sınırı içinde tutun. Yoğun veya süregelen işlev kaybı gözlenirse uygun profesyonel desteği değerlendirin; bütün öğrencilerin aynı sürede toparlanmasını beklemeyin."
+      ],
+      [
+        "İzlemi yalnızca ağlama sıklığına bağlamamak",
+        "Takipte öğrencinin devamı, derse erişimi, arkadaş ilişkileri ve destek ihtiyacını dinleyin. Bir hafta rahat görünmesi desteğin tamamen bitmesi gerektiğini göstermez. Yeni kayıp hatırlatıcılarında yardım istemek için açık kapı bırakın. Belirgin işlev kaybı veya güvenlik bildirimi varsa uygun uzman değerlendirmesi planlanır; okul personeli yasın normal veya anormal olduğuna tek görüşmeyle hükmetmez."
       ]
     ],
-    "example": "Yakınını kaybeden öğrenci sunum yapmak istemez; öğretmen alternatif görev önerir ve öğrencinin isteğine saygı gösterir.",
+    "example": "Kurgusal senaryo: Yakınını kaybeden öğrenci sınıfta kaybını anlatmak istemez. Öğretmen bu tercihi kabul eder; ders yükü, güvenilir yetişkin ve uygun mola yolunu gerekli bilgi düzeyinde planlar.",
     "check": [
       "Kayıp yaşayan öğrencilerin tepkileri farklıdır.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -503,8 +539,8 @@
         "Kayıp yaşayan öğrencilerin tepkileri farklıdır. Sınıf önünde kaybı anlatmaya zorlamadan ders yükü, güvenilir yetişkin desteği ve gönüllü görüşme seçeneği sunun."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "İzlemi yalnızca ağlama sıklığına bağlamamak neden önemlidir?",
+        "Takipte öğrencinin devamı, derse erişimi, arkadaş ilişkileri ve destek ihtiyacını dinleyin. Bir hafta rahat görünmesi desteğin tamamen bitmesi gerektiğini göstermez. Yeni kayıp hatırlatıcılarında yardım istemek için açık kapı bırakın. Belirgin işlev kaybı veya güvenlik bildirimi varsa uygun uzman değerlendirmesi planlanır; okul personeli yasın normal veya anormal olduğuna tek görüşmeyle hükmetmez."
       ]
     ],
     "search_terms": [
@@ -522,16 +558,16 @@
         "Fiziksel güvenlik ve temel gereksinimler sağlanmadan normal programa dönme baskısı kurmayın. Ulaşım, aile koşulları ve öğrencinin destek ihtiyacını ayrı değerlendirin."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Fiziksel güvenlik ve erişimi öncelemek",
+        "Afet sonrasında okula dönüş planı yalnızca devamsızlığı azaltma hedefi değildir. Binanın ve ulaşımın güvenliği yetkili kurum değerlendirmesine dayanmalıdır; psikolojik danışman teknik güvenlik onayı vermez. Barınma değişikliği, ulaşım, materyal ve güvenli yakınlarına erişim gibi pratik engeller aileyle gerekli ölçüde ele alınır. Eksik eşya veya düzensiz katılımı hemen isteksizlik olarak yorumlamayın; destek görevlerini okul yönetimiyle paylaşın."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. afet sonrası okula dönüş konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "İlk günü öngörülebilir kılmak",
+        "Öğrenciye değişen derslik, öğretmen ve günlük akış hakkında kısa bilgi verin. Olayı sınıf önünde anlattırmak yerine resimli program veya bireysel destek seçeneği sunun. Afete ilişkin söylenti ve korkutucu görüntülerin sınıfta yayılmasını önleyin. Sağlık veya yakın tehlike bildirimi ortaya çıkarsa rutin uyum planını bırakıp yetkili acil yardım sürecine geçin; akranlar güvenlik sorumlusu değildir."
       ],
       [
         "İzlem ve güvenli devir",
@@ -544,9 +580,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Öğretmen öğrencinin katılım ve zorlanmasını destekleyici biçimde izleyebilir. Acil güvenlik veya temel gereksinim sorunu sürüyorsa uzman ve yetkili destek kanalları devreye alınmalıdır. Kısa vadeli devamsızlığı tek başına isteksizlik diye etiketlemeyin."
+      ],
+      [
+        "Dönüşü devam sayısından geniş değerlendirmek",
+        "İlk dönemde derse ulaşma, güvenli mola kullanımı, yardım isteme ve temel gereksinimlere erişim izlenebilir. Aileyle her görüşmede bütün afet yaşantısını tekrar toplamayın. Katılım güçlüğü sürüyorsa çevresel engeller ve uygun uzman destek yolu yeniden değerlendirilir. Yeni bir afet veya mekân değişikliği olduğunda eski plan geçerli kabul edilmez; öğrenci ve okul ekibiyle destek düzeni güncellenir."
       ]
     ],
-    "example": "Afet sonrası okula dönen öğrenci kalabalıktan rahatsız olduğunu söyler; sınıf rutini anlaşılır biçimde düzenlenir ve erişilebilir destek tanıtılır.",
+    "example": "Kurgusal senaryo: Afet sonrası öğrenci farklı bir yerde kaldığı için okula ulaşmakta zorlanır. Ekip bunu isteksizlik diye yorumlamaz; güvenli mekânın yetkili değerlendirmesiyle birlikte ulaşım ve günlük destek gereksinimini ele alır.",
     "check": [
       "Fiziksel güvenlik ve temel gereksinimler sağlanmadan normal programa dönme baskısı kurmayın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -560,8 +600,8 @@
         "Fiziksel güvenlik ve temel gereksinimler sağlanmadan normal programa dönme baskısı kurmayın. Ulaşım, aile koşulları ve öğrencinin destek ihtiyacını ayrı değerlendirin."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Dönüşü devam sayısından geniş değerlendirmek neden önemlidir?",
+        "İlk dönemde derse ulaşma, güvenli mola kullanımı, yardım isteme ve temel gereksinimlere erişim izlenebilir. Aileyle her görüşmede bütün afet yaşantısını tekrar toplamayın. Katılım güçlüğü sürüyorsa çevresel engeller ve uygun uzman destek yolu yeniden değerlendirilir. Yeni bir afet veya mekân değişikliği olduğunda eski plan geçerli kabul edilmez; öğrenci ve okul ekibiyle destek düzeni güncellenir."
       ]
     ],
     "search_terms": [
@@ -579,16 +619,16 @@
         "Doğrulanmış bilgiyi ve okulun aldığı koruyucu adımları gerekli kapsamda açıklayın. Şiddet veya istismar şüphesi gibi durumlarda hangi veliye neyin bildirileceğini yetkili koruma prosedürüne göre belirleyin."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Veli temasının güvenliğini değerlendirmek",
+        "Veliye ne zaman ve nasıl ulaşılacağı kriz türüne göre ele alınır. Çocuğun anlattığı zarar kaynağı aile içindeyse otomatik arama veya mesaj güvenliği bozabilir. Yetkili çocuk koruma süreciyle güvenli iletişim kişisi değerlendirilir. Veli bilgilendirmesi acil sağlık ve koruma başvurusunun ön koşulu değildir; yakın tehlikede gerekli yanıt görüşmenin tamamlanmasını veya ebeveynin okula gelmesini beklemez."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. krizde veli bilgilendirme konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Görüşmenin içeriğini somutlaştırmak",
+        "Güvenli olduğu belirlenen veliye gözlenen olguyu, alınan koruyucu adımı ve sonraki yetkili başvuru yolunu kısa biçimde açıklayın. Tanı, kesin suçlama veya diğer çocukların kimlik bilgilerini paylaşmayın. Velinin duygusal tepkisini dinleyin; çocuğu sorguya çekme, cezalandırma veya karşı tarafla yüzleştirme yönünde öneri vermeyin. Kararlar, iletişim sorumlusu ve güvenli devir bilgisi kurumsal kayıtta tutulmalıdır."
       ],
       [
         "İzlem ve güvenli devir",
@@ -601,9 +641,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Çocuğu tehlikeye sokabilecek bir kişiye otomatik bildirim yapılmaması gereken durumlar ilgili koruma kurumunun yetkili usulüne göre ele alınmalıdır. Öğrencinin sınıf desteği ile hukuki ve acil koruma süreçlerinin ayrı sorumlularını belirleyin."
+      ],
+      [
+        "Ulaşılamayan veli ve takip",
+        "Telefonun açılmaması müdahaleyi tamamlanmış yapmaz. Kurumun güncel acil ve koruma planındaki alternatif yetkili yol işletilir; tehlikedeki öğrenci tek başına eve gönderilmez. Güvenli veliyle sonraki görüşmede okulda hangi desteğin uygulanacağı ve yeni riskte hangi görevliye ulaşılacağı netleştirilir. Öğrencinin açıklamasını velilere dağıtılan toplantı notuna eklemeyin; ihtiyaç kadar paylaşım ilkesini koruyun."
       ]
     ],
-    "example": "Okul aileyi bilgilendirmeden önce paylaşımın çocuğu yeni riske sokup sokmayacağını yetkili ekiple değerlendirir.",
+    "example": "Kurgusal senaryo: Öğrenci veliye haber verilmesinin zarar riskini artırabileceğini anlatır. Görevli gerekli acil desteği geciktirmeden yetkili koruma süreciyle güvenli veli temasını değerlendirir; otomatik grup mesajı göndermez.",
     "check": [
       "Doğrulanmış bilgiyi ve okulun aldığı koruyucu adımları gerekli kapsamda açıklayın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -617,8 +661,8 @@
         "Doğrulanmış bilgiyi ve okulun aldığı koruyucu adımları gerekli kapsamda açıklayın. Şiddet veya istismar şüphesi gibi durumlarda hangi veliye neyin bildirileceğini yetkili koruma prosedürüne göre belirleyin."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Ulaşılamayan veli ve takip neden önemlidir?",
+        "Telefonun açılmaması müdahaleyi tamamlanmış yapmaz. Kurumun güncel acil ve koruma planındaki alternatif yetkili yol işletilir; tehlikedeki öğrenci tek başına eve gönderilmez. Güvenli veliyle sonraki görüşmede okulda hangi desteğin uygulanacağı ve yeni riskte hangi görevliye ulaşılacağı netleştirilir. Öğrencinin açıklamasını velilere dağıtılan toplantı notuna eklemeyin; ihtiyaç kadar paylaşım ilkesini koruyun."
       ]
     ],
     "search_terms": [
@@ -636,16 +680,16 @@
         "Kimin acil çağrıyı yapacağı, kimin öğrenciyle güvenli biçimde kalacağı ve kimin gerekli kaydı tutacağı kurum planında açık olmalıdır. Bir öğrenciye kriz müdahale görevi yüklenmemelidir."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Görevleri kişi ve yedekle eşleştirmek",
+        "Acil plan yalnızca telefon listesi değildir. Öğrencinin güvenli gözetimi, acil yetkiliye haber verme, diğer öğrencilerin güvenli alanını düzenleme ve gerekli olgusal kayıt için ayrı görevler tanımlanmalıdır. Her görev için kurum planında yedek kişi bulunması, tek personelin yokluğunda sürecin durmasını önler. Listeyi hazırlarken çalışanların eğitim, yetki ve kendi güvenlik sınırlarını da dikkate alın."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. kurum içi acil görevler konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Haberleşmede tek koordinasyon noktası",
+        "Aynı kriz için birbirinden habersiz ve çelişkili bilgi veren personel yerine yetkili koordinasyon kişisini belirleyin. Bu kişi gerekli bilgiyi amaca uygun aktarır; bütün öyküyü toplu mesaj grubuna göndermez. Acil sağlık veya koruma başvurusu yönetsel formun tamamlanmasını beklememelidir. Yanıtsız iletişim halinde kurumun alternatif yetkili kanalı kullanılır ve yapılan başvuru izlenebilir biçimde kaydedilir."
       ],
       [
         "İzlem ve güvenli devir",
@@ -658,9 +702,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Görevli personel bulunmadığında kullanılacak alternatif yetkili temas yolu planlanmalıdır. Kriz sonrasında yalnızca toplantı yapmak yerine yönlendirme zincirindeki gecikmeleri ve güvenli devir gerçekleşip gerçekleşmediğini değerlendirin."
+      ],
+      [
+        "Planı masa başı senaryoyla sınamak",
+        "Öğrenci içermeyen kurgusal bir senaryoda kimin gözetimde kalacağını, yedek görevlinin nereden bulunacağını ve devrin nasıl teyit edileceğini prova edin. Gerçek öğrencilerin özel dosyalarını eğitim örneği yapmayın. Prova sonunda tıkanan iletişim ve rol boşlukları güncellenir. Başarı, herkesin listeyi imzalaması değil yetkili yardıma erişim ve güvenli sorumluluk devrinin işlemeye hazır olmasıdır."
       ]
     ],
-    "example": "Acil olayda personel telefon zincirini bilmez; okul güncel görev listesini ve alternatif erişim kanalını kontrol eder.",
+    "example": "Kurgusal senaryo: Masa başı kriz provasında gözetim sorumlusu okulda değildir. Ekip yedek görevin belirsiz olduğunu görür; gerçek öğrenci dosyası kullanmadan görev ve iletişim düzenini günceller.",
     "check": [
       "Kimin acil çağrıyı yapacağı, kimin öğrenciyle güvenli biçimde kalacağı ve kimin gerekli kaydı tutacağı kurum planında açık olmalıdır.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -674,8 +722,8 @@
         "Kimin acil çağrıyı yapacağı, kimin öğrenciyle güvenli biçimde kalacağı ve kimin gerekli kaydı tutacağı kurum planında açık olmalıdır. Bir öğrenciye kriz müdahale görevi yüklenmemelidir."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Planı masa başı senaryoyla sınamak neden önemlidir?",
+        "Öğrenci içermeyen kurgusal bir senaryoda kimin gözetimde kalacağını, yedek görevlinin nereden bulunacağını ve devrin nasıl teyit edileceğini prova edin. Gerçek öğrencilerin özel dosyalarını eğitim örneği yapmayın. Prova sonunda tıkanan iletişim ve rol boşlukları güncellenir. Başarı, herkesin listeyi imzalaması değil yetkili yardıma erişim ve güvenli sorumluluk devrinin işlemeye hazır olmasıdır."
       ]
     ],
     "search_terms": [
@@ -693,16 +741,16 @@
         "Öğrenci acil risk içindeyse yalnızca telefon numarası verip göndermeyin; uygun acil sağlık ve koruma hizmetine güvenli devri sağlayın. Okul izlemi hizmete erişimi ikame etmez."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Acil gereksinimi rutin randevudan ayırmak",
+        "Uzman yönlendirmesi yazısı vermeden önce o anda acil sağlık veya koruma gereksinimi bulunup bulunmadığını değerlendirin. Yakın tehlikede öğrenciyi randevu bulması için yalnız göndermeyin; güvenli yetişkin gözetimi ve yetkili acil yardım gerekir. Acil olmayan destek için ise hizmetin kapsamı, ulaşım ve güvenli aile katılımı ele alınır. Okul çalışanı uzman adına tanı veya tedavi garantisi vermez."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. güvenli uzman yönlendirme konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Yönlendirme notunu ihtiyaca göre yazmak",
+        "Gözlenen okul işlevini, öğrencinin ifade ettiği ihtiyacı ve yapılan destekleri kısa, olgusal biçimde özetleyin. Bütün özel görüşme notlarını otomatik eklemeyin. Aktarımın kimden kime, hangi yetkili kanal üzerinden yapılacağı açık olmalıdır. Öğrenciye hizmette ne bekleneceğini anlayabileceği dille anlatın; başvuruya ilişkin kaygı ve erişim engellerini gizlilik sınırları içinde dinleyin."
       ],
       [
         "İzlem ve güvenli devir",
@@ -715,9 +763,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Yönlendirmenin kabul edilip edilmediği ile daha sonra planlanan okul desteğini ayrı kayıtlarla takip edin. Gizlilik nedeniyle herkesle bilgi paylaşmak gerekmez; ancak güvenli devirden sorumlu görevlilerin gerekli bilgiyi alması sağlanmalıdır."
+      ],
+      [
+        "Hizmete erişimi gerçekten takip etmek",
+        "Sevk belgesinin verilmesi hizmetin başladığını göstermez. Güvenli ve yetkili iletişimle başvuruya erişimde engel olup olmadığını belirleyin. Ulaşılamayan hizmet veya yeni tehlike halinde uygun alternatif süreç değerlendirilir. Uzmanın gizli klinik ayrıntılarını istemek yerine okulda uygulanabilecek destek düzenlemeleri için gerekli bilgiyle yetinin. Okul desteğinin sorumlusu ve bir sonraki temas zamanı ayrıca belirlenmelidir."
       ]
     ],
-    "example": "Öğrencinin yoğun güvenlik ihtiyacında yetkili okul görevlisi ilgili sağlık veya koruma kurumuyla güvenli iletişimi kurar.",
+    "example": "Kurgusal senaryo: Öğrenciye uzman randevusu önerilmiştir ancak hizmete erişemediği anlaşılır. Görevli sadece yönlendirme yazısının verildiğini kaydetmekle yetinmez; mevcut güvenliği ve uygun alternatif yetkili destek yolunu değerlendirir.",
     "check": [
       "Öğrenci acil risk içindeyse yalnızca telefon numarası verip göndermeyin; uygun acil sağlık ve koruma hizmetine güvenli devri sağlayın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -731,8 +783,8 @@
         "Öğrenci acil risk içindeyse yalnızca telefon numarası verip göndermeyin; uygun acil sağlık ve koruma hizmetine güvenli devri sağlayın. Okul izlemi hizmete erişimi ikame etmez."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Hizmete erişimi gerçekten takip etmek neden önemlidir?",
+        "Sevk belgesinin verilmesi hizmetin başladığını göstermez. Güvenli ve yetkili iletişimle başvuruya erişimde engel olup olmadığını belirleyin. Ulaşılamayan hizmet veya yeni tehlike halinde uygun alternatif süreç değerlendirilir. Uzmanın gizli klinik ayrıntılarını istemek yerine okulda uygulanabilecek destek düzenlemeleri için gerekli bilgiyle yetinin. Okul desteğinin sorumlusu ve bir sonraki temas zamanı ayrıca belirlenmelidir."
       ]
     ],
     "search_terms": [
@@ -750,16 +802,16 @@
         "Öğrenciyi aynı olayı farklı görevlilere defalarca anlatmaya zorlamak zarar verebilir. Yalnızca acil güvenliği ve uygun yönlendirmeyi gerektiren bilgileri alın."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Kendiliğinden anlatı ve güvenlik sorusu",
+        "Öğrenci zorlayıcı olaydan söz ettiğinde dinleyin ve o anda güvende olup olmadığını anlamaya yetecek kısa sorular sorun. Ayrıntılandırma amacıyla aynı soruyu farklı biçimlerde tekrar etmeyin. Çizim, canlandırma veya varsayımlı soru yoluyla belirli bir yanıt üretmeye çalışmayın. Çocuğun konuşmayı durdurması gerekli koruyucu yanıtı ortadan kaldırmaz; okul görüşmesi soruşturma değildir ve anlatı tamamlanmadan da yardım gerekebilir."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. görüşmede ayrıntı zorlamama konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Tekrarlayan açıklama yükünü azaltmak",
+        "Bilgiyi gerekli yetkili görevliye olgusal kayıtla aktarın; çocuğu her öğretmene yeniden anlatmaya yönlendirmeyin. Aktarılan söz ile personelin yorumu ayrı tutulmalıdır. Olay hakkında merak edilen ama güvenlik kararına hizmet etmeyen ayrıntıları sormayın. Veli veya şüpheli kişiyle yüzleştirme yapmadan kurumun güncel koruma yükümlülükleri işletilir; acil tehlike halinde gözetim ve yetkili yardım geciktirilmez."
       ],
       [
         "İzlem ve güvenli devir",
@@ -772,9 +824,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Yeni personel sürece katılırken öğrenciye olayı yeniden anlattırmak yerine gerekli güvenli kayıt ve yetkili devir kullanılmalıdır. Öğrencinin anlamadığı işlem için yaşına uygun kısa açıklama yapın ve soru sorma hakkını koruyun."
+      ],
+      [
+        "Sınırı öğrenciye açıklamak",
+        "Öğrenciye her şeyi anlatmak zorunda olmadığını, ancak onu korumak için gerekli kişilere belirli bilgi aktarılacağını söyleyin. Tutulamayacak sır sözü veya her şeyin düzeleceği garantisi vermeyin. Görüşme bittiğinde güvenli yetişkin desteği ve sonraki adım anlaşılır olmalıdır. Sonraki okul görüşmesi olayı baştan araştırmaya değil öğrencinin mevcut ihtiyaçlarına, erişimine ve güvenlik deneyimine odaklanır."
       ]
     ],
-    "example": "Öğrenci olayı daha önce anlattığını söyler; yetişkin ayrıntı toplamaya devam etmez ve mevcut olgusal kaydı yetkili süreçte kullanır.",
+    "example": "Kurgusal senaryo: Çocuk açıklamasının bir kısmını paylaşıp susar. Yetişkin yönlendirici sorularla anlatıyı tamamlamaya çalışmaz; güvenlik için gerekli kısa bilgiyi alıp uygun yetkili kanala olgusal aktarım yapar.",
     "check": [
       "Öğrenciyi aynı olayı farklı görevlilere defalarca anlatmaya zorlamak zarar verebilir.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -788,8 +844,8 @@
         "Öğrenciyi aynı olayı farklı görevlilere defalarca anlatmaya zorlamak zarar verebilir. Yalnızca acil güvenliği ve uygun yönlendirmeyi gerektiren bilgileri alın."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Sınırı öğrenciye açıklamak neden önemlidir?",
+        "Öğrenciye her şeyi anlatmak zorunda olmadığını, ancak onu korumak için gerekli kişilere belirli bilgi aktarılacağını söyleyin. Tutulamayacak sır sözü veya her şeyin düzeleceği garantisi vermeyin. Görüşme bittiğinde güvenli yetişkin desteği ve sonraki adım anlaşılır olmalıdır. Sonraki okul görüşmesi olayı baştan araştırmaya değil öğrencinin mevcut ihtiyaçlarına, erişimine ve güvenlik deneyimine odaklanır."
       ]
     ],
     "search_terms": [
@@ -807,16 +863,16 @@
         "Öğrenciye okulda nerede ve kimden acil yardım alınacağını yaşına uygun açıklayın. Acil tehlikede olağan randevu saatinin beklenmeyeceğini belirtin."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Rutin başvuru ile acil yardım ayrımı",
+        "Öğrenciye sıradan görüşme randevusu ve o anda zarar tehlikesi bildirimini iki ayrı yol olarak gösterin. Rehberlik servisinin kapısı kapalıysa acil tehlikeyi ertesi güne bırakmaması gerektiğini anlatın. Kurumun belirlediği yetkili yetişkin ve yedek görevli yaşa uygun okul haritasında gösterilebilir. Okul personeli erişim yolunu fiilen kontrol etmeden öğrenciye kullanılabilir bir yardım kanalı varmış gibi güvence vermemelidir."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. öğrenciye acil yardım yolu konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Yardım istemeyi kişisel ifşaya bağlamamak",
+        "Başvuru provasında gerçek kriz yaşayan öğrencileri sınıf önünde konuşmaya çağırmayın. Kurgusal karakterin güvenli yetişkine nasıl ulaşacağını canlandırın; mahremiyet ve gerekli koruyucu bilgi paylaşımını sade biçimde anlatın. Akrana sır verme tek yardım yolu olarak sunulmaz. Başvuru talebini herkesin okuyabildiği pano veya gruba yazmayı gerektiren düzenler değiştirilir; acil yardım doğrudan yetkili yetişkin üzerinden yürür."
       ],
       [
         "İzlem ve güvenli devir",
@@ -829,9 +885,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Kurgusal tehlike bildirimleriyle öğrencilerin yetişkine nasıl ulaşacağını deneyin; gerçek kriz yaşayan çocuğu sınıfın önünde olayı canlandırmaya zorlamayın. Okul haritasında değişen görevli bilgilerini düzenli güncelleyin."
+      ],
+      [
+        "Ulaşılamayan görevli için alternatif",
+        "Öğrenci ilk görevliyi bulamadığında nereden ve kimden yardım alacağını bilmelidir. Kurum planına göre yedek görev, erişilebilir iletişim biçimi ve güvenli bekleme yeri tanıtılır. Öğrenciyi tehlikeyi tek başına yönetmekle sorumlu tutmayın. Uygulama sonunda telefon numarası ezberini değil kurgusal bir durumda acil desteği hangi yetişkinden isteyeceğini açıklayabilmesini kontrol edin; plan personel değişikliğinde güncellenir."
       ]
     ],
-    "example": "Teneffüste tehdit alan öğrenci sınıf öğretmenini bulamaz; nöbetçi öğretmen ve okulun acil başvuru noktası açıkça gösterilir.",
+    "example": "Kurgusal senaryo: Kurgusal öğrenci yardım ararken rehberlik servisinin kapalı olduğunu görür. Etkinlikte rutin randevu yolu ve yakın tehlikede doğrudan ulaşılacak yedek yetkili yetişkin ayrı gösterilir.",
     "check": [
       "Öğrenciye okulda nerede ve kimden acil yardım alınacağını yaşına uygun açıklayın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -845,8 +905,8 @@
         "Öğrenciye okulda nerede ve kimden acil yardım alınacağını yaşına uygun açıklayın. Acil tehlikede olağan randevu saatinin beklenmeyeceğini belirtin."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Ulaşılamayan görevli için alternatif neden önemlidir?",
+        "Öğrenci ilk görevliyi bulamadığında nereden ve kimden yardım alacağını bilmelidir. Kurum planına göre yedek görev, erişilebilir iletişim biçimi ve güvenli bekleme yeri tanıtılır. Öğrenciyi tehlikeyi tek başına yönetmekle sorumlu tutmayın. Uygulama sonunda telefon numarası ezberini değil kurgusal bir durumda acil desteği hangi yetişkinden isteyeceğini açıklayabilmesini kontrol edin; plan personel değişikliğinde güncellenir."
       ]
     ],
     "search_terms": [
@@ -864,16 +924,16 @@
         "Yineleyen tehdit veya silah/zarar verme ifadesi varsa olayı basit şaka veya eşit taraflı anlaşmazlık saymayın. Önce hedef öğrencilerin güvenliğini ve yetkili müdahaleyi sağlayın."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Tehdidi sıradan anlaşmazlıktan ayırmak",
+        "Tehdit ifadesinin zamanı, hedefi ve devam eden tehlike için gerekli olguları alın. Öğrenciler arasındaki her tartışma aynı risk düzeyinde değildir; ancak somut zarar tehdidini şaka diye kapatmayın. Yakın tehlikede güvenli ayrışma ve yetkili acil müdahale önceliklidir. Hedef alınan öğrenciyi tehdidi açıklayan kişiyle arabuluculuk görüşmesine zorlamak koruma yaklaşımı değildir; güvenlik değerlendirmesi yüzleştirmeden önce yapılır."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. tehdit içeren akran davranışı konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Hedef öğrencinin günlük güvenliği",
+        "Ders çıkışı, teneffüs, ulaşım ve dijital temas gibi riskin sürdüğü alanları kurumun yetkili ekibiyle değerlendirin. Çocuğa kendini savunma veya karşı tehdit üretme görevi vermeyin. Öğretmen gözetimi ve güvenli başvuru kişisi somutlaştırılır. Tehdit bildiren öğrencinin kimliği merak amacıyla paylaşılmaz; yetkili inceleme için gereken olgular güvenli kanalla aktarılır ve kayıt yorumdan ayrı tutulur."
       ],
       [
         "İzlem ve güvenli devir",
@@ -886,9 +946,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Okulun yetkili görevlileri güncel tehlikeyi olgusal değerlendirmeli, gereken acil güvenlik ve koruma başvurusunu geciktirmemelidir. Tehdidin ortadan kalktığı yalnızca sözlü özürle varsayılmamalı; güvenlik ve misilleme izlenmelidir."
+      ],
+      [
+        "Misilleme ve yeni bilgiyi izlemek",
+        "İlk olaydan sonra yalnızca tarafların sessizleşmesine bakmayın; yeni tehdit, takip edilme ve misilleme bildirimi için güvenli temas bırakın. Dijital içerik yeniden yayımlanarak yayılım artırılmaz. Yeni yakın tehlike halinde plan beklenen kontrol tarihinden önce güncellenir. Okulun koruyucu düzeni, olayın disiplin veya adli boyutundan ayrı yürütülür; soruşturma ve fiziksel güvenlik yetkili görevlilerin alanıdır."
       ]
     ],
-    "example": "Öğrenci başka bir öğrenciye ciddi zarar vereceğini söyler; okul görüşmeyi ertelemek yerine risk ve koruyucu önlemi yetkili süreçte ele alır.",
+    "example": "Kurgusal senaryo: Öğrenci ders çıkışında hedef alınacağını söyleyen bir tehdit bildirir. Okul bunu sıradan arkadaş anlaşmazlığı sayıp yüzleştirme düzenlemez; güvenli gözetim, gerekli yetkili yanıt ve misilleme izlemini planlar.",
     "check": [
       "Yineleyen tehdit veya silah/zarar verme ifadesi varsa olayı basit şaka veya eşit taraflı anlaşmazlık saymayın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -902,8 +966,8 @@
         "Yineleyen tehdit veya silah/zarar verme ifadesi varsa olayı basit şaka veya eşit taraflı anlaşmazlık saymayın. Önce hedef öğrencilerin güvenliğini ve yetkili müdahaleyi sağlayın."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Misilleme ve yeni bilgiyi izlemek neden önemlidir?",
+        "İlk olaydan sonra yalnızca tarafların sessizleşmesine bakmayın; yeni tehdit, takip edilme ve misilleme bildirimi için güvenli temas bırakın. Dijital içerik yeniden yayımlanarak yayılım artırılmaz. Yeni yakın tehlike halinde plan beklenen kontrol tarihinden önce güncellenir. Okulun koruyucu düzeni, olayın disiplin veya adli boyutundan ayrı yürütülür; soruşturma ve fiziksel güvenlik yetkili görevlilerin alanıdır."
       ]
     ],
     "search_terms": [
@@ -921,16 +985,16 @@
         "Zarar verme tehdidini tek bir öğrencinin kişilik özelliği olarak tanımlamayın; somut söz, davranış ve güncel tehlikeyi olgusal kaydedip acil güvenliği önceleyin."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Güvenli mesafe ve yetkili yanıt",
+        "Devam eden saldırı veya yakın zarar tehlikesi varsa çevredeki öğrencilerin güvenli alana geçmesi kurumun acil planına göre sağlanır. Öğrenciyi çevreleme, meydan okuma veya personelin yetkisini aşan fiziksel müdahale önerilmez. Yetkili acil yardım hemen devreye alınır. Durumu sınıf önünde sorgulamak veya videoya kaydetmek yerine güvenli mesafe, sakin iletişim ve personelin kendi güvenliği korunur."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. okulda zarar verme riski konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Olay alanı ve okul görevi",
+        "Kimin öğrencilerle kalacağı ve kimin acil görevlilere haber vereceği ayrılır. Yardım talebinde konum, gözlenen tehlike ve sağlık gereksinimi gibi gerekli bilgi aktarılır; uzaktan tanı üretilmez. Diğer öğrencilerin özel anlatıları toplu duyuruya dönüştürülmez. Müdahale sona erdiğinde güvenli devir teyit edilir; zil çalması, tarafların dağılması veya öğrencinin söz vermesi tek başına güvenlik kararı değildir."
       ],
       [
         "İzlem ve güvenli devir",
@@ -943,9 +1007,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "İlgili okul güvenlik ekibi koruyucu görevleri ve dış kurum yönlendirmesini açıkça paylaştırmalıdır. Sonradan yapılacak öğrenci destek görüşmesi, acil tehlikeyi yönetmenin yerine geçmez. Kayda yalnızca gerekli olgusal bilgiler yazılmalıdır."
+      ],
+      [
+        "Dönüş planında farklı ihtiyaçlar",
+        "Hedef alınan, olaya tanık olan ve zarar verici davranış gösteren öğrencilerin okul destek gereksinimleri ayrı ele alınır. Zorunlu uzlaşma toplantısı yerine yetkili güvenlik değerlendirmesi ve uygun uzman desteği planlanır. Sınıfın rutinleri ve yardım yolu açıklanır; olay görüntülerinin yayılması önlenir. Yeni tehdit ortaya çıktığında disiplin sürecinin bitmesini beklemeden koruyucu yanıt güncellenmelidir."
       ]
     ],
-    "example": "Sınıfta zarar verme tehdidi bildirildiğinde öğrenciler güvenli alana alınır, yetkili acil yanıt süreci işletilir.",
+    "example": "Kurgusal senaryo: Okulda devam eden zarar tehlikesi vardır. Görevliler kendi güvenliğini gözeterek okulun acil planındaki güvenli alan ve yetkili yardım sürecini işletir; olayı sınıf önünde sorgulama toplantısına çevirmez.",
     "check": [
       "Zarar verme tehdidini tek bir öğrencinin kişilik özelliği olarak tanımlamayın; somut söz, davranış ve güncel tehlikeyi olgusal kaydedip acil güvenliği önceleyin.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -959,8 +1027,8 @@
         "Zarar verme tehdidini tek bir öğrencinin kişilik özelliği olarak tanımlamayın; somut söz, davranış ve güncel tehlikeyi olgusal kaydedip acil güvenliği önceleyin."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Dönüş planında farklı ihtiyaçlar neden önemlidir?",
+        "Hedef alınan, olaya tanık olan ve zarar verici davranış gösteren öğrencilerin okul destek gereksinimleri ayrı ele alınır. Zorunlu uzlaşma toplantısı yerine yetkili güvenlik değerlendirmesi ve uygun uzman desteği planlanır. Sınıfın rutinleri ve yardım yolu açıklanır; olay görüntülerinin yayılması önlenir. Yeni tehdit ortaya çıktığında disiplin sürecinin bitmesini beklemeden koruyucu yanıt güncellenmelidir."
       ]
     ],
     "search_terms": [
@@ -978,16 +1046,16 @@
         "Olay kaydını yalnızca yetkili kişilerle, güvenli kurum kanallarında paylaşın. Öğrenci görüntüsü veya konuşmasını merak nedeniyle çoğaltmayın."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Dijital bilgiyi yeniden yaymamak",
+        "Şüpheli olaya ilişkin mesaj veya görüntü varsa içerik sınıf grubunda dolaştırılmaz. Öğrencilerden kanıt toplamak için başka hesaplara girmeleri, içeriği indirmeleri veya yeniden paylaşmaları istenmez. Özellikle çocukların mahrem görüntülerini personelin kişisel cihazına kopyalamak yeni zarar yaratabilir. Gerekli bilgi ve bulunduğu platform, yetkili koruma veya inceleme görevlisine kurumun güvenli usulüyle iletilir; okul kendi adli arşivini kurmaz."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. şüpheli olayda bilgi güvenliği konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Erişim ve aktarım sorumlusunu belirlemek",
+        "Not, dosya veya iletişim kaydına kimlerin görev gereği eriştiğini sınırlayın. Açık ortak klasör, toplu e-posta ve kişisel mesajlaşma hesabı uygun aktarım yolu sayılmaz. Yetkili alıcı, aktarım zamanı ve teyit kayda geçirilir. Çocuğun kimliği eğitim sunumuna veya örnek olay slaydına eklenmez. Acil sağlık ve koruma gereksinimi varsa dijital belge düzenleme işi güvenli yanıtı geciktirmemelidir."
       ],
       [
         "İzlem ve güvenli devir",
@@ -1000,9 +1068,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Erişim hatası veya gereksiz paylaşım fark edilirse veri güvenliği sorumluları devreye alınmalıdır. Gizlilik ile çocuk güvenliği yükümlülükleri birbirinin yerine konulmaz; ihtiyaç kadar bilgi, yetkili kişilere güvenli kanal üzerinden aktarılır."
+      ],
+      [
+        "Belirsizliği kayıt içinde korumak",
+        "Gönderilen ekran görüntüsünün bağlamı veya sahibi doğrulanmamışsa bu durum açıkça belirtilir. Tahminle fail belirlemek veya görüntüyü gerçek olayın kesin kanıtı saymak okulun yetkisini aşar. Bilginin yanlış kişiye gitmesi halinde kurumun yetkili veri ve koruma sorumlusuna başvurulur. Öğrencinin misilleme, ifşa veya yeni tehdit deneyimi ayrıca izlenir; bilgi güvenliği fiziksel ve duygusal korumadan ayrı düşünülmez."
       ]
     ],
-    "example": "Özel mesajı içeren ekran görüntüsü sınıf grubunda dolaşmaya başlar; okul yeni kopyaların yayılmasını sınırlandırır.",
+    "example": "Kurgusal senaryo: Öğrenci mahrem içeriğin grup sohbetinde dolaştığını bildirir. Görevli görüntüyü kanıt olsun diye başka gruba kopyalamaz; gerekli bilgiyi kurumun güvenli yetkili koruma ve inceleme kanalına iletir.",
     "check": [
       "Olay kaydını yalnızca yetkili kişilerle, güvenli kurum kanallarında paylaşın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -1016,8 +1088,8 @@
         "Olay kaydını yalnızca yetkili kişilerle, güvenli kurum kanallarında paylaşın. Öğrenci görüntüsü veya konuşmasını merak nedeniyle çoğaltmayın."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Belirsizliği kayıt içinde korumak neden önemlidir?",
+        "Gönderilen ekran görüntüsünün bağlamı veya sahibi doğrulanmamışsa bu durum açıkça belirtilir. Tahminle fail belirlemek veya görüntüyü gerçek olayın kesin kanıtı saymak okulun yetkisini aşar. Bilginin yanlış kişiye gitmesi halinde kurumun yetkili veri ve koruma sorumlusuna başvurulur. Öğrencinin misilleme, ifşa veya yeni tehdit deneyimi ayrıca izlenir; bilgi güvenliği fiziksel ve duygusal korumadan ayrı düşünülmez."
       ]
     ],
     "search_terms": [
@@ -1035,16 +1107,16 @@
         "Öğrencinin okula dönüşündeki sağlık, ulaşım, güvenlik ve aidiyet engellerini birbirinden ayırın. Birinci hedef yalnızca devam sayısını yükseltmek olmamalıdır."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Devamsızlığın güvenlik bağlamını anlamak",
+        "Kriz sonrasında okula gelmeyen öğrencinin ulaşım, geçici barınma, sağlık veya okulda güvensizlik gibi farklı engelleri olabilir. Gün ve ders örüntüsünü öğrencinin güvenli anlatımıyla değerlendirin; devamsızlığı hemen isteksizlik veya kuralsızlık saymayın. Aileyle temasın çocuğa risk oluşturabileceği durumlarda yetkili koruma süreciyle iletişim yolu seçilir. Yeni yakın tehlike bildirimi rutin devam takibinden ayrı acil yanıt gerektirir."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. kriz sonrası devamsızlık konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Dönüş desteğini küçük adımlarla kurmak",
+        "Öğrenciyle ilk gün hangi derse nasıl katılacağı, kimin karşılayacağı ve zorlandığında kime ulaşacağı konuşulabilir. Eksik görevlerin tamamını bir anda yüklemek yerine öğretmenlerle ulaşılabilir ders planı hazırlanır. Bu esneklik eğitim yükümlülükleri ve kurum usulleri içinde değerlendirilir; rehber sabit izin süresi önermez. Plan çocuğun olayın bütün ayrıntılarını tekrar anlatmasına bağlanmadan destek erişimini sağlayacak biçimde yazılır."
       ],
       [
         "İzlem ve güvenli devir",
@@ -1057,9 +1129,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Öğrencinin katılmayı kabul ettiği küçük dönüş adımı, güvenli yetişkin erişimi ve öğretmen desteği planlanabilir. Ani tehlike veya belirgin süregelen işlev kaybında uygun profesyonel yönlendirme yapılmalıdır; öğrencinin özel bilgisi gereksiz paylaşılmamalıdır."
+      ],
+      [
+        "Katılımı sadece yoklamadan izlememek",
+        "Öğrencinin okula gelmesiyle kendini güvende hissetmesi aynı gösterge değildir. Ders erişimi, mola gereksinimi ve destek kişisine ulaşabilme deneyimi birlikte değerlendirilir. Yeniden devamsızlıkta önceki planın hangi engeli çözmediği sorulur. Güçlükler sürüyorsa uygun okul, sağlık veya koruma desteği gözden geçirilir. Takip tarihleri örnek olarak seçilir; ihtiyaç değiştiğinde daha erken temas yapılır."
       ]
     ],
-    "example": "Zorlayıcı olay sonrası devamsızlığı artan öğrencinin okul yolundaki güvensizlik hissi görüşmede belirlenir.",
+    "example": "Kurgusal senaryo: Öğrenci zorlayıcı olaydan sonra birkaç gün okula gelemez. Ekip devam sayısından önce ulaşım ve güvenlik engelini dinler; uygun ders erişimi ve koruyucu destek yolunu birlikte planlar.",
     "check": [
       "Öğrencinin okula dönüşündeki sağlık, ulaşım, güvenlik ve aidiyet engellerini birbirinden ayırın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -1073,8 +1149,8 @@
         "Öğrencinin okula dönüşündeki sağlık, ulaşım, güvenlik ve aidiyet engellerini birbirinden ayırın. Birinci hedef yalnızca devam sayısını yükseltmek olmamalıdır."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Katılımı sadece yoklamadan izlememek neden önemlidir?",
+        "Öğrencinin okula gelmesiyle kendini güvende hissetmesi aynı gösterge değildir. Ders erişimi, mola gereksinimi ve destek kişisine ulaşabilme deneyimi birlikte değerlendirilir. Yeniden devamsızlıkta önceki planın hangi engeli çözmediği sorulur. Güçlükler sürüyorsa uygun okul, sağlık veya koruma desteği gözden geçirilir. Takip tarihleri örnek olarak seçilir; ihtiyaç değiştiğinde daha erken temas yapılır."
       ]
     ],
     "search_terms": [
@@ -1092,16 +1168,16 @@
         "Öğrencinin erişebileceği birden çok yetişkin ve alternatif acil başvuru noktası belirleyin. Hiçbir koşulda sır saklama sözü vermeden güvenlik istisnalarını açıklayın."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Destek kişisini öğrenciyle seçmek",
+        "Güvenilir yetişkin yalnızca görev unvanına bakılarak atanmaz; öğrencinin kiminle rahat konuşabildiği ve o kişinin gerçekten erişilebilir olup olmadığı değerlendirilir. Çocuğun belirttiği zarar kaynağı destek kişisi olarak seçilmez. Bir yetişkine tüm gün ulaşma garantisi vermek yerine kurum planında uygun yedek bulunur. Yakın tehlikede destek ilişkisi yetkili acil sağlık ve koruma yanıtının yerine geçemez; yetişkin görev sınırını bilmelidir."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. güvenilir yetişkin desteği konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Temasın biçimini önceden açıklamak",
+        "Öğrenci nerede, hangi zamanlarda ve hangi erişilebilir yolla görüşebileceğini bilmelidir. Ortak sınıf mesajına özel sorun yazma gerekliliği kaldırılır. Yetişkin mutlak sır sözü vermeden güvenlik için gerekli paylaşımı anlatır. Düzenli kısa temas öğrencinin isteği ve gereksinimiyle planlanır; ilişkiyi kişisel sosyal medya veya mesai dışında sınırsız erişim vaadine dönüştürmeyin. Kurumun görev ve iletişim usulleri temel alınır."
       ],
       [
         "İzlem ve güvenli devir",
@@ -1114,9 +1190,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Yetişkinin devamsızlık veya görev değişikliği durumunda yeni başvuru yolu öğrencinin anlayacağı biçimde açıklanmalıdır. Öğrenciyi acil güvenliği tek başına sağlama sorumluluğu altında bırakmayın; okul planında gözetim ve destek rolü yetişkinlerde kalmalıdır."
+      ],
+      [
+        "Kişi değiştiğinde desteği devretmek",
+        "Destek yetişkini okuldan ayrılır veya erişilemezse öğrenci habersiz bırakılmaz. Yeni görevliyle tanışma, güvenli iletişim yolu ve gerekli asgari bilgi devri düzenlenir. Öğrenci aynı olayı baştan anlatmak zorunda bırakılmadan mevcut ihtiyacını paylaşabilir. Başarı yalnızca yetişkinin belirlenmesi değil öğrencinin ihtiyaç anında gerçekten yardım alabilmesidir; erişim ve güvenlik deneyimi sonraki temasta gözden geçirilir."
       ]
     ],
-    "example": "Öğrenci rehber öğretmeni okulda yokken kime başvuracağını bilemez; alternatif görevli ve acil yardım yolu tanıtılır.",
+    "example": "Kurgusal senaryo: Öğrencinin destek kişisi okuldan ayrılır. Yeni yetkili görevli ve uygun yedek öğrenciye tanıtılır; çocuk olayın bütün ayrıntısını yeniden anlatmadan mevcut ihtiyacını paylaşabilir.",
     "check": [
       "Öğrencinin erişebileceği birden çok yetişkin ve alternatif acil başvuru noktası belirleyin.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -1130,8 +1210,8 @@
         "Öğrencinin erişebileceği birden çok yetişkin ve alternatif acil başvuru noktası belirleyin. Hiçbir koşulda sır saklama sözü vermeden güvenlik istisnalarını açıklayın."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Kişi değiştiğinde desteği devretmek neden önemlidir?",
+        "Destek yetişkini okuldan ayrılır veya erişilemezse öğrenci habersiz bırakılmaz. Yeni görevliyle tanışma, güvenli iletişim yolu ve gerekli asgari bilgi devri düzenlenir. Öğrenci aynı olayı baştan anlatmak zorunda bırakılmadan mevcut ihtiyacını paylaşabilir. Başarı yalnızca yetişkinin belirlenmesi değil öğrencinin ihtiyaç anında gerçekten yardım alabilmesidir; erişim ve güvenlik deneyimi sonraki temasta gözden geçirilir."
       ]
     ],
     "search_terms": [
@@ -1149,16 +1229,16 @@
         "Tüm öğretmenlere öğrenci olayının ayrıntısını göndermek yerine ders düzeninde gerekli koruyucu uyarlamaları ve yetkili iletişim sorumlusunu belirleyin."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Öğretmene olay öyküsü yerine destek görevi",
+        "Öğretmenler arasında gerekli paylaşım, sınıfta hangi desteğin uygulanacağıyla sınırlıdır. Öğrencinin ayrıntılı kriz anlatısı veya aileye ilişkin hassas bilgi bütün personele verilmez. Rehberlik servisi ve yetkili okul ekibi hangi öğretmenin ne yapacağını belirler. Anlık tehlike veya ciddi sağlık ihtiyacı gözleyen öğretmen, danışmanın rutin görüşmesini beklemeden kurumun acil yardım yolunu işletmeli; gözetim sorumluluğu boşta kalmamalıdır."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. krizde öğretmen koordinasyonu konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Birbiriyle uyumlu ders düzenlemesi",
+        "Bir öğretmenin mola izni verdiği öğrencinin başka derste aynı ihtiyacı için cezalandırılmaması adına gerekli düzenleme yetkili şekilde koordine edilir. Görev yükü, güvenli çıkış yolu ve başvuru kişisi öğrenciyi damgalamadan açıklanır. Öğretmenlerden klinik belirti taraması veya olay sorgusu yapmaları istenmez. Gözlem, derse erişim ve belirlenen desteklerin işleyişi üzerine kısa olgusal bilgi olarak toplanır."
       ],
       [
         "İzlem ve güvenli devir",
@@ -1171,9 +1251,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Birden fazla yetişkinin öğrenciye aynı olayı ayrı ayrı sorması yerine yetkili temas sorumlusu oluşturulabilir. Öğretmenlerle paylaşılacak bilgiler, derse katılım uyarlaması ve güvenlik için gerek duyulan asgari düzeyde tutulmalıdır."
+      ],
+      [
+        "Koordinasyonun yararını kontrol etmek",
+        "Toplantı yapılmış olması desteklerin uygulandığını göstermez. Öğrenciyle mola yoluna erişip erişemediği ve öğretmen tepkilerinin uyumlu olup olmadığı konuşulur. Gerekli görevliyle tıkanan düzenleme güncellenir. Yeni tehdit bildirimi rutin toplantı tarihine bırakılmaz. Personel değişikliğinde asgari görev bilgisi güvenli biçimde devredilir; özel dosyalar e-posta listesinde veya öğretmenler odasında serbest dolaşıma sokulmaz."
       ]
     ],
-    "example": "Zorlayıcı olay sonrası öğrenciye farklı öğretmenler sürekli soru sorar; okul tek güvenli temas ve görev düzeni oluşturur.",
+    "example": "Kurgusal senaryo: Öğrenci bir derste verilen mola düzenini başka derste kullanamaz. Yetkili ekip özel kriz öyküsünü bütün personele yaymadan gerekli uygulama bilgisini eşler ve erişim engelini giderir.",
     "check": [
       "Tüm öğretmenlere öğrenci olayının ayrıntısını göndermek yerine ders düzeninde gerekli koruyucu uyarlamaları ve yetkili iletişim sorumlusunu belirleyin.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -1187,8 +1271,8 @@
         "Tüm öğretmenlere öğrenci olayının ayrıntısını göndermek yerine ders düzeninde gerekli koruyucu uyarlamaları ve yetkili iletişim sorumlusunu belirleyin."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Koordinasyonun yararını kontrol etmek neden önemlidir?",
+        "Toplantı yapılmış olması desteklerin uygulandığını göstermez. Öğrenciyle mola yoluna erişip erişemediği ve öğretmen tepkilerinin uyumlu olup olmadığı konuşulur. Gerekli görevliyle tıkanan düzenleme güncellenir. Yeni tehdit bildirimi rutin toplantı tarihine bırakılmaz. Personel değişikliğinde asgari görev bilgisi güvenli biçimde devredilir; özel dosyalar e-posta listesinde veya öğretmenler odasında serbest dolaşıma sokulmaz."
       ]
     ],
     "search_terms": [
@@ -1206,16 +1290,16 @@
         "Doğrulanmamış iddiaları yeniden anlatmayın; öğrencileri olayın özel ayrıntısı üzerinde tartıştırmayın. Yardım kanallarını ve güvenli sınıf kurallarını açıkça belirtin."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Bilinen bilgiyle varsayımı ayırmak",
+        "Söylentiye yanıt verirken doğrulanmış genel bilgi, henüz bilinmeyen konu ve öğrenci mahremiyeti nedeniyle paylaşılamayacak alanı ayırın. Boşluğu tahminle doldurmayın; öğrencinin kimliğini açıklayarak söylentiyi çürütmeye çalışmayın. Kurumun belirlediği yetkili iletişim kişisi kısa ve tutarlı bilgi verir. Yakın zarar tehdidi içeren mesaj ise sıradan dedikodu olarak ele alınmaz; gerekli acil güvenlik ve koruma süreci başlatılır."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. zorlayıcı olayda söylenti konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Sınıfta yayılımı durdurma adımı",
+        "Öğrencilerden duydukları tüm ayrıntıları sırayla anlatmalarını istemek söylentiyi büyütebilir. Bunun yerine doğrulanmamış bilgi ve görüntüyü paylaşmama, yardım için yetkili yetişkine gitme gibi somut kurallar konuşulur. Hedef gösterilen öğrencinin özel öyküsü tartışma malzemesi yapılmaz. Dijital içerik kanıt olsun diye yeniden yayımlanmaz; gerekli olgular güvenli yetkili kanala aktarılır ve olası misilleme ayrıca değerlendirilir."
       ],
       [
         "İzlem ve güvenli devir",
@@ -1228,9 +1312,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Sınıf etkinliğinde öğrencilerin olaya ilişkin duyduklarını listeleyip yaymak yerine belirsiz bilgiyi aktarmama, güvenilir yetişkine sorma ve destek kanallarına ulaşma becerileri ele alınabilir. Yeni tehdit veya güvenlik bilgisi gelirse acil prosedür uygulanır."
+      ],
+      [
+        "Düzeltmenin etkisini izlemek",
+        "Açıklama yapıldıktan sonra söylentinin bitmiş olduğunu varsaymayın. Teneffüs, grup sohbeti ve ders içi dışlanma hakkında öğrencinin güvenli geri bildirimi alınır. Yeni ifşa veya tehdit varsa koruyucu plan güncellenir. Öğretmen, olayı kimin başlattığını sınıf önünde bulmaya çalışmaz. Takipte başarı göstergesi daha çok ayrıntı öğrenmek değil bilgi yayılımının ve hedef göstermenin azalması, güvenli yardım yolunun kullanılabilmesidir."
       ]
     ],
-    "example": "Bir öğrencinin ailesi hakkında söylenti yayılır; okul mahrem bilgi açıklamadan güvenli sınıf iletişimini düzenler.",
+    "example": "Kurgusal senaryo: Sınıfta bir öğrenci hakkında doğrulanmamış bilgi yayılır. Öğretmen kimliği açıklayarak söylentiyi çürütmeye çalışmaz; gerekli genel bilgiyi ve güvenli yardım yolunu verir, hedef gösterme riskini izler.",
     "check": [
       "Doğrulanmamış iddiaları yeniden anlatmayın; öğrencileri olayın özel ayrıntısı üzerinde tartıştırmayın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -1244,8 +1332,8 @@
         "Doğrulanmamış iddiaları yeniden anlatmayın; öğrencileri olayın özel ayrıntısı üzerinde tartıştırmayın. Yardım kanallarını ve güvenli sınıf kurallarını açıkça belirtin."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Düzeltmenin etkisini izlemek neden önemlidir?",
+        "Açıklama yapıldıktan sonra söylentinin bitmiş olduğunu varsaymayın. Teneffüs, grup sohbeti ve ders içi dışlanma hakkında öğrencinin güvenli geri bildirimi alınır. Yeni ifşa veya tehdit varsa koruyucu plan güncellenir. Öğretmen, olayı kimin başlattığını sınıf önünde bulmaya çalışmaz. Takipte başarı göstergesi daha çok ayrıntı öğrenmek değil bilgi yayılımının ve hedef göstermenin azalması, güvenli yardım yolunun kullanılabilmesidir."
       ]
     ],
     "search_terms": [
@@ -1263,16 +1351,16 @@
         "Ders akışını öğrencilerin yaşına ve güvenlik koşullarına göre anlaşılır kılın. Herkesin hızla normale dönmesini beklemeyin; gönüllü destek ve kısa mola seçenekleri sunun."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Rutini güvenli ve anlaşılır kurmak",
+        "Kriz sonrasında ders sırasını, teneffüs düzenini ve gün içindeki değişiklikleri kısa ve tutarlı biçimde açıklayın. Hiçbir şey olmamış gibi davranmak kadar bütün günü olay konuşmasına dönüştürmek de öğrencilerin ihtiyaçlarını karşılamayabilir. Öğrencinin yaşına uygun günlük yapı, katılım ve mola seçenekleri planlanır. Fiziksel güvenlik konusunda yetkili değerlendirme yapılmadan sırf eski düzene dönmek için mekân veya etkinlik kullanımı zorlanmaz."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. kriz sonrası sınıf rutini konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Esneklik için ortak sınıf düzeni",
+        "Kısa mola, görevlerin parçalara ayrılması veya alternatif yanıt biçimi öğretmenlerle uygun biçimde kararlaştırılabilir. Düzenlemeyi yalnızca bir çocuğun olay anlatısına bağlayarak sınıf önünde açıklamayın. Yardım ihtiyacını bildirme yolu görünür olsun; akranlar kriz gözetmeni yapılmasın. Anlık tehlike ortaya çıktığında rutin sürdürülmez, yetkili acil süreç devreye alınır. Öğretmenin rolü günlük erişimi desteklemek ve gerekli güvenlik bilgisini iletmektir."
       ],
       [
         "İzlem ve güvenli devir",
@@ -1285,9 +1373,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Öğrencileri kişisel olay anlatımına zorlamadan ihtiyaç duydukları desteği izleyin. Uzun süren belirgin işlev kaybı ya da yeni tehlike bildirimi için yetkili uzman kanallarına erişimi kolaylaştırın. Tek bir ders günündeki katılımı iyileşme kanıtı saymayın."
+      ],
+      [
+        "Rutinin işe yarayıp yaramadığını görmek",
+        "Sessiz sınıf her zaman güvenli veya rahat sınıf değildir. Öğrencilerin göreve başlayabilmesi, yardım istemesi ve mola sonrası dönebilmesi gibi gözlenebilir göstergeleri izleyin. Gelişim değerlendirilirken önceki koşullar ve yeni ihtiyaçlar dikkate alınır. Zorlanma sürüyorsa görev yükü ve uygun bireysel destek yeniden ele alınır; her öğrenciye aynı hızda toparlanma beklentisi yüklenmez. Yeni olayda plan yeniden değerlendirilmelidir."
       ]
     ],
-    "example": "Okula dönen öğrenci zil sonrası kalabalıkta zorlanır; öğretmen güvenli geçiş ve önceden açıklanmış rutin uygular.",
+    "example": "Kurgusal senaryo: Öğretmen yeni ders programını kısa biçimde açıklar; bir öğrenci mola ister. Uygun yetişkin destek yolu kullanılır, sessiz görünmenin güvenli ve rahat katılımı tek başına göstermediği dikkate alınır.",
     "check": [
       "Ders akışını öğrencilerin yaşına ve güvenlik koşullarına göre anlaşılır kılın.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -1301,8 +1393,8 @@
         "Ders akışını öğrencilerin yaşına ve güvenlik koşullarına göre anlaşılır kılın. Herkesin hızla normale dönmesini beklemeyin; gönüllü destek ve kısa mola seçenekleri sunun."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Rutinin işe yarayıp yaramadığını görmek neden önemlidir?",
+        "Sessiz sınıf her zaman güvenli veya rahat sınıf değildir. Öğrencilerin göreve başlayabilmesi, yardım istemesi ve mola sonrası dönebilmesi gibi gözlenebilir göstergeleri izleyin. Gelişim değerlendirilirken önceki koşullar ve yeni ihtiyaçlar dikkate alınır. Zorlanma sürüyorsa görev yükü ve uygun bireysel destek yeniden ele alınır; her öğrenciye aynı hızda toparlanma beklentisi yüklenmez. Yeni olayda plan yeniden değerlendirilmelidir."
       ]
     ],
     "search_terms": [
@@ -1320,16 +1412,16 @@
         "Okul içi ve dışı desteğin kim tarafından, hangi tarihte izleneceği açık olmalıdır. Hizmete yönlendirme yapılması, öğrencinin acil riskinin sonlandığı varsayımına dönüşmemelidir."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Devirde sorumluluğu açık tutmak",
+        "Destek devrinde yalnızca dosya göndermek yeterli değildir. Yeni görevlinin kim olduğu, hangi işi devraldığı ve öğrencinin ona nasıl ulaşacağı anlaşılır olmalıdır. Yakın tehlikede güvenli yetişkin gözetimi, yetkili acil müdahale tamamlanmadan bırakılmaz. Bir telefon araması veya randevu tarihi güvenli devir teyidi değildir; görevi devralan yetkiliyle gerekli bilgi ve zaman kaydı kurum usulüne göre doğrulanır."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. izlem ve destek devri konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Asgari devir özeti hazırlamak",
+        "Devir özeti mevcut güvenlik ihtiyacı, uygulanmış okul desteği, gerekli sonraki işlem ve erişim engellerini içerir. Bütün özel görüşme notları otomatik aktarılmaz. Öğrencinin kendi sözleriyle personel yorumu ayrılır; doğrulanmamış alanlar böyle belirtilir. Alıcı görevli yetkili olmalı ve aktarım güvenli kurumsal kanaldan yapılmalıdır. Öğrenciye mümkün olan ölçüde değişiklik açıklanır; tüm olayı tekrar anlatması destek için koşul değildir."
       ],
       [
         "İzlem ve güvenli devir",
@@ -1342,9 +1434,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Takip sorumlusu öğrencinin okula güvenle katılımını ve gerekli destek düzenini izlemelidir. Yetkili hizmetin değerlendirmesini okul personeli kendi klinik kararıyla değiştirmemeli; yeni güvenlik belirtisinde müdahaleyi yeniden başlatmalıdır."
+      ],
+      [
+        "Devir sonrasında erişimi teyit etmek",
+        "Yeni görevlendirmeden sonra öğrencinin destek kişisine gerçekten ulaşabildiğini kısa güvenli temasla kontrol edin. Erişim yoksa kimin yeniden bağlantı kuracağı önceden bellidir. Eski ve yeni görevlinin sorumluluk sınırları belirsiz bırakılmaz. İzlemde yalnızca başvurunun yapıldığı değil desteğin sürdüğü ve yeni risklerin ele alındığı değerlendirilir. Devir planı personel yokluğunda veya kurum değişikliğinde yeniden güncellenir."
       ]
     ],
-    "example": "Yönlendirilen öğrencinin desteğe ulaşıp ulaşmadığı yetkili görevli tarafından gerekli gizlilikle takip edilir.",
+    "example": "Kurgusal senaryo: Dosya yeni destek görevlisine gönderilir ancak öğrenci ona nasıl ulaşacağını bilmez. Ekip aktarımı bitmiş saymaz; görev teyidi, erişim yolu ve gerekli güvenli takip temasını düzenler.",
     "check": [
       "Okul içi ve dışı desteğin kim tarafından, hangi tarihte izleneceği açık olmalıdır.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -1358,8 +1454,8 @@
         "Okul içi ve dışı desteğin kim tarafından, hangi tarihte izleneceği açık olmalıdır. Hizmete yönlendirme yapılması, öğrencinin acil riskinin sonlandığı varsayımına dönüşmemelidir."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Devir sonrasında erişimi teyit etmek neden önemlidir?",
+        "Yeni görevlendirmeden sonra öğrencinin destek kişisine gerçekten ulaşabildiğini kısa güvenli temasla kontrol edin. Erişim yoksa kimin yeniden bağlantı kuracağı önceden bellidir. Eski ve yeni görevlinin sorumluluk sınırları belirsiz bırakılmaz. İzlemde yalnızca başvurunun yapıldığı değil desteğin sürdüğü ve yeni risklerin ele alındığı değerlendirilir. Devir planı personel yokluğunda veya kurum değişikliğinde yeniden güncellenir."
       ]
     ],
     "search_terms": [
@@ -1377,16 +1473,16 @@
         "Güvenlik koşulları değiştiğinde koruyucu kişiler, erişim yolları ve tekrar riskini yeniden değerlendirin. Planı yalnızca öğrencinin kendi başına uygulayacağı görev listesi yapmayın."
       ],
       [
-        "Öncelikli güvenlik sınırı",
-        "Anlık tehlike bulunuyorsa öğrenci yalnız bırakılmamalı ve okulun yetkili acil sağlık/koruma zinciri gecikmeden devreye alınmalıdır. Bildirim gereken durumda sıradan randevu veya veli görüşmesi beklenmez."
+        "Planı değişen koşullarla karşılaştırmak",
+        "Güvenlik planı bir kez imzalanıp dosyalanacak sabit belge değildir. Öğrencinin yeni tehdit bildirmesi, yardım kişisinin değişmesi, ulaşım düzeninin bozulması veya hizmete erişememesi yeniden değerlendirme gerektirir. Yakın tehlikede plan toplantısı beklenmeden güvenli gözetim ve yetkili acil yanıt sağlanır. Okul destek planı klinik güvenlik değerlendirmesinin yerine geçmez; gerektiğinde sağlık ve koruma uzmanlarının yönlendirmesiyle birlikte yürütülür."
       ],
       [
         "Okulda olgusal değerlendirme",
         "Somut söz veya gözlem ile yorum arasındaki farkı koruyun. güvenlik planını güncelleme konusunda öğrenciye ayrıntı tekrarlatmadan yalnızca güvenlik ve uygun yönlendirme için gerekli bilgiyi kaydedin."
       ],
       [
-        "Yetkili ekip ve mahremiyet",
-        "Gereken okul, sağlık ve koruma görevlilerinin rolünü belirleyin; bilgiyi yalnızca yetkili kanalda paylaşın. Çocuğun güvenliğini riske sokabilecek kişi veya kanala otomatik bildirim yapmayın."
+        "Öğrencinin kullanabileceği adımlar yazmak",
+        "Plan öğrencinin anlayabileceği kısa bir dille nerede güvenli yetişkine ulaşacağını, ilk görevli yoksa kime gideceğini ve okulda hangi desteğin uygulanacağını açıklamalıdır. Akran gözetimi veya sadece zarar vermeme sözü güvenlik tedbiri sayılmaz. Aile katılımında zarar kaynağı olasılığı yetkili süreçte değerlendirilir. Yeni sürümün hangi görevlilere gerekli bilgi düzeyinde iletileceği ve eski iletişim bilgisinin nasıl kaldırılacağı belirlenir."
       ],
       [
         "İzlem ve güvenli devir",
@@ -1399,9 +1495,13 @@
       [
         "Yetkili müdahale, kayıt ve güvenli devir",
         "Planı yalnızca öğrencinin tek başına uygulayacağı görev listesine dönüştürmeyin. Yetkili yetişkinin gözetim ve güvenli devir sorumluluğunu açıkça belirtin; yeni riskte mevcut planı yeterli varsaymak yerine acil kurumsal sürece başvurun."
+      ],
+      [
+        "Güncellemenin kullanımını denetlemek",
+        "Kurgusal bir erişim senaryosuyla öğrencinin destek kişisini ve alternatif yolu bulabildiği kontrol edilebilir. Gerçek kriz ayrıntıları prova malzemesi yapılmaz. Öğretmenlerin gerekli ders düzenlemesini bilip bilmediği yetkili koordinasyonla teyit edilir. Takipte yeni tehdidin sürmesi veya hizmetin ulaşmaması halinde plan yeniden ele alınır. Başarı imza sayısı değil güvenli yardım erişiminin fiilen işlemesi ve sorumluluğun açık kalmasıdır."
       ]
     ],
-    "example": "Öğrenci için güvenli yetişkin olarak belirlenen görevli okuldan ayrılınca alternatif başvuru noktası hemen güncellenir.",
+    "example": "Kurgusal senaryo: Planın destek kişisi değişir ve öğrencinin kullandığı yol artık işlemez. Yetkili ekip yeni yardım ve yedek erişim yolunu açıklar; imza almak yerine planın fiilen kullanılabildiğini kontrol eder.",
     "check": [
       "Güvenlik koşulları değiştiğinde koruyucu kişiler, erişim yolları ve tekrar riskini yeniden değerlendirin.",
       "Anlık tehlikede yetkili acil yardım ve koruma zincirini işletin.",
@@ -1415,8 +1515,8 @@
         "Güvenlik koşulları değiştiğinde koruyucu kişiler, erişim yolları ve tekrar riskini yeniden değerlendirin. Planı yalnızca öğrencinin kendi başına uygulayacağı görev listesi yapmayın."
       ],
       [
-        "Bu durumda okulun sınırı nerede başlar?",
-        "Okul çalışanı soruşturma veya klinik teşhis yürütmek yerine çocuğun acil güvenliği, yetkili bildirimi ve koruyucu hizmete güvenli erişimi üzerinde çalışır."
+        "Güncellemenin kullanımını denetlemek neden önemlidir?",
+        "Kurgusal bir erişim senaryosuyla öğrencinin destek kişisini ve alternatif yolu bulabildiği kontrol edilebilir. Gerçek kriz ayrıntıları prova malzemesi yapılmaz. Öğretmenlerin gerekli ders düzenlemesini bilip bilmediği yetkili koordinasyonla teyit edilir. Takipte yeni tehdidin sürmesi veya hizmetin ulaşmaması halinde plan yeniden ele alınır. Başarı imza sayısı değil güvenli yardım erişiminin fiilen işlemesi ve sorumluluğun açık kalmasıdır."
       ]
     ],
     "search_terms": [

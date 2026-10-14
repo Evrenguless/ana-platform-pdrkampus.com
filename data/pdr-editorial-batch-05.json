@@ -124,11 +124,7 @@
       ],
       [
         "Konuya özgü uygulama",
-        "Öğrencinin iki bilgiyi bulduğu başlangıç durumunu örnek alarak ekipte yeni ölçüt belirleyin."
-      ],
-      [
-        "Okul ekibiyle iş birliği",
-        "Öğretmen ve ilgili BEP ekibiyle uyarlamaları netleştirin. Öğrencinin özel bilgilerinin paylaşımını ihtiyaç ve yetkiyle sınırlandırın."
+        "Öğrencinin iki bilgiyi bulduğu başlangıç durumunu örnek alarak ekipte yeni ölçüt belirleyin. Öğretmen ve ilgili BEP ekibiyle uyarlamaları netleştirin. Öğrencinin özel bilgilerinin paylaşımını ihtiyaç ve yetkiyle sınırlandırın."
       ],
       [
         "İzleme ve düzeltme",
@@ -141,9 +137,17 @@
       [
         "Okulda uygulanacak destek ve izlem",
         "Ekip, hedefte materyal koşulunu, gözlenecek davranışı, başarı ölçütünü ve izleme zamanını birlikte yazsın. Öğretmen hangi görev örneklerini toplayacak, destek personeli hangi uyarlamayı uygulayacak ve aileye neyin aktarılacağı açıklansın. İki haftalık uygulamada kazanım ve kullanılan ipucu ayrı izlensin. Hedef gerçekleşmezse öğrenciye daha çok baskı uygulamak yerine ölçüt ve uyarlama uygunluğunu BEP ekibinde yeniden değerlendirin."
+      ],
+      [
+        "Hedef kaydını başka görevliyle sınamak",
+        "Hedefi ikinci bir öğretmen okuduğunda aynı davranışı gözleyebiliyor mu kontrol edin. Koşul, davranış, başarı ölçütü ve değerlendirme aralığı ayrı anlaşılır olmalıdır. Öğrencinin başlangıçta iki bilgiyi bağımsız bulduğu örnekte yeni sayı hedefi ekipçe ulaşılabilir veriyle belirlenir; rehber hazır standart oran önermez. Ölçümde görsel veya sözlü ipucu ayrı kaydedilir. Başarı destek artışıyla geliyorsa hedef bağımsız gerçekleşti diye yazılmaz. Materyali hazırlama, öğretimi uygulama ve görev örneğini toplama sorumlusu yetkili BEP süreci içinde belirlenir."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal ölçümde öğretmen aynı kazanım için benzer güçlükte iki görev seçer. Birinde öğrenci bağımsız, diğerinde sözel ipucuyla yanıt verir; iki sonuç ayrı gösterilir. Sonraki toplantıda görev güçlüğü ve yardım değişimi birlikte ele alınır. Ekip ölçütü değiştirdiğinde önceki ve yeni kayıt aynı ölçüm serisi gibi karşılaştırılmaz. Öğrencinin görüşü uygun iletişimle alınır ve hedefin işlevselliği değerlendirilir. Hedef gerçekleşmediğinde kişilik veya çaba hükmü yerine öğretim fırsatı, materyal ve kullanılan destek yeniden incelenir; yeni izlem görevi açıkça kararlaştırılır."
       ]
     ],
-    "example": "Metinde beş bilgiden ikisini bulan öğrenci için ekip ölçülebilir bir ilerleme ölçütü belirler ve mevcut performansı kaydeder. Öğrencinin iki bilgiyi bulduğu başlangıç durumunu örnek alarak ekipte yeni ölçüt belirleyin.",
+    "example": "Kurgusal uygulama: Kurgusal ölçümde öğretmen aynı kazanım için benzer güçlükte iki görev seçer. Birinde öğrenci bağımsız, diğerinde sözel ipucuyla yanıt verir; iki sonuç ayrı gösterilir. Sonraki toplantıda görev güçlüğü ve yardım değişimi birlikte ele alınır. Ekip ölçütü değiştirdiğinde önceki ve yeni kayıt aynı ölçüm serisi gibi karşılaştırılmaz. Öğrencinin görüşü uygun iletişimle alınır ve hedefin işlevselliği değerlendirilir. Hedef gerçekleşmediğinde kişilik veya çaba hükmü yerine öğretim fırsatı, materyal ve kullanılan destek yeniden incelenir; yeni izlem görevi açıkça kararlaştırılır.",
     "check": [
       "BEP hedefinde koşul, hedef davranış, başarı ölçütü ve izleme süresini ayrı yazın.",
       "Öğrencinin iki bilgiyi bulduğu başlangıç durumunu örnek alarak ekipte yeni ölçüt belirleyin.",
@@ -894,11 +898,7 @@
       ],
       [
         "Konuya özgü uygulama",
-        "Öğretim uyarlamasını ailenin sorumluluğuna bırakmadan BEP ekibinde görev belirleyin."
-      ],
-      [
-        "Okul ekibiyle iş birliği",
-        "Öğrencinin yaşına uygun söz hakkını koruyun. Öğrencinin özel bilgilerinin paylaşımını ihtiyaç ve yetkiyle sınırlandırın."
+        "Öğretim uyarlamasını ailenin sorumluluğuna bırakmadan BEP ekibinde görev belirleyin. Öğrencinin yaşına uygun söz hakkını koruyun. Öğrencinin özel bilgilerinin paylaşımını ihtiyaç ve yetkiyle sınırlandırın."
       ],
       [
         "İzleme ve düzeltme",
@@ -911,9 +911,17 @@
       [
         "Okulda uygulanacak destek ve izlem",
         "BEP ekibi, aynı öğrenme hedefi için okulun uygulayacağı görsel yönergeyi ve ailenin isteğe bağlı paylaşabileceği günlük yaşam gözlemini ayrı kararlaştırsın. Materyal uyarlaması öğretmenin sorumluluğunda kalmalıdır. İki hafta sonra bağımsız görev performansı ve öğrencinin katılım isteğini karşılaştırın. Destek işe yaramadıysa suçu aileye yüklemeden uygulamanın erişilebilirliğini güncelleyin."
+      ],
+      [
+        "Okul desteğini aile görevinden ayırmak",
+        "Aileye okulda hangi hedefin, hangi materyal ve yardım düzeyiyle çalışıldığı anlaşılır örnekle açıklanır. Evde gözlenen beceri farklı koşul olarak dinlenir; aile anlatısı okul ölçümünün ek puanı değildir. BEP ekibi materyal hazırlama ve öğretim sorumluluğunu aileye bırakmaz. Ailenin uygulanabilir bulduğu küçük gönüllü destek konuşulabilir. Görüşme çocuğun eksiklerini sıralayan toplantı veya tanı tartışması haline gelmez. Öğrenci uygun iletişimle görüşünü verebilir; özel belgeler sınıf grubu yerine güvenli yetkili kanalda tutulur."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal örnekte aile görsel listeyle evde görevin kolaylaştığını söyler. Öğretmen aynı beceriyi sınıfta uygun görevle gözler; ipucu ve bağımsız performansı ayrı yazar. Sonraki ekip kararında iki ortamın farkı korunur. Aileden sürekli video veya özel yaşam kaydı talep edilmez. Destek kullanılamadıysa ailenin ilgisizliği varsayılmadan zaman, materyal ve erişim engeli ele alınır. Yeni okul görevi ve aileyle geri bildirim yolu kararlaştırılır; hedefin ve örnek zaman aralığının öğrencinin gerçek verisine dayanması sağlanır."
       ]
     ],
-    "example": "Yazılı yönergede zorlanan öğrenci için öğretmen görsel yönerge dener, veli evde işe yarayan stratejileri paylaşır. Öğretim uyarlamasını ailenin sorumluluğuna bırakmadan BEP ekibinde görev belirleyin.",
+    "example": "Kurgusal uygulama: Kurgusal örnekte aile görsel listeyle evde görevin kolaylaştığını söyler. Öğretmen aynı beceriyi sınıfta uygun görevle gözler; ipucu ve bağımsız performansı ayrı yazar. Sonraki ekip kararında iki ortamın farkı korunur. Aileden sürekli video veya özel yaşam kaydı talep edilmez. Destek kullanılamadıysa ailenin ilgisizliği varsayılmadan zaman, materyal ve erişim engeli ele alınır. Yeni okul görevi ve aileyle geri bildirim yolu kararlaştırılır; hedefin ve örnek zaman aralığının öğrencinin gerçek verisine dayanması sağlanır.",
     "check": [
       "Özel eğitim aile görüşmesinde yalnızca güçlük değil öğrencinin başarılı olduğu görevleri de somut biçimde paylaşın.",
       "Öğretim uyarlamasını ailenin sorumluluğuna bırakmadan BEP ekibinde görev belirleyin.",
@@ -949,11 +957,7 @@
       ],
       [
         "Konuya özgü uygulama",
-        "Zorlayıcı olayı yeniden yaşatacak zorunlu paylaşım yerine erişilebilir destek yolu sunun."
-      ],
-      [
-        "Okul ekibiyle iş birliği",
-        "Öngörülebilir ders ve teneffüs rutinlerini kademeli sürdürün. Öğrencinin özel bilgilerinin paylaşımını ihtiyaç ve yetkiyle sınırlandırın."
+        "Zorlayıcı olayı yeniden yaşatacak zorunlu paylaşım yerine erişilebilir destek yolu sunun. Öngörülebilir ders ve teneffüs rutinlerini kademeli sürdürün. Öğrencinin özel bilgilerinin paylaşımını ihtiyaç ve yetkiyle sınırlandırın."
       ],
       [
         "İzleme ve düzeltme",
@@ -966,9 +970,17 @@
       [
         "Okulda uygulanacak destek ve izlem",
         "Öğretmenle öngörülebilir ders geçişi, kısa mola ve güvenilir yetişkin başvurusu belirleyin. Sınıfın yaş düzeyine uygun kısa açıklaması sadece yetkili kurumun paylaşılabilir bilgisini içermelidir. Ders katılımı ve zorlanma sürerse öğrenciyi rutinlere uymaya zorlamak yerine destek koşullarını uyarlayın. Acil riskte gerekli sağlık ve koruma kanallarına başvurun."
+      ],
+      [
+        "Rutin içinde seçilebilir yardım yolu bırakmak",
+        "Öğretmen dersin akışını, değişen mekânı ve gün içinde ulaşılacak yetişkini kısa biçimde anlatır. Herkesin aynı hızda katılmasını veya olay hakkında konuşmasını beklemeyin. Mola, küçük görev veya alternatif yanıt biçimi uygun okul düzeni içinde düşünülebilir. Bu seçenekler öğrencinin özel öyküsü sınıf önünde açıklanarak tanıtılmaz. Fiziksel alanın güvenliği yetkili değerlendirmeye dayanmalıdır; psikolojik danışman teknik güvenlik onayı vermez. Yakın tehlike veya ciddi sağlık gereksinimi yeniden ortaya çıkarsa günlük rutin bırakılarak yetkili acil yanıt sağlanır."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal sınıfta öğretmen günün kısa programını açıklar; yoğun zorlanan öğrenci uygun yetişkin desteğiyle mola yolunu kullanabilir. Sonraki değerlendirmede sessiz sınıf tek başarı ölçütü değildir. Göreve erişim, yardım isteme ve güvenli katılım ayrı gözlenir. Eski rutin artık işlemiyorsa süre veya yönerge değiştirilir; öğrenciye daha fazla baskı önerilmez. Bilgi paylaşımında doğrulanmış genel açıklama ile kişisel kriz anlatısı ayrılır. Belirgin işlev güçlüğü süren öğrenci için uygun bireysel ve uzman desteği açılır; bütün sınıfın olay öyküsü tekrar toplanmaz."
       ]
     ],
-    "example": "Okul çevresindeki olay sonrası söylenti yayılır; okul doğrulanmış bilgi verir, öğrencilere zorunlu paylaşım yaptırmadan destek sunar. Zorlayıcı olayı yeniden yaşatacak zorunlu paylaşım yerine erişilebilir destek yolu sunun.",
+    "example": "Kurgusal uygulama: Kurgusal sınıfta öğretmen günün kısa programını açıklar; yoğun zorlanan öğrenci uygun yetişkin desteğiyle mola yolunu kullanabilir. Sonraki değerlendirmede sessiz sınıf tek başarı ölçütü değildir. Göreve erişim, yardım isteme ve güvenli katılım ayrı gözlenir. Eski rutin artık işlemiyorsa süre veya yönerge değiştirilir; öğrenciye daha fazla baskı önerilmez. Bilgi paylaşımında doğrulanmış genel açıklama ile kişisel kriz anlatısı ayrılır. Belirgin işlev güçlüğü süren öğrenci için uygun bireysel ve uzman desteği açılır; bütün sınıfın olay öyküsü tekrar toplanmaz.",
     "check": [
       "Kriz sonrası ilk sınıf iletişiminde yalnızca doğrulanmış bilgiyi kullanın; kayıp veya olayın özel ayrıntılarını anlatmayın.",
       "Zorlayıcı olayı yeniden yaşatacak zorunlu paylaşım yerine erişilebilir destek yolu sunun.",

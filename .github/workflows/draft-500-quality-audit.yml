@@ -7,10 +7,12 @@ on:
       - feature/500-konu-icerik-sistemi
     paths:
       - 'data/pdr-editorial-batch-*.json'
+      - 'data/pdr-editorial-primary-sources.json'
       - 'scripts/build_first_editorial_batch.py'
       - 'scripts/prepare_first_50.py'
       - 'scripts/audit_500_publication_readiness.py'
       - 'scripts/test_audit_500_publication_readiness.py'
+      - 'scripts/test_editorial_priority_guides.py'
       - '.github/workflows/draft-500-quality-audit.yml'
 
 permissions:
@@ -31,7 +33,9 @@ jobs:
           python3 -m py_compile scripts/prepare_first_50.py scripts/build_first_editorial_batch.py
           python3 -m py_compile scripts/audit_500_editorial_depth.py scripts/audit_500_publication_readiness.py
       - name: Run auditor regression tests
-        run: python3 -m unittest discover -s scripts -p 'test_audit_500_publication_readiness.py' -v
+        run: |
+          python3 -m unittest discover -s scripts -p 'test_audit_500_publication_readiness.py' -v
+          python3 -m unittest discover -s scripts -p 'test_editorial_priority_guides.py' -v
       - name: Build and run existing structural audits
         run: python3 scripts/prepare_first_50.py > /tmp/500-draft-build.json
       - name: Run editorial length and reuse audits

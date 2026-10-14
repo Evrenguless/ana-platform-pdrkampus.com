@@ -331,27 +331,15 @@
     "sections": [
       [
         "BEP ekibini toplantı öncesinde hazırlamak",
-        "Güncel mevzuata göre toplantı katılımcılarını ve amacı netleştir."
-      ],
-      [
-        "Konuya özgü dikkat edilmesi gerekenler",
-        "BEP toplantısında gözlenebilir performansı belirli destek koşuluyla ilişkilendirin. Sorumlu, uygulama biçimi ve yeni ölçüm tarihi karara yazılmalıdır."
+        "Güncel mevzuata göre toplantı katılımcılarını ve amacı netleştir. BEP toplantısında gözlenebilir performansı belirli destek koşuluyla ilişkilendirin. Sorumlu, uygulama biçimi ve yeni ölçüm tarihi karara yazılmalıdır."
       ],
       [
         "Performans örnekleriyle öğrenciyi anlamak",
-        "Öğrencinin güçlü yönlerini ve mevcut performansını veriyle sun."
-      ],
-      [
-        "Ölçülebilir hedefleri ekipçe belirlemek",
-        "Hedeflerin koşulunu, davranışını ve başarı ölçütünü değerlendirin."
+        "Öğrencinin güçlü yönlerini ve mevcut performansını veriyle sun. Hedeflerin koşulunu, davranışını ve başarı ölçütünü değerlendirin."
       ],
       [
         "Uyarlamalar için sorumluluk dağıtmak",
-        "Uyarlama ve izleme sorumluluklarını ekip üyeleri arasında belirleyin."
-      ],
-      [
-        "Kararları kayıt ve takip ile tamamlamak",
-        "Kararları uygun usulle kaydedip yeniden değerlendirme tarihi koyun."
+        "Uyarlama ve izleme sorumluluklarını ekip üyeleri arasında belirleyin. Kararları uygun usulle kaydedip yeniden değerlendirme tarihi koyun."
       ],
       [
         "Uygulama öncesi değerlendirme",
@@ -364,9 +352,17 @@
       [
         "İzleme ve sonuçların yorumlanması",
         "Toplantı sonunda aileye uygulanacak okul desteğini anlaşılır dille açıklayın ve öğrencinin katılım düzeyine uygun görüşünü almaya çalışın. Bir sonraki toplantıda yalnızca hedefin gerçekleşip gerçekleşmediğini değil seçilen desteğin etkisini de konuşun. Öğrenci ilerlemiyorsa 'yeterince çabalamadı' demek yerine ölçüt, görev güçlüğü, ipucu ve ortam koşullarını gözden geçirin. Kişisel belgeleri yalnızca yetkili kişilerle paylaşın."
+      ],
+      [
+        "Toplantı kararını uygulanabilir çıktıyla bitirmek",
+        "Gündemde her hedef için mevcut veri, karar bekleyen düzenleme ve gerekli görev paylaşımı ayrı bulunabilir. Öğretmen tarihli görev örneğini getirirken yardım düzeyini de gösterir. Aile ve öğrenci için anlaşılır katılım seçeneği hazırlanır; uzun toplantıda zorunlu konuşma tek yöntem değildir. Toplantı sonunda hangi materyalin kim tarafından hazırlanacağı ve hangi ders görevinde deneneceği yazılır. Karar alınamayan konu için hangi bilgi beklendiği belirtilir. Sonraki incelemede sadece toplantı yapıldı mı değil uyarlama gerçekten öğrencinin erişimine sunuldu mu sorusu değerlendirilir."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Örnek karar, görsel görev kartının belirlenen derste kullanılmasını ve bağımsız adım sayısının ayrı kaydedilmesini içerebilir. Sayı ve tarih öğrencinin başlangıç verisiyle seçilir. Aileden bütün öğretim yükünü üstlenmesi istenmez; ev gözlemi farklı koşul olarak dinlenir. Gerekli veriler yalnızca yetkili görevliyle paylaşılır. Materyal yetişmediyse hedefi başarısız ilan etmek yerine uygulama engeli çözülür; görevi devralacak kişi ve yeni gözlem zamanı güncel kurum usulüne göre yeniden belirlenir."
       ]
     ],
-    "example": "BEP toplantısında öğrencinin mevcut okuma performansı örnek çalışmalarla gösteriliyor. Ekip, çok geniş yazılmış hedefi koşulu ve başarı ölçütü belli iki küçük hedefe ayırıyor; sınıf öğretmeni materyal uyarlamasını üstleniyor ve bir sonraki veri inceleme tarihi belirleniyor. BEP toplantısında gözlenebilir performansı belirli destek koşuluyla ilişkilendirin.",
+    "example": "Kurgusal uygulama: Örnek karar, görsel görev kartının belirlenen derste kullanılmasını ve bağımsız adım sayısının ayrı kaydedilmesini içerebilir. Sayı ve tarih öğrencinin başlangıç verisiyle seçilir. Aileden bütün öğretim yükünü üstlenmesi istenmez; ev gözlemi farklı koşul olarak dinlenir. Gerekli veriler yalnızca yetkili görevliyle paylaşılır. Materyal yetişmediyse hedefi başarısız ilan etmek yerine uygulama engeli çözülür; görevi devralacak kişi ve yeni gözlem zamanı güncel kurum usulüne göre yeniden belirlenir.",
     "check": [
       "☐ BEP ekibini toplantı öncesinde hazırlamak",
       "☐ Ölçülebilir hedefleri ekipçe belirlemek",
@@ -851,27 +847,15 @@
     "sections": [
       [
         "Acil güvenliği değerlendirmek",
-        "Olası acil tehlikede öğrencinin güvenliğini sağlayıp yetkili süreçleri gecikmeden işlet."
-      ],
-      [
-        "Konuya özgü dikkat edilmesi gerekenler",
-        "İhmal ve istismar şüphesinde öğrenciden ayrıntılı tekrar anlatım veya kanıt toplamasını istemeyin. Anlık güvenliği sağlayın ve yürürlükteki yetkili bildirim süreçlerini izleyin."
+        "Olası acil tehlikede öğrencinin güvenliğini sağlayıp yetkili süreçleri gecikmeden işlet. İhmal ve istismar şüphesinde öğrenciden ayrıntılı tekrar anlatım veya kanıt toplamasını istemeyin. Anlık güvenliği sağlayın ve yürürlükteki yetkili bildirim süreçlerini izleyin."
       ],
       [
         "Açıklamayı yönlendirmeden dinlemek",
-        "Öğrenciyi yönlendirici sorularla sorgulama veya olayı kendin soruşturma."
-      ],
-      [
-        "Gizliliğin sınırlarını yaşa uygun anlatmak",
-        "Gizliliğin güvenlik ve bildirim yükümlülükleriyle sınırlı olduğunu açıkla."
+        "Öğrenciyi yönlendirici sorularla sorgulama veya olayı kendin soruşturma. Gizliliğin güvenlik ve bildirim yükümlülükleriyle sınırlı olduğunu açıkla."
       ],
       [
         "Yetkili bildirim sürecini geciktirmemek",
-        "Güncel kurum ve mevzuat çerçevesindeki bildirim sorumluluklarını yerine getir."
-      ],
-      [
-        "Öğrenciyi tekrar sorgulamadan desteklemek",
-        "Gereksiz tekrar anlatımı önleyerek okul içi güvenli desteği koordine et."
+        "Güncel kurum ve mevzuat çerçevesindeki bildirim sorumluluklarını yerine getir. Gereksiz tekrar anlatımı önleyerek okul içi güvenli desteği koordine et."
       ],
       [
         "Uygulama öncesi değerlendirme",
@@ -884,9 +868,17 @@
       [
         "İzleme ve sonuçların yorumlanması",
         "Bildirimden sonra da okulun görevi tamamen bitmez: öğrencinin güvenli sınıf katılımı, yetkili destek hizmetine erişimi ve izlem sorumlusu belirlenmelidir. Çocuğu farklı görevlilere aynı olayı tekrar tekrar anlattırmayın. Bilgileri yalnızca yetkili kişilerle paylaşın; sınıf toplantısı, genel personel mesajı veya veli grubu üzerinden yaymayın. Bu içerik kesin bir hukuki protokol sayılmaz; güncel mevzuat ve uzman koruma değerlendirmesiyle onaylanmadan yayımlanmamalıdır."
+      ],
+      [
+        "Bildirim ile okul araştırmasını ayırmak",
+        "İhmal veya istismar şüphesinde öğrencinin kendiliğinden anlattığı kritik söz ve doğrudan gözlenen durum ayrı tutulur. Yönlendirici sorular, olay canlandırması veya şüpheli kişiyle yüzleştirme yapılmaz. Koruyucu bildirim için okulun kesin kanıt üretmesi veya veli onayı alması beklenmez; güncel mevzuat ve yetkili kurum usulü işletilir. Aileyle temas çocuğun güvenliğini artıracak mı yoksa riske mi sokacak, yetkili koruma sürecinde değerlendirilir. Acil sağlık ya da yakın tehlike varsa güvenli yetişkin gözetimi ve yetkili acil yanıt önce gelir."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Örnek kayıt doğrudan alıntı, tarih, bağlam ve yapılan yetkili başvuruyu ayrı gösterir. Görevli görmediği yaralanma veya fail bilgisi hakkında tahmin yazmaz. Bilgi kişisel grup mesajında dolaştırılmaz ve çocuk aynı anlatıyı çok sayıda personele tekrar etmek zorunda bırakılmaz. Bildirim yapıldıktan sonra yetkili alıcıya ulaşıldığı ve gerekli güvenli devir teyit edilir. Okuldaki sonraki destek, olay araştırmasına değil çocuğun mevcut güvenlik, ders erişimi ve güvenilir yetişkin ihtiyacına odaklanır; mahremiyet gerekli görev ve koruma paylaşımıyla birlikte korunur."
       ]
     ],
-    "example": "Öğrenci okulda kendisini güvende hissetmediği bir durumdan söz ediyor. Personel yönlendirici sorularla ayrıntı toplamaya veya iddiayı kendi başına kanıtlamaya çalışmıyor; öğrencinin acil güvenliğini değerlendirip yürürlükteki bildirim ve koruma süreçlerini gecikmeden işletiyor. İhmal ve istismar şüphesinde öğrenciden ayrıntılı tekrar anlatım veya kanıt toplamasını istemeyin.",
+    "example": "Kurgusal uygulama: Örnek kayıt doğrudan alıntı, tarih, bağlam ve yapılan yetkili başvuruyu ayrı gösterir. Görevli görmediği yaralanma veya fail bilgisi hakkında tahmin yazmaz. Bilgi kişisel grup mesajında dolaştırılmaz ve çocuk aynı anlatıyı çok sayıda personele tekrar etmek zorunda bırakılmaz. Bildirim yapıldıktan sonra yetkili alıcıya ulaşıldığı ve gerekli güvenli devir teyit edilir. Okuldaki sonraki destek, olay araştırmasına değil çocuğun mevcut güvenlik, ders erişimi ve güvenilir yetişkin ihtiyacına odaklanır; mahremiyet gerekli görev ve koruma paylaşımıyla birlikte korunur.",
     "check": [
       "☐ Acil güvenliği değerlendirmek",
       "☐ Gizliliğin sınırlarını yaşa uygun anlatmak",

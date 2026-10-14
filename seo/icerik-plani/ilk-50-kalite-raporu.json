@@ -1,0 +1,6131 @@
+{
+  "files_checked": 500,
+  "issues_by_kind": {
+    "source_relevance_unverified": 500,
+    "cards_without_preview_images": 94,
+    "needs_editorial_source": 137
+  },
+  "source_gaps": [
+    {
+      "file": "drafts/pdr-ilk-paket/bep-ders-uyarlamasi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-guclu-yonler.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-hedef-izleme-toplantisi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-ogrenci-katilimi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-olculebilir-hedef.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/cocuklarda-kisisel-sinirlar.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/devamsizlik-ogrenci-ilk-gorusme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/etik-ikilem-okul-psikolojik-danisma.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/guclu-yon-kesfi-sinifta.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/guvenli-internet-veliler-icin.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-arkadas-anlasmazligi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-aile-meslek-beklentisi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-bolum-ders-planini-okuma.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-bolum-tanitiminda-bilgi-dogrulama.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-coklu-ilgi-alani-olan-ogrenci.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-egitim-yolu-arastirma.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-gelecek-mesleklerini-arastirma.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-guclu-yon-ve-beceri-eslestirme.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-ilgi-envanteri-sonuclarini-konusma.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-is-ortami-tercihleri.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-kariyer-kararinda-belirsizlik.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-kariyer-plani-donemlik-izleme.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-meslek-seciminde-akran-etkisi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-meslek-seciminde-tek-dogru-yanilgisi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-meslek-uzmanina-soru-hazirlama.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-mesleki-degerleri-karsilastirma.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-mesleki-karar-secenek-tablosu.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-mesleklere-iliskin-onyargi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-mesleklerin-gunluk-gorevleri.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-mezuniyet-sonrasi-alternatifler.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-ogrenim-maliyetini-arastirma.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-resm-program-kosullari.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-sehir-ve-ulasim-kosullari.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-staj-ve-gonulluluk-firsatlari.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-universite-yasami-beklentileri.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-acil-guvenlik-degerlendirmesi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-afet-sonrasi-okula-donus.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-aile-ici-siddet-anlatimi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-gorusmede-ayrinti-zorlamama.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-guvenilir-yetiskin-destegi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-guvenli-uzman-yonlendirme.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-guvenlik-planini-guncelleme.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-ihmal-suphesini-bildirme.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-istismar-suphesinde-yaklasim.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-izlem-ve-destek-devri.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-kaybedilen-yakin-sonrasi-okul.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-kendine-zarar-ifadesi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-kriz-sonrasi-devamsizlik.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-kriz-sonrasi-sinif-rutini.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-krizde-ogrenci-mahremiyeti.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-krizde-ogretmen-koordinasyonu.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-krizde-veli-bilgilendirme.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-kurum-ici-acil-gorevler.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-ogrenciye-acil-yardim-yolu.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-okulda-zarar-verme-riski.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-risk-bildirimini-kaydetme.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-supheli-olayda-bilgi-guvenligi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-tehdit-iceren-akran-davranisi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-zorlayici-olay-sonrasi-sinif.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-zorlayici-olayda-soylenti.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lgs-kaygi-grup-calismasi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lgs-son-hafta-ogrenci-destegi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lgs-sonrasi-okula-uyum.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lgs-veli-tercih-bilgilendirme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-aile-kariyer-beklentisi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-akademik-ilgi-haritasi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-akranla-akademik-kiyaslama.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-alan-secimini-degerlendirme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-bolum-karsilastirma-cizelgesi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-ders-programi-esnekligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-dijital-guvenlik-ve-mahremiyet.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-etkili-deneme-geri-bildirimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-farkli-goruslere-saygi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-gelecek-belirsizligiyle-bas-etme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-gonullu-toplumsal-katki.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-gunluk-yasam-ve-uyku-dengesi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-guvenilir-yetiskine-basvuru.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-kendini-ifade-etme-becerisi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-meslek-golgeleme-etkinligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-mesleki-deger-kesfi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-mezuniyet-sonrasi-secenekler.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-okul-kulubunde-sorumluluk.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-sinav-donemi-aile-iletisimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-sinav-sonuclarini-yorumlama.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-sosyal-iliskilerde-riza.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-staj-ve-gozlem-deneyimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-universite-arastirma-plani.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-uzun-vadeli-hedef-bolme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-yeni-ortama-gecis-hazirligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lisede-alan-secimi-gorusmesi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/mesleki-karar-yanilgilari.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/nakille-gelen-ogrenci-uyumu.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-gorusmesinde-gizlilik.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-gorusmesinde-sessizlik.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-ile-gizlilik-siniri-anlatma.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-intihar-ifadesinde-acil-destek.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-risk-bildirimi-ilk-adim.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-erteleme-dongusu.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-karar-verme-etkinligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-sosyal-sorumluluk.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencilerde-dijital-iz-farkindaligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencilerde-gelecek-kaygisi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencilerde-zaman-yonetimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenciye-yapici-geri-bildirim.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-aile-ici-catismayi-bildiren-ogrenci.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-bep-aile-katilimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-donem-sonu-rehberlik-degerlendirme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-duygu-termometresi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-gizli-bilgi-paylasimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-guvenilir-yetiskin-haritasi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-guvenli-basvuru-yollari.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ihmal-suphesinde-ilk-adim.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-kariyer-farkindaligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-kriz-sonrasi-sinif-bilgilendirmesi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-motivasyon-dalgalanmasi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-davranis-hedefi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-guvenligi-gozlem-notu.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-katilim-hakki.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-motivasyon-gorusmesi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-oz-degerlendirme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-ozgecmisi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-oz-yeterlik.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-psikososyal-destek-basvurusu.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-sosyal-kaygi-gozlemi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-veli-ogretmen-iletisim-plani.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokulda-duygulari-ifade-etme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokulda-guvenli-arkadas-secimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/oz-saygi-sinif-etkinligi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-ailenin-gozlem-katkisi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-aileyle-donemlik-hedef.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-akran-katiliminin-guvenligi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-alternatif-katilim-yontemi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-degerlendirme-kaydi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-ekibi-gorev-dagilimi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-hedef-olcutu.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-kazanim-izleme.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-performans-gozlemi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-toplanti-gundemi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-destek-egitim-koordinasyonu.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-duyusal-gereksinime-duyarlilik.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-egitimde-erisilebilir-materyal.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-farkli-yanit-verme-yollari.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-gecislerde-ongorulebilirlik.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-gorev-suresi-uyarlamasi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-gorsel-yonerge-uyarlamasi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-islevsel-iletisim-firsatlari.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-kapsayici-grup-etkinligi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-ogrencinin-guclu-yonleri.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-okul-ici-kurum-is-birligi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-olumlu-davranis-destegi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-ram-degerlendirmesi-sonrasi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-sinif-ici-destek-duzeni.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-uyarlama-ise-yariyor-mu.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ram-basvuru-sureci-bilgilendirmesi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ram-raporu-okuma-rehberi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ram-sonrasi-okul-destegi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ram-yonlendirme-gorusmesi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ram-yonlendirme-oncesi-ogretmen-gozlemi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-grup-calismasi-gonulluluk.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-kayit-guvenligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/saglikli-sinav-hedefleri.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-aile-deneme-sonucu-iletisimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-deneme-analizi-gorusmesi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-dusuk-puan-sonrasi-destek.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-gercekci-net-hedefi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-hazirliginda-gercekci-program.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-kiyaslama-dilini-azaltma.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-konu-eksiklerini-belirleme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-kucuk-calisma-oturumlari.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-lgs-yerlestirme-bilgisi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-ogrenme-stratejisi-secme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-okul-ve-kurs-yuk-dengesi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-oz-bakim-plani.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-program-kosulu-inceleme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinav-gunu-hazirligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinav-kaygisi-erken-belirtiler.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinav-oncesi-kaygi-dusunceleri.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinav-sonrasi-belirsizlik.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinav-sonucunu-aileye-aciklama.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinavda-yardim-isteme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-tekrara-baslama-stratejisi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-tercih-bilgi-kaynagi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-uyku-ve-dinlenme-plani.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-yanlis-sorulari-siniflandirma.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-yeni-doneme-gecis-hedefi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-yks-tercih-sirasi-degerlendirme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-yuksek-beklenti-baskisi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-zaman-baskisini-yonetme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinif-iklimi-anketi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-akran-destegi-planlama.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-aktif-dinleme-oyunu.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-guvenli-sosyal-medya.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-ozel-gunler-hassasiyet.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-yardim-isteyen-ogrenci.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/uzun-devamsizlik-sonrasi-donus.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-gorusmesinde-ogrencinin-sesi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-ile-ekran-suresi-catismasi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-toplantisinda-gizlilik.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-toplantisinda-zor-sorular.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-akran-dislama.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-arkadas-secimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-cocuk-guclu-yonleri.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-ders-basarisizligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-ergen-mahremiyeti.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-erteleme-gorusmesi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-kardes-kiskancligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-lise-gecis-kaygisi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-odev-yardim-siniri.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-ogretmen-sikayeti.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-okul-korkusu.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-okul-nakli.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-okula-gec-kalma.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-oyun-kurallari.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-ozel-egitim-isbirligi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-ozgurluk-sinirlar.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-rehberlik-gizlilik.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-siber-zorbalik.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-sinav-karsilastirmasi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-sinif-degisimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-sorumluluk-paylasimi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-sosyal-duygusal-destek.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-teknoloji-bagimlilik-endisesi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-uyku-duzeni.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-yalan-soyleme.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yas-sonrasi-veli-iletisimi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yas-yasayan-ogrenciye-okul-destegi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yks-bolum-meslek-arastirmasi.html",
+      "issues": [
+        "cards_without_preview_images"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yks-deneme-analizi-rehberi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yks-tercih-karar-tablosu.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yks-tercihinde-aile-baskisi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zor-veli-gorusmesi.html",
+      "issues": [
+        "needs_editorial_source"
+      ]
+    }
+  ],
+  "publish_ready_claimed": 0,
+  "note": "External URLs and PDF content were not checked; source relevancy remains editorial review.",
+  "pages": [
+    {
+      "file": "drafts/pdr-ilk-paket/aile-okul-iletisimi-zor-gorusmeler.html",
+      "title": "Zor Veli Görüşmeleri: İletişim ve Çözüm Adımları | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/akademik-erteleme-ogrenci-gorusmesi.html",
+      "title": "Akademik Erteleme: Öğrenci Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/akran-arabuluculuk-sinirlari.html",
+      "title": "Akran Arabuluculuğunun Sınırları | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 2
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/akran-catismasi-arabuluculuk-sinirlari.html",
+      "title": "Akran Çatışması: Okulda Güvenli Çözüm Yolları | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/akran-grubuna-katilim-gorusmesi.html",
+      "title": "Akran Grubuna Katılmakta Zorlanan Öğrenci | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/akran-iletisiminde-ben-dili.html",
+      "title": "Akran İletişiminde Ben Dili | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/akran-zorbaligi-izleme-plani.html",
+      "title": "Akran Zorbalığı Sonrası İzleme Planı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/akran-zorbaligi-tanigi.html",
+      "title": "Akran Zorbalığına Tanık Olan Öğrenci | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/akran-zorbaliginda-guvenlik-plani.html",
+      "title": "Zorbalıkta Öğrenci Güvenlik Planı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-ders-uyarlamasi.html",
+      "title": "BEP Kapsamında Ders Uyarlaması | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-guclu-yonler.html",
+      "title": "BEP'te Güçlü Yönleri Belirleme | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-hazirlama-okul-ekibi.html",
+      "title": "BEP Hazırlama: Okul Ekibi İçin Uygulama Rehberi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-hedef-izleme-toplantisi.html",
+      "title": "BEP Hedef İzleme Toplantısı | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-ogrenci-katilimi.html",
+      "title": "BEP Sürecinde Öğrenci Katılımı | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-olculebilir-hedef.html",
+      "title": "BEP'te Ölçülebilir Hedef Nasıl Yazılır? | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bep-toplantisi-gundemi.html",
+      "title": "BEP Toplantısı: Gündem ve Ekip Kararları | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/bireyi-tanima-gozlem-formu.html",
+      "title": "Bireyi Tanımada Gözlem Formu: Hazırlama ve Kullanma | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 8
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/cocuklarda-dijital-mahremiyet.html",
+      "title": "Çocuklarda Dijital Mahremiyet Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/cocuklarda-kisisel-sinirlar.html",
+      "title": "Çocuklarda Kişisel Sınırlar | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/cocukta-guvenli-yardim-isteme.html",
+      "title": "Çocuklara Güvenli Yardım İsteme Öğretimi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 7,
+      "preview_images": 5
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/devamsizlik-erken-mudahale.html",
+      "title": "Devamsızlık: Okulda Erken Müdahale ve Öğrenci Takibi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 7
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/devamsizlik-erken-uyari-verileri.html",
+      "title": "Devamsızlık İçin Erken Uyarı Verileri | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 8,
+      "preview_images": 6
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/devamsizlik-ogrenci-ilk-gorusme.html",
+      "title": "Devamsızlık Yapan Öğrenciyle İlk Görüşme | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/devamsizlik-veli-gorusmesi.html",
+      "title": "Devamsızlık İçin Veli Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 8,
+      "preview_images": 6
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/devamsizlikta-sinif-aidiyeti.html",
+      "title": "Devamsızlık ve Sınıf Aidiyeti | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 8,
+      "preview_images": 6
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/dikkat-odaklanma-okulda-destek.html",
+      "title": "Dikkat ve Odaklanma: Okulda Destek Adımları | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ekran-kullanimi-veli-destegi.html",
+      "title": "Ekran Kullanımında Veli Desteği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ergenlerle-mahremiyet-konusmak.html",
+      "title": "Ergenlerle Mahremiyet Konuşması | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ergenlik-ogrenci-veli-rehberligi.html",
+      "title": "Ergenlik Döneminde Öğrenci ve Veli Rehberliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ergenlik-veli-rehberligi.html",
+      "title": "Ergenlikte Değişimler: Veli Rehberi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/etik-ikilem-okul-psikolojik-danisma.html",
+      "title": "Okul Psikolojik Danışmanlığında Etik İkilemler | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/grup-rehberligi-oturum-planlama.html",
+      "title": "Grup Rehberliği Oturumu Planlama | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 8
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/guclu-yon-kesfi-sinifta.html",
+      "title": "Sınıfta Güçlü Yön Keşfi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/guvenli-internet-veli-semineri.html",
+      "title": "Güvenli İnternet Kullanımı: Veli Semineri Planı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/guvenli-internet-veliler-icin.html",
+      "title": "Veliler İçin Güvenli İnternet Rehberi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-akran-alayina-karsi-destek.html",
+      "title": "Akran alayına karşı destek | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-arkadas-anlasmazligi.html",
+      "title": "İlkokulda Arkadaşlık Anlaşmazlığı | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-canta-hazirlama-rutini.html",
+      "title": "Çanta hazırlama rutini | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-ders-araclarini-koruma.html",
+      "title": "Ders araçlarını koruma | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-donem-sonu-gelisim-degerlendirmesi.html",
+      "title": "Dönem sonu gelişim değerlendirmesi | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-duygulari-adlandirma.html",
+      "title": "Duyguları adlandırma | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-grup-oyununa-katilma.html",
+      "title": "Grup oyununa katılma | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-guvenli-teneffus-davranisi.html",
+      "title": "Güvenli teneffüs davranışı | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-guvenli-yardim-isteme.html",
+      "title": "Güvenli yardım isteme | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-hata-yapma-kaygisi.html",
+      "title": "Hata yapma kaygısı | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-isbirlikci-oyun.html",
+      "title": "İlkokulda İş Birlikçi Oyun | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-istenmeyen-temasa-hayir-deme.html",
+      "title": "İstenmeyen temasa hayır deme | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-kisisel-alani-koruma.html",
+      "title": "Kişisel alanı koruma | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-kucuk-catismalari-konusma.html",
+      "title": "Küçük çatışmaları konuşma | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-ogrenmede-caba-farkindaligi.html",
+      "title": "Öğrenmede çaba farkındalığı | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-okul-ici-guvenilir-yetiskin.html",
+      "title": "Okul içi güvenilir yetişkin | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-okula-yeni-baslama-kaygisi.html",
+      "title": "Okula yeni başlama kaygısı | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-oz-bakim-sorumlulugu.html",
+      "title": "Öz bakım sorumluluğu | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-paylasmayi-ogrenme.html",
+      "title": "Paylaşmayı öğrenme | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-sabah-vedalasma-rutini.html",
+      "title": "Sabah vedalaşma rutini | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-sinif-arkadasini-tanima.html",
+      "title": "Sınıf arkadaşını tanıma | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-sinif-degisikligine-uyum.html",
+      "title": "Sınıf değişikliğine uyum | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-sira-bekleme-aliskanligi.html",
+      "title": "Sıra bekleme alışkanlığı | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-soz-kesmeden-dinleme.html",
+      "title": "Söz kesmeden dinleme | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-teneffuste-yalniz-kalma.html",
+      "title": "Teneffüste yalnız kalma | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-uyum-veli-oturumu.html",
+      "title": "İlkokulda Okula Uyum İçin Veli Oturumu | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-yardimlasma-ve-is-birligi.html",
+      "title": "Yardımlaşma ve iş birliği | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokul-yeni-ogretmene-uyum.html",
+      "title": "Yeni öğretmene uyum | İlkokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokulda-hata-yapma-korkusu.html",
+      "title": "İlkokulda Hata Yapma Korkusunu Azaltma | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ilkokulda-okula-ayrilma-kaygisi.html",
+      "title": "İlkokulda Okuldan Ayrılma Kaygısı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-aile-meslek-beklentisi.html",
+      "title": "Aile meslek beklentisi | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-bolum-ders-planini-okuma.html",
+      "title": "Bölüm ders planını okuma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-bolum-tanitiminda-bilgi-dogrulama.html",
+      "title": "Bölüm tanıtımında bilgi doğrulama | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-coklu-ilgi-alani-olan-ogrenci.html",
+      "title": "Çoklu ilgi alanı olan öğrenci | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-egitim-yolu-arastirma.html",
+      "title": "Eğitim yolu araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-gelecek-mesleklerini-arastirma.html",
+      "title": "Gelecek mesleklerini araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-guclu-yon-ve-beceri-eslestirme.html",
+      "title": "Güçlü yön ve beceri eşleştirme | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-ilgi-envanteri-sonuclarini-konusma.html",
+      "title": "İlgi envanteri sonuçlarını konuşma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-ilgi-yetenek-kesfi.html",
+      "title": "Mesleki Rehberlikte İlgi ve Yetenekleri Keşfetme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-is-ortami-tercihleri.html",
+      "title": "İş ortamı tercihleri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-kariyer-kararinda-belirsizlik.html",
+      "title": "Kariyer kararında belirsizlik | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-kariyer-plani-donemlik-izleme.html",
+      "title": "Kariyer planı dönemlik izleme | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-meslek-seciminde-akran-etkisi.html",
+      "title": "Meslek seçiminde akran etkisi | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-meslek-seciminde-tek-dogru-yanilgisi.html",
+      "title": "Meslek seçiminde tek doğru yanılgısı | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-meslek-tanitim-semineri.html",
+      "title": "Meslek tanıtım semineri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 3,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-meslek-uzmanina-soru-hazirlama.html",
+      "title": "Meslek uzmanına soru hazırlama | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-mesleki-degerleri-karsilastirma.html",
+      "title": "Mesleki değerleri karşılaştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-mesleki-karar-secenek-tablosu.html",
+      "title": "Mesleki karar seçenek tablosu | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-mesleklere-iliskin-onyargi.html",
+      "title": "Mesleklere ilişkin önyargı | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-mesleklerin-gunluk-gorevleri.html",
+      "title": "Mesleklerin günlük görevleri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-mezuniyet-sonrasi-alternatifler.html",
+      "title": "Mezuniyet sonrası alternatifler | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-ogrenim-maliyetini-arastirma.html",
+      "title": "Öğrenim maliyetini araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-resm-program-kosullari.html",
+      "title": "Resmî program koşulları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-sehir-ve-ulasim-kosullari.html",
+      "title": "Şehir ve ulaşım koşulları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-staj-ve-gonulluluk-firsatlari.html",
+      "title": "Staj ve gönüllülük fırsatları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kariyer-universite-yasami-beklentileri.html",
+      "title": "Üniversite yaşamı beklentileri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-acil-guvenlik-degerlendirmesi.html",
+      "title": "Acil güvenlik değerlendirmesi | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-afet-sonrasi-okula-donus.html",
+      "title": "Afet sonrası okula dönüş | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-aile-ici-siddet-anlatimi.html",
+      "title": "Aile içi şiddet anlatımı | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-gorusmede-ayrinti-zorlamama.html",
+      "title": "Görüşmede ayrıntı zorlamama | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-guvenilir-yetiskin-destegi.html",
+      "title": "Güvenilir yetişkin desteği | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-guvenli-uzman-yonlendirme.html",
+      "title": "Güvenli uzman yönlendirme | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-guvenlik-planini-guncelleme.html",
+      "title": "Güvenlik planını güncelleme | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-ihmal-suphesini-bildirme.html",
+      "title": "İhmal şüphesini bildirme | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-istismar-suphesinde-yaklasim.html",
+      "title": "İstismar şüphesinde yaklaşım | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-izlem-ve-destek-devri.html",
+      "title": "İzlem ve destek devri | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-kaybedilen-yakin-sonrasi-okul.html",
+      "title": "Kaybedilen yakın sonrası okul | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-kendine-zarar-ifadesi.html",
+      "title": "Kendine zarar ifadesi | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-kriz-sonrasi-devamsizlik.html",
+      "title": "Kriz sonrası devamsızlık | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-kriz-sonrasi-sinif-rutini.html",
+      "title": "Kriz sonrası sınıf rutini | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-krizde-ogrenci-mahremiyeti.html",
+      "title": "Krizde öğrenci mahremiyeti | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-krizde-ogretmen-koordinasyonu.html",
+      "title": "Krizde öğretmen koordinasyonu | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-krizde-veli-bilgilendirme.html",
+      "title": "Krizde veli bilgilendirme | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-kurum-ici-acil-gorevler.html",
+      "title": "Kurum içi acil görevler | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-ogrenciye-acil-yardim-yolu.html",
+      "title": "Öğrenciye acil yardım yolu | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-okulda-zarar-verme-riski.html",
+      "title": "Okulda zarar verme riski | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-risk-bildirimini-kaydetme.html",
+      "title": "Risk bildirimini kaydetme | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-supheli-olayda-bilgi-guvenligi.html",
+      "title": "Şüpheli olayda bilgi güvenliği | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-tehdit-iceren-akran-davranisi.html",
+      "title": "Tehdit içeren akran davranışı | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-zorlayici-olay-sonrasi-sinif.html",
+      "title": "Zorlayıcı olay sonrası sınıf | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/kriz-zorlayici-olayda-soylenti.html",
+      "title": "Zorlayıcı olayda söylenti | Kriz ve Güvenlik | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lgs-kaygi-grup-calismasi.html",
+      "title": "LGS Kaygısı İçin Grup Çalışması | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lgs-sinav-sonrasi-tercih-destegi.html",
+      "title": "LGS Sonrası Tercih Sürecinde Rehberlik | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lgs-son-hafta-ogrenci-destegi.html",
+      "title": "LGS Öncesi Son Hafta Öğrenci Desteği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lgs-sonrasi-okula-uyum.html",
+      "title": "LGS Sonrası Liseye Uyum Hazırlığı | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lgs-tercih-veli-gorusmesi.html",
+      "title": "LGS Tercih Döneminde Veli Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lgs-veli-tercih-bilgilendirme.html",
+      "title": "LGS Tercih Döneminde Veli Bilgilendirmesi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-aile-kariyer-beklentisi.html",
+      "title": "Aile kariyer beklentisi | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-akademik-ilgi-haritasi.html",
+      "title": "Akademik ilgi haritası | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-akranla-akademik-kiyaslama.html",
+      "title": "Akranla akademik kıyaslama | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-alan-secimini-degerlendirme.html",
+      "title": "Alan seçimini değerlendirme | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-bolum-arastirma-atolyesi.html",
+      "title": "Üniversite Bölümü Araştırma Atölyesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 3,
+      "preview_images": 3
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-bolum-karsilastirma-cizelgesi.html",
+      "title": "Bölüm karşılaştırma çizelgesi | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-ders-programi-esnekligi.html",
+      "title": "Ders programı esnekliği | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-dijital-guvenlik-ve-mahremiyet.html",
+      "title": "Dijital güvenlik ve mahremiyet | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-etkili-deneme-geri-bildirimi.html",
+      "title": "Etkili deneme geri bildirimi | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-farkli-goruslere-saygi.html",
+      "title": "Farklı görüşlere saygı | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-gelecek-belirsizligiyle-bas-etme.html",
+      "title": "Gelecek belirsizliğiyle baş etme | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-gonullu-toplumsal-katki.html",
+      "title": "Gönüllü toplumsal katkı | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-gunluk-yasam-ve-uyku-dengesi.html",
+      "title": "Günlük yaşam ve uyku dengesi | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-guvenilir-yetiskine-basvuru.html",
+      "title": "Güvenilir yetişkine başvuru | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-kendini-ifade-etme-becerisi.html",
+      "title": "Kendini ifade etme becerisi | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-meslek-golgeleme-etkinligi.html",
+      "title": "Meslek gölgeleme etkinliği | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-mesleki-deger-kesfi.html",
+      "title": "Mesleki değer keşfi | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-mezuniyet-sonrasi-secenekler.html",
+      "title": "Mezuniyet sonrası seçenekler | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-ogrencisinde-kimlik-kesfi.html",
+      "title": "Lisede Kimlik ve İlgi Keşfi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-okul-kulubunde-sorumluluk.html",
+      "title": "Okul kulübünde sorumluluk | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-sinav-donemi-aile-iletisimi.html",
+      "title": "Sınav dönemi aile iletişimi | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-sinav-sonuclarini-yorumlama.html",
+      "title": "Sınav sonuçlarını yorumlama | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-sosyal-iliskilerde-riza.html",
+      "title": "Sosyal ilişkilerde rıza | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-staj-ve-gozlem-deneyimi.html",
+      "title": "Staj ve gözlem deneyimi | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-universite-arastirma-plani.html",
+      "title": "Üniversite araştırma planı | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-uzun-vadeli-hedef-bolme.html",
+      "title": "Uzun vadeli hedef bölme | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lise-yeni-ortama-gecis-hazirligi.html",
+      "title": "Yeni ortama geçiş hazırlığı | Lise | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/lisede-alan-secimi-gorusmesi.html",
+      "title": "Lisede Alan Seçimi Görüşmesi | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/meslek-degerleri-etkinligi.html",
+      "title": "Mesleki Değerleri Keşfetme Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/meslek-tanitim-etkinligi.html",
+      "title": "Meslek Tanıtımı Etkinliği Hazırlama | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/mesleki-karar-yanilgilari.html",
+      "title": "Meslek Seçiminde Yaygın Karar Yanılgıları | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/nakille-gelen-ogrenci-uyumu.html",
+      "title": "Nakille Gelen Öğrencinin Okula Uyumu | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-gorusmesi-ilk-oturum.html",
+      "title": "Öğrenciyle İlk Görüşme: Güven, Amaç ve Sınırlar | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 8
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-gorusmesinde-acik-uclu-sorular.html",
+      "title": "Öğrenci Görüşmesinde Açık Uçlu Soru Örnekleri | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 7,
+      "preview_images": 6
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-gorusmesinde-gizlilik.html",
+      "title": "Öğrenci Görüşmesinde Gizlilik ve Kayıt | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-gorusmesinde-sessizlik.html",
+      "title": "Öğrenci Görüşmesinde Sessizlikle Çalışma | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-hedef-belirleme-gorusmesi.html",
+      "title": "Öğrenciyle Gerçekçi Hedef Belirleme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-ile-gizlilik-siniri-anlatma.html",
+      "title": "Öğrenciye Gizliliğin Sınırlarını Anlatma | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-intihar-ifadesinde-acil-destek.html",
+      "title": "Öğrenci İntihar İfadesinde Acil Destek | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-izleme-formu-hazirlama.html",
+      "title": "Öğrenci İzleme Formu Hazırlama | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenci-risk-bildirimi-ilk-adim.html",
+      "title": "Öğrenci Risk Bildiriminde İlk Adımlar | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-erteleme-dongusu.html",
+      "title": "Öğrencide Erteleme Döngüsünü Anlama | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-karar-verme-etkinligi.html",
+      "title": "Öğrencilerde Karar Verme Etkinliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-oz-duzenleme.html",
+      "title": "Öğrencide Öz Düzenleme Becerileri | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 7,
+      "preview_images": 7
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-oz-sefkat-etkinligi.html",
+      "title": "Öz Şefkat Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-sorumluluk-becerisi.html",
+      "title": "Öğrencide Sorumluluk Becerisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 8
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-sorumluluk-geri-kazandirma.html",
+      "title": "Öğrencide Sorumluluğu Yeniden Kurma | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 8
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-sosyal-problem-cozme.html",
+      "title": "Öğrencide Sosyal Problem Çözme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 6,
+      "preview_images": 5
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencide-sosyal-sorumluluk.html",
+      "title": "Öğrencide Sosyal Sorumluluk | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencilerde-dijital-iz-farkindaligi.html",
+      "title": "Dijital İz Farkındalığı Etkinliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencilerde-gelecek-kaygisi.html",
+      "title": "Öğrencilerde Gelecek Kaygısını Konuşma | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrencilerde-zaman-yonetimi.html",
+      "title": "Öğrenciler İçin Zaman Yönetimi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenciye-yapici-geri-bildirim.html",
+      "title": "Öğrenciye Yapıcı Geri Bildirim Verme | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenciyle-ders-calisma-engelleri.html",
+      "title": "Ders Çalışma Engellerini Öğrenciyle Belirleme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogrenme-motivasyonu-okul-rehberligi.html",
+      "title": "Öğrenme Motivasyonu: Okulda Rehberlik Uygulamaları | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogretmen-zorbalik-gozlem-formu.html",
+      "title": "Öğretmen İçin Zorbalık Gözlem Rehberi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 11,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogretmene-sinav-kaygisi-onerileri.html",
+      "title": "Öğretmenler İçin Sınav Kaygısı Desteği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ogretmenle-ogrenci-vaka-gorusmesi.html",
+      "title": "Öğretmenle Öğrenci Destek Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okul-aidiyetini-gelistirme.html",
+      "title": "Okul Aidiyetini Geliştirme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okul-psikolojik-danisma-ilk-randevu.html",
+      "title": "Okul Psikolojik Danışmasında İlk Randevu | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 7,
+      "preview_images": 6
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okul-rehberlik-ihtiyac-analizi.html",
+      "title": "Okul Rehberlik İhtiyaç Analizi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 3,
+      "preview_images": 3
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okul-terki-risk-isaretleri.html",
+      "title": "Okul Terki Riski ve Erken Destek | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 8,
+      "preview_images": 6
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okula-uyum-ilk-haftalar.html",
+      "title": "Okula Uyum: İlk Haftalar İçin Rehberlik Planı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-aile-ici-catismayi-bildiren-ogrenci.html",
+      "title": "Aile İçi Çatışma Bildiren Öğrenciye Yaklaşım | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-akran-baskisina-hayir-deme.html",
+      "title": "Akran Baskısına Hayır Deme Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 2
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-akran-catismasi-sonrasi.html",
+      "title": "Akran Çatışması Sonrası Takip | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-akran-dahil-etme-etkinligi.html",
+      "title": "Sınıfta Akran Dahil Etme Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-akran-dislanmasi.html",
+      "title": "Akran Dışlanmasında Okul Müdahalesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 8
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-bep-aile-katilimi.html",
+      "title": "BEP Sürecine Aile Katılımı | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-beslenme-uyku-ogrenme.html",
+      "title": "Uyku ve Beslenmenin Öğrenmeyle İlişkisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 2
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-catisma-cozme-kartlari.html",
+      "title": "Çatışma Çözme Durum Kartları | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-devamsizlik-veli-arama.html",
+      "title": "Devamsızlık İçin Veli Telefon Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 8,
+      "preview_images": 6
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-dijital-denge.html",
+      "title": "Okulda Dijital Denge Çalışması | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-donem-sonu-rehberlik-degerlendirme.html",
+      "title": "Dönem Sonu Rehberlik Değerlendirmesi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-duygu-tanima.html",
+      "title": "Sınıf İçinde Duyguları Tanıma Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-duygu-termometresi.html",
+      "title": "Duygu Termometresi Etkinliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-duygusal-guvenlik.html",
+      "title": "Sınıfta Duygusal Güvenlik Oluşturma | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 3,
+      "preview_images": 2
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-empati-gelistirme.html",
+      "title": "Empati Geliştirme: İlkokul ve Ortaokul Etkinlikleri | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 8,
+      "preview_images": 7
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-gizli-bilgi-paylasimi.html",
+      "title": "Okulda Öğrenci Bilgisi Paylaşımının Sınırları | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-guvenilir-yetiskin-haritasi.html",
+      "title": "Güvenilir Yetişkin Haritası Etkinliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-guvenli-basvuru-yollari.html",
+      "title": "Okulda Güvenli Başvuru Yolları | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ihmal-istismar-bildirimi.html",
+      "title": "İhmal ve İstismar Şüphesinde İlk Okul Adımları | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 11,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ihmal-suphesinde-ilk-adim.html",
+      "title": "Okulda İhmal Şüphesinde İlk Adım | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-kariyer-farkindaligi.html",
+      "title": "Okulda Kariyer Farkındalığı | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-kriz-ilk-degerlendirme.html",
+      "title": "Okulda Kriz Bildirimi: İlk Değerlendirme ve Güvenli Yönlendirme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-kriz-sonrasi-rutin.html",
+      "title": "Kriz Sonrası Sınıf Rutinine Dönüş | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-kriz-sonrasi-sinif-bilgilendirmesi.html",
+      "title": "Okul Krizi Sonrası Sınıf Bilgilendirmesi | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-meslek-stereotipleri.html",
+      "title": "Mesleklere İlişkin Kalıp Yargılar | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-motivasyon-dalgalanmasi.html",
+      "title": "Öğrenme Motivasyonu Dalgalanması | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ofke-duzenleme-etkinligi.html",
+      "title": "Öfke Düzenleme: Sınıf Rehberliği Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-davranis-hedefi.html",
+      "title": "Öğrenci Davranış Hedefi Belirleme | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-geri-bildirim-anketi.html",
+      "title": "Öğrenci Rehberlik Hizmeti Geri Bildirimi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-gorusme-kaydi.html",
+      "title": "Öğrenci Görüşme Kaydı Hazırlama | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 6,
+      "preview_images": 5
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-guvenligi-gozlem-notu.html",
+      "title": "Öğrenci Güvenliği Gözlem Notu | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-katilim-hakki.html",
+      "title": "Okulda Öğrenci Katılım Hakkı | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-motivasyon-gorusmesi.html",
+      "title": "Öğrenci Motivasyon Görüşmesi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-oz-degerlendirme.html",
+      "title": "Öğrenci Öz Değerlendirme Formu Hazırlama | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenci-ozgecmisi.html",
+      "title": "Öğrenci İlgi ve Deneyim Dosyası | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogrenme-guclugu-ilk-gozlem.html",
+      "title": "Öğrenme Güçlüğü İçin İlk Okul Gözlemi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogretmen-musahade-gorusmesi.html",
+      "title": "Öğretmenle Rehberlik Görüşmesi: Gözlem ve İş Birliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 3,
+      "preview_images": 3
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ogretmen-yonlendirme-formu.html",
+      "title": "Öğretmen Rehberlik Yönlendirme Formu | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-oz-farkindalik-etkinligi.html",
+      "title": "Okulda Öz Farkındalık Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-oz-yeterlik.html",
+      "title": "Okulda Öz Yeterlik Becerisini Destekleme | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ozel-gereksinim-akran-farkindaligi.html",
+      "title": "Özel Gereksinimlerde Akran Farkındalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-ozguven-destekleme.html",
+      "title": "Özgüven ve Öz Yeterlik: Öğrenciye Destek | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-problem-cozme-becerisi.html",
+      "title": "Problem Çözme: Sınıf Rehberliği Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-psikolojik-saglamlik.html",
+      "title": "Okulda Psikolojik Sağlamlığı Destekleme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-psikososyal-destek-basvurusu.html",
+      "title": "Okulda Psikososyal Destek Başvurusu | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-rehberlik-hizmeti-tanitimi.html",
+      "title": "Öğrencilere Rehberlik Hizmetini Tanıtma | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-saglikli-rekabet.html",
+      "title": "Okulda Sağlıklı Rekabet ve İş Birliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-sinav-oncesi-nefes-calismasi.html",
+      "title": "Sınav Öncesi Kısa Sakinleşme Çalışması | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-sinir-koyma-becerileri.html",
+      "title": "Sınır Koyma Becerileri: Öğrenci Etkinlikleri | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-sosyal-kaygi-gozlemi.html",
+      "title": "Okulda Sosyal Kaygı Gözlemi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-stres-belirtileri.html",
+      "title": "Okulda Stres Belirtilerini Fark Etme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 4,
+      "preview_images": 4
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-veli-ogretmen-iletisim-plani.html",
+      "title": "Veli–Öğretmen İletişim Planı | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-yalnizlik-ogrenci-gorusmesi.html",
+      "title": "Okulda Yalnızlık Hisseden Öğrenciyle Görüşme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-yardim-isteme-becerisi.html",
+      "title": "İlkokulda Yardım İsteme Becerisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 8,
+      "preview_images": 7
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/okulda-yas-ve-kayip-destegi.html",
+      "title": "Okulda Yas ve Kayıp: Öğrenciye Duyarlı Destek | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-akran-baskisi.html",
+      "title": "Ortaokulda Akran Baskısıyla Baş Etme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 3,
+      "preview_images": 2
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-akran-baskisini-fark-etme.html",
+      "title": "Akran baskısını fark etme | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-akran-catismasinda-guvenlik.html",
+      "title": "Akran çatışmasında güvenlik | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-arkadaslikta-karsiliklilik.html",
+      "title": "Arkadaşlıkta karşılıklılık | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-basarisizlik-korkusunu-konusma.html",
+      "title": "Başarısızlık korkusunu konuşma | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-ders-calismaya-baslama.html",
+      "title": "Ders çalışmaya başlama | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-dijital-ayak-izi.html",
+      "title": "Dijital ayak izi | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 3,
+      "preview_images": 3
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-dislanma-karsisinda-yardim.html",
+      "title": "Dışlanma karşısında yardım | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-duygusal-dalgalanmalari-anlama.html",
+      "title": "Duygusal dalgalanmaları anlama | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-grup-sohbetinde-sinir-koyma.html",
+      "title": "Grup sohbetinde sınır koyma | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-guvenilir-bilgiye-erisim.html",
+      "title": "Güvenilir bilgiye erişim | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-karar-verirken-secenek-tartma.html",
+      "title": "Karar verirken seçenek tartma | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-kendi-guclu-yanlarini-bulma.html",
+      "title": "Kendi güçlü yanlarını bulma | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-kiyaslanma-baskisi.html",
+      "title": "Kıyaslanma baskısı | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-odev-erteleme-dongusu.html",
+      "title": "Ödev erteleme döngüsü | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-ogrenci-liderligi-ve-sorumluluk.html",
+      "title": "Öğrenci liderliği ve sorumluluk | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-ogrenme-hedefini-duzenleme.html",
+      "title": "Öğrenme hedefini düzenleme | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-ogretmenden-yardim-isteme.html",
+      "title": "Öğretmenden yardım isteme | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-okul-devamsizligini-konusma.html",
+      "title": "Okul devamsızlığını konuşma | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-okul-kulubu-secimi.html",
+      "title": "Okul kulübü seçimi | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-oyun-ve-ekran-dengesi.html",
+      "title": "Oyun ve ekran dengesi | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-sinav-oncesi-mola-plani.html",
+      "title": "Sınav öncesi mola planı | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-sinif-ici-soylentiler.html",
+      "title": "Sınıf içi söylentiler | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-sosyal-medyada-izin.html",
+      "title": "Sosyal medyada izin | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-sosyal-sinirlarini-anlatma.html",
+      "title": "Sosyal sınırlarını anlatma | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokul-yeni-sinifta-aidiyet.html",
+      "title": "Yeni sınıfta aidiyet | Ortaokul | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokulda-arkadaslik-becerileri.html",
+      "title": "Ortaokulda Arkadaşlık Becerileri | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 7
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokulda-duygulari-ifade-etme.html",
+      "title": "Ortaokulda Duyguları İfade Etme | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ortaokulda-guvenli-arkadas-secimi.html",
+      "title": "Ortaokulda Güvenli Arkadaşlık | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/oz-saygi-sinif-etkinligi.html",
+      "title": "Öz Saygıyı Güçlendirme Sınıf Etkinliği | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-ailenin-gozlem-katkisi.html",
+      "title": "Ailenin gözlem katkısı | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-aileyle-donemlik-hedef.html",
+      "title": "Aileyle dönemlik hedef | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-akran-katiliminin-guvenligi.html",
+      "title": "Akran katılımının güvenliği | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-alternatif-katilim-yontemi.html",
+      "title": "Alternatif katılım yöntemi | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-degerlendirme-kaydi.html",
+      "title": "BEP değerlendirme kaydı | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-ekibi-gorev-dagilimi.html",
+      "title": "BEP ekibi görev dağılımı | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-hedef-olcutu.html",
+      "title": "BEP hedef ölçütü | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-kazanim-izleme.html",
+      "title": "BEP kazanım izleme | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-performans-gozlemi.html",
+      "title": "BEP performans gözlemi | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-bep-toplanti-gundemi.html",
+      "title": "BEP toplantı gündemi | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-destek-egitim-koordinasyonu.html",
+      "title": "Destek eğitim koordinasyonu | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-duyusal-gereksinime-duyarlilik.html",
+      "title": "Duyusal gereksinime duyarlılık | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-egitimde-erisilebilir-materyal.html",
+      "title": "Eğitimde erişilebilir materyal | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-farkli-yanit-verme-yollari.html",
+      "title": "Farklı yanıt verme yolları | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-gecislerde-ongorulebilirlik.html",
+      "title": "Geçişlerde öngörülebilirlik | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-gorev-suresi-uyarlamasi.html",
+      "title": "Görev süresi uyarlaması | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-gorsel-yonerge-uyarlamasi.html",
+      "title": "Görsel yönerge uyarlaması | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-islevsel-iletisim-firsatlari.html",
+      "title": "İşlevsel iletişim fırsatları | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-kapsayici-grup-etkinligi.html",
+      "title": "Kapsayıcı grup etkinliği | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-kaynastirma-sinif-destegi.html",
+      "title": "Kaynaştırma Öğrencisi İçin Sınıf İçi Destek ve Uyarlamalar | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-ogrencinin-guclu-yonleri.html",
+      "title": "Öğrencinin güçlü yönleri | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-okul-ici-kurum-is-birligi.html",
+      "title": "Okul içi kurum iş birliği | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-olumlu-davranis-destegi.html",
+      "title": "Olumlu davranış desteği | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-ram-degerlendirmesi-sonrasi.html",
+      "title": "RAM değerlendirmesi sonrası | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-sinif-ici-destek-duzeni.html",
+      "title": "Sınıf içi destek düzeni | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-uyarlama-ise-yariyor-mu.html",
+      "title": "Uyarlama işe yarıyor mu | Özel Eğitim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-egitim-veli-isbirligi.html",
+      "title": "Özel Eğitimde Veli İş Birliği Planı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ozel-ogrenme-guclugu-okul-destegi.html",
+      "title": "Öğrenme Güçlüğü Yaşayan Öğrenciyi Destekleme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/psikolojik-danisma-yonlendirme-siniri.html",
+      "title": "Okulda Psikolojik Danışma ve Yönlendirme Sınırı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 8
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/psikolojik-saglamlik-sinif-calismasi.html",
+      "title": "Psikolojik Sağlamlık Sınıf Çalışması | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ram-basvuru-sureci-bilgilendirmesi.html",
+      "title": "RAM Başvuru Süreci Bilgilendirmesi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ram-raporu-okuma-rehberi.html",
+      "title": "RAM Raporunu Okurken Dikkat Edilecekler | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ram-sonrasi-okul-destegi.html",
+      "title": "RAM Değerlendirmesi Sonrası Okul Desteği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ram-yonlendirme-gorusmesi.html",
+      "title": "RAM Yönlendirmesi Öncesi Görüşme | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ram-yonlendirme-oncesi-ogretmen-gozlemi.html",
+      "title": "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlik-faaliyet-raporu.html",
+      "title": "Rehberlik Faaliyet Raporu Yazma | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 11,
+      "preview_images": 3
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlik-servisi-evrak-duzeni.html",
+      "title": "Rehberlik Servisi Evrak ve Arşiv Düzeni | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlik-servisine-basvuru.html",
+      "title": "Rehberlik Servisine Nasıl Başvurulur? | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlik-yillik-plan-hazirlama.html",
+      "title": "Yıllık Rehberlik Planı Hazırlama | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 8
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-aileye-geri-bildirim.html",
+      "title": "Aileye Destek Geri Bildirimi | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-calisma-verimliligi.html",
+      "title": "Rehberlik İş Yükünü Düzenleme | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-dis-kurum-yonlendirme.html",
+      "title": "Dış Kuruma Yönlendirme | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-donemlik-hedefler.html",
+      "title": "Dönemlik Rehberlik Hedefi Yazma | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-gizli-dosya-erisim.html",
+      "title": "Gizli Dosyalara Erişim | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-gorusme-suresi.html",
+      "title": "Görüşme Süresi Planlama | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-grup-calismasi-gonulluluk.html",
+      "title": "Rehberlik Grup Çalışmalarında Gönüllülük | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-grup-gizliligi.html",
+      "title": "Grup Çalışmasında Gizlilik | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-ilk-ogrenci-bilgilendirmesi.html",
+      "title": "İlk Görüşme Bilgilendirmesi | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-kayit-guvenligi.html",
+      "title": "Rehberlik Kayıtlarında Bilgi Güvenliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-kurum-ici-gorev-paylasimi.html",
+      "title": "Kurum İçi Görev Paylaşımı | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-mevzuat-guncelleme.html",
+      "title": "Rehberlik Mevzuatı Takibi | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-ogrenci-anonim-geri-bildirim.html",
+      "title": "Anonim Hizmet Geri Bildirimi | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-ogrenci-gorusme-hedefi.html",
+      "title": "Öğrenci Görüşmesi Hedefi | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-ogrenci-izleme-takvimi.html",
+      "title": "Öğrenci İzleme Takvimi | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-ogrenci-onam-bilgilendirme.html",
+      "title": "Öğrenciyi Bilgilendirme ve Katılım | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-okul-veri-mahremiyeti.html",
+      "title": "Okul Rehberlik Verisinde Mahremiyet | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-olay-kaydi.html",
+      "title": "Olay ve Müdahale Kaydı | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-olumlu-davranis-destegi.html",
+      "title": "Olumlu Davranış Desteği | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-oncelik-belirleme.html",
+      "title": "Rehberlik Başvurularında Öncelik | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-randevu-duzeni.html",
+      "title": "Rehberlik Randevu Düzeni | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-sinif-etkinligi-secimi.html",
+      "title": "Sınıf Etkinliği Seçme | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-sinif-ihtiyac-toplama.html",
+      "title": "Sınıf İhtiyaç Verisi Toplama | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-toplanti-gundemi.html",
+      "title": "Rehberlik Toplantısı Gündemi | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-uzmanlik-sinirlari.html",
+      "title": "Mesleki Yetkinlik Sınırları | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-veli-randevusu.html",
+      "title": "Veli Randevusu Planlama | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/rehberlikte-yonetici-bilgilendirme.html",
+      "title": "Okul Yönetimine Bilgi Sunma | Okul rehberlik servisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/saglikli-akran-iliskileri-etkinligi.html",
+      "title": "Sağlıklı Akran İlişkileri: Sınıf Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/saglikli-sinav-hedefleri.html",
+      "title": "Sağlıklı Sınav Hedefleri Belirleme | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/saldirgan-davranis-sonrasi-gorusme.html",
+      "title": "Zarar Verici Davranış Sonrası Öğrenci Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 5,
+      "preview_images": 5
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/siber-zorbalik-ilk-basvuru.html",
+      "title": "Siber Zorbalıkta İlk Öğrenci Başvurusu | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/siber-zorbalik-ilk-mudahale.html",
+      "title": "Siber Zorbalık Bildiriminde İlk Müdahale | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/siber-zorbalik-okul-mudahalesi.html",
+      "title": "Siber Zorbalık: Okulda Güvenlik ve Müdahale | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-aile-deneme-sonucu-iletisimi.html",
+      "title": "Aile deneme sonucu iletişimi | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-deneme-analizi-gorusmesi.html",
+      "title": "Deneme analizi görüşmesi | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-donemi-veli-iletisimi.html",
+      "title": "Sınav Döneminde Veli İletişimi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-dusuk-puan-sonrasi-destek.html",
+      "title": "Düşük puan sonrası destek | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-gercekci-net-hedefi.html",
+      "title": "Gerçekçi net hedefi | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-hazirliginda-gercekci-program.html",
+      "title": "Sınava Hazırlıkta Gerçekçi Program | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-kaygisi-ilk-gorusme.html",
+      "title": "Sınav Kaygısı: İlk Öğrenci Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-kaygisi-kucuk-grup.html",
+      "title": "Sınav Kaygısı İçin Küçük Grup Çalışması | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-kaygisi-ogrenci-destegi.html",
+      "title": "Sınav Kaygısı: Öğrenciyle Görüşme ve Destek Planı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-kiyaslama-dilini-azaltma.html",
+      "title": "Kıyaslama dilini azaltma | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-konu-eksiklerini-belirleme.html",
+      "title": "Konu eksiklerini belirleme | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-kucuk-calisma-oturumlari.html",
+      "title": "Küçük çalışma oturumları | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-lgs-yerlestirme-bilgisi.html",
+      "title": "LGS yerleştirme bilgisi | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-ogrenme-stratejisi-secme.html",
+      "title": "Öğrenme stratejisi seçme | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-okul-ve-kurs-yuk-dengesi.html",
+      "title": "Okul ve kurs yük dengesi | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-oz-bakim-plani.html",
+      "title": "Sınav Döneminde Öz Bakım Planı | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-program-kosulu-inceleme.html",
+      "title": "Program koşulu inceleme | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinav-gunu-hazirligi.html",
+      "title": "Sınav günü hazırlığı | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinav-kaygisi-erken-belirtiler.html",
+      "title": "Sınav kaygısı erken belirtiler | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinav-oncesi-kaygi-dusunceleri.html",
+      "title": "Sınav öncesi kaygı düşünceleri | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinav-sonrasi-belirsizlik.html",
+      "title": "Sınav sonrası belirsizlik | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinav-sonucunu-aileye-aciklama.html",
+      "title": "Sınav sonucunu aileye açıklama | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sinavda-yardim-isteme.html",
+      "title": "Sınavda yardım isteme | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sonrasi-geri-bildirim.html",
+      "title": "Sınav Sonrası Öğrenciye Geri Bildirim | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sonrasi-hayal-kirikligi.html",
+      "title": "Sınav Sonrası Hayal Kırıklığı Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sonrasi-ogrenci-gorusmesi.html",
+      "title": "Sınav Sonrası Öğrenci Görüşmesi: Sonuçları Değerlendirme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-sonucu-sonrasi-ogrenci-gorusmesi.html",
+      "title": "Sınav Sonucu Sonrası Öğrenci Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-tekrara-baslama-stratejisi.html",
+      "title": "Tekrara başlama stratejisi | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-tercih-bilgi-kaynagi.html",
+      "title": "Tercih bilgi kaynağı | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-uyku-ve-dinlenme-plani.html",
+      "title": "Uyku ve dinlenme planı | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-yanlis-sorulari-siniflandirma.html",
+      "title": "Yanlış soruları sınıflandırma | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-yeni-doneme-gecis-hedefi.html",
+      "title": "Yeni döneme geçiş hedefi | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-yks-tercih-sirasi-degerlendirme.html",
+      "title": "YKS tercih sırası değerlendirme | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-yuksek-beklenti-baskisi.html",
+      "title": "Yüksek beklenti baskısı | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinav-zaman-baskisini-yonetme.html",
+      "title": "Zaman baskısını yönetme | Sınav Rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinif-iklimi-anketi.html",
+      "title": "Sınıf İklimi Anketi Hazırlama | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinif-rehber-ogretmeni-gorusme.html",
+      "title": "Sınıf Rehber Öğretmeniyle Görüşme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinif-rehber-ogretmeni-is-birligi.html",
+      "title": "Sınıf Rehber Öğretmeniyle İş Birliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinif-rehberligi-etkinlik-tasarimi.html",
+      "title": "Sınıf Rehberliği Etkinliği Nasıl Tasarlanır? | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinif-rehberlik-etkinligi-tasarimi.html",
+      "title": "Sınıf Rehberliği Etkinliği Tasarlama | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-akran-destegi-planlama.html",
+      "title": "Sınıfta Akran Desteği Planlama | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-aktif-dinleme-oyunu.html",
+      "title": "Sınıfta Aktif Dinleme Oyunu | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-arkadaslik-olcutleri.html",
+      "title": "Sağlıklı Arkadaşlık Ölçütleri | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-bakis-acisi-degistirme.html",
+      "title": "Farklı Bakış Açısı Alma | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-basarinin-farkli-yollari.html",
+      "title": "Başarının Farklı Yolları | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-bekleme-becerisi.html",
+      "title": "Sıra Bekleme Becerisi | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-degerler-egitimi-saygi.html",
+      "title": "Saygı ve Farklılıklar Sınıf Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-donem-sonu-yansitma.html",
+      "title": "Dönem Sonu Yansıtma | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-dusunmeden-paylasma.html",
+      "title": "Paylaşmadan Önce Düşünme | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-duygu-duzenleme-kosesi.html",
+      "title": "Sınıfta Duygu Düzenleme Köşesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-duygu-kartlari.html",
+      "title": "Duygu Kartları | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-duygu-ve-ihtiyac.html",
+      "title": "Duygu ve İhtiyaç Ayrımı | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-empatik-dinleme.html",
+      "title": "Sınıfta Empatik Dinleme Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 6,
+      "preview_images": 5
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-farkliliklara-saygi.html",
+      "title": "Farklılıklara Saygı | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-gorev-takip-tablosu.html",
+      "title": "Görev Takip Tablosu | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-guvenilir-bilgi.html",
+      "title": "Güvenilir Bilgi Seçme | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-guvenli-oyun-kurallari.html",
+      "title": "Güvenli Oyun Kuralları | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-guvenli-saka.html",
+      "title": "Güvenli Şaka ve Mizah | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-guvenli-sosyal-medya.html",
+      "title": "Sınıfta Güvenli Sosyal Medya Konuşması | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-guvenli-tartisma.html",
+      "title": "Sınıfta Güvenli Tartışma Kuralları | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-hak-ve-sorumluluklar.html",
+      "title": "Haklar ve Sorumluluklar | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-isbirlikli-gorev-paylasimi.html",
+      "title": "İş Birlikli Görev Paylaşımı | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-kizginlikla-bas-etme.html",
+      "title": "Sınıfta Kızgınlıkla Baş Etme Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 5,
+      "preview_images": 5
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-minik-hedefler.html",
+      "title": "Küçük Hedefler Belirleme | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-nezaket-dili.html",
+      "title": "Nezaket Dili | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-odaklanma-stratejileri.html",
+      "title": "Sınıfta Odaklanmayı Destekleyen Stratejiler | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-olumlu-akran-geribildirimi.html",
+      "title": "Olumlu Akran Geri Bildirimi | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-ortak-karar-alma.html",
+      "title": "Ortak Karar Alma | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-oz-duzenleme-becerisi.html",
+      "title": "Sınıfta Öz Düzenleme Becerisi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 7,
+      "preview_images": 7
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-ozel-alan-ve-izin.html",
+      "title": "Özel Alan ve İzin | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-ozel-gunler-hassasiyet.html",
+      "title": "Okul Etkinliklerinde Aile Çeşitliliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-saygili-iletisim-kurallari.html",
+      "title": "Saygılı İletişim Kuralları | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-sinav-oncesi-rutin.html",
+      "title": "Sınav Öncesi Rutin | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-uzlasma-becerisi.html",
+      "title": "Uzlaşma Becerisi | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-yardim-isteyen-ogrenci.html",
+      "title": "Sınıfta Yardım İsteme Becerisi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-yeni-arkadasa-merhaba.html",
+      "title": "Yeni Arkadaşa Merhaba | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sinifta-zor-duyguyla-yardim-isteme.html",
+      "title": "Zor Duyguda Yardım İsteme | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sosyal-duygusal-hedef-yazma.html",
+      "title": "Sosyal Duygusal Öğrenme Hedefi Yazma | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 3,
+      "preview_images": 2
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sosyal-kaygi-okul-destegi.html",
+      "title": "Sosyal Kaygı Yaşayan Öğrenciye Okul Desteği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 2
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/sosyometri-uygulama-ve-etik.html",
+      "title": "Sosyometri Uygulaması: Hazırlık, Yorumlama ve Etik | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 6,
+      "preview_images": 4
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/ustun-yetenekli-ogrenci-destegi.html",
+      "title": "Üstün Yetenekli Öğrenciye Okul Desteği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/uyku-ve-ogrenme-ogrenci.html",
+      "title": "Uyku ve Öğrenme: Öğrenci Rehberliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/uzun-devamsizlik-sonrasi-donus.html",
+      "title": "Uzun Devamsızlık Sonrası Okula Dönüş | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-gorusmesi-hazirlik-izleme.html",
+      "title": "Veli Görüşmesi: Hazırlık, Görüşme ve Takip | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-gorusmesinde-ogrencinin-sesi.html",
+      "title": "Veli Görüşmesinde Öğrencinin Sesi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-ile-ekran-suresi-catismasi.html",
+      "title": "Ekran Süresi Tartışmalarında Veli Desteği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-ile-ergenlik-catismalari.html",
+      "title": "Ergenlik Döneminde Veli Çatışmaları | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-ile-okul-reddi-gorusmesi.html",
+      "title": "Okula Gitmek İstemeyen Çocuk İçin Veli Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 2
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-ile-olumlu-disiplin.html",
+      "title": "Veliyle Olumlu Disiplin Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 3,
+      "preview_images": 3
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-iletisim-etkinligi.html",
+      "title": "Velilerle İletişim Becerileri Etkinliği | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 10,
+      "preview_images": 8
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-semineri-planlama.html",
+      "title": "Veli Semineri Nasıl Planlanır? | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 4,
+      "preview_images": 4
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-seminerinde-soru-toplama.html",
+      "title": "Veli Seminerinde Güvenli Soru Toplama | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 4,
+      "preview_images": 4
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-toplantisinda-gizlilik.html",
+      "title": "Veli Toplantılarında Öğrenci Gizliliği | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veli-toplantisinda-zor-sorular.html",
+      "title": "Veli Toplantısında Zor Sorulara Yanıt | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliye-akran-zorbaligi-bilgilendirme.html",
+      "title": "Akran Zorbalığında Veli Görüşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-akran-dislama.html",
+      "title": "Akran Dışlanmasında Veli Görüşmesi | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-arkadas-secimi.html",
+      "title": "Arkadaşlık Konusunda Veli Görüşmesi | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-cocuk-guclu-yonleri.html",
+      "title": "Çocuğun Güçlü Yönlerini Görmek | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-ders-basarisizligi.html",
+      "title": "Düşük Ders Başarısında Veli Desteği | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-ergen-mahremiyeti.html",
+      "title": "Ergen Mahremiyetine Saygı | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-erteleme-gorusmesi.html",
+      "title": "Erteleme Konusunda Veli Görüşmesi | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-guvenli-dijital-sozlesme.html",
+      "title": "Aile Dijital Kullanım Sözleşmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-kardes-kiskancligi.html",
+      "title": "Kardeş Kıskançlığı Konuşması | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-lise-gecis-kaygisi.html",
+      "title": "Liseye Geçişte Veli Kaygısı | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-odev-yardim-siniri.html",
+      "title": "Ödev Yardımının Sınırları | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-ogretmen-sikayeti.html",
+      "title": "Öğretmen Şikâyetinde Veli Görüşmesi | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-okul-korkusu.html",
+      "title": "Okul Korkusunda Aile Desteği | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-okul-nakli.html",
+      "title": "Okul Naklinde Aile Bilgilendirmesi | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-okula-gec-kalma.html",
+      "title": "Okula Geç Kalma Sorununda Aile | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-oyun-kurallari.html",
+      "title": "Evde Oyun Kuralları | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-ozel-egitim-isbirligi.html",
+      "title": "Özel Eğitimde Aile–Okul İş Birliği | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-ozgurluk-sinirlar.html",
+      "title": "Ergende Özgürlük ve Sınır | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-rehberlik-gizlilik.html",
+      "title": "Rehberlik Görüşmesinde Veli ve Gizlilik | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-siber-zorbalik.html",
+      "title": "Siber Zorbalıkta Veli Desteği | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-sinav-karsilastirmasi.html",
+      "title": "Sınav Kıyaslamasını Azaltma | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-sinif-degisimi.html",
+      "title": "Sınıf Değişikliği Talebinde Görüşme | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-sorumluluk-paylasimi.html",
+      "title": "Ev Sorumluluklarını Paylaşma | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-sosyal-duygusal-destek.html",
+      "title": "Sosyal Duygusal Gelişim İçin Evde Destek | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-teknoloji-bagimlilik-endisesi.html",
+      "title": "Teknoloji Kullanım Kaygısı | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-uyku-duzeni.html",
+      "title": "Uyku Düzeni İçin Veli Bilgilendirmesi | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/veliyle-yalan-soyleme.html",
+      "title": "Çocuğun Gerçeği Saklamasını Konuşma | Veli rehberliği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yas-sonrasi-veli-iletisimi.html",
+      "title": "Kayıp Sonrasında Veliyle İletişim | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yas-yasayan-ogrenciye-okul-destegi.html",
+      "title": "Yas Yaşayan Öğrenciye Okul Desteği | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yeni-rehber-ogretmen-ilk-ay.html",
+      "title": "Yeni Atanan Rehber Öğretmenin İlk Ay Planı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yks-bolum-meslek-arastirmasi.html",
+      "title": "YKS Bölüm ve Meslek Araştırması | PDR Kampüs",
+      "issues": [
+        "cards_without_preview_images",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 2,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yks-deneme-analizi-rehberi.html",
+      "title": "YKS Deneme Analizi Görüşmesi | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yks-tercih-bilgi-dogrulama.html",
+      "title": "YKS Tercihinde Bilgi Doğrulama Kontrolü | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 3,
+      "preview_images": 3
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yks-tercih-gorusmesi-hazirligi.html",
+      "title": "YKS Tercih Görüşmesi: Öğrenciyle Hazırlık | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 1,
+      "preview_images": 1
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yks-tercih-karar-tablosu.html",
+      "title": "YKS Tercihleri İçin Karar Tablosu | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/yks-tercihinde-aile-baskisi.html",
+      "title": "YKS Tercihinde Aile Baskısını Konuşma | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zor-veli-gorusmesi.html",
+      "title": "Zor Veli Görüşmelerini Yönetme | PDR Kampüs",
+      "issues": [
+        "needs_editorial_source",
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 0,
+      "preview_images": 0
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-akran-arabuluculugu-ayrimi.html",
+      "title": "Akran arabuluculuğu ayrımı | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-akran-grubunda-guc-farki.html",
+      "title": "Akran grubunda güç farkı | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-anonim-bildirim-sinirlari.html",
+      "title": "Anonim bildirim sınırları | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-dijital-kaniti-koruma.html",
+      "title": "Dijital kanıtı koruma | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-fiziksel-zorbalikta-guvenlik.html",
+      "title": "Fiziksel zorbalıkta güvenlik | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-grup-mudahalesi-sinirlari.html",
+      "title": "Grup müdahalesi sınırları | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-grup-sohbetinde-alay.html",
+      "title": "Grup sohbetinde alay | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-guvenli-okul-iklimi-geri-bildirimi.html",
+      "title": "Güvenli okul iklimi geri bildirimi | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-lakapla-hedef-gosterme.html",
+      "title": "Lakapla hedef gösterme | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-magdur-ogrenciyi-dinleme.html",
+      "title": "Mağdur öğrenciyi dinleme | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-misilleme-riskini-izleme.html",
+      "title": "Misilleme riskini izleme | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-ogretmenden-gozlem-alma.html",
+      "title": "Öğretmenden gözlem alma | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-okul-ici-koruyucu-ag.html",
+      "title": "Okul içi koruyucu ağ | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-olay-sonrasi-izleme-tarihi.html",
+      "title": "Olay sonrası izleme tarihi | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-oyun-alaninda-dislanma.html",
+      "title": "Oyun alanında dışlanma | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-sinif-dilinde-ayrimcilik.html",
+      "title": "Sınıf dilinde ayrımcılık | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-sinifta-soylenti-dongusu.html",
+      "title": "Sınıfta söylenti döngüsü | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-sosyal-dislama-davranisi.html",
+      "title": "Sosyal dışlama davranışı | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-sozlu-zorbalik-bildirimi.html",
+      "title": "Sözlü zorbalık bildirimi | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-tanik-ogrenciyi-destekleme.html",
+      "title": "Tanık öğrenciyi destekleme | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-tekrarlanan-olay-kayitlari.html",
+      "title": "Tekrarlanan olay kayıtları | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-teneffus-guvenligi-plani.html",
+      "title": "Teneffüs güvenliği planı | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-veli-ilk-bilgilendirme.html",
+      "title": "Zorbalık Sonrası Veli Bilgilendirmesi | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 11,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-veliye-guvenli-bilgilendirme.html",
+      "title": "Veliye güvenli bilgilendirme | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-zarar-verici-davranis-gorusmesi.html",
+      "title": "Zarar verici davranış görüşmesi | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalik-zorbalik-sonrasi-aidiyet.html",
+      "title": "Zorbalık sonrası aidiyet | Akran Zorbalığı | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    },
+    {
+      "file": "drafts/pdr-ilk-paket/zorbalikta-tanik-ogrenci-destegi.html",
+      "title": "Zorbalığa Tanık Olan Öğrenciyi Destekleme | PDR Kampüs",
+      "issues": [
+        "source_relevance_unverified"
+      ],
+      "resource_cards": 9,
+      "preview_images": 9
+    }
+  ]
+}

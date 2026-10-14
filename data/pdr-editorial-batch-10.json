@@ -199,9 +199,17 @@
       [
         "İzleme, sınırlar ve destek kararı",
         "Öğrenci güvenliği veya yetkili bildirim gerektiren bir durum ortaya çıkarsa olağan sınıf etkinliğini durdurun. Gizliliği ve yetkili koruma sürecini öne alın; kişisel ayrıntıyı gereksiz kişilere açıklamayın. Kurum içinde gerekli en az bilgiyle güvenli takibi sürdürün. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
+      ],
+      [
+        "Temel ihtiyaç ve koruma yolunu birlikte ele almak",
+        "Beslenme, sağlık, bakım veya devam sorununu tek bir aile etiketiyle açıklamayın. Öğretmen tarihli gözlemi, öğrencinin sözünü ve başka kaynaktan gelen bilgiyi ayrı kaydeder. Ekonomik güçlük doğrudan ihmal hükmü değildir; ancak çocuğun korunma gereksinimi varsa kesin kanıt bekleyerek yetkili bildirim geciktirilmez. Okulun sağlayabileceği günlük ihtiyaç desteği gerekli koruma başvurusunun yerine geçmez. Aile temasının güvenliği uygun yetkili süreçle değerlendirilir. Başvurunun ulaştığı ve çocuğun destek erişiminin sürdüğü gerekli bilgi düzeyinde izlenir."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Öğrencinin o gün yemeğe erişebilmesi önemli bir destek olabilir, fakat devam eden güvenlik sorununun çözüldüğünü göstermez. İzlemde yalnızca yoklama veya aile telefonu değil temel ihtiyaç ve yetkili hizmete erişim değerlendirilir. Öğrencinin yardım aldığı bilgisi sınıf içinde tanıtılmaz. Yeni yakın tehlike halinde olağan kontrol günü beklenmez; uygun acil yanıt işletilir. Okul çalışanı kendi soruşturmasını kurmadan koruyucu okul desteğini sürdürür ve hizmete erişimde tıkanıklığı yetkili kurumla güvenli biçimde ele alır."
       ]
     ],
-    "example": "Öğretmen öğrencinin temel ihtiyaçlarının düzenli karşılanmadığına ilişkin gözlemler bildirir; güvenlik ve resmî bildirim süreci değerlendirilir. Çocuğun temel gereksinimleriyle ilgili gözlenebilir durumu olgusal kaydedin.",
+    "example": "Kurgusal uygulama: Öğrencinin o gün yemeğe erişebilmesi önemli bir destek olabilir, fakat devam eden güvenlik sorununun çözüldüğünü göstermez. İzlemde yalnızca yoklama veya aile telefonu değil temel ihtiyaç ve yetkili hizmete erişim değerlendirilir. Öğrencinin yardım aldığı bilgisi sınıf içinde tanıtılmaz. Yeni yakın tehlike halinde olağan kontrol günü beklenmez; uygun acil yanıt işletilir. Okul çalışanı kendi soruşturmasını kurmadan koruyucu okul desteğini sürdürür ve hizmete erişimde tıkanıklığı yetkili kurumla güvenli biçimde ele alır.",
     "check": [
       "Çocuğun temel gereksinimleriyle ilgili gözlenebilir durumu olgusal kaydedin.",
       "Mevcut güvenlik ve acil yardım gereksinimini değerlendirin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
@@ -255,9 +263,17 @@
       [
         "İzleme, sınırlar ve destek kararı",
         "Öğrenci güvenliği veya yetkili bildirim gerektiren bir durum ortaya çıkarsa olağan sınıf etkinliğini durdurun. Gizliliği ve yetkili koruma sürecini öne alın; kişisel ayrıntıyı gereksiz kişilere açıklamayın. Güvenli devir ve okul destek planını kayıt altına alın. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
+      ],
+      [
+        "Söz ve sakinleşmeyi güvenlik kanıtı saymamak",
+        "Öğrenciyi yargılamadan dinleyin ve acil güvenlik ile sağlık gereksinimini doğrudan değerlendirin. Yakın tehlikede güvenli gözetim ve yetkili acil yanıt gerekir. Öğrencinin daha sakin görünmesi veya bir daha yapmayacağını söylemesi klinik değerlendirme gereksinimini ortadan kaldırmaz. Risk ölçeği puanına dayanarak düşük risk etiketiyle dosya kapatmayın. Okul çalışanı ayrıntılı yöntem anlatmasını istemez; uygun sağlık uzmanı değerlendirmesine güvenli erişim sağlar. Tutulamayacak sır sözü verilmez. Aile katılımında zarar kaynağı olasılığı yetkili koruma sürecinde ayrıca ele alınır."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal örnekte öğrenci desteğe ihtiyaç duyduğunu söyler ancak ailesine haber verilmesinden korkar. Görevli korkuyu dinler, gerekli güvenlik paylaşımını sade dille açıklar ve yetkili koruma değerlendirmesiyle güvenli iletişim yolunu ele alır. Acil yardım olağan randevu veya veli onayı beklemez. Güvenli devir teyit edildikten sonra sağlık uzmanlarının uygun önerileriyle okul desteği planlanır. Akranlara gözetim görevi verilmez; öğrenci yeniden zorlandığında ulaşabileceği yetkili yetişkin ve yedek yol belirlenir. Planın işlemesi sonraki güvenli temasta kontrol edilir."
       ]
     ],
-    "example": "Öğrenci kendine zarar verme düşüncesinden söz eder; danışman öğrenciyi yalnız bırakmadan acil güvenlik ve yetkili yönlendirme sürecini başlatır. Öğrencinin kendine zarar vermeyi düşündüğünü belirtmesi durumunda bunu sıradan motivasyon görüşmesi saymayın.",
+    "example": "Kurgusal uygulama: Kurgusal örnekte öğrenci desteğe ihtiyaç duyduğunu söyler ancak ailesine haber verilmesinden korkar. Görevli korkuyu dinler, gerekli güvenlik paylaşımını sade dille açıklar ve yetkili koruma değerlendirmesiyle güvenli iletişim yolunu ele alır. Acil yardım olağan randevu veya veli onayı beklemez. Güvenli devir teyit edildikten sonra sağlık uzmanlarının uygun önerileriyle okul desteği planlanır. Akranlara gözetim görevi verilmez; öğrenci yeniden zorlandığında ulaşabileceği yetkili yetişkin ve yedek yol belirlenir. Planın işlemesi sonraki güvenli temasta kontrol edilir.",
     "check": [
       "Öğrencinin kendine zarar vermeyi düşündüğünü belirtmesi durumunda bunu sıradan motivasyon görüşmesi saymayın.",
       "Gizlilik sözü vererek güvenlik bilgisini saklamayın. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",
@@ -647,9 +663,17 @@
       [
         "İzleme, sınırlar ve destek kararı",
         "Yapılan uyarlamayı ve öğrencinin bağımsız performansını ayrı kaydedin; bir sınıf gözleminden tanı çıkarmayın. Gerekli kararı yetkili eğitsel ekiple verin. Öğrencinin desteğin yararına ilişkin görüşünü tekrar alın. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
+      ],
+      [
+        "Öğrencinin görüşünü kararda görünür bırakmak",
+        "Öğrenci kısa görüşme, görsel seçim, işaret veya uygun başka iletişim biçimiyle hangi destekten yararlandığını anlatabilir. Toplantıda uzun konuşması katılımın tek kanıtı değildir. Yetişkin öğrencinin tercihine kendi yanıtını ekleyip bunu öğrenci sözü gibi yazmaz. BEP ekibi tercihin hangi görevde uygulanabileceğini ve hedef kazanımı nasıl koruyacağını değerlendirir. Bir seçenek uygulanamıyorsa neden ve uygun alternatif anlaşılır biçimde açıklanır. Öğrencinin tanısı veya aile bilgisi sınıfta tercih oylamasına konu edilmez; söz hakkı gerçek uygulamaya bağlanmalıdır."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal öğrenci yazılı görevde resim desteğini seçer. Öğretmen uygun görevde desteği dener ve yardım düzeyini ayrı kaydeder. Sonraki görüşmede öğrenci hâlâ aynı seçeneği mi istiyor, materyal erişilebilir miydi soruları sorulur. Yalnızca toplantıya katılmış olması yeterli sayılmaz. Ekip yeni veri ve öğrenci deneyimiyle kararı günceller; tercih değişimini tutarsızlık kusuru olarak yorumlamaz. Görev, materyal sorumlusu ve izlem yöntemi açık kaldığında katılım bir belge imzası değil kullanılabilir destek seçeneği olur."
       ]
     ],
-    "example": "Öğrenci zorlandığı ders görevleri için seçebildiği görsel destekleri BEP ekibine aktarır. Öğrenciye ders etkinliğinde hangi görsel, sözlü veya alternatif yanıt biçiminin işe yaradığını sorun.",
+    "example": "Kurgusal uygulama: Kurgusal öğrenci yazılı görevde resim desteğini seçer. Öğretmen uygun görevde desteği dener ve yardım düzeyini ayrı kaydeder. Sonraki görüşmede öğrenci hâlâ aynı seçeneği mi istiyor, materyal erişilebilir miydi soruları sorulur. Yalnızca toplantıya katılmış olması yeterli sayılmaz. Ekip yeni veri ve öğrenci deneyimiyle kararı günceller; tercih değişimini tutarsızlık kusuru olarak yorumlamaz. Görev, materyal sorumlusu ve izlem yöntemi açık kaldığında katılım bir belge imzası değil kullanılabilir destek seçeneği olur.",
     "check": [
       "Öğrenciye ders etkinliğinde hangi görsel, sözlü veya alternatif yanıt biçiminin işe yaradığını sorun.",
       "Toplantıyı öğrencinin tanısına indirgemeyin. Yöntemi öğrencinin gelişim düzeyine ve okul koşullarına uyarlayın .",

@@ -1,0 +1,6165 @@
+{
+  "pages_checked": 500,
+  "issues_by_kind": {
+    "document_relevance_not_verified": 500,
+    "no_resource_cards": 137
+  },
+  "external_domains_with_link_counts": {
+    "analiz.pdrkampus.com": 1500,
+    "norm.pdrkampus.com": 1500,
+    "orgm.meb.gov.tr": 112,
+    "www.onetonline.org": 17,
+    "yokatlas.yok.gov.tr": 9,
+    "www.osym.gov.tr": 6,
+    "www.who.int": 5,
+    "www.aile.gov.tr": 5,
+    "www.kvkk.gov.tr": 5,
+    "www.gsb.gov.tr": 3,
+    "www.nice.org.uk": 3
+  },
+  "limitations": [
+    "Remote destinations were not requested or verified.",
+    "Document contents and professional accuracy require editorial review.",
+    "Mobile layout needs browser/device inspection."
+  ],
+  "publish_approved": false,
+  "pages": [
+    {
+      "slug": "aile-okul-iletisimi-zor-gorusmeler",
+      "title": "Zor Veli Görüşmeleri: İletişim ve Çözüm Adımları | PDR Kampüs",
+      "h1": [
+        "Zor Veli Görüşmeleri: İletişim ve Çözüm Adımları"
+      ],
+      "description_length": 178,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "akademik-erteleme-ogrenci-gorusmesi",
+      "title": "Akademik Erteleme: Öğrenci Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Akademik Erteleme: Öğrenci Görüşmesi"
+      ],
+      "description_length": 213,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "akran-arabuluculuk-sinirlari",
+      "title": "Akran Arabuluculuğunun Sınırları | PDR Kampüs",
+      "h1": [
+        "Akran Arabuluculuğunun Sınırları"
+      ],
+      "description_length": 121,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "akran-catismasi-arabuluculuk-sinirlari",
+      "title": "Akran Çatışması: Okulda Güvenli Çözüm Yolları | PDR Kampüs",
+      "h1": [
+        "Akran Çatışması: Okulda Güvenli Çözüm Yolları"
+      ],
+      "description_length": 172,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "akran-grubuna-katilim-gorusmesi",
+      "title": "Akran Grubuna Katılmakta Zorlanan Öğrenci | PDR Kampüs",
+      "h1": [
+        "Akran Grubuna Katılmakta Zorlanan Öğrenci"
+      ],
+      "description_length": 130,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "akran-iletisiminde-ben-dili",
+      "title": "Akran İletişiminde Ben Dili | PDR Kampüs",
+      "h1": [
+        "Akran İletişiminde Ben Dili"
+      ],
+      "description_length": 157,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "akran-zorbaligi-izleme-plani",
+      "title": "Akran Zorbalığı Sonrası İzleme Planı | PDR Kampüs",
+      "h1": [
+        "Akran Zorbalığı Sonrası İzleme Planı"
+      ],
+      "description_length": 122,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "akran-zorbaligi-tanigi",
+      "title": "Akran Zorbalığına Tanık Olan Öğrenci | PDR Kampüs",
+      "h1": [
+        "Akran Zorbalığına Tanık Olan Öğrenci"
+      ],
+      "description_length": 133,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "akran-zorbaliginda-guvenlik-plani",
+      "title": "Zorbalıkta Öğrenci Güvenlik Planı | PDR Kampüs",
+      "h1": [
+        "Zorbalıkta Öğrenci Güvenlik Planı"
+      ],
+      "description_length": 174,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "bep-ders-uyarlamasi",
+      "title": "BEP Kapsamında Ders Uyarlaması | PDR Kampüs",
+      "h1": [
+        "BEP Kapsamında Ders Uyarlaması"
+      ],
+      "description_length": 158,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "bep-guclu-yonler",
+      "title": "BEP'te Güçlü Yönleri Belirleme | PDR Kampüs",
+      "h1": [
+        "BEP'te Güçlü Yönleri Belirleme"
+      ],
+      "description_length": 127,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "bep-hazirlama-okul-ekibi",
+      "title": "BEP Hazırlama: Okul Ekibi İçin Uygulama Rehberi | PDR Kampüs",
+      "h1": [
+        "BEP Hazırlama: Okul Ekibi İçin Uygulama Rehberi"
+      ],
+      "description_length": 145,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "bep-hedef-izleme-toplantisi",
+      "title": "BEP Hedef İzleme Toplantısı | PDR Kampüs",
+      "h1": [
+        "BEP Hedef İzleme Toplantısı"
+      ],
+      "description_length": 119,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "bep-ogrenci-katilimi",
+      "title": "BEP Sürecinde Öğrenci Katılımı | PDR Kampüs",
+      "h1": [
+        "BEP Sürecinde Öğrenci Katılımı"
+      ],
+      "description_length": 119,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "bep-olculebilir-hedef",
+      "title": "BEP'te Ölçülebilir Hedef Nasıl Yazılır? | PDR Kampüs",
+      "h1": [
+        "BEP'te Ölçülebilir Hedef Nasıl Yazılır?"
+      ],
+      "description_length": 136,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "bep-toplantisi-gundemi",
+      "title": "BEP Toplantısı: Gündem ve Ekip Kararları | PDR Kampüs",
+      "h1": [
+        "BEP Toplantısı: Gündem ve Ekip Kararları"
+      ],
+      "description_length": 209,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "bireyi-tanima-gozlem-formu",
+      "title": "Bireyi Tanımada Gözlem Formu: Hazırlama ve Kullanma | PDR Kampüs",
+      "h1": [
+        "Bireyi Tanımada Gözlem Formu: Hazırlama ve Kullanma"
+      ],
+      "description_length": 175,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "cocuklarda-dijital-mahremiyet",
+      "title": "Çocuklarda Dijital Mahremiyet Etkinliği | PDR Kampüs",
+      "h1": [
+        "Çocuklarda Dijital Mahremiyet Etkinliği"
+      ],
+      "description_length": 212,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "cocuklarda-kisisel-sinirlar",
+      "title": "Çocuklarda Kişisel Sınırlar | PDR Kampüs",
+      "h1": [
+        "Çocuklarda Kişisel Sınırlar"
+      ],
+      "description_length": 113,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "cocukta-guvenli-yardim-isteme",
+      "title": "Çocuklara Güvenli Yardım İsteme Öğretimi | PDR Kampüs",
+      "h1": [
+        "Çocuklara Güvenli Yardım İsteme Öğretimi"
+      ],
+      "description_length": 137,
+      "source_cards": 7,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "devamsizlik-erken-mudahale",
+      "title": "Devamsızlık: Okulda Erken Müdahale ve Öğrenci Takibi | PDR Kampüs",
+      "h1": [
+        "Devamsızlık: Okulda Erken Müdahale ve Öğrenci Takibi"
+      ],
+      "description_length": 193,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "devamsizlik-erken-uyari-verileri",
+      "title": "Devamsızlık İçin Erken Uyarı Verileri | PDR Kampüs",
+      "h1": [
+        "Devamsızlık İçin Erken Uyarı Verileri"
+      ],
+      "description_length": 133,
+      "source_cards": 8,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "devamsizlik-ogrenci-ilk-gorusme",
+      "title": "Devamsızlık Yapan Öğrenciyle İlk Görüşme | PDR Kampüs",
+      "h1": [
+        "Devamsızlık Yapan Öğrenciyle İlk Görüşme"
+      ],
+      "description_length": 137,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "devamsizlik-veli-gorusmesi",
+      "title": "Devamsızlık İçin Veli Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Devamsızlık İçin Veli Görüşmesi"
+      ],
+      "description_length": 128,
+      "source_cards": 8,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "devamsizlikta-sinif-aidiyeti",
+      "title": "Devamsızlık ve Sınıf Aidiyeti | PDR Kampüs",
+      "h1": [
+        "Devamsızlık ve Sınıf Aidiyeti"
+      ],
+      "description_length": 168,
+      "source_cards": 8,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "dikkat-odaklanma-okulda-destek",
+      "title": "Dikkat ve Odaklanma: Okulda Destek Adımları | PDR Kampüs",
+      "h1": [
+        "Dikkat ve Odaklanma: Okulda Destek Adımları"
+      ],
+      "description_length": 123,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ekran-kullanimi-veli-destegi",
+      "title": "Ekran Kullanımında Veli Desteği | PDR Kampüs",
+      "h1": [
+        "Ekran Kullanımında Veli Desteği"
+      ],
+      "description_length": 128,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ergenlerle-mahremiyet-konusmak",
+      "title": "Ergenlerle Mahremiyet Konuşması | PDR Kampüs",
+      "h1": [
+        "Ergenlerle Mahremiyet Konuşması"
+      ],
+      "description_length": 120,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ergenlik-ogrenci-veli-rehberligi",
+      "title": "Ergenlik Döneminde Öğrenci ve Veli Rehberliği | PDR Kampüs",
+      "h1": [
+        "Ergenlik Döneminde Öğrenci ve Veli Rehberliği"
+      ],
+      "description_length": 197,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ergenlik-veli-rehberligi",
+      "title": "Ergenlikte Değişimler: Veli Rehberi | PDR Kampüs",
+      "h1": [
+        "Ergenlikte Değişimler: Veli Rehberi"
+      ],
+      "description_length": 132,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "etik-ikilem-okul-psikolojik-danisma",
+      "title": "Okul Psikolojik Danışmanlığında Etik İkilemler | PDR Kampüs",
+      "h1": [
+        "Okul Psikolojik Danışmanlığında Etik İkilemler"
+      ],
+      "description_length": 137,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "grup-rehberligi-oturum-planlama",
+      "title": "Grup Rehberliği Oturumu Planlama | PDR Kampüs",
+      "h1": [
+        "Grup Rehberliği Oturumu Planlama"
+      ],
+      "description_length": 190,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "guclu-yon-kesfi-sinifta",
+      "title": "Sınıfta Güçlü Yön Keşfi | PDR Kampüs",
+      "h1": [
+        "Sınıfta Güçlü Yön Keşfi"
+      ],
+      "description_length": 104,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "guvenli-internet-veli-semineri",
+      "title": "Güvenli İnternet Kullanımı: Veli Semineri Planı | PDR Kampüs",
+      "h1": [
+        "Güvenli İnternet Kullanımı: Veli Semineri Planı"
+      ],
+      "description_length": 185,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "guvenli-internet-veliler-icin",
+      "title": "Veliler İçin Güvenli İnternet Rehberi | PDR Kampüs",
+      "h1": [
+        "Veliler İçin Güvenli İnternet Rehberi"
+      ],
+      "description_length": 122,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ilkokul-akran-alayina-karsi-destek",
+      "title": "Akran alayına karşı destek | İlkokul | PDR Kampüs",
+      "h1": [
+        "Akran alayına karşı destek | İlkokul"
+      ],
+      "description_length": 125,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-arkadas-anlasmazligi",
+      "title": "İlkokulda Arkadaşlık Anlaşmazlığı | PDR Kampüs",
+      "h1": [
+        "İlkokulda Arkadaşlık Anlaşmazlığı"
+      ],
+      "description_length": 130,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-canta-hazirlama-rutini",
+      "title": "Çanta hazırlama rutini | İlkokul | PDR Kampüs",
+      "h1": [
+        "Çanta hazırlama rutini | İlkokul"
+      ],
+      "description_length": 121,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-ders-araclarini-koruma",
+      "title": "Ders araçlarını koruma | İlkokul | PDR Kampüs",
+      "h1": [
+        "Ders araçlarını koruma | İlkokul"
+      ],
+      "description_length": 121,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-donem-sonu-gelisim-degerlendirmesi",
+      "title": "Dönem sonu gelişim değerlendirmesi | İlkokul | PDR Kampüs",
+      "h1": [
+        "Dönem sonu gelişim değerlendirmesi | İlkokul"
+      ],
+      "description_length": 133,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-duygulari-adlandirma",
+      "title": "Duyguları adlandırma | İlkokul | PDR Kampüs",
+      "h1": [
+        "Duyguları adlandırma | İlkokul"
+      ],
+      "description_length": 119,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-grup-oyununa-katilma",
+      "title": "Grup oyununa katılma | İlkokul | PDR Kampüs",
+      "h1": [
+        "Grup oyununa katılma | İlkokul"
+      ],
+      "description_length": 119,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-guvenli-teneffus-davranisi",
+      "title": "Güvenli teneffüs davranışı | İlkokul | PDR Kampüs",
+      "h1": [
+        "Güvenli teneffüs davranışı | İlkokul"
+      ],
+      "description_length": 125,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-guvenli-yardim-isteme",
+      "title": "Güvenli yardım isteme | İlkokul | PDR Kampüs",
+      "h1": [
+        "Güvenli yardım isteme | İlkokul"
+      ],
+      "description_length": 120,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-hata-yapma-kaygisi",
+      "title": "Hata yapma kaygısı | İlkokul | PDR Kampüs",
+      "h1": [
+        "Hata yapma kaygısı | İlkokul"
+      ],
+      "description_length": 117,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-isbirlikci-oyun",
+      "title": "İlkokulda İş Birlikçi Oyun | PDR Kampüs",
+      "h1": [
+        "İlkokulda İş Birlikçi Oyun"
+      ],
+      "description_length": 123,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-istenmeyen-temasa-hayir-deme",
+      "title": "İstenmeyen temasa hayır deme | İlkokul | PDR Kampüs",
+      "h1": [
+        "İstenmeyen temasa hayır deme | İlkokul"
+      ],
+      "description_length": 127,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-kisisel-alani-koruma",
+      "title": "Kişisel alanı koruma | İlkokul | PDR Kampüs",
+      "h1": [
+        "Kişisel alanı koruma | İlkokul"
+      ],
+      "description_length": 119,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-kucuk-catismalari-konusma",
+      "title": "Küçük çatışmaları konuşma | İlkokul | PDR Kampüs",
+      "h1": [
+        "Küçük çatışmaları konuşma | İlkokul"
+      ],
+      "description_length": 124,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-ogrenmede-caba-farkindaligi",
+      "title": "Öğrenmede çaba farkındalığı | İlkokul | PDR Kampüs",
+      "h1": [
+        "Öğrenmede çaba farkındalığı | İlkokul"
+      ],
+      "description_length": 126,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-okul-ici-guvenilir-yetiskin",
+      "title": "Okul içi güvenilir yetişkin | İlkokul | PDR Kampüs",
+      "h1": [
+        "Okul içi güvenilir yetişkin | İlkokul"
+      ],
+      "description_length": 126,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-okula-yeni-baslama-kaygisi",
+      "title": "Okula yeni başlama kaygısı | İlkokul | PDR Kampüs",
+      "h1": [
+        "Okula yeni başlama kaygısı | İlkokul"
+      ],
+      "description_length": 125,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-oz-bakim-sorumlulugu",
+      "title": "Öz bakım sorumluluğu | İlkokul | PDR Kampüs",
+      "h1": [
+        "Öz bakım sorumluluğu | İlkokul"
+      ],
+      "description_length": 119,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-paylasmayi-ogrenme",
+      "title": "Paylaşmayı öğrenme | İlkokul | PDR Kampüs",
+      "h1": [
+        "Paylaşmayı öğrenme | İlkokul"
+      ],
+      "description_length": 117,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-sabah-vedalasma-rutini",
+      "title": "Sabah vedalaşma rutini | İlkokul | PDR Kampüs",
+      "h1": [
+        "Sabah vedalaşma rutini | İlkokul"
+      ],
+      "description_length": 121,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-sinif-arkadasini-tanima",
+      "title": "Sınıf arkadaşını tanıma | İlkokul | PDR Kampüs",
+      "h1": [
+        "Sınıf arkadaşını tanıma | İlkokul"
+      ],
+      "description_length": 122,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-sinif-degisikligine-uyum",
+      "title": "Sınıf değişikliğine uyum | İlkokul | PDR Kampüs",
+      "h1": [
+        "Sınıf değişikliğine uyum | İlkokul"
+      ],
+      "description_length": 123,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-sira-bekleme-aliskanligi",
+      "title": "Sıra bekleme alışkanlığı | İlkokul | PDR Kampüs",
+      "h1": [
+        "Sıra bekleme alışkanlığı | İlkokul"
+      ],
+      "description_length": 123,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-soz-kesmeden-dinleme",
+      "title": "Söz kesmeden dinleme | İlkokul | PDR Kampüs",
+      "h1": [
+        "Söz kesmeden dinleme | İlkokul"
+      ],
+      "description_length": 119,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-teneffuste-yalniz-kalma",
+      "title": "Teneffüste yalnız kalma | İlkokul | PDR Kampüs",
+      "h1": [
+        "Teneffüste yalnız kalma | İlkokul"
+      ],
+      "description_length": 122,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-uyum-veli-oturumu",
+      "title": "İlkokulda Okula Uyum İçin Veli Oturumu | PDR Kampüs",
+      "h1": [
+        "İlkokulda Okula Uyum İçin Veli Oturumu"
+      ],
+      "description_length": 135,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-yardimlasma-ve-is-birligi",
+      "title": "Yardımlaşma ve iş birliği | İlkokul | PDR Kampüs",
+      "h1": [
+        "Yardımlaşma ve iş birliği | İlkokul"
+      ],
+      "description_length": 124,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokul-yeni-ogretmene-uyum",
+      "title": "Yeni öğretmene uyum | İlkokul | PDR Kampüs",
+      "h1": [
+        "Yeni öğretmene uyum | İlkokul"
+      ],
+      "description_length": 118,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokulda-hata-yapma-korkusu",
+      "title": "İlkokulda Hata Yapma Korkusunu Azaltma | PDR Kampüs",
+      "h1": [
+        "İlkokulda Hata Yapma Korkusunu Azaltma"
+      ],
+      "description_length": 119,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ilkokulda-okula-ayrilma-kaygisi",
+      "title": "İlkokulda Okuldan Ayrılma Kaygısı | PDR Kampüs",
+      "h1": [
+        "İlkokulda Okuldan Ayrılma Kaygısı"
+      ],
+      "description_length": 122,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-aile-meslek-beklentisi",
+      "title": "Aile meslek beklentisi | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Aile meslek beklentisi | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 165,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-bolum-ders-planini-okuma",
+      "title": "Bölüm ders planını okuma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Bölüm ders planını okuma | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 167,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-bolum-tanitiminda-bilgi-dogrulama",
+      "title": "Bölüm tanıtımında bilgi doğrulama | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Bölüm tanıtımında bilgi doğrulama | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 176,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-coklu-ilgi-alani-olan-ogrenci",
+      "title": "Çoklu ilgi alanı olan öğrenci | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Çoklu ilgi alanı olan öğrenci | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 172,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-egitim-yolu-arastirma",
+      "title": "Eğitim yolu araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Eğitim yolu araştırma | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 164,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-gelecek-mesleklerini-arastirma",
+      "title": "Gelecek mesleklerini araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Gelecek mesleklerini araştırma | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 173,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-guclu-yon-ve-beceri-eslestirme",
+      "title": "Güçlü yön ve beceri eşleştirme | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Güçlü yön ve beceri eşleştirme | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 173,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-ilgi-envanteri-sonuclarini-konusma",
+      "title": "İlgi envanteri sonuçlarını konuşma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "İlgi envanteri sonuçlarını konuşma | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 177,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-ilgi-yetenek-kesfi",
+      "title": "Mesleki Rehberlikte İlgi ve Yetenekleri Keşfetme | PDR Kampüs",
+      "h1": [
+        "Mesleki Rehberlikte İlgi ve Yetenekleri Keşfetme"
+      ],
+      "description_length": 196,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-is-ortami-tercihleri",
+      "title": "İş ortamı tercihleri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "İş ortamı tercihleri | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 163,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-kariyer-kararinda-belirsizlik",
+      "title": "Kariyer kararında belirsizlik | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Kariyer kararında belirsizlik | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 172,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-kariyer-plani-donemlik-izleme",
+      "title": "Kariyer planı dönemlik izleme | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Kariyer planı dönemlik izleme | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 172,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-meslek-seciminde-akran-etkisi",
+      "title": "Meslek seçiminde akran etkisi | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Meslek seçiminde akran etkisi | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 172,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-meslek-seciminde-tek-dogru-yanilgisi",
+      "title": "Meslek seçiminde tek doğru yanılgısı | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Meslek seçiminde tek doğru yanılgısı | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 179,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-meslek-tanitim-semineri",
+      "title": "Meslek tanıtım semineri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Meslek tanıtım semineri | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 166,
+      "source_cards": 3,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-meslek-uzmanina-soru-hazirlama",
+      "title": "Meslek uzmanına soru hazırlama | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Meslek uzmanına soru hazırlama | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 173,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-mesleki-degerleri-karsilastirma",
+      "title": "Mesleki değerleri karşılaştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Mesleki değerleri karşılaştırma | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 174,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-mesleki-karar-secenek-tablosu",
+      "title": "Mesleki karar seçenek tablosu | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Mesleki karar seçenek tablosu | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 172,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-mesleklere-iliskin-onyargi",
+      "title": "Mesleklere ilişkin önyargı | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Mesleklere ilişkin önyargı | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 169,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-mesleklerin-gunluk-gorevleri",
+      "title": "Mesleklerin günlük görevleri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Mesleklerin günlük görevleri | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 171,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-mezuniyet-sonrasi-alternatifler",
+      "title": "Mezuniyet sonrası alternatifler | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Mezuniyet sonrası alternatifler | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 174,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-ogrenim-maliyetini-arastirma",
+      "title": "Öğrenim maliyetini araştırma | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Öğrenim maliyetini araştırma | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 171,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-resm-program-kosullari",
+      "title": "Resmî program koşulları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Resmî program koşulları | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 166,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-sehir-ve-ulasim-kosullari",
+      "title": "Şehir ve ulaşım koşulları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Şehir ve ulaşım koşulları | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 168,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-staj-ve-gonulluluk-firsatlari",
+      "title": "Staj ve gönüllülük fırsatları | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Staj ve gönüllülük fırsatları | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 172,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kariyer-universite-yasami-beklentileri",
+      "title": "Üniversite yaşamı beklentileri | Kariyer ve Mesleki Rehberlik | PDR Kampüs",
+      "h1": [
+        "Üniversite yaşamı beklentileri | Kariyer ve Mesleki Rehberlik"
+      ],
+      "description_length": 173,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-acil-guvenlik-degerlendirmesi",
+      "title": "Acil güvenlik değerlendirmesi | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Acil güvenlik değerlendirmesi | Kriz ve Güvenlik"
+      ],
+      "description_length": 151,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-afet-sonrasi-okula-donus",
+      "title": "Afet sonrası okula dönüş | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Afet sonrası okula dönüş | Kriz ve Güvenlik"
+      ],
+      "description_length": 146,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-aile-ici-siddet-anlatimi",
+      "title": "Aile içi şiddet anlatımı | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Aile içi şiddet anlatımı | Kriz ve Güvenlik"
+      ],
+      "description_length": 146,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-gorusmede-ayrinti-zorlamama",
+      "title": "Görüşmede ayrıntı zorlamama | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Görüşmede ayrıntı zorlamama | Kriz ve Güvenlik"
+      ],
+      "description_length": 149,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-guvenilir-yetiskin-destegi",
+      "title": "Güvenilir yetişkin desteği | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Güvenilir yetişkin desteği | Kriz ve Güvenlik"
+      ],
+      "description_length": 148,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-guvenli-uzman-yonlendirme",
+      "title": "Güvenli uzman yönlendirme | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Güvenli uzman yönlendirme | Kriz ve Güvenlik"
+      ],
+      "description_length": 147,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-guvenlik-planini-guncelleme",
+      "title": "Güvenlik planını güncelleme | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Güvenlik planını güncelleme | Kriz ve Güvenlik"
+      ],
+      "description_length": 149,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-ihmal-suphesini-bildirme",
+      "title": "İhmal şüphesini bildirme | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "İhmal şüphesini bildirme | Kriz ve Güvenlik"
+      ],
+      "description_length": 146,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-istismar-suphesinde-yaklasim",
+      "title": "İstismar şüphesinde yaklaşım | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "İstismar şüphesinde yaklaşım | Kriz ve Güvenlik"
+      ],
+      "description_length": 150,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-izlem-ve-destek-devri",
+      "title": "İzlem ve destek devri | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "İzlem ve destek devri | Kriz ve Güvenlik"
+      ],
+      "description_length": 143,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-kaybedilen-yakin-sonrasi-okul",
+      "title": "Kaybedilen yakın sonrası okul | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Kaybedilen yakın sonrası okul | Kriz ve Güvenlik"
+      ],
+      "description_length": 151,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-kendine-zarar-ifadesi",
+      "title": "Kendine zarar ifadesi | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Kendine zarar ifadesi | Kriz ve Güvenlik"
+      ],
+      "description_length": 143,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-kriz-sonrasi-devamsizlik",
+      "title": "Kriz sonrası devamsızlık | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Kriz sonrası devamsızlık | Kriz ve Güvenlik"
+      ],
+      "description_length": 146,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-kriz-sonrasi-sinif-rutini",
+      "title": "Kriz sonrası sınıf rutini | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Kriz sonrası sınıf rutini | Kriz ve Güvenlik"
+      ],
+      "description_length": 147,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-krizde-ogrenci-mahremiyeti",
+      "title": "Krizde öğrenci mahremiyeti | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Krizde öğrenci mahremiyeti | Kriz ve Güvenlik"
+      ],
+      "description_length": 148,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-krizde-ogretmen-koordinasyonu",
+      "title": "Krizde öğretmen koordinasyonu | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Krizde öğretmen koordinasyonu | Kriz ve Güvenlik"
+      ],
+      "description_length": 151,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-krizde-veli-bilgilendirme",
+      "title": "Krizde veli bilgilendirme | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Krizde veli bilgilendirme | Kriz ve Güvenlik"
+      ],
+      "description_length": 147,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-kurum-ici-acil-gorevler",
+      "title": "Kurum içi acil görevler | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Kurum içi acil görevler | Kriz ve Güvenlik"
+      ],
+      "description_length": 145,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-ogrenciye-acil-yardim-yolu",
+      "title": "Öğrenciye acil yardım yolu | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Öğrenciye acil yardım yolu | Kriz ve Güvenlik"
+      ],
+      "description_length": 148,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-okulda-zarar-verme-riski",
+      "title": "Okulda zarar verme riski | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Okulda zarar verme riski | Kriz ve Güvenlik"
+      ],
+      "description_length": 146,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-risk-bildirimini-kaydetme",
+      "title": "Risk bildirimini kaydetme | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Risk bildirimini kaydetme | Kriz ve Güvenlik"
+      ],
+      "description_length": 147,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-supheli-olayda-bilgi-guvenligi",
+      "title": "Şüpheli olayda bilgi güvenliği | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Şüpheli olayda bilgi güvenliği | Kriz ve Güvenlik"
+      ],
+      "description_length": 152,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-tehdit-iceren-akran-davranisi",
+      "title": "Tehdit içeren akran davranışı | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Tehdit içeren akran davranışı | Kriz ve Güvenlik"
+      ],
+      "description_length": 151,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-zorlayici-olay-sonrasi-sinif",
+      "title": "Zorlayıcı olay sonrası sınıf | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Zorlayıcı olay sonrası sınıf | Kriz ve Güvenlik"
+      ],
+      "description_length": 150,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "kriz-zorlayici-olayda-soylenti",
+      "title": "Zorlayıcı olayda söylenti | Kriz ve Güvenlik | PDR Kampüs",
+      "h1": [
+        "Zorlayıcı olayda söylenti | Kriz ve Güvenlik"
+      ],
+      "description_length": 147,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "lgs-kaygi-grup-calismasi",
+      "title": "LGS Kaygısı İçin Grup Çalışması | PDR Kampüs",
+      "h1": [
+        "LGS Kaygısı İçin Grup Çalışması"
+      ],
+      "description_length": 128,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "lgs-sinav-sonrasi-tercih-destegi",
+      "title": "LGS Sonrası Tercih Sürecinde Rehberlik | PDR Kampüs",
+      "h1": [
+        "LGS Sonrası Tercih Sürecinde Rehberlik"
+      ],
+      "description_length": 198,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "lgs-son-hafta-ogrenci-destegi",
+      "title": "LGS Öncesi Son Hafta Öğrenci Desteği | PDR Kampüs",
+      "h1": [
+        "LGS Öncesi Son Hafta Öğrenci Desteği"
+      ],
+      "description_length": 159,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lgs-sonrasi-okula-uyum",
+      "title": "LGS Sonrası Liseye Uyum Hazırlığı | PDR Kampüs",
+      "h1": [
+        "LGS Sonrası Liseye Uyum Hazırlığı"
+      ],
+      "description_length": 122,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lgs-tercih-veli-gorusmesi",
+      "title": "LGS Tercih Döneminde Veli Görüşmesi | PDR Kampüs",
+      "h1": [
+        "LGS Tercih Döneminde Veli Görüşmesi"
+      ],
+      "description_length": 124,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "lgs-veli-tercih-bilgilendirme",
+      "title": "LGS Tercih Döneminde Veli Bilgilendirmesi | PDR Kampüs",
+      "h1": [
+        "LGS Tercih Döneminde Veli Bilgilendirmesi"
+      ],
+      "description_length": 138,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-aile-kariyer-beklentisi",
+      "title": "Aile kariyer beklentisi | Lise | PDR Kampüs",
+      "h1": [
+        "Aile kariyer beklentisi | Lise"
+      ],
+      "description_length": 125,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-akademik-ilgi-haritasi",
+      "title": "Akademik ilgi haritası | Lise | PDR Kampüs",
+      "h1": [
+        "Akademik ilgi haritası | Lise"
+      ],
+      "description_length": 124,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-akranla-akademik-kiyaslama",
+      "title": "Akranla akademik kıyaslama | Lise | PDR Kampüs",
+      "h1": [
+        "Akranla akademik kıyaslama | Lise"
+      ],
+      "description_length": 128,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-alan-secimini-degerlendirme",
+      "title": "Alan seçimini değerlendirme | Lise | PDR Kampüs",
+      "h1": [
+        "Alan seçimini değerlendirme | Lise"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-bolum-arastirma-atolyesi",
+      "title": "Üniversite Bölümü Araştırma Atölyesi | PDR Kampüs",
+      "h1": [
+        "Üniversite Bölümü Araştırma Atölyesi"
+      ],
+      "description_length": 163,
+      "source_cards": 3,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "lise-bolum-karsilastirma-cizelgesi",
+      "title": "Bölüm karşılaştırma çizelgesi | Lise | PDR Kampüs",
+      "h1": [
+        "Bölüm karşılaştırma çizelgesi | Lise"
+      ],
+      "description_length": 131,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-ders-programi-esnekligi",
+      "title": "Ders programı esnekliği | Lise | PDR Kampüs",
+      "h1": [
+        "Ders programı esnekliği | Lise"
+      ],
+      "description_length": 125,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-dijital-guvenlik-ve-mahremiyet",
+      "title": "Dijital güvenlik ve mahremiyet | Lise | PDR Kampüs",
+      "h1": [
+        "Dijital güvenlik ve mahremiyet | Lise"
+      ],
+      "description_length": 132,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-etkili-deneme-geri-bildirimi",
+      "title": "Etkili deneme geri bildirimi | Lise | PDR Kampüs",
+      "h1": [
+        "Etkili deneme geri bildirimi | Lise"
+      ],
+      "description_length": 130,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-farkli-goruslere-saygi",
+      "title": "Farklı görüşlere saygı | Lise | PDR Kampüs",
+      "h1": [
+        "Farklı görüşlere saygı | Lise"
+      ],
+      "description_length": 124,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-gelecek-belirsizligiyle-bas-etme",
+      "title": "Gelecek belirsizliğiyle baş etme | Lise | PDR Kampüs",
+      "h1": [
+        "Gelecek belirsizliğiyle baş etme | Lise"
+      ],
+      "description_length": 134,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-gonullu-toplumsal-katki",
+      "title": "Gönüllü toplumsal katkı | Lise | PDR Kampüs",
+      "h1": [
+        "Gönüllü toplumsal katkı | Lise"
+      ],
+      "description_length": 125,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-gunluk-yasam-ve-uyku-dengesi",
+      "title": "Günlük yaşam ve uyku dengesi | Lise | PDR Kampüs",
+      "h1": [
+        "Günlük yaşam ve uyku dengesi | Lise"
+      ],
+      "description_length": 130,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-guvenilir-yetiskine-basvuru",
+      "title": "Güvenilir yetişkine başvuru | Lise | PDR Kampüs",
+      "h1": [
+        "Güvenilir yetişkine başvuru | Lise"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-kendini-ifade-etme-becerisi",
+      "title": "Kendini ifade etme becerisi | Lise | PDR Kampüs",
+      "h1": [
+        "Kendini ifade etme becerisi | Lise"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-meslek-golgeleme-etkinligi",
+      "title": "Meslek gölgeleme etkinliği | Lise | PDR Kampüs",
+      "h1": [
+        "Meslek gölgeleme etkinliği | Lise"
+      ],
+      "description_length": 128,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-mesleki-deger-kesfi",
+      "title": "Mesleki değer keşfi | Lise | PDR Kampüs",
+      "h1": [
+        "Mesleki değer keşfi | Lise"
+      ],
+      "description_length": 121,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-mezuniyet-sonrasi-secenekler",
+      "title": "Mezuniyet sonrası seçenekler | Lise | PDR Kampüs",
+      "h1": [
+        "Mezuniyet sonrası seçenekler | Lise"
+      ],
+      "description_length": 130,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-ogrencisinde-kimlik-kesfi",
+      "title": "Lisede Kimlik ve İlgi Keşfi | PDR Kampüs",
+      "h1": [
+        "Lisede Kimlik ve İlgi Keşfi"
+      ],
+      "description_length": 114,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "lise-okul-kulubunde-sorumluluk",
+      "title": "Okul kulübünde sorumluluk | Lise | PDR Kampüs",
+      "h1": [
+        "Okul kulübünde sorumluluk | Lise"
+      ],
+      "description_length": 127,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-sinav-donemi-aile-iletisimi",
+      "title": "Sınav dönemi aile iletişimi | Lise | PDR Kampüs",
+      "h1": [
+        "Sınav dönemi aile iletişimi | Lise"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-sinav-sonuclarini-yorumlama",
+      "title": "Sınav sonuçlarını yorumlama | Lise | PDR Kampüs",
+      "h1": [
+        "Sınav sonuçlarını yorumlama | Lise"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-sosyal-iliskilerde-riza",
+      "title": "Sosyal ilişkilerde rıza | Lise | PDR Kampüs",
+      "h1": [
+        "Sosyal ilişkilerde rıza | Lise"
+      ],
+      "description_length": 125,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-staj-ve-gozlem-deneyimi",
+      "title": "Staj ve gözlem deneyimi | Lise | PDR Kampüs",
+      "h1": [
+        "Staj ve gözlem deneyimi | Lise"
+      ],
+      "description_length": 125,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-universite-arastirma-plani",
+      "title": "Üniversite araştırma planı | Lise | PDR Kampüs",
+      "h1": [
+        "Üniversite araştırma planı | Lise"
+      ],
+      "description_length": 128,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-uzun-vadeli-hedef-bolme",
+      "title": "Uzun vadeli hedef bölme | Lise | PDR Kampüs",
+      "h1": [
+        "Uzun vadeli hedef bölme | Lise"
+      ],
+      "description_length": 125,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lise-yeni-ortama-gecis-hazirligi",
+      "title": "Yeni ortama geçiş hazırlığı | Lise | PDR Kampüs",
+      "h1": [
+        "Yeni ortama geçiş hazırlığı | Lise"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "lisede-alan-secimi-gorusmesi",
+      "title": "Lisede Alan Seçimi Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Lisede Alan Seçimi Görüşmesi"
+      ],
+      "description_length": 117,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "meslek-degerleri-etkinligi",
+      "title": "Mesleki Değerleri Keşfetme Etkinliği | PDR Kampüs",
+      "h1": [
+        "Mesleki Değerleri Keşfetme Etkinliği"
+      ],
+      "description_length": 127,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "meslek-tanitim-etkinligi",
+      "title": "Meslek Tanıtımı Etkinliği Hazırlama | PDR Kampüs",
+      "h1": [
+        "Meslek Tanıtımı Etkinliği Hazırlama"
+      ],
+      "description_length": 208,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "mesleki-karar-yanilgilari",
+      "title": "Meslek Seçiminde Yaygın Karar Yanılgıları | PDR Kampüs",
+      "h1": [
+        "Meslek Seçiminde Yaygın Karar Yanılgıları"
+      ],
+      "description_length": 138,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "nakille-gelen-ogrenci-uyumu",
+      "title": "Nakille Gelen Öğrencinin Okula Uyumu | PDR Kampüs",
+      "h1": [
+        "Nakille Gelen Öğrencinin Okula Uyumu"
+      ],
+      "description_length": 122,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrenci-gorusmesi-ilk-oturum",
+      "title": "Öğrenciyle İlk Görüşme: Güven, Amaç ve Sınırlar | PDR Kampüs",
+      "h1": [
+        "Öğrenciyle İlk Görüşme: Güven, Amaç ve Sınırlar"
+      ],
+      "description_length": 171,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrenci-gorusmesinde-acik-uclu-sorular",
+      "title": "Öğrenci Görüşmesinde Açık Uçlu Soru Örnekleri | PDR Kampüs",
+      "h1": [
+        "Öğrenci Görüşmesinde Açık Uçlu Soru Örnekleri"
+      ],
+      "description_length": 134,
+      "source_cards": 7,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrenci-gorusmesinde-gizlilik",
+      "title": "Öğrenci Görüşmesinde Gizlilik ve Kayıt | PDR Kampüs",
+      "h1": [
+        "Öğrenci Görüşmesinde Gizlilik ve Kayıt"
+      ],
+      "description_length": 135,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ogrenci-gorusmesinde-sessizlik",
+      "title": "Öğrenci Görüşmesinde Sessizlikle Çalışma | PDR Kampüs",
+      "h1": [
+        "Öğrenci Görüşmesinde Sessizlikle Çalışma"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ogrenci-hedef-belirleme-gorusmesi",
+      "title": "Öğrenciyle Gerçekçi Hedef Belirleme | PDR Kampüs",
+      "h1": [
+        "Öğrenciyle Gerçekçi Hedef Belirleme"
+      ],
+      "description_length": 132,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrenci-ile-gizlilik-siniri-anlatma",
+      "title": "Öğrenciye Gizliliğin Sınırlarını Anlatma | PDR Kampüs",
+      "h1": [
+        "Öğrenciye Gizliliğin Sınırlarını Anlatma"
+      ],
+      "description_length": 137,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ogrenci-intihar-ifadesinde-acil-destek",
+      "title": "Öğrenci İntihar İfadesinde Acil Destek | PDR Kampüs",
+      "h1": [
+        "Öğrenci İntihar İfadesinde Acil Destek"
+      ],
+      "description_length": 127,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrenci-izleme-formu-hazirlama",
+      "title": "Öğrenci İzleme Formu Hazırlama | PDR Kampüs",
+      "h1": [
+        "Öğrenci İzleme Formu Hazırlama"
+      ],
+      "description_length": 217,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrenci-risk-bildirimi-ilk-adim",
+      "title": "Öğrenci Risk Bildiriminde İlk Adımlar | PDR Kampüs",
+      "h1": [
+        "Öğrenci Risk Bildiriminde İlk Adımlar"
+      ],
+      "description_length": 134,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrencide-erteleme-dongusu",
+      "title": "Öğrencide Erteleme Döngüsünü Anlama | PDR Kampüs",
+      "h1": [
+        "Öğrencide Erteleme Döngüsünü Anlama"
+      ],
+      "description_length": 154,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrencide-karar-verme-etkinligi",
+      "title": "Öğrencilerde Karar Verme Etkinliği | PDR Kampüs",
+      "h1": [
+        "Öğrencilerde Karar Verme Etkinliği"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ogrencide-oz-duzenleme",
+      "title": "Öğrencide Öz Düzenleme Becerileri | PDR Kampüs",
+      "h1": [
+        "Öğrencide Öz Düzenleme Becerileri"
+      ],
+      "description_length": 130,
+      "source_cards": 7,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrencide-oz-sefkat-etkinligi",
+      "title": "Öz Şefkat Etkinliği | PDR Kampüs",
+      "h1": [
+        "Öz Şefkat Etkinliği"
+      ],
+      "description_length": 143,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrencide-sorumluluk-becerisi",
+      "title": "Öğrencide Sorumluluk Becerisi | PDR Kampüs",
+      "h1": [
+        "Öğrencide Sorumluluk Becerisi"
+      ],
+      "description_length": 126,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrencide-sorumluluk-geri-kazandirma",
+      "title": "Öğrencide Sorumluluğu Yeniden Kurma | PDR Kampüs",
+      "h1": [
+        "Öğrencide Sorumluluğu Yeniden Kurma"
+      ],
+      "description_length": 124,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrencide-sosyal-problem-cozme",
+      "title": "Öğrencide Sosyal Problem Çözme | PDR Kampüs",
+      "h1": [
+        "Öğrencide Sosyal Problem Çözme"
+      ],
+      "description_length": 119,
+      "source_cards": 6,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrencide-sosyal-sorumluluk",
+      "title": "Öğrencide Sosyal Sorumluluk | PDR Kampüs",
+      "h1": [
+        "Öğrencide Sosyal Sorumluluk"
+      ],
+      "description_length": 113,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ogrencilerde-dijital-iz-farkindaligi",
+      "title": "Dijital İz Farkındalığı Etkinliği | PDR Kampüs",
+      "h1": [
+        "Dijital İz Farkındalığı Etkinliği"
+      ],
+      "description_length": 126,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ogrencilerde-gelecek-kaygisi",
+      "title": "Öğrencilerde Gelecek Kaygısını Konuşma | PDR Kampüs",
+      "h1": [
+        "Öğrencilerde Gelecek Kaygısını Konuşma"
+      ],
+      "description_length": 127,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ogrencilerde-zaman-yonetimi",
+      "title": "Öğrenciler İçin Zaman Yönetimi | PDR Kampüs",
+      "h1": [
+        "Öğrenciler İçin Zaman Yönetimi"
+      ],
+      "description_length": 119,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ogrenciye-yapici-geri-bildirim",
+      "title": "Öğrenciye Yapıcı Geri Bildirim Verme | PDR Kampüs",
+      "h1": [
+        "Öğrenciye Yapıcı Geri Bildirim Verme"
+      ],
+      "description_length": 136,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ogrenciyle-ders-calisma-engelleri",
+      "title": "Ders Çalışma Engellerini Öğrenciyle Belirleme | PDR Kampüs",
+      "h1": [
+        "Ders Çalışma Engellerini Öğrenciyle Belirleme"
+      ],
+      "description_length": 135,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogrenme-motivasyonu-okul-rehberligi",
+      "title": "Öğrenme Motivasyonu: Okulda Rehberlik Uygulamaları | PDR Kampüs",
+      "h1": [
+        "Öğrenme Motivasyonu: Okulda Rehberlik Uygulamaları"
+      ],
+      "description_length": 149,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogretmen-zorbalik-gozlem-formu",
+      "title": "Öğretmen İçin Zorbalık Gözlem Rehberi | PDR Kampüs",
+      "h1": [
+        "Öğretmen İçin Zorbalık Gözlem Rehberi"
+      ],
+      "description_length": 134,
+      "source_cards": 11,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogretmene-sinav-kaygisi-onerileri",
+      "title": "Öğretmenler İçin Sınav Kaygısı Desteği | PDR Kampüs",
+      "h1": [
+        "Öğretmenler İçin Sınav Kaygısı Desteği"
+      ],
+      "description_length": 127,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ogretmenle-ogrenci-vaka-gorusmesi",
+      "title": "Öğretmenle Öğrenci Destek Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Öğretmenle Öğrenci Destek Görüşmesi"
+      ],
+      "description_length": 132,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okul-aidiyetini-gelistirme",
+      "title": "Okul Aidiyetini Geliştirme | PDR Kampüs",
+      "h1": [
+        "Okul Aidiyetini Geliştirme"
+      ],
+      "description_length": 123,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okul-psikolojik-danisma-ilk-randevu",
+      "title": "Okul Psikolojik Danışmasında İlk Randevu | PDR Kampüs",
+      "h1": [
+        "Okul Psikolojik Danışmasında İlk Randevu"
+      ],
+      "description_length": 129,
+      "source_cards": 7,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okul-rehberlik-ihtiyac-analizi",
+      "title": "Okul Rehberlik İhtiyaç Analizi | PDR Kampüs",
+      "h1": [
+        "Okul Rehberlik İhtiyaç Analizi"
+      ],
+      "description_length": 127,
+      "source_cards": 3,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okul-terki-risk-isaretleri",
+      "title": "Okul Terki Riski ve Erken Destek | PDR Kampüs",
+      "h1": [
+        "Okul Terki Riski ve Erken Destek"
+      ],
+      "description_length": 222,
+      "source_cards": 8,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okula-uyum-ilk-haftalar",
+      "title": "Okula Uyum: İlk Haftalar İçin Rehberlik Planı | PDR Kampüs",
+      "h1": [
+        "Okula Uyum: İlk Haftalar İçin Rehberlik Planı"
+      ],
+      "description_length": 133,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-aile-ici-catismayi-bildiren-ogrenci",
+      "title": "Aile İçi Çatışma Bildiren Öğrenciye Yaklaşım | PDR Kampüs",
+      "h1": [
+        "Aile İçi Çatışma Bildiren Öğrenciye Yaklaşım"
+      ],
+      "description_length": 133,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-akran-baskisina-hayir-deme",
+      "title": "Akran Baskısına Hayır Deme Etkinliği | PDR Kampüs",
+      "h1": [
+        "Akran Baskısına Hayır Deme Etkinliği"
+      ],
+      "description_length": 125,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-akran-catismasi-sonrasi",
+      "title": "Akran Çatışması Sonrası Takip | PDR Kampüs",
+      "h1": [
+        "Akran Çatışması Sonrası Takip"
+      ],
+      "description_length": 126,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-akran-dahil-etme-etkinligi",
+      "title": "Sınıfta Akran Dahil Etme Etkinliği | PDR Kampüs",
+      "h1": [
+        "Sınıfta Akran Dahil Etme Etkinliği"
+      ],
+      "description_length": 123,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-akran-dislanmasi",
+      "title": "Akran Dışlanmasında Okul Müdahalesi | PDR Kampüs",
+      "h1": [
+        "Akran Dışlanmasında Okul Müdahalesi"
+      ],
+      "description_length": 219,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-bep-aile-katilimi",
+      "title": "BEP Sürecine Aile Katılımı | PDR Kampüs",
+      "h1": [
+        "BEP Sürecine Aile Katılımı"
+      ],
+      "description_length": 115,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-beslenme-uyku-ogrenme",
+      "title": "Uyku ve Beslenmenin Öğrenmeyle İlişkisi | PDR Kampüs",
+      "h1": [
+        "Uyku ve Beslenmenin Öğrenmeyle İlişkisi"
+      ],
+      "description_length": 128,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-catisma-cozme-kartlari",
+      "title": "Çatışma Çözme Durum Kartları | PDR Kampüs",
+      "h1": [
+        "Çatışma Çözme Durum Kartları"
+      ],
+      "description_length": 145,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-devamsizlik-veli-arama",
+      "title": "Devamsızlık İçin Veli Telefon Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Devamsızlık İçin Veli Telefon Görüşmesi"
+      ],
+      "description_length": 128,
+      "source_cards": 8,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-dijital-denge",
+      "title": "Okulda Dijital Denge Çalışması | PDR Kampüs",
+      "h1": [
+        "Okulda Dijital Denge Çalışması"
+      ],
+      "description_length": 127,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-donem-sonu-rehberlik-degerlendirme",
+      "title": "Dönem Sonu Rehberlik Değerlendirmesi | PDR Kampüs",
+      "h1": [
+        "Dönem Sonu Rehberlik Değerlendirmesi"
+      ],
+      "description_length": 125,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-duygu-tanima",
+      "title": "Sınıf İçinde Duyguları Tanıma Etkinliği | PDR Kampüs",
+      "h1": [
+        "Sınıf İçinde Duyguları Tanıma Etkinliği"
+      ],
+      "description_length": 136,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-duygu-termometresi",
+      "title": "Duygu Termometresi Etkinliği | PDR Kampüs",
+      "h1": [
+        "Duygu Termometresi Etkinliği"
+      ],
+      "description_length": 163,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-duygusal-guvenlik",
+      "title": "Sınıfta Duygusal Güvenlik Oluşturma | PDR Kampüs",
+      "h1": [
+        "Sınıfta Duygusal Güvenlik Oluşturma"
+      ],
+      "description_length": 132,
+      "source_cards": 3,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-empati-gelistirme",
+      "title": "Empati Geliştirme: İlkokul ve Ortaokul Etkinlikleri | PDR Kampüs",
+      "h1": [
+        "Empati Geliştirme: İlkokul ve Ortaokul Etkinlikleri"
+      ],
+      "description_length": 181,
+      "source_cards": 8,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-gizli-bilgi-paylasimi",
+      "title": "Okulda Öğrenci Bilgisi Paylaşımının Sınırları | PDR Kampüs",
+      "h1": [
+        "Okulda Öğrenci Bilgisi Paylaşımının Sınırları"
+      ],
+      "description_length": 134,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-guvenilir-yetiskin-haritasi",
+      "title": "Güvenilir Yetişkin Haritası Etkinliği | PDR Kampüs",
+      "h1": [
+        "Güvenilir Yetişkin Haritası Etkinliği"
+      ],
+      "description_length": 142,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-guvenli-basvuru-yollari",
+      "title": "Okulda Güvenli Başvuru Yolları | PDR Kampüs",
+      "h1": [
+        "Okulda Güvenli Başvuru Yolları"
+      ],
+      "description_length": 119,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-ihmal-istismar-bildirimi",
+      "title": "İhmal ve İstismar Şüphesinde İlk Okul Adımları | PDR Kampüs",
+      "h1": [
+        "İhmal ve İstismar Şüphesinde İlk Okul Adımları"
+      ],
+      "description_length": 215,
+      "source_cards": 11,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-ihmal-suphesinde-ilk-adim",
+      "title": "Okulda İhmal Şüphesinde İlk Adım | PDR Kampüs",
+      "h1": [
+        "Okulda İhmal Şüphesinde İlk Adım"
+      ],
+      "description_length": 121,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-kariyer-farkindaligi",
+      "title": "Okulda Kariyer Farkındalığı | PDR Kampüs",
+      "h1": [
+        "Okulda Kariyer Farkındalığı"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-kriz-ilk-degerlendirme",
+      "title": "Okulda Kriz Bildirimi: İlk Değerlendirme ve Güvenli Yönlendirme | PDR Kampüs",
+      "h1": [
+        "Okulda Kriz Bildirimi: İlk Değerlendirme ve Güvenli Yönlendirme"
+      ],
+      "description_length": 200,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-kriz-sonrasi-rutin",
+      "title": "Kriz Sonrası Sınıf Rutinine Dönüş | PDR Kampüs",
+      "h1": [
+        "Kriz Sonrası Sınıf Rutinine Dönüş"
+      ],
+      "description_length": 130,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-kriz-sonrasi-sinif-bilgilendirmesi",
+      "title": "Okul Krizi Sonrası Sınıf Bilgilendirmesi | PDR Kampüs",
+      "h1": [
+        "Okul Krizi Sonrası Sınıf Bilgilendirmesi"
+      ],
+      "description_length": 129,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-meslek-stereotipleri",
+      "title": "Mesleklere İlişkin Kalıp Yargılar | PDR Kampüs",
+      "h1": [
+        "Mesleklere İlişkin Kalıp Yargılar"
+      ],
+      "description_length": 164,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-motivasyon-dalgalanmasi",
+      "title": "Öğrenme Motivasyonu Dalgalanması | PDR Kampüs",
+      "h1": [
+        "Öğrenme Motivasyonu Dalgalanması"
+      ],
+      "description_length": 130,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-ofke-duzenleme-etkinligi",
+      "title": "Öfke Düzenleme: Sınıf Rehberliği Etkinliği | PDR Kampüs",
+      "h1": [
+        "Öfke Düzenleme: Sınıf Rehberliği Etkinliği"
+      ],
+      "description_length": 175,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-davranis-hedefi",
+      "title": "Öğrenci Davranış Hedefi Belirleme | PDR Kampüs",
+      "h1": [
+        "Öğrenci Davranış Hedefi Belirleme"
+      ],
+      "description_length": 158,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-geri-bildirim-anketi",
+      "title": "Öğrenci Rehberlik Hizmeti Geri Bildirimi | PDR Kampüs",
+      "h1": [
+        "Öğrenci Rehberlik Hizmeti Geri Bildirimi"
+      ],
+      "description_length": 167,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-gorusme-kaydi",
+      "title": "Öğrenci Görüşme Kaydı Hazırlama | PDR Kampüs",
+      "h1": [
+        "Öğrenci Görüşme Kaydı Hazırlama"
+      ],
+      "description_length": 120,
+      "source_cards": 6,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-guvenligi-gozlem-notu",
+      "title": "Öğrenci Güvenliği Gözlem Notu | PDR Kampüs",
+      "h1": [
+        "Öğrenci Güvenliği Gözlem Notu"
+      ],
+      "description_length": 146,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-katilim-hakki",
+      "title": "Okulda Öğrenci Katılım Hakkı | PDR Kampüs",
+      "h1": [
+        "Okulda Öğrenci Katılım Hakkı"
+      ],
+      "description_length": 152,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-motivasyon-gorusmesi",
+      "title": "Öğrenci Motivasyon Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Öğrenci Motivasyon Görüşmesi"
+      ],
+      "description_length": 119,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-oz-degerlendirme",
+      "title": "Öğrenci Öz Değerlendirme Formu Hazırlama | PDR Kampüs",
+      "h1": [
+        "Öğrenci Öz Değerlendirme Formu Hazırlama"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-ozgecmisi",
+      "title": "Öğrenci İlgi ve Deneyim Dosyası | PDR Kampüs",
+      "h1": [
+        "Öğrenci İlgi ve Deneyim Dosyası"
+      ],
+      "description_length": 159,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenme-guclugu-ilk-gozlem",
+      "title": "Öğrenme Güçlüğü İçin İlk Okul Gözlemi | PDR Kampüs",
+      "h1": [
+        "Öğrenme Güçlüğü İçin İlk Okul Gözlemi"
+      ],
+      "description_length": 133,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-ogretmen-musahade-gorusmesi",
+      "title": "Öğretmenle Rehberlik Görüşmesi: Gözlem ve İş Birliği | PDR Kampüs",
+      "h1": [
+        "Öğretmenle Rehberlik Görüşmesi: Gözlem ve İş Birliği"
+      ],
+      "description_length": 182,
+      "source_cards": 3,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-ogretmen-yonlendirme-formu",
+      "title": "Öğretmen Rehberlik Yönlendirme Formu | PDR Kampüs",
+      "h1": [
+        "Öğretmen Rehberlik Yönlendirme Formu"
+      ],
+      "description_length": 125,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-oz-farkindalik-etkinligi",
+      "title": "Okulda Öz Farkındalık Etkinliği | PDR Kampüs",
+      "h1": [
+        "Okulda Öz Farkındalık Etkinliği"
+      ],
+      "description_length": 128,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-oz-yeterlik",
+      "title": "Okulda Öz Yeterlik Becerisini Destekleme | PDR Kampüs",
+      "h1": [
+        "Okulda Öz Yeterlik Becerisini Destekleme"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-ozel-gereksinim-akran-farkindaligi",
+      "title": "Özel Gereksinimlerde Akran Farkındalığı | PDR Kampüs",
+      "h1": [
+        "Özel Gereksinimlerde Akran Farkındalığı"
+      ],
+      "description_length": 176,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-ozguven-destekleme",
+      "title": "Özgüven ve Öz Yeterlik: Öğrenciye Destek | PDR Kampüs",
+      "h1": [
+        "Özgüven ve Öz Yeterlik: Öğrenciye Destek"
+      ],
+      "description_length": 189,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-problem-cozme-becerisi",
+      "title": "Problem Çözme: Sınıf Rehberliği Etkinliği | PDR Kampüs",
+      "h1": [
+        "Problem Çözme: Sınıf Rehberliği Etkinliği"
+      ],
+      "description_length": 214,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-psikolojik-saglamlik",
+      "title": "Okulda Psikolojik Sağlamlığı Destekleme | PDR Kampüs",
+      "h1": [
+        "Okulda Psikolojik Sağlamlığı Destekleme"
+      ],
+      "description_length": 174,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-psikososyal-destek-basvurusu",
+      "title": "Okulda Psikososyal Destek Başvurusu | PDR Kampüs",
+      "h1": [
+        "Okulda Psikososyal Destek Başvurusu"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-rehberlik-hizmeti-tanitimi",
+      "title": "Öğrencilere Rehberlik Hizmetini Tanıtma | PDR Kampüs",
+      "h1": [
+        "Öğrencilere Rehberlik Hizmetini Tanıtma"
+      ],
+      "description_length": 128,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-saglikli-rekabet",
+      "title": "Okulda Sağlıklı Rekabet ve İş Birliği | PDR Kampüs",
+      "h1": [
+        "Okulda Sağlıklı Rekabet ve İş Birliği"
+      ],
+      "description_length": 126,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-sinav-oncesi-nefes-calismasi",
+      "title": "Sınav Öncesi Kısa Sakinleşme Çalışması | PDR Kampüs",
+      "h1": [
+        "Sınav Öncesi Kısa Sakinleşme Çalışması"
+      ],
+      "description_length": 164,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-sinir-koyma-becerileri",
+      "title": "Sınır Koyma Becerileri: Öğrenci Etkinlikleri | PDR Kampüs",
+      "h1": [
+        "Sınır Koyma Becerileri: Öğrenci Etkinlikleri"
+      ],
+      "description_length": 180,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-sosyal-kaygi-gozlemi",
+      "title": "Okulda Sosyal Kaygı Gözlemi | PDR Kampüs",
+      "h1": [
+        "Okulda Sosyal Kaygı Gözlemi"
+      ],
+      "description_length": 113,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-stres-belirtileri",
+      "title": "Okulda Stres Belirtilerini Fark Etme | PDR Kampüs",
+      "h1": [
+        "Okulda Stres Belirtilerini Fark Etme"
+      ],
+      "description_length": 124,
+      "source_cards": 4,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-veli-ogretmen-iletisim-plani",
+      "title": "Veli–Öğretmen İletişim Planı | PDR Kampüs",
+      "h1": [
+        "Veli–Öğretmen İletişim Planı"
+      ],
+      "description_length": 117,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "okulda-yalnizlik-ogrenci-gorusmesi",
+      "title": "Okulda Yalnızlık Hisseden Öğrenciyle Görüşme | PDR Kampüs",
+      "h1": [
+        "Okulda Yalnızlık Hisseden Öğrenciyle Görüşme"
+      ],
+      "description_length": 139,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-yardim-isteme-becerisi",
+      "title": "İlkokulda Yardım İsteme Becerisi | PDR Kampüs",
+      "h1": [
+        "İlkokulda Yardım İsteme Becerisi"
+      ],
+      "description_length": 207,
+      "source_cards": 8,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "okulda-yas-ve-kayip-destegi",
+      "title": "Okulda Yas ve Kayıp: Öğrenciye Duyarlı Destek | PDR Kampüs",
+      "h1": [
+        "Okulda Yas ve Kayıp: Öğrenciye Duyarlı Destek"
+      ],
+      "description_length": 177,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-akran-baskisi",
+      "title": "Ortaokulda Akran Baskısıyla Baş Etme | PDR Kampüs",
+      "h1": [
+        "Ortaokulda Akran Baskısıyla Baş Etme"
+      ],
+      "description_length": 133,
+      "source_cards": 3,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-akran-baskisini-fark-etme",
+      "title": "Akran baskısını fark etme | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Akran baskısını fark etme | Ortaokul"
+      ],
+      "description_length": 142,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-akran-catismasinda-guvenlik",
+      "title": "Akran çatışmasında güvenlik | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Akran çatışmasında güvenlik | Ortaokul"
+      ],
+      "description_length": 144,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-arkadaslikta-karsiliklilik",
+      "title": "Arkadaşlıkta karşılıklılık | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Arkadaşlıkta karşılıklılık | Ortaokul"
+      ],
+      "description_length": 143,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-basarisizlik-korkusunu-konusma",
+      "title": "Başarısızlık korkusunu konuşma | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Başarısızlık korkusunu konuşma | Ortaokul"
+      ],
+      "description_length": 147,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-ders-calismaya-baslama",
+      "title": "Ders çalışmaya başlama | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Ders çalışmaya başlama | Ortaokul"
+      ],
+      "description_length": 139,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-dijital-ayak-izi",
+      "title": "Dijital ayak izi | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Dijital ayak izi | Ortaokul"
+      ],
+      "description_length": 133,
+      "source_cards": 3,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-dislanma-karsisinda-yardim",
+      "title": "Dışlanma karşısında yardım | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Dışlanma karşısında yardım | Ortaokul"
+      ],
+      "description_length": 143,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-duygusal-dalgalanmalari-anlama",
+      "title": "Duygusal dalgalanmaları anlama | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Duygusal dalgalanmaları anlama | Ortaokul"
+      ],
+      "description_length": 147,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-grup-sohbetinde-sinir-koyma",
+      "title": "Grup sohbetinde sınır koyma | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Grup sohbetinde sınır koyma | Ortaokul"
+      ],
+      "description_length": 144,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-guvenilir-bilgiye-erisim",
+      "title": "Güvenilir bilgiye erişim | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Güvenilir bilgiye erişim | Ortaokul"
+      ],
+      "description_length": 141,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-karar-verirken-secenek-tartma",
+      "title": "Karar verirken seçenek tartma | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Karar verirken seçenek tartma | Ortaokul"
+      ],
+      "description_length": 146,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-kendi-guclu-yanlarini-bulma",
+      "title": "Kendi güçlü yanlarını bulma | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Kendi güçlü yanlarını bulma | Ortaokul"
+      ],
+      "description_length": 144,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-kiyaslanma-baskisi",
+      "title": "Kıyaslanma baskısı | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Kıyaslanma baskısı | Ortaokul"
+      ],
+      "description_length": 135,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-odev-erteleme-dongusu",
+      "title": "Ödev erteleme döngüsü | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Ödev erteleme döngüsü | Ortaokul"
+      ],
+      "description_length": 138,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-ogrenci-liderligi-ve-sorumluluk",
+      "title": "Öğrenci liderliği ve sorumluluk | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Öğrenci liderliği ve sorumluluk | Ortaokul"
+      ],
+      "description_length": 148,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-ogrenme-hedefini-duzenleme",
+      "title": "Öğrenme hedefini düzenleme | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Öğrenme hedefini düzenleme | Ortaokul"
+      ],
+      "description_length": 143,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-ogretmenden-yardim-isteme",
+      "title": "Öğretmenden yardım isteme | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Öğretmenden yardım isteme | Ortaokul"
+      ],
+      "description_length": 142,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-okul-devamsizligini-konusma",
+      "title": "Okul devamsızlığını konuşma | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Okul devamsızlığını konuşma | Ortaokul"
+      ],
+      "description_length": 144,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-okul-kulubu-secimi",
+      "title": "Okul kulübü seçimi | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Okul kulübü seçimi | Ortaokul"
+      ],
+      "description_length": 135,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-oyun-ve-ekran-dengesi",
+      "title": "Oyun ve ekran dengesi | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Oyun ve ekran dengesi | Ortaokul"
+      ],
+      "description_length": 138,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-sinav-oncesi-mola-plani",
+      "title": "Sınav öncesi mola planı | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Sınav öncesi mola planı | Ortaokul"
+      ],
+      "description_length": 140,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-sinif-ici-soylentiler",
+      "title": "Sınıf içi söylentiler | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Sınıf içi söylentiler | Ortaokul"
+      ],
+      "description_length": 138,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-sosyal-medyada-izin",
+      "title": "Sosyal medyada izin | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Sosyal medyada izin | Ortaokul"
+      ],
+      "description_length": 136,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-sosyal-sinirlarini-anlatma",
+      "title": "Sosyal sınırlarını anlatma | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Sosyal sınırlarını anlatma | Ortaokul"
+      ],
+      "description_length": 143,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokul-yeni-sinifta-aidiyet",
+      "title": "Yeni sınıfta aidiyet | Ortaokul | PDR Kampüs",
+      "h1": [
+        "Yeni sınıfta aidiyet | Ortaokul"
+      ],
+      "description_length": 137,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokulda-arkadaslik-becerileri",
+      "title": "Ortaokulda Arkadaşlık Becerileri | PDR Kampüs",
+      "h1": [
+        "Ortaokulda Arkadaşlık Becerileri"
+      ],
+      "description_length": 197,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ortaokulda-duygulari-ifade-etme",
+      "title": "Ortaokulda Duyguları İfade Etme | PDR Kampüs",
+      "h1": [
+        "Ortaokulda Duyguları İfade Etme"
+      ],
+      "description_length": 120,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ortaokulda-guvenli-arkadas-secimi",
+      "title": "Ortaokulda Güvenli Arkadaşlık | PDR Kampüs",
+      "h1": [
+        "Ortaokulda Güvenli Arkadaşlık"
+      ],
+      "description_length": 121,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "oz-saygi-sinif-etkinligi",
+      "title": "Öz Saygıyı Güçlendirme Sınıf Etkinliği | PDR Kampüs",
+      "h1": [
+        "Öz Saygıyı Güçlendirme Sınıf Etkinliği"
+      ],
+      "description_length": 135,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-ailenin-gozlem-katkisi",
+      "title": "Ailenin gözlem katkısı | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Ailenin gözlem katkısı | Özel Eğitim"
+      ],
+      "description_length": 115,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-aileyle-donemlik-hedef",
+      "title": "Aileyle dönemlik hedef | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Aileyle dönemlik hedef | Özel Eğitim"
+      ],
+      "description_length": 115,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-akran-katiliminin-guvenligi",
+      "title": "Akran katılımının güvenliği | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Akran katılımının güvenliği | Özel Eğitim"
+      ],
+      "description_length": 120,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-alternatif-katilim-yontemi",
+      "title": "Alternatif katılım yöntemi | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Alternatif katılım yöntemi | Özel Eğitim"
+      ],
+      "description_length": 119,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-degerlendirme-kaydi",
+      "title": "BEP değerlendirme kaydı | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "BEP değerlendirme kaydı | Özel Eğitim"
+      ],
+      "description_length": 116,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-ekibi-gorev-dagilimi",
+      "title": "BEP ekibi görev dağılımı | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "BEP ekibi görev dağılımı | Özel Eğitim"
+      ],
+      "description_length": 117,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-hedef-olcutu",
+      "title": "BEP hedef ölçütü | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "BEP hedef ölçütü | Özel Eğitim"
+      ],
+      "description_length": 109,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-kazanim-izleme",
+      "title": "BEP kazanım izleme | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "BEP kazanım izleme | Özel Eğitim"
+      ],
+      "description_length": 111,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-performans-gozlemi",
+      "title": "BEP performans gözlemi | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "BEP performans gözlemi | Özel Eğitim"
+      ],
+      "description_length": 115,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-toplanti-gundemi",
+      "title": "BEP toplantı gündemi | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "BEP toplantı gündemi | Özel Eğitim"
+      ],
+      "description_length": 113,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-destek-egitim-koordinasyonu",
+      "title": "Destek eğitim koordinasyonu | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Destek eğitim koordinasyonu | Özel Eğitim"
+      ],
+      "description_length": 120,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-duyusal-gereksinime-duyarlilik",
+      "title": "Duyusal gereksinime duyarlılık | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Duyusal gereksinime duyarlılık | Özel Eğitim"
+      ],
+      "description_length": 123,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-egitimde-erisilebilir-materyal",
+      "title": "Eğitimde erişilebilir materyal | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Eğitimde erişilebilir materyal | Özel Eğitim"
+      ],
+      "description_length": 123,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-farkli-yanit-verme-yollari",
+      "title": "Farklı yanıt verme yolları | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Farklı yanıt verme yolları | Özel Eğitim"
+      ],
+      "description_length": 119,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-gecislerde-ongorulebilirlik",
+      "title": "Geçişlerde öngörülebilirlik | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Geçişlerde öngörülebilirlik | Özel Eğitim"
+      ],
+      "description_length": 120,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-gorev-suresi-uyarlamasi",
+      "title": "Görev süresi uyarlaması | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Görev süresi uyarlaması | Özel Eğitim"
+      ],
+      "description_length": 116,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-gorsel-yonerge-uyarlamasi",
+      "title": "Görsel yönerge uyarlaması | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Görsel yönerge uyarlaması | Özel Eğitim"
+      ],
+      "description_length": 118,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-islevsel-iletisim-firsatlari",
+      "title": "İşlevsel iletişim fırsatları | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "İşlevsel iletişim fırsatları | Özel Eğitim"
+      ],
+      "description_length": 121,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-kapsayici-grup-etkinligi",
+      "title": "Kapsayıcı grup etkinliği | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Kapsayıcı grup etkinliği | Özel Eğitim"
+      ],
+      "description_length": 117,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-kaynastirma-sinif-destegi",
+      "title": "Kaynaştırma Öğrencisi İçin Sınıf İçi Destek ve Uyarlamalar | PDR Kampüs",
+      "h1": [
+        "Kaynaştırma Öğrencisi İçin Sınıf İçi Destek ve Uyarlamalar"
+      ],
+      "description_length": 189,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-ogrencinin-guclu-yonleri",
+      "title": "Öğrencinin güçlü yönleri | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Öğrencinin güçlü yönleri | Özel Eğitim"
+      ],
+      "description_length": 117,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-okul-ici-kurum-is-birligi",
+      "title": "Okul içi kurum iş birliği | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Okul içi kurum iş birliği | Özel Eğitim"
+      ],
+      "description_length": 118,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-olumlu-davranis-destegi",
+      "title": "Olumlu davranış desteği | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Olumlu davranış desteği | Özel Eğitim"
+      ],
+      "description_length": 116,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-ram-degerlendirmesi-sonrasi",
+      "title": "RAM değerlendirmesi sonrası | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "RAM değerlendirmesi sonrası | Özel Eğitim"
+      ],
+      "description_length": 120,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-sinif-ici-destek-duzeni",
+      "title": "Sınıf içi destek düzeni | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Sınıf içi destek düzeni | Özel Eğitim"
+      ],
+      "description_length": 116,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-uyarlama-ise-yariyor-mu",
+      "title": "Uyarlama işe yarıyor mu | Özel Eğitim | PDR Kampüs",
+      "h1": [
+        "Uyarlama işe yarıyor mu | Özel Eğitim"
+      ],
+      "description_length": 116,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-veli-isbirligi",
+      "title": "Özel Eğitimde Veli İş Birliği Planı | PDR Kampüs",
+      "h1": [
+        "Özel Eğitimde Veli İş Birliği Planı"
+      ],
+      "description_length": 132,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ozel-ogrenme-guclugu-okul-destegi",
+      "title": "Öğrenme Güçlüğü Yaşayan Öğrenciyi Destekleme | PDR Kampüs",
+      "h1": [
+        "Öğrenme Güçlüğü Yaşayan Öğrenciyi Destekleme"
+      ],
+      "description_length": 219,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "psikolojik-danisma-yonlendirme-siniri",
+      "title": "Okulda Psikolojik Danışma ve Yönlendirme Sınırı | PDR Kampüs",
+      "h1": [
+        "Okulda Psikolojik Danışma ve Yönlendirme Sınırı"
+      ],
+      "description_length": 134,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "psikolojik-saglamlik-sinif-calismasi",
+      "title": "Psikolojik Sağlamlık Sınıf Çalışması | PDR Kampüs",
+      "h1": [
+        "Psikolojik Sağlamlık Sınıf Çalışması"
+      ],
+      "description_length": 212,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ram-basvuru-sureci-bilgilendirmesi",
+      "title": "RAM Başvuru Süreci Bilgilendirmesi | PDR Kampüs",
+      "h1": [
+        "RAM Başvuru Süreci Bilgilendirmesi"
+      ],
+      "description_length": 163,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ram-raporu-okuma-rehberi",
+      "title": "RAM Raporunu Okurken Dikkat Edilecekler | PDR Kampüs",
+      "h1": [
+        "RAM Raporunu Okurken Dikkat Edilecekler"
+      ],
+      "description_length": 128,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ram-sonrasi-okul-destegi",
+      "title": "RAM Değerlendirmesi Sonrası Okul Desteği | PDR Kampüs",
+      "h1": [
+        "RAM Değerlendirmesi Sonrası Okul Desteği"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "ram-yonlendirme-gorusmesi",
+      "title": "RAM Yönlendirmesi Öncesi Görüşme | PDR Kampüs",
+      "h1": [
+        "RAM Yönlendirmesi Öncesi Görüşme"
+      ],
+      "description_length": 129,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ram-yonlendirme-oncesi-ogretmen-gozlemi",
+      "title": "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi | PDR Kampüs",
+      "h1": [
+        "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi"
+      ],
+      "description_length": 130,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "rehberlik-faaliyet-raporu",
+      "title": "Rehberlik Faaliyet Raporu Yazma | PDR Kampüs",
+      "h1": [
+        "Rehberlik Faaliyet Raporu Yazma"
+      ],
+      "description_length": 128,
+      "source_cards": 11,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlik-servisi-evrak-duzeni",
+      "title": "Rehberlik Servisi Evrak ve Arşiv Düzeni | PDR Kampüs",
+      "h1": [
+        "Rehberlik Servisi Evrak ve Arşiv Düzeni"
+      ],
+      "description_length": 210,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlik-servisine-basvuru",
+      "title": "Rehberlik Servisine Nasıl Başvurulur? | PDR Kampüs",
+      "h1": [
+        "Rehberlik Servisine Nasıl Başvurulur?"
+      ],
+      "description_length": 134,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlik-yillik-plan-hazirlama",
+      "title": "Yıllık Rehberlik Planı Hazırlama | PDR Kampüs",
+      "h1": [
+        "Yıllık Rehberlik Planı Hazırlama"
+      ],
+      "description_length": 211,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-aileye-geri-bildirim",
+      "title": "Aileye Destek Geri Bildirimi | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Aileye Destek Geri Bildirimi | Okul rehberlik servisi"
+      ],
+      "description_length": 127,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-calisma-verimliligi",
+      "title": "Rehberlik İş Yükünü Düzenleme | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Rehberlik İş Yükünü Düzenleme | Okul rehberlik servisi"
+      ],
+      "description_length": 114,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-dis-kurum-yonlendirme",
+      "title": "Dış Kuruma Yönlendirme | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Dış Kuruma Yönlendirme | Okul rehberlik servisi"
+      ],
+      "description_length": 116,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-donemlik-hedefler",
+      "title": "Dönemlik Rehberlik Hedefi Yazma | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Dönemlik Rehberlik Hedefi Yazma | Okul rehberlik servisi"
+      ],
+      "description_length": 122,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-gizli-dosya-erisim",
+      "title": "Gizli Dosyalara Erişim | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Gizli Dosyalara Erişim | Okul rehberlik servisi"
+      ],
+      "description_length": 116,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-gorusme-suresi",
+      "title": "Görüşme Süresi Planlama | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Görüşme Süresi Planlama | Okul rehberlik servisi"
+      ],
+      "description_length": 120,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-grup-calismasi-gonulluluk",
+      "title": "Rehberlik Grup Çalışmalarında Gönüllülük | PDR Kampüs",
+      "h1": [
+        "Rehberlik Grup Çalışmalarında Gönüllülük"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "rehberlikte-grup-gizliligi",
+      "title": "Grup Çalışmasında Gizlilik | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Grup Çalışmasında Gizlilik | Okul rehberlik servisi"
+      ],
+      "description_length": 123,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-ilk-ogrenci-bilgilendirmesi",
+      "title": "İlk Görüşme Bilgilendirmesi | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "İlk Görüşme Bilgilendirmesi | Okul rehberlik servisi"
+      ],
+      "description_length": 130,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-kayit-guvenligi",
+      "title": "Rehberlik Kayıtlarında Bilgi Güvenliği | PDR Kampüs",
+      "h1": [
+        "Rehberlik Kayıtlarında Bilgi Güvenliği"
+      ],
+      "description_length": 118,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "rehberlikte-kurum-ici-gorev-paylasimi",
+      "title": "Kurum İçi Görev Paylaşımı | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Kurum İçi Görev Paylaşımı | Okul rehberlik servisi"
+      ],
+      "description_length": 121,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-mevzuat-guncelleme",
+      "title": "Rehberlik Mevzuatı Takibi | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Rehberlik Mevzuatı Takibi | Okul rehberlik servisi"
+      ],
+      "description_length": 122,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-ogrenci-anonim-geri-bildirim",
+      "title": "Anonim Hizmet Geri Bildirimi | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Anonim Hizmet Geri Bildirimi | Okul rehberlik servisi"
+      ],
+      "description_length": 119,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-ogrenci-gorusme-hedefi",
+      "title": "Öğrenci Görüşmesi Hedefi | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Öğrenci Görüşmesi Hedefi | Okul rehberlik servisi"
+      ],
+      "description_length": 115,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-ogrenci-izleme-takvimi",
+      "title": "Öğrenci İzleme Takvimi | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Öğrenci İzleme Takvimi | Okul rehberlik servisi"
+      ],
+      "description_length": 115,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-ogrenci-onam-bilgilendirme",
+      "title": "Öğrenciyi Bilgilendirme ve Katılım | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Öğrenciyi Bilgilendirme ve Katılım | Okul rehberlik servisi"
+      ],
+      "description_length": 128,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-okul-veri-mahremiyeti",
+      "title": "Okul Rehberlik Verisinde Mahremiyet | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Okul Rehberlik Verisinde Mahremiyet | Okul rehberlik servisi"
+      ],
+      "description_length": 127,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-olay-kaydi",
+      "title": "Olay ve Müdahale Kaydı | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Olay ve Müdahale Kaydı | Okul rehberlik servisi"
+      ],
+      "description_length": 115,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-olumlu-davranis-destegi",
+      "title": "Olumlu Davranış Desteği | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Olumlu Davranış Desteği | Okul rehberlik servisi"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-oncelik-belirleme",
+      "title": "Rehberlik Başvurularında Öncelik | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Rehberlik Başvurularında Öncelik | Okul rehberlik servisi"
+      ],
+      "description_length": 130,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-randevu-duzeni",
+      "title": "Rehberlik Randevu Düzeni | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Rehberlik Randevu Düzeni | Okul rehberlik servisi"
+      ],
+      "description_length": 121,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-sinif-etkinligi-secimi",
+      "title": "Sınıf Etkinliği Seçme | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Sınıf Etkinliği Seçme | Okul rehberlik servisi"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-sinif-ihtiyac-toplama",
+      "title": "Sınıf İhtiyaç Verisi Toplama | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Sınıf İhtiyaç Verisi Toplama | Okul rehberlik servisi"
+      ],
+      "description_length": 122,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-toplanti-gundemi",
+      "title": "Rehberlik Toplantısı Gündemi | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Rehberlik Toplantısı Gündemi | Okul rehberlik servisi"
+      ],
+      "description_length": 130,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-uzmanlik-sinirlari",
+      "title": "Mesleki Yetkinlik Sınırları | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Mesleki Yetkinlik Sınırları | Okul rehberlik servisi"
+      ],
+      "description_length": 124,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-veli-randevusu",
+      "title": "Veli Randevusu Planlama | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Veli Randevusu Planlama | Okul rehberlik servisi"
+      ],
+      "description_length": 122,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "rehberlikte-yonetici-bilgilendirme",
+      "title": "Okul Yönetimine Bilgi Sunma | Okul rehberlik servisi | PDR Kampüs",
+      "h1": [
+        "Okul Yönetimine Bilgi Sunma | Okul rehberlik servisi"
+      ],
+      "description_length": 127,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "saglikli-akran-iliskileri-etkinligi",
+      "title": "Sağlıklı Akran İlişkileri: Sınıf Etkinliği | PDR Kampüs",
+      "h1": [
+        "Sağlıklı Akran İlişkileri: Sınıf Etkinliği"
+      ],
+      "description_length": 170,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "saglikli-sinav-hedefleri",
+      "title": "Sağlıklı Sınav Hedefleri Belirleme | PDR Kampüs",
+      "h1": [
+        "Sağlıklı Sınav Hedefleri Belirleme"
+      ],
+      "description_length": 121,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "saldirgan-davranis-sonrasi-gorusme",
+      "title": "Zarar Verici Davranış Sonrası Öğrenci Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Zarar Verici Davranış Sonrası Öğrenci Görüşmesi"
+      ],
+      "description_length": 149,
+      "source_cards": 5,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "siber-zorbalik-ilk-basvuru",
+      "title": "Siber Zorbalıkta İlk Öğrenci Başvurusu | PDR Kampüs",
+      "h1": [
+        "Siber Zorbalıkta İlk Öğrenci Başvurusu"
+      ],
+      "description_length": 127,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "siber-zorbalik-ilk-mudahale",
+      "title": "Siber Zorbalık Bildiriminde İlk Müdahale | PDR Kampüs",
+      "h1": [
+        "Siber Zorbalık Bildiriminde İlk Müdahale"
+      ],
+      "description_length": 137,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "siber-zorbalik-okul-mudahalesi",
+      "title": "Siber Zorbalık: Okulda Güvenlik ve Müdahale | PDR Kampüs",
+      "h1": [
+        "Siber Zorbalık: Okulda Güvenlik ve Müdahale"
+      ],
+      "description_length": 199,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinav-aile-deneme-sonucu-iletisimi",
+      "title": "Aile deneme sonucu iletişimi | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Aile deneme sonucu iletişimi | Sınav Rehberliği"
+      ],
+      "description_length": 143,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-deneme-analizi-gorusmesi",
+      "title": "Deneme analizi görüşmesi | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Deneme analizi görüşmesi | Sınav Rehberliği"
+      ],
+      "description_length": 139,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-donemi-veli-iletisimi",
+      "title": "Sınav Döneminde Veli İletişimi | PDR Kampüs",
+      "h1": [
+        "Sınav Döneminde Veli İletişimi"
+      ],
+      "description_length": 212,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinav-dusuk-puan-sonrasi-destek",
+      "title": "Düşük puan sonrası destek | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Düşük puan sonrası destek | Sınav Rehberliği"
+      ],
+      "description_length": 140,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-gercekci-net-hedefi",
+      "title": "Gerçekçi net hedefi | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Gerçekçi net hedefi | Sınav Rehberliği"
+      ],
+      "description_length": 134,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-hazirliginda-gercekci-program",
+      "title": "Sınava Hazırlıkta Gerçekçi Program | PDR Kampüs",
+      "h1": [
+        "Sınava Hazırlıkta Gerçekçi Program"
+      ],
+      "description_length": 124,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-kaygisi-ilk-gorusme",
+      "title": "Sınav Kaygısı: İlk Öğrenci Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Sınav Kaygısı: İlk Öğrenci Görüşmesi"
+      ],
+      "description_length": 133,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinav-kaygisi-kucuk-grup",
+      "title": "Sınav Kaygısı İçin Küçük Grup Çalışması | PDR Kampüs",
+      "h1": [
+        "Sınav Kaygısı İçin Küçük Grup Çalışması"
+      ],
+      "description_length": 128,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinav-kaygisi-ogrenci-destegi",
+      "title": "Sınav Kaygısı: Öğrenciyle Görüşme ve Destek Planı | PDR Kampüs",
+      "h1": [
+        "Sınav Kaygısı: Öğrenciyle Görüşme ve Destek Planı"
+      ],
+      "description_length": 206,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinav-kiyaslama-dilini-azaltma",
+      "title": "Kıyaslama dilini azaltma | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Kıyaslama dilini azaltma | Sınav Rehberliği"
+      ],
+      "description_length": 139,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-konu-eksiklerini-belirleme",
+      "title": "Konu eksiklerini belirleme | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Konu eksiklerini belirleme | Sınav Rehberliği"
+      ],
+      "description_length": 141,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-kucuk-calisma-oturumlari",
+      "title": "Küçük çalışma oturumları | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Küçük çalışma oturumları | Sınav Rehberliği"
+      ],
+      "description_length": 139,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-lgs-yerlestirme-bilgisi",
+      "title": "LGS yerleştirme bilgisi | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "LGS yerleştirme bilgisi | Sınav Rehberliği"
+      ],
+      "description_length": 138,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-ogrenme-stratejisi-secme",
+      "title": "Öğrenme stratejisi seçme | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Öğrenme stratejisi seçme | Sınav Rehberliği"
+      ],
+      "description_length": 139,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-okul-ve-kurs-yuk-dengesi",
+      "title": "Okul ve kurs yük dengesi | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Okul ve kurs yük dengesi | Sınav Rehberliği"
+      ],
+      "description_length": 139,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-oz-bakim-plani",
+      "title": "Sınav Döneminde Öz Bakım Planı | PDR Kampüs",
+      "h1": [
+        "Sınav Döneminde Öz Bakım Planı"
+      ],
+      "description_length": 127,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinav-program-kosulu-inceleme",
+      "title": "Program koşulu inceleme | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Program koşulu inceleme | Sınav Rehberliği"
+      ],
+      "description_length": 138,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-sinav-gunu-hazirligi",
+      "title": "Sınav günü hazırlığı | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Sınav günü hazırlığı | Sınav Rehberliği"
+      ],
+      "description_length": 135,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-sinav-kaygisi-erken-belirtiler",
+      "title": "Sınav kaygısı erken belirtiler | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Sınav kaygısı erken belirtiler | Sınav Rehberliği"
+      ],
+      "description_length": 145,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-sinav-oncesi-kaygi-dusunceleri",
+      "title": "Sınav öncesi kaygı düşünceleri | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Sınav öncesi kaygı düşünceleri | Sınav Rehberliği"
+      ],
+      "description_length": 145,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-sinav-sonrasi-belirsizlik",
+      "title": "Sınav sonrası belirsizlik | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Sınav sonrası belirsizlik | Sınav Rehberliği"
+      ],
+      "description_length": 140,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-sinav-sonucunu-aileye-aciklama",
+      "title": "Sınav sonucunu aileye açıklama | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Sınav sonucunu aileye açıklama | Sınav Rehberliği"
+      ],
+      "description_length": 145,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-sinavda-yardim-isteme",
+      "title": "Sınavda yardım isteme | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Sınavda yardım isteme | Sınav Rehberliği"
+      ],
+      "description_length": 136,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-sonrasi-geri-bildirim",
+      "title": "Sınav Sonrası Öğrenciye Geri Bildirim | PDR Kampüs",
+      "h1": [
+        "Sınav Sonrası Öğrenciye Geri Bildirim"
+      ],
+      "description_length": 134,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinav-sonrasi-hayal-kirikligi",
+      "title": "Sınav Sonrası Hayal Kırıklığı Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Sınav Sonrası Hayal Kırıklığı Görüşmesi"
+      ],
+      "description_length": 136,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinav-sonrasi-ogrenci-gorusmesi",
+      "title": "Sınav Sonrası Öğrenci Görüşmesi: Sonuçları Değerlendirme | PDR Kampüs",
+      "h1": [
+        "Sınav Sonrası Öğrenci Görüşmesi: Sonuçları Değerlendirme"
+      ],
+      "description_length": 199,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinav-sonucu-sonrasi-ogrenci-gorusmesi",
+      "title": "Sınav Sonucu Sonrası Öğrenci Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Sınav Sonucu Sonrası Öğrenci Görüşmesi"
+      ],
+      "description_length": 127,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinav-tekrara-baslama-stratejisi",
+      "title": "Tekrara başlama stratejisi | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Tekrara başlama stratejisi | Sınav Rehberliği"
+      ],
+      "description_length": 141,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-tercih-bilgi-kaynagi",
+      "title": "Tercih bilgi kaynağı | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Tercih bilgi kaynağı | Sınav Rehberliği"
+      ],
+      "description_length": 135,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-uyku-ve-dinlenme-plani",
+      "title": "Uyku ve dinlenme planı | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Uyku ve dinlenme planı | Sınav Rehberliği"
+      ],
+      "description_length": 137,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-yanlis-sorulari-siniflandirma",
+      "title": "Yanlış soruları sınıflandırma | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Yanlış soruları sınıflandırma | Sınav Rehberliği"
+      ],
+      "description_length": 144,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-yeni-doneme-gecis-hedefi",
+      "title": "Yeni döneme geçiş hedefi | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Yeni döneme geçiş hedefi | Sınav Rehberliği"
+      ],
+      "description_length": 139,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-yks-tercih-sirasi-degerlendirme",
+      "title": "YKS tercih sırası değerlendirme | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "YKS tercih sırası değerlendirme | Sınav Rehberliği"
+      ],
+      "description_length": 146,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-yuksek-beklenti-baskisi",
+      "title": "Yüksek beklenti baskısı | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Yüksek beklenti baskısı | Sınav Rehberliği"
+      ],
+      "description_length": 138,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinav-zaman-baskisini-yonetme",
+      "title": "Zaman baskısını yönetme | Sınav Rehberliği | PDR Kampüs",
+      "h1": [
+        "Zaman baskısını yönetme | Sınav Rehberliği"
+      ],
+      "description_length": 138,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinif-iklimi-anketi",
+      "title": "Sınıf İklimi Anketi Hazırlama | PDR Kampüs",
+      "h1": [
+        "Sınıf İklimi Anketi Hazırlama"
+      ],
+      "description_length": 115,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinif-rehber-ogretmeni-gorusme",
+      "title": "Sınıf Rehber Öğretmeniyle Görüşme | PDR Kampüs",
+      "h1": [
+        "Sınıf Rehber Öğretmeniyle Görüşme"
+      ],
+      "description_length": 130,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinif-rehber-ogretmeni-is-birligi",
+      "title": "Sınıf Rehber Öğretmeniyle İş Birliği | PDR Kampüs",
+      "h1": [
+        "Sınıf Rehber Öğretmeniyle İş Birliği"
+      ],
+      "description_length": 125,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinif-rehberligi-etkinlik-tasarimi",
+      "title": "Sınıf Rehberliği Etkinliği Nasıl Tasarlanır? | PDR Kampüs",
+      "h1": [
+        "Sınıf Rehberliği Etkinliği Nasıl Tasarlanır?"
+      ],
+      "description_length": 184,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinif-rehberlik-etkinligi-tasarimi",
+      "title": "Sınıf Rehberliği Etkinliği Tasarlama | PDR Kampüs",
+      "h1": [
+        "Sınıf Rehberliği Etkinliği Tasarlama"
+      ],
+      "description_length": 133,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-akran-destegi-planlama",
+      "title": "Sınıfta Akran Desteği Planlama | PDR Kampüs",
+      "h1": [
+        "Sınıfta Akran Desteği Planlama"
+      ],
+      "description_length": 117,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinifta-aktif-dinleme-oyunu",
+      "title": "Sınıfta Aktif Dinleme Oyunu | PDR Kampüs",
+      "h1": [
+        "Sınıfta Aktif Dinleme Oyunu"
+      ],
+      "description_length": 148,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinifta-arkadaslik-olcutleri",
+      "title": "Sağlıklı Arkadaşlık Ölçütleri | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Sağlıklı Arkadaşlık Ölçütleri | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 118,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-bakis-acisi-degistirme",
+      "title": "Farklı Bakış Açısı Alma | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Farklı Bakış Açısı Alma | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 120,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-basarinin-farkli-yollari",
+      "title": "Başarının Farklı Yolları | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Başarının Farklı Yolları | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 126,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-bekleme-becerisi",
+      "title": "Sıra Bekleme Becerisi | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Sıra Bekleme Becerisi | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 114,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-degerler-egitimi-saygi",
+      "title": "Saygı ve Farklılıklar Sınıf Etkinliği | PDR Kampüs",
+      "h1": [
+        "Saygı ve Farklılıklar Sınıf Etkinliği"
+      ],
+      "description_length": 207,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-donem-sonu-yansitma",
+      "title": "Dönem Sonu Yansıtma | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Dönem Sonu Yansıtma | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 121,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-dusunmeden-paylasma",
+      "title": "Paylaşmadan Önce Düşünme | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Paylaşmadan Önce Düşünme | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 123,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-duygu-duzenleme-kosesi",
+      "title": "Sınıfta Duygu Düzenleme Köşesi | PDR Kampüs",
+      "h1": [
+        "Sınıfta Duygu Düzenleme Köşesi"
+      ],
+      "description_length": 118,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-duygu-kartlari",
+      "title": "Duygu Kartları | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Duygu Kartları | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 114,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-duygu-ve-ihtiyac",
+      "title": "Duygu ve İhtiyaç Ayrımı | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Duygu ve İhtiyaç Ayrımı | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 118,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-empatik-dinleme",
+      "title": "Sınıfta Empatik Dinleme Etkinliği | PDR Kampüs",
+      "h1": [
+        "Sınıfta Empatik Dinleme Etkinliği"
+      ],
+      "description_length": 111,
+      "source_cards": 6,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-farkliliklara-saygi",
+      "title": "Farklılıklara Saygı | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Farklılıklara Saygı | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-gorev-takip-tablosu",
+      "title": "Görev Takip Tablosu | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Görev Takip Tablosu | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 114,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-guvenilir-bilgi",
+      "title": "Güvenilir Bilgi Seçme | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Güvenilir Bilgi Seçme | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 119,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-guvenli-oyun-kurallari",
+      "title": "Güvenli Oyun Kuralları | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Güvenli Oyun Kuralları | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 107,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-guvenli-saka",
+      "title": "Güvenli Şaka ve Mizah | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Güvenli Şaka ve Mizah | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 106,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-guvenli-sosyal-medya",
+      "title": "Sınıfta Güvenli Sosyal Medya Konuşması | PDR Kampüs",
+      "h1": [
+        "Sınıfta Güvenli Sosyal Medya Konuşması"
+      ],
+      "description_length": 127,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinifta-guvenli-tartisma",
+      "title": "Sınıfta Güvenli Tartışma Kuralları | PDR Kampüs",
+      "h1": [
+        "Sınıfta Güvenli Tartışma Kuralları"
+      ],
+      "description_length": 121,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-hak-ve-sorumluluklar",
+      "title": "Haklar ve Sorumluluklar | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Haklar ve Sorumluluklar | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 116,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-isbirlikli-gorev-paylasimi",
+      "title": "İş Birlikli Görev Paylaşımı | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "İş Birlikli Görev Paylaşımı | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-kizginlikla-bas-etme",
+      "title": "Sınıfta Kızgınlıkla Baş Etme Etkinliği | PDR Kampüs",
+      "h1": [
+        "Sınıfta Kızgınlıkla Baş Etme Etkinliği"
+      ],
+      "description_length": 127,
+      "source_cards": 5,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-minik-hedefler",
+      "title": "Küçük Hedefler Belirleme | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Küçük Hedefler Belirleme | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 113,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-nezaket-dili",
+      "title": "Nezaket Dili | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Nezaket Dili | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 108,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-odaklanma-stratejileri",
+      "title": "Sınıfta Odaklanmayı Destekleyen Stratejiler | PDR Kampüs",
+      "h1": [
+        "Sınıfta Odaklanmayı Destekleyen Stratejiler"
+      ],
+      "description_length": 132,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-olumlu-akran-geribildirimi",
+      "title": "Olumlu Akran Geri Bildirimi | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Olumlu Akran Geri Bildirimi | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 130,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-ortak-karar-alma",
+      "title": "Ortak Karar Alma | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Ortak Karar Alma | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 110,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-oz-duzenleme-becerisi",
+      "title": "Sınıfta Öz Düzenleme Becerisi | PDR Kampüs",
+      "h1": [
+        "Sınıfta Öz Düzenleme Becerisi"
+      ],
+      "description_length": 118,
+      "source_cards": 7,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-ozel-alan-ve-izin",
+      "title": "Özel Alan ve İzin | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Özel Alan ve İzin | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 107,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-ozel-gunler-hassasiyet",
+      "title": "Okul Etkinliklerinde Aile Çeşitliliği | PDR Kampüs",
+      "h1": [
+        "Okul Etkinliklerinde Aile Çeşitliliği"
+      ],
+      "description_length": 169,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinifta-saygili-iletisim-kurallari",
+      "title": "Saygılı İletişim Kuralları | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Saygılı İletişim Kuralları | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 124,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-sinav-oncesi-rutin",
+      "title": "Sınav Öncesi Rutin | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Sınav Öncesi Rutin | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 116,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-uzlasma-becerisi",
+      "title": "Uzlaşma Becerisi | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Uzlaşma Becerisi | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 112,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-yardim-isteyen-ogrenci",
+      "title": "Sınıfta Yardım İsteme Becerisi | PDR Kampüs",
+      "h1": [
+        "Sınıfta Yardım İsteme Becerisi"
+      ],
+      "description_length": 119,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "sinifta-yeni-arkadasa-merhaba",
+      "title": "Yeni Arkadaşa Merhaba | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Yeni Arkadaşa Merhaba | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 122,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sinifta-zor-duyguyla-yardim-isteme",
+      "title": "Zor Duyguda Yardım İsteme | Sınıf rehberlik etkinliği | PDR Kampüs",
+      "h1": [
+        "Zor Duyguda Yardım İsteme | Sınıf rehberlik etkinliği"
+      ],
+      "description_length": 123,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sosyal-duygusal-hedef-yazma",
+      "title": "Sosyal Duygusal Öğrenme Hedefi Yazma | PDR Kampüs",
+      "h1": [
+        "Sosyal Duygusal Öğrenme Hedefi Yazma"
+      ],
+      "description_length": 133,
+      "source_cards": 3,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sosyal-kaygi-okul-destegi",
+      "title": "Sosyal Kaygı Yaşayan Öğrenciye Okul Desteği | PDR Kampüs",
+      "h1": [
+        "Sosyal Kaygı Yaşayan Öğrenciye Okul Desteği"
+      ],
+      "description_length": 140,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "sosyometri-uygulama-ve-etik",
+      "title": "Sosyometri Uygulaması: Hazırlık, Yorumlama ve Etik | PDR Kampüs",
+      "h1": [
+        "Sosyometri Uygulaması: Hazırlık, Yorumlama ve Etik"
+      ],
+      "description_length": 190,
+      "source_cards": 6,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "ustun-yetenekli-ogrenci-destegi",
+      "title": "Üstün Yetenekli Öğrenciye Okul Desteği | PDR Kampüs",
+      "h1": [
+        "Üstün Yetenekli Öğrenciye Okul Desteği"
+      ],
+      "description_length": 212,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "uyku-ve-ogrenme-ogrenci",
+      "title": "Uyku ve Öğrenme: Öğrenci Rehberliği | PDR Kampüs",
+      "h1": [
+        "Uyku ve Öğrenme: Öğrenci Rehberliği"
+      ],
+      "description_length": 132,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "uzun-devamsizlik-sonrasi-donus",
+      "title": "Uzun Devamsızlık Sonrası Okula Dönüş | PDR Kampüs",
+      "h1": [
+        "Uzun Devamsızlık Sonrası Okula Dönüş"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veli-gorusmesi-hazirlik-izleme",
+      "title": "Veli Görüşmesi: Hazırlık, Görüşme ve Takip | PDR Kampüs",
+      "h1": [
+        "Veli Görüşmesi: Hazırlık, Görüşme ve Takip"
+      ],
+      "description_length": 131,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "veli-gorusmesinde-ogrencinin-sesi",
+      "title": "Veli Görüşmesinde Öğrencinin Sesi | PDR Kampüs",
+      "h1": [
+        "Veli Görüşmesinde Öğrencinin Sesi"
+      ],
+      "description_length": 123,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veli-ile-ekran-suresi-catismasi",
+      "title": "Ekran Süresi Tartışmalarında Veli Desteği | PDR Kampüs",
+      "h1": [
+        "Ekran Süresi Tartışmalarında Veli Desteği"
+      ],
+      "description_length": 130,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veli-ile-ergenlik-catismalari",
+      "title": "Ergenlik Döneminde Veli Çatışmaları | PDR Kampüs",
+      "h1": [
+        "Ergenlik Döneminde Veli Çatışmaları"
+      ],
+      "description_length": 157,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "veli-ile-okul-reddi-gorusmesi",
+      "title": "Okula Gitmek İstemeyen Çocuk İçin Veli Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Okula Gitmek İstemeyen Çocuk İçin Veli Görüşmesi"
+      ],
+      "description_length": 142,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "veli-ile-olumlu-disiplin",
+      "title": "Veliyle Olumlu Disiplin Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Veliyle Olumlu Disiplin Görüşmesi"
+      ],
+      "description_length": 122,
+      "source_cards": 3,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "veli-iletisim-etkinligi",
+      "title": "Velilerle İletişim Becerileri Etkinliği | PDR Kampüs",
+      "h1": [
+        "Velilerle İletişim Becerileri Etkinliği"
+      ],
+      "description_length": 136,
+      "source_cards": 10,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "veli-semineri-planlama",
+      "title": "Veli Semineri Nasıl Planlanır? | PDR Kampüs",
+      "h1": [
+        "Veli Semineri Nasıl Planlanır?"
+      ],
+      "description_length": 211,
+      "source_cards": 4,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "veli-seminerinde-soru-toplama",
+      "title": "Veli Seminerinde Güvenli Soru Toplama | PDR Kampüs",
+      "h1": [
+        "Veli Seminerinde Güvenli Soru Toplama"
+      ],
+      "description_length": 128,
+      "source_cards": 4,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "veli-toplantisinda-gizlilik",
+      "title": "Veli Toplantılarında Öğrenci Gizliliği | PDR Kampüs",
+      "h1": [
+        "Veli Toplantılarında Öğrenci Gizliliği"
+      ],
+      "description_length": 135,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "veli-toplantisinda-zor-sorular",
+      "title": "Veli Toplantısında Zor Sorulara Yanıt | PDR Kampüs",
+      "h1": [
+        "Veli Toplantısında Zor Sorulara Yanıt"
+      ],
+      "description_length": 126,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliye-akran-zorbaligi-bilgilendirme",
+      "title": "Akran Zorbalığında Veli Görüşmesi | PDR Kampüs",
+      "h1": [
+        "Akran Zorbalığında Veli Görüşmesi"
+      ],
+      "description_length": 209,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "veliyle-akran-dislama",
+      "title": "Akran Dışlanmasında Veli Görüşmesi | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Akran Dışlanmasında Veli Görüşmesi | Veli rehberliği"
+      ],
+      "description_length": 134,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-arkadas-secimi",
+      "title": "Arkadaşlık Konusunda Veli Görüşmesi | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Arkadaşlık Konusunda Veli Görüşmesi | Veli rehberliği"
+      ],
+      "description_length": 143,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-cocuk-guclu-yonleri",
+      "title": "Çocuğun Güçlü Yönlerini Görmek | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Çocuğun Güçlü Yönlerini Görmek | Veli rehberliği"
+      ],
+      "description_length": 131,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-ders-basarisizligi",
+      "title": "Düşük Ders Başarısında Veli Desteği | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Düşük Ders Başarısında Veli Desteği | Veli rehberliği"
+      ],
+      "description_length": 129,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-ergen-mahremiyeti",
+      "title": "Ergen Mahremiyetine Saygı | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Ergen Mahremiyetine Saygı | Veli rehberliği"
+      ],
+      "description_length": 126,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-erteleme-gorusmesi",
+      "title": "Erteleme Konusunda Veli Görüşmesi | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Erteleme Konusunda Veli Görüşmesi | Veli rehberliği"
+      ],
+      "description_length": 130,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-guvenli-dijital-sozlesme",
+      "title": "Aile Dijital Kullanım Sözleşmesi | PDR Kampüs",
+      "h1": [
+        "Aile Dijital Kullanım Sözleşmesi"
+      ],
+      "description_length": 160,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "veliyle-kardes-kiskancligi",
+      "title": "Kardeş Kıskançlığı Konuşması | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Kardeş Kıskançlığı Konuşması | Veli rehberliği"
+      ],
+      "description_length": 131,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-lise-gecis-kaygisi",
+      "title": "Liseye Geçişte Veli Kaygısı | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Liseye Geçişte Veli Kaygısı | Veli rehberliği"
+      ],
+      "description_length": 124,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-odev-yardim-siniri",
+      "title": "Ödev Yardımının Sınırları | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Ödev Yardımının Sınırları | Veli rehberliği"
+      ],
+      "description_length": 114,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-ogretmen-sikayeti",
+      "title": "Öğretmen Şikâyetinde Veli Görüşmesi | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Öğretmen Şikâyetinde Veli Görüşmesi | Veli rehberliği"
+      ],
+      "description_length": 140,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-okul-korkusu",
+      "title": "Okul Korkusunda Aile Desteği | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Okul Korkusunda Aile Desteği | Veli rehberliği"
+      ],
+      "description_length": 131,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-okul-nakli",
+      "title": "Okul Naklinde Aile Bilgilendirmesi | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Okul Naklinde Aile Bilgilendirmesi | Veli rehberliği"
+      ],
+      "description_length": 138,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-okula-gec-kalma",
+      "title": "Okula Geç Kalma Sorununda Aile | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Okula Geç Kalma Sorununda Aile | Veli rehberliği"
+      ],
+      "description_length": 128,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-oyun-kurallari",
+      "title": "Evde Oyun Kuralları | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Evde Oyun Kuralları | Veli rehberliği"
+      ],
+      "description_length": 114,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-ozel-egitim-isbirligi",
+      "title": "Özel Eğitimde Aile–Okul İş Birliği | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Özel Eğitimde Aile–Okul İş Birliği | Veli rehberliği"
+      ],
+      "description_length": 145,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-ozgurluk-sinirlar",
+      "title": "Ergende Özgürlük ve Sınır | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Ergende Özgürlük ve Sınır | Veli rehberliği"
+      ],
+      "description_length": 123,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-rehberlik-gizlilik",
+      "title": "Rehberlik Görüşmesinde Veli ve Gizlilik | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Rehberlik Görüşmesinde Veli ve Gizlilik | Veli rehberliği"
+      ],
+      "description_length": 144,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-siber-zorbalik",
+      "title": "Siber Zorbalıkta Veli Desteği | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Siber Zorbalıkta Veli Desteği | Veli rehberliği"
+      ],
+      "description_length": 126,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-sinav-karsilastirmasi",
+      "title": "Sınav Kıyaslamasını Azaltma | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Sınav Kıyaslamasını Azaltma | Veli rehberliği"
+      ],
+      "description_length": 131,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-sinif-degisimi",
+      "title": "Sınıf Değişikliği Talebinde Görüşme | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Sınıf Değişikliği Talebinde Görüşme | Veli rehberliği"
+      ],
+      "description_length": 140,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-sorumluluk-paylasimi",
+      "title": "Ev Sorumluluklarını Paylaşma | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Ev Sorumluluklarını Paylaşma | Veli rehberliği"
+      ],
+      "description_length": 124,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-sosyal-duygusal-destek",
+      "title": "Sosyal Duygusal Gelişim İçin Evde Destek | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Sosyal Duygusal Gelişim İçin Evde Destek | Veli rehberliği"
+      ],
+      "description_length": 145,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-teknoloji-bagimlilik-endisesi",
+      "title": "Teknoloji Kullanım Kaygısı | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Teknoloji Kullanım Kaygısı | Veli rehberliği"
+      ],
+      "description_length": 131,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-uyku-duzeni",
+      "title": "Uyku Düzeni İçin Veli Bilgilendirmesi | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Uyku Düzeni İçin Veli Bilgilendirmesi | Veli rehberliği"
+      ],
+      "description_length": 138,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "veliyle-yalan-soyleme",
+      "title": "Çocuğun Gerçeği Saklamasını Konuşma | Veli rehberliği | PDR Kampüs",
+      "h1": [
+        "Çocuğun Gerçeği Saklamasını Konuşma | Veli rehberliği"
+      ],
+      "description_length": 134,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "yas-sonrasi-veli-iletisimi",
+      "title": "Kayıp Sonrasında Veliyle İletişim | PDR Kampüs",
+      "h1": [
+        "Kayıp Sonrasında Veliyle İletişim"
+      ],
+      "description_length": 130,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "yas-yasayan-ogrenciye-okul-destegi",
+      "title": "Yas Yaşayan Öğrenciye Okul Desteği | PDR Kampüs",
+      "h1": [
+        "Yas Yaşayan Öğrenciye Okul Desteği"
+      ],
+      "description_length": 123,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "yeni-rehber-ogretmen-ilk-ay",
+      "title": "Yeni Atanan Rehber Öğretmenin İlk Ay Planı | PDR Kampüs",
+      "h1": [
+        "Yeni Atanan Rehber Öğretmenin İlk Ay Planı"
+      ],
+      "description_length": 139,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "yks-bolum-meslek-arastirmasi",
+      "title": "YKS Bölüm ve Meslek Araştırması | PDR Kampüs",
+      "h1": [
+        "YKS Bölüm ve Meslek Araştırması"
+      ],
+      "description_length": 128,
+      "source_cards": 2,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "yks-deneme-analizi-rehberi",
+      "title": "YKS Deneme Analizi Görüşmesi | PDR Kampüs",
+      "h1": [
+        "YKS Deneme Analizi Görüşmesi"
+      ],
+      "description_length": 157,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "yks-tercih-bilgi-dogrulama",
+      "title": "YKS Tercihinde Bilgi Doğrulama Kontrolü | PDR Kampüs",
+      "h1": [
+        "YKS Tercihinde Bilgi Doğrulama Kontrolü"
+      ],
+      "description_length": 128,
+      "source_cards": 3,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "yks-tercih-gorusmesi-hazirligi",
+      "title": "YKS Tercih Görüşmesi: Öğrenciyle Hazırlık | PDR Kampüs",
+      "h1": [
+        "YKS Tercih Görüşmesi: Öğrenciyle Hazırlık"
+      ],
+      "description_length": 186,
+      "source_cards": 1,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "yks-tercih-karar-tablosu",
+      "title": "YKS Tercihleri İçin Karar Tablosu | PDR Kampüs",
+      "h1": [
+        "YKS Tercihleri İçin Karar Tablosu"
+      ],
+      "description_length": 130,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "yks-tercihinde-aile-baskisi",
+      "title": "YKS Tercihinde Aile Baskısını Konuşma | PDR Kampüs",
+      "h1": [
+        "YKS Tercihinde Aile Baskısını Konuşma"
+      ],
+      "description_length": 121,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "zor-veli-gorusmesi",
+      "title": "Zor Veli Görüşmelerini Yönetme | PDR Kampüs",
+      "h1": [
+        "Zor Veli Görüşmelerini Yönetme"
+      ],
+      "description_length": 127,
+      "source_cards": 0,
+      "issues": [
+        "document_relevance_not_verified",
+        "no_resource_cards"
+      ]
+    },
+    {
+      "slug": "zorbalik-akran-arabuluculugu-ayrimi",
+      "title": "Akran arabuluculuğu ayrımı | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Akran arabuluculuğu ayrımı | Akran Zorbalığı"
+      ],
+      "description_length": 119,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-akran-grubunda-guc-farki",
+      "title": "Akran grubunda güç farkı | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Akran grubunda güç farkı | Akran Zorbalığı"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-anonim-bildirim-sinirlari",
+      "title": "Anonim bildirim sınırları | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Anonim bildirim sınırları | Akran Zorbalığı"
+      ],
+      "description_length": 118,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-dijital-kaniti-koruma",
+      "title": "Dijital kanıtı koruma | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Dijital kanıtı koruma | Akran Zorbalığı"
+      ],
+      "description_length": 114,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-fiziksel-zorbalikta-guvenlik",
+      "title": "Fiziksel zorbalıkta güvenlik | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Fiziksel zorbalıkta güvenlik | Akran Zorbalığı"
+      ],
+      "description_length": 121,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-grup-mudahalesi-sinirlari",
+      "title": "Grup müdahalesi sınırları | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Grup müdahalesi sınırları | Akran Zorbalığı"
+      ],
+      "description_length": 118,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-grup-sohbetinde-alay",
+      "title": "Grup sohbetinde alay | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Grup sohbetinde alay | Akran Zorbalığı"
+      ],
+      "description_length": 113,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-guvenli-okul-iklimi-geri-bildirimi",
+      "title": "Güvenli okul iklimi geri bildirimi | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Güvenli okul iklimi geri bildirimi | Akran Zorbalığı"
+      ],
+      "description_length": 127,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-lakapla-hedef-gosterme",
+      "title": "Lakapla hedef gösterme | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Lakapla hedef gösterme | Akran Zorbalığı"
+      ],
+      "description_length": 115,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-magdur-ogrenciyi-dinleme",
+      "title": "Mağdur öğrenciyi dinleme | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Mağdur öğrenciyi dinleme | Akran Zorbalığı"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-misilleme-riskini-izleme",
+      "title": "Misilleme riskini izleme | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Misilleme riskini izleme | Akran Zorbalığı"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-ogretmenden-gozlem-alma",
+      "title": "Öğretmenden gözlem alma | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Öğretmenden gözlem alma | Akran Zorbalığı"
+      ],
+      "description_length": 116,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-okul-ici-koruyucu-ag",
+      "title": "Okul içi koruyucu ağ | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Okul içi koruyucu ağ | Akran Zorbalığı"
+      ],
+      "description_length": 113,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-olay-sonrasi-izleme-tarihi",
+      "title": "Olay sonrası izleme tarihi | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Olay sonrası izleme tarihi | Akran Zorbalığı"
+      ],
+      "description_length": 119,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-oyun-alaninda-dislanma",
+      "title": "Oyun alanında dışlanma | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Oyun alanında dışlanma | Akran Zorbalığı"
+      ],
+      "description_length": 115,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-sinif-dilinde-ayrimcilik",
+      "title": "Sınıf dilinde ayrımcılık | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Sınıf dilinde ayrımcılık | Akran Zorbalığı"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-sinifta-soylenti-dongusu",
+      "title": "Sınıfta söylenti döngüsü | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Sınıfta söylenti döngüsü | Akran Zorbalığı"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-sosyal-dislama-davranisi",
+      "title": "Sosyal dışlama davranışı | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Sosyal dışlama davranışı | Akran Zorbalığı"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-sozlu-zorbalik-bildirimi",
+      "title": "Sözlü zorbalık bildirimi | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Sözlü zorbalık bildirimi | Akran Zorbalığı"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-tanik-ogrenciyi-destekleme",
+      "title": "Tanık öğrenciyi destekleme | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Tanık öğrenciyi destekleme | Akran Zorbalığı"
+      ],
+      "description_length": 119,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-tekrarlanan-olay-kayitlari",
+      "title": "Tekrarlanan olay kayıtları | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Tekrarlanan olay kayıtları | Akran Zorbalığı"
+      ],
+      "description_length": 119,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-teneffus-guvenligi-plani",
+      "title": "Teneffüs güvenliği planı | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Teneffüs güvenliği planı | Akran Zorbalığı"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-veli-ilk-bilgilendirme",
+      "title": "Zorbalık Sonrası Veli Bilgilendirmesi | PDR Kampüs",
+      "h1": [
+        "Zorbalık Sonrası Veli Bilgilendirmesi"
+      ],
+      "description_length": 134,
+      "source_cards": 11,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-veliye-guvenli-bilgilendirme",
+      "title": "Veliye güvenli bilgilendirme | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Veliye güvenli bilgilendirme | Akran Zorbalığı"
+      ],
+      "description_length": 121,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-zarar-verici-davranis-gorusmesi",
+      "title": "Zarar verici davranış görüşmesi | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Zarar verici davranış görüşmesi | Akran Zorbalığı"
+      ],
+      "description_length": 124,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalik-zorbalik-sonrasi-aidiyet",
+      "title": "Zorbalık sonrası aidiyet | Akran Zorbalığı | PDR Kampüs",
+      "h1": [
+        "Zorbalık sonrası aidiyet | Akran Zorbalığı"
+      ],
+      "description_length": 117,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    },
+    {
+      "slug": "zorbalikta-tanik-ogrenci-destegi",
+      "title": "Zorbalığa Tanık Olan Öğrenciyi Destekleme | PDR Kampüs",
+      "h1": [
+        "Zorbalığa Tanık Olan Öğrenciyi Destekleme"
+      ],
+      "description_length": 130,
+      "source_cards": 9,
+      "issues": [
+        "document_relevance_not_verified"
+      ]
+    }
+  ]
+}

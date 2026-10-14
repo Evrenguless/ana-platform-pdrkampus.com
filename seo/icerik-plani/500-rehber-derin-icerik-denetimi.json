@@ -1,0 +1,9248 @@
+{
+  "audit": "Source manuscript, structural heuristics; not a professional content approval",
+  "expected_total": 500,
+  "json_manuscripts_checked": 495,
+  "initial_hardcoded_guides_not_in_json": 5,
+  "draft_html_count": 500,
+  "batch_counts": [
+    {
+      "batch": 2,
+      "count": 10
+    },
+    {
+      "batch": 3,
+      "count": 14
+    },
+    {
+      "batch": 4,
+      "count": 21
+    },
+    {
+      "batch": 5,
+      "count": 20
+    },
+    {
+      "batch": 6,
+      "count": 30
+    },
+    {
+      "batch": 7,
+      "count": 25
+    },
+    {
+      "batch": 8,
+      "count": 25
+    },
+    {
+      "batch": 9,
+      "count": 25
+    },
+    {
+      "batch": 10,
+      "count": 25
+    },
+    {
+      "batch": 11,
+      "count": 25
+    },
+    {
+      "batch": 12,
+      "count": 25
+    },
+    {
+      "batch": 13,
+      "count": 25
+    },
+    {
+      "batch": 14,
+      "count": 25
+    },
+    {
+      "batch": 15,
+      "count": 25
+    },
+    {
+      "batch": 16,
+      "count": 25
+    },
+    {
+      "batch": 17,
+      "count": 25
+    },
+    {
+      "batch": 18,
+      "count": 25
+    },
+    {
+      "batch": 19,
+      "count": 25
+    },
+    {
+      "batch": 20,
+      "count": 25
+    },
+    {
+      "batch": 21,
+      "count": 25
+    },
+    {
+      "batch": 22,
+      "count": 25
+    }
+  ],
+  "core_word_buckets": {
+    "125-199": 20,
+    "200-299": 410,
+    "300+": 65
+  },
+  "core_word_avg": 260.7,
+  "under_125_main_words": 0,
+  "under_75_main_words": 0,
+  "duplicate_seo_titles": [],
+  "reused_faq_answers": [],
+  "reused_heading_patterns": [
+    {
+      "count": 25,
+      "slugs": [
+        "lise-alan-secimini-degerlendirme",
+        "lise-universite-arastirma-plani",
+        "lise-akademik-ilgi-haritasi",
+        "lise-meslek-golgeleme-etkinligi",
+        "lise-staj-ve-gozlem-deneyimi",
+        "lise-gelecek-belirsizligiyle-bas-etme",
+        "lise-aile-kariyer-beklentisi",
+        "lise-akranla-akademik-kiyaslama",
+        "lise-sinav-sonuclarini-yorumlama",
+        "lise-etkili-deneme-geri-bildirimi",
+        "lise-ders-programi-esnekligi",
+        "lise-gunluk-yasam-ve-uyku-dengesi",
+        "lise-uzun-vadeli-hedef-bolme",
+        "lise-dijital-guvenlik-ve-mahremiyet",
+        "lise-sosyal-iliskilerde-riza",
+        "lise-guvenilir-yetiskine-basvuru",
+        "lise-kendini-ifade-etme-becerisi",
+        "lise-farkli-goruslere-saygi",
+        "lise-mesleki-deger-kesfi",
+        "lise-bolum-karsilastirma-cizelgesi",
+        "lise-gonullu-toplumsal-katki",
+        "lise-okul-kulubunde-sorumluluk",
+        "lise-mezuniyet-sonrasi-secenekler",
+        "lise-sinav-donemi-aile-iletisimi",
+        "lise-yeni-ortama-gecis-hazirligi"
+      ],
+      "sample": "i̇htiyacı ve karar koşullarını anlamak|öğrenciyle yapılacak somut uygulama|i̇zleme ve değerlendirme|öğrencinin karar hakkı ve güvenli sınırlar|takip görüşmesinin odağı|lisede öğren"
+    },
+    {
+      "count": 17,
+      "slugs": [
+        "sinav-kaygisi-ilk-gorusme",
+        "siber-zorbalik-ilk-mudahale",
+        "devamsizlik-veli-gorusmesi",
+        "okulda-duygu-tanima",
+        "yeni-rehber-ogretmen-ilk-ay",
+        "okulda-duygusal-guvenlik",
+        "lgs-veli-tercih-bilgilendirme",
+        "yks-tercih-karar-tablosu",
+        "ogrenci-gorusmesinde-gizlilik",
+        "akran-zorbaligi-tanigi",
+        "ogrencide-oz-duzenleme",
+        "sinav-sonrasi-hayal-kirikligi",
+        "ilkokul-uyum-veli-oturumu",
+        "sinif-rehber-ogretmeni-gorusme",
+        "sosyal-kaygi-okul-destegi",
+        "mesleki-karar-yanilgilari",
+        "okulda-dijital-denge"
+      ],
+      "sample": "durumun öğrenci açısından anlamı|güvenlik ve mesleki sınırlar|konuya özgü uygulama|okul ekibiyle iş birliği|i̇zleme ve düzeltme|somut değerlendirme ve öğrenci deneyimi|okulda uygul"
+    },
+    {
+      "count": 4,
+      "slugs": [
+        "okul-rehberlik-ihtiyac-analizi",
+        "zor-veli-gorusmesi",
+        "ogrencide-sorumluluk-becerisi",
+        "ekran-kullanimi-veli-destegi"
+      ],
+      "sample": "durumun öğrenci açısından anlamı|güvenlik ve mesleki sınırlar|konuya özgü uygulama|okul ekibiyle iş birliği|i̇zleme ve düzeltme|i̇htiyacı okul bağlamında ayrıştırma|konuya özgü uyg"
+    }
+  ],
+  "reused_full_section_paragraphs": [
+    {
+      "count": 25,
+      "slugs": [
+        "zorbalik-sozlu-zorbalik-bildirimi",
+        "zorbalik-fiziksel-zorbalikta-guvenlik",
+        "zorbalik-sosyal-dislama-davranisi",
+        "zorbalik-grup-sohbetinde-alay",
+        "zorbalik-lakapla-hedef-gosterme",
+        "zorbalik-akran-grubunda-guc-farki",
+        "zorbalik-tanik-ogrenciyi-destekleme",
+        "zorbalik-magdur-ogrenciyi-dinleme",
+        "zorbalik-zarar-verici-davranis-gorusmesi",
+        "zorbalik-ogretmenden-gozlem-alma",
+        "zorbalik-veliye-guvenli-bilgilendirme",
+        "zorbalik-misilleme-riskini-izleme",
+        "zorbalik-teneffus-guvenligi-plani",
+        "zorbalik-sinifta-soylenti-dongusu",
+        "zorbalik-dijital-kaniti-koruma",
+        "zorbalik-anonim-bildirim-sinirlari",
+        "zorbalik-okul-ici-koruyucu-ag",
+        "zorbalik-zorbalik-sonrasi-aidiyet",
+        "zorbalik-tekrarlanan-olay-kayitlari",
+        "zorbalik-grup-mudahalesi-sinirlari",
+        "zorbalik-akran-arabuluculugu-ayrimi",
+        "zorbalik-olay-sonrasi-izleme-tarihi",
+        "zorbalik-sinif-dilinde-ayrimcilik",
+        "zorbalik-oyun-alaninda-dislanma",
+        "zorbalik-guvenli-okul-iklimi-geri-bildirimi"
+      ],
+      "sample": "öğretmen, rehberlik servisi ve ilgili okul görevlilerinin koruyucu görevlerini netleştirin. öğrenciye yönelik güvenlik önlemlerini başvuru sürecinden ayrı tutmayın."
+    },
+    {
+      "count": 25,
+      "slugs": [
+        "sinav-sinav-kaygisi-erken-belirtiler",
+        "sinav-sinav-oncesi-kaygi-dusunceleri",
+        "sinav-sinav-gunu-hazirligi",
+        "sinav-deneme-analizi-gorusmesi",
+        "sinav-zaman-baskisini-yonetme",
+        "sinav-yanlis-sorulari-siniflandirma",
+        "sinav-konu-eksiklerini-belirleme",
+        "sinav-tekrara-baslama-stratejisi",
+        "sinav-dusuk-puan-sonrasi-destek",
+        "sinav-yuksek-beklenti-baskisi",
+        "sinav-aile-deneme-sonucu-iletisimi",
+        "sinav-uyku-ve-dinlenme-plani",
+        "sinav-kiyaslama-dilini-azaltma",
+        "sinav-gercekci-net-hedefi",
+        "sinav-kucuk-calisma-oturumlari",
+        "sinav-sinavda-yardim-isteme",
+        "sinav-ogrenme-stratejisi-secme",
+        "sinav-okul-ve-kurs-yuk-dengesi",
+        "sinav-tercih-bilgi-kaynagi",
+        "sinav-program-kosulu-inceleme",
+        "sinav-lgs-yerlestirme-bilgisi",
+        "sinav-yks-tercih-sirasi-degerlendirme",
+        "sinav-sinav-sonrasi-belirsizlik",
+        "sinav-sinav-sonucunu-aileye-aciklama",
+        "sinav-yeni-doneme-gecis-hedefi"
+      ],
+      "sample": "öğretmenle yalnızca öğrencinin öğrenme ve güvenlik ihtiyaçları için gerekli uygulamaları paylaşın. aileye kişisel görüşme ayrıntılarını aktarmadan destekleyici günlük davranışlar ö"
+    }
+  ],
+  "issues_by_kind": {
+    "section_under_15_words": 136,
+    "mandatory_specialist_review": 32,
+    "example_under_20_words": 85
+  },
+  "publication_approved": false,
+  "limitations": [
+    "Initial five hardcoded guides require separate review in builder source and rendered HTML.",
+    "Counts are based on JSON author text; rendered shared page templates are excluded.",
+    "No external resource URLs or source relevance were verified.",
+    "No clinical, legal, or professional accuracy approval has been performed.",
+    "Mobile layout requires real browser/device inspection.",
+    "Topic-intent overlap and semantic similarity need human editorial review."
+  ],
+  "pages": [
+    {
+      "slug": "sinav-kaygisi-ogrenci-destegi",
+      "batch": 2,
+      "title": "Sınav Kaygısı: Öğrenciyle Görüşme ve Destek Planı",
+      "main_section_words": 274,
+      "editorial_total_words": 421,
+      "section_lengths": [
+        20,
+        24,
+        20,
+        18,
+        22,
+        16,
+        55,
+        53,
+        46
+      ],
+      "issues": []
+    },
+    {
+      "slug": "devamsizlik-erken-mudahale",
+      "batch": 2,
+      "title": "Devamsızlık: Okulda Erken Müdahale ve Öğrenci Takibi",
+      "main_section_words": 231,
+      "editorial_total_words": 352,
+      "section_lengths": [
+        14,
+        18,
+        13,
+        16,
+        19,
+        15,
+        49,
+        48,
+        39
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinif-rehberligi-etkinlik-tasarimi",
+      "batch": 2,
+      "title": "Sınıf Rehberliği Etkinliği Nasıl Tasarlanır?",
+      "main_section_words": 230,
+      "editorial_total_words": 363,
+      "section_lengths": [
+        15,
+        21,
+        14,
+        19,
+        13,
+        15,
+        45,
+        48,
+        40
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sosyometri-uygulama-ve-etik",
+      "batch": 2,
+      "title": "Sosyometri Uygulaması: Hazırlık, Yorumlama ve Etik",
+      "main_section_words": 232,
+      "editorial_total_words": 367,
+      "section_lengths": [
+        14,
+        20,
+        15,
+        17,
+        11,
+        14,
+        47,
+        57,
+        37
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ergenlik-ogrenci-veli-rehberligi",
+      "batch": 2,
+      "title": "Ergenlik Döneminde Öğrenci ve Veli Rehberliği",
+      "main_section_words": 235,
+      "editorial_total_words": 372,
+      "section_lengths": [
+        12,
+        23,
+        13,
+        15,
+        12,
+        15,
+        53,
+        47,
+        45
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "kariyer-ilgi-yetenek-kesfi",
+      "batch": 2,
+      "title": "Mesleki Rehberlikte İlgi ve Yetenekleri Keşfetme",
+      "main_section_words": 229,
+      "editorial_total_words": 365,
+      "section_lengths": [
+        14,
+        20,
+        15,
+        14,
+        15,
+        11,
+        49,
+        53,
+        38
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "siber-zorbalik-okul-mudahalesi",
+      "batch": 2,
+      "title": "Siber Zorbalık: Okulda Güvenlik ve Müdahale",
+      "main_section_words": 226,
+      "editorial_total_words": 355,
+      "section_lengths": [
+        13,
+        20,
+        12,
+        14,
+        13,
+        17,
+        46,
+        51,
+        40
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinav-sonrasi-ogrenci-gorusmesi",
+      "batch": 2,
+      "title": "Sınav Sonrası Öğrenci Görüşmesi: Sonuçları Değerlendirme",
+      "main_section_words": 228,
+      "editorial_total_words": 363,
+      "section_lengths": [
+        12,
+        20,
+        12,
+        12,
+        14,
+        14,
+        52,
+        53,
+        39
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-kaynastirma-sinif-destegi",
+      "batch": 2,
+      "title": "Kaynaştırma Öğrencisi İçin Sınıf İçi Destek ve Uyarlamalar",
+      "main_section_words": 364,
+      "editorial_total_words": 526,
+      "section_lengths": [
+        32,
+        27,
+        24,
+        42,
+        58,
+        44,
+        70,
+        67
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-kriz-ilk-degerlendirme",
+      "batch": 2,
+      "title": "Okulda Kriz Bildirimi: İlk Değerlendirme ve Güvenli Yönlendirme",
+      "main_section_words": 388,
+      "editorial_total_words": 552,
+      "section_lengths": [
+        23,
+        21,
+        27,
+        27,
+        64,
+        54,
+        39,
+        70,
+        63
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "akran-catismasi-arabuluculuk-sinirlari",
+      "batch": 3,
+      "title": "Akran Çatışması: Okulda Güvenli Çözüm Yolları",
+      "main_section_words": 267,
+      "editorial_total_words": 399,
+      "section_lengths": [
+        18,
+        22,
+        18,
+        16,
+        19,
+        13,
+        57,
+        55,
+        49
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-ofke-duzenleme-etkinligi",
+      "batch": 3,
+      "title": "Öfke Düzenleme: Sınıf Rehberliği Etkinliği",
+      "main_section_words": 259,
+      "editorial_total_words": 379,
+      "section_lengths": [
+        15,
+        22,
+        15,
+        15,
+        16,
+        19,
+        56,
+        52,
+        49
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-ozguven-destekleme",
+      "batch": 3,
+      "title": "Özgüven ve Öz Yeterlik: Öğrenciye Destek",
+      "main_section_words": 243,
+      "editorial_total_words": 360,
+      "section_lengths": [
+        16,
+        18,
+        15,
+        17,
+        10,
+        14,
+        53,
+        52,
+        48
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-empati-gelistirme",
+      "batch": 3,
+      "title": "Empati Geliştirme: İlkokul ve Ortaokul Etkinlikleri",
+      "main_section_words": 239,
+      "editorial_total_words": 360,
+      "section_lengths": [
+        11,
+        17,
+        12,
+        14,
+        14,
+        12,
+        56,
+        57,
+        46
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "guvenli-internet-veli-semineri",
+      "batch": 3,
+      "title": "Güvenli İnternet Kullanımı: Veli Semineri Planı",
+      "main_section_words": 236,
+      "editorial_total_words": 379,
+      "section_lengths": [
+        11,
+        19,
+        13,
+        16,
+        16,
+        15,
+        49,
+        58,
+        39
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-yas-ve-kayip-destegi",
+      "batch": 3,
+      "title": "Okulda Yas ve Kayıp: Öğrenciye Duyarlı Destek",
+      "main_section_words": 234,
+      "editorial_total_words": 346,
+      "section_lengths": [
+        14,
+        21,
+        13,
+        9,
+        14,
+        15,
+        53,
+        48,
+        47
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "saglikli-akran-iliskileri-etkinligi",
+      "batch": 3,
+      "title": "Sağlıklı Akran İlişkileri: Sınıf Etkinliği",
+      "main_section_words": 223,
+      "editorial_total_words": 336,
+      "section_lengths": [
+        12,
+        16,
+        11,
+        13,
+        11,
+        11,
+        48,
+        54,
+        47
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ogrenci-gorusmesi-ilk-oturum",
+      "batch": 3,
+      "title": "Öğrenciyle İlk Görüşme: Güven, Amaç ve Sınırlar",
+      "main_section_words": 235,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        12,
+        20,
+        12,
+        12,
+        12,
+        12,
+        49,
+        58,
+        48
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-sinir-koyma-becerileri",
+      "batch": 3,
+      "title": "Sınır Koyma Becerileri: Öğrenci Etkinlikleri",
+      "main_section_words": 236,
+      "editorial_total_words": 359,
+      "section_lengths": [
+        12,
+        23,
+        10,
+        17,
+        14,
+        12,
+        56,
+        50,
+        42
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "yks-tercih-gorusmesi-hazirligi",
+      "batch": 3,
+      "title": "YKS Tercih Görüşmesi: Öğrenciyle Hazırlık",
+      "main_section_words": 244,
+      "editorial_total_words": 377,
+      "section_lengths": [
+        11,
+        17,
+        20,
+        16,
+        14,
+        13,
+        53,
+        55,
+        45
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lgs-sinav-sonrasi-tercih-destegi",
+      "batch": 3,
+      "title": "LGS Sonrası Tercih Sürecinde Rehberlik",
+      "main_section_words": 217,
+      "editorial_total_words": 358,
+      "section_lengths": [
+        9,
+        18,
+        13,
+        13,
+        9,
+        12,
+        46,
+        55,
+        42
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-ogretmen-musahade-gorusmesi",
+      "batch": 3,
+      "title": "Öğretmenle Rehberlik Görüşmesi: Gözlem ve İş Birliği",
+      "main_section_words": 211,
+      "editorial_total_words": 337,
+      "section_lengths": [
+        12,
+        14,
+        13,
+        11,
+        10,
+        11,
+        43,
+        53,
+        44
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "aile-okul-iletisimi-zor-gorusmeler",
+      "batch": 3,
+      "title": "Zor Veli Görüşmeleri: İletişim ve Çözüm Adımları",
+      "main_section_words": 227,
+      "editorial_total_words": 352,
+      "section_lengths": [
+        11,
+        19,
+        11,
+        11,
+        13,
+        14,
+        53,
+        53,
+        42
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "bireyi-tanima-gozlem-formu",
+      "batch": 3,
+      "title": "Bireyi Tanımada Gözlem Formu: Hazırlama ve Kullanma",
+      "main_section_words": 223,
+      "editorial_total_words": 342,
+      "section_lengths": [
+        8,
+        17,
+        15,
+        9,
+        8,
+        10,
+        52,
+        54,
+        50
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "rehberlik-yillik-plan-hazirlama",
+      "batch": 4,
+      "title": "Yıllık Rehberlik Planı Hazırlama",
+      "main_section_words": 230,
+      "editorial_total_words": 411,
+      "section_lengths": [
+        11,
+        19,
+        7,
+        9,
+        8,
+        11,
+        61,
+        57,
+        47
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "veli-semineri-planlama",
+      "batch": 4,
+      "title": "Veli Semineri Nasıl Planlanır?",
+      "main_section_words": 215,
+      "editorial_total_words": 374,
+      "section_lengths": [
+        8,
+        15,
+        7,
+        8,
+        8,
+        9,
+        51,
+        61,
+        48
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ogrenci-izleme-formu-hazirlama",
+      "batch": 4,
+      "title": "Öğrenci İzleme Formu Hazırlama",
+      "main_section_words": 216,
+      "editorial_total_words": 376,
+      "section_lengths": [
+        8,
+        17,
+        7,
+        9,
+        10,
+        6,
+        55,
+        55,
+        49
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-problem-cozme-becerisi",
+      "batch": 4,
+      "title": "Problem Çözme: Sınıf Rehberliği Etkinliği",
+      "main_section_words": 209,
+      "editorial_total_words": 371,
+      "section_lengths": [
+        9,
+        14,
+        8,
+        7,
+        8,
+        10,
+        55,
+        48,
+        50
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okul-terki-risk-isaretleri",
+      "batch": 4,
+      "title": "Okul Terki Riski ve Erken Destek",
+      "main_section_words": 220,
+      "editorial_total_words": 376,
+      "section_lengths": [
+        8,
+        17,
+        6,
+        10,
+        7,
+        7,
+        54,
+        58,
+        53
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "bep-toplantisi-gundemi",
+      "batch": 4,
+      "title": "BEP Toplantısı: Gündem ve Ekip Kararları",
+      "main_section_words": 354,
+      "editorial_total_words": 523,
+      "section_lengths": [
+        25,
+        15,
+        16,
+        54,
+        55,
+        51,
+        75,
+        63
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-ogrenme-guclugu-okul-destegi",
+      "batch": 4,
+      "title": "Öğrenme Güçlüğü Yaşayan Öğrenciyi Destekleme",
+      "main_section_words": 208,
+      "editorial_total_words": 365,
+      "section_lengths": [
+        9,
+        18,
+        7,
+        8,
+        6,
+        10,
+        47,
+        50,
+        53
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-akran-dislanmasi",
+      "batch": 4,
+      "title": "Akran Dışlanmasında Okul Müdahalesi",
+      "main_section_words": 207,
+      "editorial_total_words": 352,
+      "section_lengths": [
+        11,
+        18,
+        7,
+        7,
+        6,
+        8,
+        49,
+        51,
+        50
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinav-donemi-veli-iletisimi",
+      "batch": 4,
+      "title": "Sınav Döneminde Veli İletişimi",
+      "main_section_words": 213,
+      "editorial_total_words": 390,
+      "section_lengths": [
+        8,
+        15,
+        9,
+        10,
+        7,
+        8,
+        50,
+        53,
+        53
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "meslek-tanitim-etkinligi",
+      "batch": 4,
+      "title": "Meslek Tanıtımı Etkinliği Hazırlama",
+      "main_section_words": 220,
+      "editorial_total_words": 379,
+      "section_lengths": [
+        8,
+        17,
+        8,
+        9,
+        9,
+        7,
+        52,
+        55,
+        55
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "psikolojik-saglamlik-sinif-calismasi",
+      "batch": 4,
+      "title": "Psikolojik Sağlamlık Sınıf Çalışması",
+      "main_section_words": 214,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        8,
+        19,
+        9,
+        9,
+        6,
+        7,
+        51,
+        56,
+        49
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "akademik-erteleme-ogrenci-gorusmesi",
+      "batch": 4,
+      "title": "Akademik Erteleme: Öğrenci Görüşmesi",
+      "main_section_words": 213,
+      "editorial_total_words": 366,
+      "section_lengths": [
+        7,
+        18,
+        9,
+        7,
+        7,
+        8,
+        47,
+        57,
+        53
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ortaokulda-arkadaslik-becerileri",
+      "batch": 4,
+      "title": "Ortaokulda Arkadaşlık Becerileri",
+      "main_section_words": 206,
+      "editorial_total_words": 359,
+      "section_lengths": [
+        9,
+        16,
+        8,
+        8,
+        8,
+        8,
+        47,
+        51,
+        51
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-ihmal-istismar-bildirimi",
+      "batch": 4,
+      "title": "İhmal ve İstismar Şüphesinde İlk Okul Adımları",
+      "main_section_words": 381,
+      "editorial_total_words": 572,
+      "section_lengths": [
+        31,
+        16,
+        19,
+        57,
+        55,
+        57,
+        73,
+        73
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "rehberlik-servisi-evrak-duzeni",
+      "batch": 4,
+      "title": "Rehberlik Servisi Evrak ve Arşiv Düzeni",
+      "main_section_words": 223,
+      "editorial_total_words": 390,
+      "section_lengths": [
+        10,
+        18,
+        8,
+        8,
+        7,
+        9,
+        55,
+        56,
+        52
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ustun-yetenekli-ogrenci-destegi",
+      "batch": 4,
+      "title": "Üstün Yetenekli Öğrenciye Okul Desteği",
+      "main_section_words": 209,
+      "editorial_total_words": 344,
+      "section_lengths": [
+        8,
+        18,
+        9,
+        6,
+        8,
+        7,
+        50,
+        51,
+        52
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "veliye-akran-zorbaligi-bilgilendirme",
+      "batch": 4,
+      "title": "Akran Zorbalığında Veli Görüşmesi",
+      "main_section_words": 204,
+      "editorial_total_words": 345,
+      "section_lengths": [
+        7,
+        17,
+        8,
+        6,
+        8,
+        7,
+        52,
+        49,
+        50
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "grup-rehberligi-oturum-planlama",
+      "batch": 4,
+      "title": "Grup Rehberliği Oturumu Planlama",
+      "main_section_words": 211,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        8,
+        16,
+        8,
+        8,
+        9,
+        9,
+        50,
+        53,
+        50
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "cocuklarda-dijital-mahremiyet",
+      "batch": 4,
+      "title": "Çocuklarda Dijital Mahremiyet Etkinliği",
+      "main_section_words": 206,
+      "editorial_total_words": 351,
+      "section_lengths": [
+        9,
+        20,
+        8,
+        8,
+        7,
+        6,
+        49,
+        51,
+        48
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-yardim-isteme-becerisi",
+      "batch": 4,
+      "title": "İlkokulda Yardım İsteme Becerisi",
+      "main_section_words": 212,
+      "editorial_total_words": 374,
+      "section_lengths": [
+        8,
+        20,
+        5,
+        7,
+        9,
+        8,
+        48,
+        53,
+        54
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinifta-degerler-egitimi-saygi",
+      "batch": 4,
+      "title": "Saygı ve Farklılıklar Sınıf Etkinliği",
+      "main_section_words": 207,
+      "editorial_total_words": 368,
+      "section_lengths": [
+        8,
+        18,
+        8,
+        6,
+        7,
+        8,
+        50,
+        46,
+        56
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinav-kaygisi-ilk-gorusme",
+      "batch": 5,
+      "title": "Sınav Kaygısı: İlk Öğrenci Görüşmesi",
+      "main_section_words": 201,
+      "editorial_total_words": 354,
+      "section_lengths": [
+        26,
+        20,
+        11,
+        16,
+        20,
+        55,
+        53
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "siber-zorbalik-ilk-mudahale",
+      "batch": 5,
+      "title": "Siber Zorbalık Bildiriminde İlk Müdahale",
+      "main_section_words": 185,
+      "editorial_total_words": 341,
+      "section_lengths": [
+        18,
+        14,
+        12,
+        16,
+        21,
+        51,
+        53
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "bep-olculebilir-hedef",
+      "batch": 5,
+      "title": "BEP'te Ölçülebilir Hedef Nasıl Yazılır?",
+      "main_section_words": 333,
+      "editorial_total_words": 526,
+      "section_lengths": [
+        18,
+        15,
+        27,
+        19,
+        57,
+        53,
+        70,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "devamsizlik-veli-gorusmesi",
+      "batch": 5,
+      "title": "Devamsızlık İçin Veli Görüşmesi",
+      "main_section_words": 183,
+      "editorial_total_words": 327,
+      "section_lengths": [
+        16,
+        17,
+        11,
+        17,
+        21,
+        47,
+        54
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-duygu-tanima",
+      "batch": 5,
+      "title": "Sınıf İçinde Duyguları Tanıma Etkinliği",
+      "main_section_words": 184,
+      "editorial_total_words": 331,
+      "section_lengths": [
+        18,
+        16,
+        11,
+        16,
+        20,
+        49,
+        54
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "yeni-rehber-ogretmen-ilk-ay",
+      "batch": 5,
+      "title": "Yeni Atanan Rehber Öğretmenin İlk Ay Planı",
+      "main_section_words": 186,
+      "editorial_total_words": 338,
+      "section_lengths": [
+        18,
+        15,
+        11,
+        14,
+        22,
+        57,
+        49
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-duygusal-guvenlik",
+      "batch": 5,
+      "title": "Sınıfta Duygusal Güvenlik Oluşturma",
+      "main_section_words": 180,
+      "editorial_total_words": 327,
+      "section_lengths": [
+        17,
+        15,
+        12,
+        15,
+        20,
+        46,
+        55
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lgs-veli-tercih-bilgilendirme",
+      "batch": 5,
+      "title": "LGS Tercih Döneminde Veli Bilgilendirmesi",
+      "main_section_words": 180,
+      "editorial_total_words": 322,
+      "section_lengths": [
+        17,
+        17,
+        12,
+        16,
+        21,
+        46,
+        51
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "yks-tercih-karar-tablosu",
+      "batch": 5,
+      "title": "YKS Tercihleri İçin Karar Tablosu",
+      "main_section_words": 175,
+      "editorial_total_words": 316,
+      "section_lengths": [
+        21,
+        15,
+        12,
+        15,
+        21,
+        46,
+        45
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ogrenci-gorusmesinde-gizlilik",
+      "batch": 5,
+      "title": "Öğrenci Görüşmesinde Gizlilik ve Kayıt",
+      "main_section_words": 176,
+      "editorial_total_words": 314,
+      "section_lengths": [
+        19,
+        16,
+        9,
+        15,
+        20,
+        49,
+        48
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "akran-zorbaligi-tanigi",
+      "batch": 5,
+      "title": "Akran Zorbalığına Tanık Olan Öğrenci",
+      "main_section_words": 162,
+      "editorial_total_words": 290,
+      "section_lengths": [
+        12,
+        15,
+        10,
+        15,
+        19,
+        44,
+        47
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ogrencide-oz-duzenleme",
+      "batch": 5,
+      "title": "Öğrencide Öz Düzenleme Becerileri",
+      "main_section_words": 177,
+      "editorial_total_words": 328,
+      "section_lengths": [
+        14,
+        16,
+        11,
+        15,
+        21,
+        45,
+        55
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinav-sonrasi-hayal-kirikligi",
+      "batch": 5,
+      "title": "Sınav Sonrası Hayal Kırıklığı Görüşmesi",
+      "main_section_words": 182,
+      "editorial_total_words": 332,
+      "section_lengths": [
+        21,
+        14,
+        14,
+        14,
+        21,
+        52,
+        46
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-uyum-veli-oturumu",
+      "batch": 5,
+      "title": "İlkokulda Okula Uyum İçin Veli Oturumu",
+      "main_section_words": 165,
+      "editorial_total_words": 299,
+      "section_lengths": [
+        13,
+        17,
+        11,
+        15,
+        18,
+        46,
+        45
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinif-rehber-ogretmeni-gorusme",
+      "batch": 5,
+      "title": "Sınıf Rehber Öğretmeniyle Görüşme",
+      "main_section_words": 162,
+      "editorial_total_words": 299,
+      "section_lengths": [
+        15,
+        15,
+        12,
+        16,
+        18,
+        44,
+        42
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sosyal-kaygi-okul-destegi",
+      "batch": 5,
+      "title": "Sosyal Kaygı Yaşayan Öğrenciye Okul Desteği",
+      "main_section_words": 165,
+      "editorial_total_words": 290,
+      "section_lengths": [
+        16,
+        14,
+        11,
+        16,
+        19,
+        41,
+        48
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-veli-isbirligi",
+      "batch": 5,
+      "title": "Özel Eğitimde Veli İş Birliği Planı",
+      "main_section_words": 303,
+      "editorial_total_words": 483,
+      "section_lengths": [
+        15,
+        16,
+        23,
+        20,
+        48,
+        45,
+        67,
+        69
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-kriz-sonrasi-rutin",
+      "batch": 5,
+      "title": "Kriz Sonrası Sınıf Rutinine Dönüş",
+      "main_section_words": 305,
+      "editorial_total_words": 493,
+      "section_lengths": [
+        15,
+        15,
+        26,
+        21,
+        39,
+        44,
+        71,
+        74
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "mesleki-karar-yanilgilari",
+      "batch": 5,
+      "title": "Meslek Seçiminde Yaygın Karar Yanılgıları",
+      "main_section_words": 154,
+      "editorial_total_words": 284,
+      "section_lengths": [
+        13,
+        14,
+        14,
+        14,
+        19,
+        39,
+        41
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-dijital-denge",
+      "batch": 5,
+      "title": "Okulda Dijital Denge Çalışması",
+      "main_section_words": 169,
+      "editorial_total_words": 319,
+      "section_lengths": [
+        16,
+        16,
+        14,
+        18,
+        20,
+        39,
+        46
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okul-rehberlik-ihtiyac-analizi",
+      "batch": 6,
+      "title": "Okul Rehberlik İhtiyaç Analizi",
+      "main_section_words": 148,
+      "editorial_total_words": 281,
+      "section_lengths": [
+        14,
+        15,
+        10,
+        15,
+        19,
+        37,
+        38
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "rehberlik-faaliyet-raporu",
+      "batch": 6,
+      "title": "Rehberlik Faaliyet Raporu Yazma",
+      "main_section_words": 283,
+      "editorial_total_words": 410,
+      "section_lengths": [
+        24,
+        26,
+        19,
+        32,
+        39,
+        69,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinif-rehberlik-etkinligi-tasarimi",
+      "batch": 6,
+      "title": "Sınıf Rehberliği Etkinliği Tasarlama",
+      "main_section_words": 283,
+      "editorial_total_words": 412,
+      "section_lengths": [
+        24,
+        27,
+        18,
+        36,
+        35,
+        70,
+        73
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrenci-risk-bildirimi-ilk-adim",
+      "batch": 6,
+      "title": "Öğrenci Risk Bildiriminde İlk Adımlar",
+      "main_section_words": 300,
+      "editorial_total_words": 477,
+      "section_lengths": [
+        28,
+        28,
+        19,
+        36,
+        41,
+        72,
+        76
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "okul-aidiyetini-gelistirme",
+      "batch": 6,
+      "title": "Okul Aidiyetini Geliştirme",
+      "main_section_words": 277,
+      "editorial_total_words": 402,
+      "section_lengths": [
+        28,
+        23,
+        21,
+        31,
+        32,
+        68,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zor-veli-gorusmesi",
+      "batch": 6,
+      "title": "Zor Veli Görüşmelerini Yönetme",
+      "main_section_words": 141,
+      "editorial_total_words": 276,
+      "section_lengths": [
+        13,
+        15,
+        13,
+        16,
+        20,
+        27,
+        37
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ogretmenle-ogrenci-vaka-gorusmesi",
+      "batch": 6,
+      "title": "Öğretmenle Öğrenci Destek Görüşmesi",
+      "main_section_words": 270,
+      "editorial_total_words": 389,
+      "section_lengths": [
+        26,
+        24,
+        17,
+        28,
+        33,
+        70,
+        72
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-veli-ilk-bilgilendirme",
+      "batch": 6,
+      "title": "Zorbalık Sonrası Veli Bilgilendirmesi",
+      "main_section_words": 273,
+      "editorial_total_words": 397,
+      "section_lengths": [
+        30,
+        23,
+        19,
+        27,
+        35,
+        68,
+        71
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ergenlik-veli-rehberligi",
+      "batch": 6,
+      "title": "Ergenlikte Değişimler: Veli Rehberi",
+      "main_section_words": 284,
+      "editorial_total_words": 402,
+      "section_lengths": [
+        27,
+        22,
+        20,
+        35,
+        32,
+        74,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veli-iletisim-etkinligi",
+      "batch": 6,
+      "title": "Velilerle İletişim Becerileri Etkinliği",
+      "main_section_words": 267,
+      "editorial_total_words": 386,
+      "section_lengths": [
+        23,
+        23,
+        22,
+        29,
+        33,
+        70,
+        67
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-arkadas-anlasmazligi",
+      "batch": 6,
+      "title": "İlkokulda Arkadaşlık Anlaşmazlığı",
+      "main_section_words": 277,
+      "editorial_total_words": 403,
+      "section_lengths": [
+        28,
+        29,
+        19,
+        33,
+        29,
+        67,
+        72
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-akran-baskisi",
+      "batch": 6,
+      "title": "Ortaokulda Akran Baskısıyla Baş Etme",
+      "main_section_words": 276,
+      "editorial_total_words": 408,
+      "section_lengths": [
+        23,
+        31,
+        21,
+        29,
+        33,
+        68,
+        71
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrencide-sorumluluk-becerisi",
+      "batch": 6,
+      "title": "Öğrencide Sorumluluk Becerisi",
+      "main_section_words": 143,
+      "editorial_total_words": 276,
+      "section_lengths": [
+        14,
+        15,
+        13,
+        15,
+        20,
+        35,
+        31
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ekran-kullanimi-veli-destegi",
+      "batch": 6,
+      "title": "Ekran Kullanımında Veli Desteği",
+      "main_section_words": 144,
+      "editorial_total_words": 281,
+      "section_lengths": [
+        15,
+        15,
+        9,
+        17,
+        22,
+        29,
+        37
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "cocukta-guvenli-yardim-isteme",
+      "batch": 6,
+      "title": "Çocuklara Güvenli Yardım İsteme Öğretimi",
+      "main_section_words": 276,
+      "editorial_total_words": 400,
+      "section_lengths": [
+        24,
+        28,
+        20,
+        30,
+        34,
+        69,
+        71
+      ],
+      "issues": []
+    },
+    {
+      "slug": "oz-saygi-sinif-etkinligi",
+      "batch": 6,
+      "title": "Öz Saygıyı Güçlendirme Sınıf Etkinliği",
+      "main_section_words": 281,
+      "editorial_total_words": 402,
+      "section_lengths": [
+        26,
+        25,
+        18,
+        35,
+        32,
+        71,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "uyku-ve-ogrenme-ogrenci",
+      "batch": 6,
+      "title": "Uyku ve Öğrenme: Öğrenci Rehberliği",
+      "main_section_words": 283,
+      "editorial_total_words": 414,
+      "section_lengths": [
+        26,
+        29,
+        19,
+        34,
+        32,
+        71,
+        72
+      ],
+      "issues": []
+    },
+    {
+      "slug": "lgs-kaygi-grup-calismasi",
+      "batch": 6,
+      "title": "LGS Kaygısı İçin Grup Çalışması",
+      "main_section_words": 272,
+      "editorial_total_words": 397,
+      "section_lengths": [
+        26,
+        26,
+        20,
+        26,
+        35,
+        71,
+        68
+      ],
+      "issues": []
+    },
+    {
+      "slug": "yks-bolum-meslek-arastirmasi",
+      "batch": 6,
+      "title": "YKS Bölüm ve Meslek Araştırması",
+      "main_section_words": 284,
+      "editorial_total_words": 407,
+      "section_lengths": [
+        25,
+        27,
+        19,
+        33,
+        32,
+        73,
+        75
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ram-yonlendirme-gorusmesi",
+      "batch": 6,
+      "title": "RAM Yönlendirmesi Öncesi Görüşme",
+      "main_section_words": 270,
+      "editorial_total_words": 388,
+      "section_lengths": [
+        22,
+        28,
+        18,
+        32,
+        31,
+        69,
+        70
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrenci-hedef-belirleme-gorusmesi",
+      "batch": 6,
+      "title": "Öğrenciyle Gerçekçi Hedef Belirleme",
+      "main_section_words": 266,
+      "editorial_total_words": 391,
+      "section_lengths": [
+        25,
+        24,
+        19,
+        25,
+        34,
+        70,
+        69
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-isbirlikci-oyun",
+      "batch": 6,
+      "title": "İlkokulda İş Birlikçi Oyun",
+      "main_section_words": 281,
+      "editorial_total_words": 406,
+      "section_lengths": [
+        28,
+        23,
+        20,
+        32,
+        31,
+        71,
+        76
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinav-oz-bakim-plani",
+      "batch": 6,
+      "title": "Sınav Döneminde Öz Bakım Planı",
+      "main_section_words": 282,
+      "editorial_total_words": 404,
+      "section_lengths": [
+        26,
+        26,
+        18,
+        28,
+        35,
+        75,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogretmen-zorbalik-gozlem-formu",
+      "batch": 6,
+      "title": "Öğretmen İçin Zorbalık Gözlem Rehberi",
+      "main_section_words": 272,
+      "editorial_total_words": 385,
+      "section_lengths": [
+        27,
+        23,
+        19,
+        34,
+        29,
+        70,
+        70
+      ],
+      "issues": []
+    },
+    {
+      "slug": "yas-sonrasi-veli-iletisimi",
+      "batch": 6,
+      "title": "Kayıp Sonrasında Veliyle İletişim",
+      "main_section_words": 283,
+      "editorial_total_words": 402,
+      "section_lengths": [
+        27,
+        24,
+        19,
+        35,
+        33,
+        73,
+        72
+      ],
+      "issues": []
+    },
+    {
+      "slug": "bep-guclu-yonler",
+      "batch": 6,
+      "title": "BEP'te Güçlü Yönleri Belirleme",
+      "main_section_words": 278,
+      "editorial_total_words": 400,
+      "section_lengths": [
+        30,
+        23,
+        17,
+        29,
+        33,
+        74,
+        72
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinav-sonrasi-geri-bildirim",
+      "batch": 6,
+      "title": "Sınav Sonrası Öğrenciye Geri Bildirim",
+      "main_section_words": 272,
+      "editorial_total_words": 398,
+      "section_lengths": [
+        24,
+        27,
+        20,
+        28,
+        33,
+        71,
+        69
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlik-servisine-basvuru",
+      "batch": 6,
+      "title": "Rehberlik Servisine Nasıl Başvurulur?",
+      "main_section_words": 280,
+      "editorial_total_words": 402,
+      "section_lengths": [
+        28,
+        25,
+        20,
+        31,
+        31,
+        70,
+        75
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veli-toplantisinda-gizlilik",
+      "batch": 6,
+      "title": "Veli Toplantılarında Öğrenci Gizliliği",
+      "main_section_words": 269,
+      "editorial_total_words": 385,
+      "section_lengths": [
+        24,
+        25,
+        20,
+        27,
+        29,
+        70,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sosyal-duygusal-hedef-yazma",
+      "batch": 6,
+      "title": "Sosyal Duygusal Öğrenme Hedefi Yazma",
+      "main_section_words": 266,
+      "editorial_total_words": 398,
+      "section_lengths": [
+        25,
+        25,
+        18,
+        24,
+        30,
+        71,
+        73
+      ],
+      "issues": []
+    },
+    {
+      "slug": "devamsizlik-ogrenci-ilk-gorusme",
+      "batch": 7,
+      "title": "Devamsızlık Yapan Öğrenciyle İlk Görüşme",
+      "main_section_words": 241,
+      "editorial_total_words": 392,
+      "section_lengths": [
+        27,
+        24,
+        19,
+        19,
+        25,
+        65,
+        62
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrenciye-yapici-geri-bildirim",
+      "batch": 7,
+      "title": "Öğrenciye Yapıcı Geri Bildirim Verme",
+      "main_section_words": 227,
+      "editorial_total_words": 368,
+      "section_lengths": [
+        22,
+        24,
+        18,
+        20,
+        20,
+        66,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-guvenli-basvuru-yollari",
+      "batch": 7,
+      "title": "Okulda Güvenli Başvuru Yolları",
+      "main_section_words": 225,
+      "editorial_total_words": 357,
+      "section_lengths": [
+        17,
+        22,
+        19,
+        17,
+        22,
+        69,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "etik-ikilem-okul-psikolojik-danisma",
+      "batch": 7,
+      "title": "Okul Psikolojik Danışmanlığında Etik İkilemler",
+      "main_section_words": 227,
+      "editorial_total_words": 369,
+      "section_lengths": [
+        23,
+        24,
+        17,
+        18,
+        21,
+        66,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-sosyal-kaygi-gozlemi",
+      "batch": 7,
+      "title": "Okulda Sosyal Kaygı Gözlemi",
+      "main_section_words": 220,
+      "editorial_total_words": 351,
+      "section_lengths": [
+        15,
+        24,
+        18,
+        18,
+        22,
+        64,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinav-hazirliginda-gercekci-program",
+      "batch": 7,
+      "title": "Sınava Hazırlıkta Gerçekçi Program",
+      "main_section_words": 225,
+      "editorial_total_words": 365,
+      "section_lengths": [
+        20,
+        26,
+        17,
+        18,
+        22,
+        63,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "uzun-devamsizlik-sonrasi-donus",
+      "batch": 7,
+      "title": "Uzun Devamsızlık Sonrası Okula Dönüş",
+      "main_section_words": 224,
+      "editorial_total_words": 358,
+      "section_lengths": [
+        17,
+        22,
+        20,
+        18,
+        21,
+        68,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "nakille-gelen-ogrenci-uyumu",
+      "batch": 7,
+      "title": "Nakille Gelen Öğrencinin Okula Uyumu",
+      "main_section_words": 251,
+      "editorial_total_words": 389,
+      "section_lengths": [
+        17,
+        22,
+        19,
+        17,
+        50,
+        72,
+        54
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrencide-karar-verme-etkinligi",
+      "batch": 7,
+      "title": "Öğrencilerde Karar Verme Etkinliği",
+      "main_section_words": 212,
+      "editorial_total_words": 333,
+      "section_lengths": [
+        18,
+        21,
+        16,
+        18,
+        20,
+        62,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "guclu-yon-kesfi-sinifta",
+      "batch": 7,
+      "title": "Sınıfta Güçlü Yön Keşfi",
+      "main_section_words": 220,
+      "editorial_total_words": 347,
+      "section_lengths": [
+        21,
+        22,
+        17,
+        18,
+        23,
+        59,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "guvenli-internet-veliler-icin",
+      "batch": 7,
+      "title": "Veliler İçin Güvenli İnternet Rehberi",
+      "main_section_words": 234,
+      "editorial_total_words": 379,
+      "section_lengths": [
+        23,
+        24,
+        19,
+        19,
+        22,
+        68,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "bep-hedef-izleme-toplantisi",
+      "batch": 7,
+      "title": "BEP Hedef İzleme Toplantısı",
+      "main_section_words": 357,
+      "editorial_total_words": 532,
+      "section_lengths": [
+        16,
+        22,
+        19,
+        17,
+        20,
+        68,
+        58,
+        70,
+        67
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-akran-destegi-planlama",
+      "batch": 7,
+      "title": "Sınıfta Akran Desteği Planlama",
+      "main_section_words": 213,
+      "editorial_total_words": 328,
+      "section_lengths": [
+        19,
+        18,
+        18,
+        17,
+        20,
+        64,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veli-gorusmesinde-ogrencinin-sesi",
+      "batch": 7,
+      "title": "Veli Görüşmesinde Öğrencinin Sesi",
+      "main_section_words": 216,
+      "editorial_total_words": 341,
+      "section_lengths": [
+        19,
+        22,
+        17,
+        18,
+        21,
+        61,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinif-iklimi-anketi",
+      "batch": 7,
+      "title": "Sınıf İklimi Anketi Hazırlama",
+      "main_section_words": 225,
+      "editorial_total_words": 358,
+      "section_lengths": [
+        22,
+        22,
+        19,
+        17,
+        21,
+        66,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "cocuklarda-kisisel-sinirlar",
+      "batch": 7,
+      "title": "Çocuklarda Kişisel Sınırlar",
+      "main_section_words": 224,
+      "editorial_total_words": 359,
+      "section_lengths": [
+        22,
+        24,
+        18,
+        18,
+        20,
+        65,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-oz-yeterlik",
+      "batch": 7,
+      "title": "Okulda Öz Yeterlik Becerisini Destekleme",
+      "main_section_words": 213,
+      "editorial_total_words": 338,
+      "section_lengths": [
+        16,
+        23,
+        18,
+        19,
+        21,
+        58,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrencilerde-dijital-iz-farkindaligi",
+      "batch": 7,
+      "title": "Dijital İz Farkındalığı Etkinliği",
+      "main_section_words": 217,
+      "editorial_total_words": 344,
+      "section_lengths": [
+        17,
+        22,
+        18,
+        18,
+        21,
+        63,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-psikososyal-destek-basvurusu",
+      "batch": 7,
+      "title": "Okulda Psikososyal Destek Başvurusu",
+      "main_section_words": 217,
+      "editorial_total_words": 341,
+      "section_lengths": [
+        18,
+        21,
+        18,
+        18,
+        21,
+        63,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrencide-sosyal-sorumluluk",
+      "batch": 7,
+      "title": "Öğrencide Sosyal Sorumluluk",
+      "main_section_words": 214,
+      "editorial_total_words": 335,
+      "section_lengths": [
+        19,
+        22,
+        18,
+        18,
+        20,
+        60,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "saglikli-sinav-hedefleri",
+      "batch": 7,
+      "title": "Sağlıklı Sınav Hedefleri Belirleme",
+      "main_section_words": 209,
+      "editorial_total_words": 327,
+      "section_lengths": [
+        19,
+        21,
+        17,
+        17,
+        21,
+        56,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokulda-guvenli-arkadas-secimi",
+      "batch": 7,
+      "title": "Ortaokulda Güvenli Arkadaşlık",
+      "main_section_words": 216,
+      "editorial_total_words": 332,
+      "section_lengths": [
+        21,
+        19,
+        18,
+        18,
+        21,
+        61,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-motivasyon-dalgalanmasi",
+      "batch": 7,
+      "title": "Öğrenme Motivasyonu Dalgalanması",
+      "main_section_words": 229,
+      "editorial_total_words": 365,
+      "section_lengths": [
+        19,
+        23,
+        19,
+        18,
+        22,
+        69,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrencilerde-zaman-yonetimi",
+      "batch": 7,
+      "title": "Öğrenciler İçin Zaman Yönetimi",
+      "main_section_words": 222,
+      "editorial_total_words": 351,
+      "section_lengths": [
+        22,
+        21,
+        18,
+        18,
+        21,
+        64,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-guvenilir-yetiskin-haritasi",
+      "batch": 7,
+      "title": "Güvenilir Yetişkin Haritası Etkinliği",
+      "main_section_words": 230,
+      "editorial_total_words": 370,
+      "section_lengths": [
+        16,
+        24,
+        19,
+        20,
+        22,
+        70,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-kariyer-farkindaligi",
+      "batch": 8,
+      "title": "Okulda Kariyer Farkındalığı",
+      "main_section_words": 219,
+      "editorial_total_words": 345,
+      "section_lengths": [
+        19,
+        22,
+        18,
+        18,
+        22,
+        61,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "meslek-degerleri-etkinligi",
+      "batch": 8,
+      "title": "Mesleki Değerleri Keşfetme Etkinliği",
+      "main_section_words": 214,
+      "editorial_total_words": 333,
+      "section_lengths": [
+        14,
+        20,
+        18,
+        17,
+        21,
+        66,
+        58
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinifta-duygu-duzenleme-kosesi",
+      "batch": 8,
+      "title": "Sınıfta Duygu Düzenleme Köşesi",
+      "main_section_words": 219,
+      "editorial_total_words": 347,
+      "section_lengths": [
+        18,
+        23,
+        18,
+        19,
+        21,
+        62,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "saldirgan-davranis-sonrasi-gorusme",
+      "batch": 8,
+      "title": "Zarar Verici Davranış Sonrası Öğrenci Görüşmesi",
+      "main_section_words": 220,
+      "editorial_total_words": 357,
+      "section_lengths": [
+        21,
+        23,
+        17,
+        19,
+        21,
+        61,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokulda-hata-yapma-korkusu",
+      "batch": 8,
+      "title": "İlkokulda Hata Yapma Korkusunu Azaltma",
+      "main_section_words": 212,
+      "editorial_total_words": 329,
+      "section_lengths": [
+        14,
+        20,
+        18,
+        19,
+        21,
+        62,
+        58
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-yalnizlik-ogrenci-gorusmesi",
+      "batch": 8,
+      "title": "Okulda Yalnızlık Hisseden Öğrenciyle Görüşme",
+      "main_section_words": 281,
+      "editorial_total_words": 401,
+      "section_lengths": [
+        15,
+        20,
+        18,
+        19,
+        52,
+        61,
+        57,
+        39
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veli-ile-okul-reddi-gorusmesi",
+      "batch": 8,
+      "title": "Okula Gitmek İstemeyen Çocuk İçin Veli Görüşmesi",
+      "main_section_words": 230,
+      "editorial_total_words": 375,
+      "section_lengths": [
+        16,
+        24,
+        19,
+        20,
+        22,
+        70,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-oz-farkindalik-etkinligi",
+      "batch": 8,
+      "title": "Okulda Öz Farkındalık Etkinliği",
+      "main_section_words": 217,
+      "editorial_total_words": 340,
+      "section_lengths": [
+        11,
+        22,
+        19,
+        19,
+        23,
+        63,
+        60
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-stres-belirtileri",
+      "batch": 8,
+      "title": "Okulda Stres Belirtilerini Fark Etme",
+      "main_section_words": 212,
+      "editorial_total_words": 328,
+      "section_lengths": [
+        15,
+        19,
+        17,
+        19,
+        21,
+        63,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-guvenli-tartisma",
+      "batch": 8,
+      "title": "Sınıfta Güvenli Tartışma Kuralları",
+      "main_section_words": 222,
+      "editorial_total_words": 346,
+      "section_lengths": [
+        14,
+        21,
+        19,
+        20,
+        22,
+        67,
+        59
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ogrenciyle-ders-calisma-engelleri",
+      "batch": 8,
+      "title": "Ders Çalışma Engellerini Öğrenciyle Belirleme",
+      "main_section_words": 226,
+      "editorial_total_words": 350,
+      "section_lengths": [
+        16,
+        18,
+        18,
+        18,
+        25,
+        69,
+        62
+      ],
+      "issues": []
+    },
+    {
+      "slug": "lise-ogrencisinde-kimlik-kesfi",
+      "batch": 8,
+      "title": "Lisede Kimlik ve İlgi Keşfi",
+      "main_section_words": 217,
+      "editorial_total_words": 337,
+      "section_lengths": [
+        18,
+        19,
+        19,
+        19,
+        21,
+        63,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-ogrenme-guclugu-ilk-gozlem",
+      "batch": 8,
+      "title": "Öğrenme Güçlüğü İçin İlk Okul Gözlemi",
+      "main_section_words": 225,
+      "editorial_total_words": 363,
+      "section_lengths": [
+        17,
+        23,
+        18,
+        18,
+        23,
+        65,
+        61
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrenci-ile-gizlilik-siniri-anlatma",
+      "batch": 8,
+      "title": "Öğrenciye Gizliliğin Sınırlarını Anlatma",
+      "main_section_words": 232,
+      "editorial_total_words": 361,
+      "section_lengths": [
+        17,
+        21,
+        17,
+        19,
+        22,
+        69,
+        67
+      ],
+      "issues": []
+    },
+    {
+      "slug": "akran-zorbaligi-izleme-plani",
+      "batch": 8,
+      "title": "Akran Zorbalığı Sonrası İzleme Planı",
+      "main_section_words": 220,
+      "editorial_total_words": 347,
+      "section_lengths": [
+        14,
+        21,
+        17,
+        19,
+        22,
+        68,
+        59
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "veli-seminerinde-soru-toplama",
+      "batch": 8,
+      "title": "Veli Seminerinde Güvenli Soru Toplama",
+      "main_section_words": 223,
+      "editorial_total_words": 346,
+      "section_lengths": [
+        14,
+        19,
+        19,
+        20,
+        23,
+        68,
+        60
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-motivasyon-gorusmesi",
+      "batch": 8,
+      "title": "Öğrenci Motivasyon Görüşmesi",
+      "main_section_words": 222,
+      "editorial_total_words": 348,
+      "section_lengths": [
+        12,
+        23,
+        19,
+        19,
+        23,
+        66,
+        60
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinifta-empatik-dinleme",
+      "batch": 8,
+      "title": "Sınıfta Empatik Dinleme Etkinliği",
+      "main_section_words": 215,
+      "editorial_total_words": 333,
+      "section_lengths": [
+        10,
+        22,
+        19,
+        20,
+        22,
+        63,
+        59
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "devamsizlik-erken-uyari-verileri",
+      "batch": 8,
+      "title": "Devamsızlık İçin Erken Uyarı Verileri",
+      "main_section_words": 219,
+      "editorial_total_words": 346,
+      "section_lengths": [
+        13,
+        22,
+        18,
+        20,
+        22,
+        65,
+        59
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-akran-catismasi-sonrasi",
+      "batch": 8,
+      "title": "Akran Çatışması Sonrası Takip",
+      "main_section_words": 214,
+      "editorial_total_words": 335,
+      "section_lengths": [
+        12,
+        21,
+        19,
+        18,
+        21,
+        65,
+        58
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "yks-tercihinde-aile-baskisi",
+      "batch": 8,
+      "title": "YKS Tercihinde Aile Baskısını Konuşma",
+      "main_section_words": 224,
+      "editorial_total_words": 352,
+      "section_lengths": [
+        13,
+        21,
+        18,
+        19,
+        24,
+        68,
+        61
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lgs-sonrasi-okula-uyum",
+      "batch": 8,
+      "title": "LGS Sonrası Liseye Uyum Hazırlığı",
+      "main_section_words": 222,
+      "editorial_total_words": 344,
+      "section_lengths": [
+        13,
+        19,
+        19,
+        19,
+        23,
+        69,
+        60
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ram-sonrasi-okul-destegi",
+      "batch": 8,
+      "title": "RAM Değerlendirmesi Sonrası Okul Desteği",
+      "main_section_words": 222,
+      "editorial_total_words": 347,
+      "section_lengths": [
+        14,
+        20,
+        19,
+        20,
+        21,
+        69,
+        59
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "psikolojik-danisma-yonlendirme-siniri",
+      "batch": 8,
+      "title": "Okulda Psikolojik Danışma ve Yönlendirme Sınırı",
+      "main_section_words": 219,
+      "editorial_total_words": 350,
+      "section_lengths": [
+        14,
+        22,
+        18,
+        17,
+        22,
+        67,
+        59
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "rehberlikte-kayit-guvenligi",
+      "batch": 8,
+      "title": "Rehberlik Kayıtlarında Bilgi Güvenliği",
+      "main_section_words": 227,
+      "editorial_total_words": 360,
+      "section_lengths": [
+        16,
+        23,
+        19,
+        19,
+        22,
+        69,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okul-psikolojik-danisma-ilk-randevu",
+      "batch": 9,
+      "title": "Okul Psikolojik Danışmasında İlk Randevu",
+      "main_section_words": 234,
+      "editorial_total_words": 385,
+      "section_lengths": [
+        21,
+        24,
+        23,
+        22,
+        20,
+        65,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrenci-gorusmesinde-acik-uclu-sorular",
+      "batch": 9,
+      "title": "Öğrenci Görüşmesinde Açık Uçlu Soru Örnekleri",
+      "main_section_words": 228,
+      "editorial_total_words": 377,
+      "section_lengths": [
+        21,
+        23,
+        24,
+        19,
+        20,
+        62,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinif-rehber-ogretmeni-is-birligi",
+      "batch": 9,
+      "title": "Sınıf Rehber Öğretmeniyle İş Birliği",
+      "main_section_words": 231,
+      "editorial_total_words": 384,
+      "section_lengths": [
+        22,
+        22,
+        23,
+        20,
+        20,
+        65,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-gizli-bilgi-paylasimi",
+      "batch": 9,
+      "title": "Okulda Öğrenci Bilgisi Paylaşımının Sınırları",
+      "main_section_words": 230,
+      "editorial_total_words": 382,
+      "section_lengths": [
+        19,
+        23,
+        23,
+        21,
+        19,
+        67,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "siber-zorbalik-ilk-basvuru",
+      "batch": 9,
+      "title": "Siber Zorbalıkta İlk Öğrenci Başvurusu",
+      "main_section_words": 252,
+      "editorial_total_words": 416,
+      "section_lengths": [
+        18,
+        23,
+        24,
+        24,
+        23,
+        70,
+        70
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalikta-tanik-ogrenci-destegi",
+      "batch": 9,
+      "title": "Zorbalığa Tanık Olan Öğrenciyi Destekleme",
+      "main_section_words": 229,
+      "editorial_total_words": 379,
+      "section_lengths": [
+        20,
+        23,
+        23,
+        19,
+        20,
+        65,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-kriz-sonrasi-sinif-bilgilendirmesi",
+      "batch": 9,
+      "title": "Okul Krizi Sonrası Sınıf Bilgilendirmesi",
+      "main_section_words": 374,
+      "editorial_total_words": 569,
+      "section_lengths": [
+        20,
+        23,
+        23,
+        22,
+        22,
+        65,
+        69,
+        66,
+        64
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "yas-yasayan-ogrenciye-okul-destegi",
+      "batch": 9,
+      "title": "Yas Yaşayan Öğrenciye Okul Desteği",
+      "main_section_words": 244,
+      "editorial_total_words": 395,
+      "section_lengths": [
+        20,
+        25,
+        24,
+        22,
+        21,
+        64,
+        68
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinav-kaygisi-kucuk-grup",
+      "batch": 9,
+      "title": "Sınav Kaygısı İçin Küçük Grup Çalışması",
+      "main_section_words": 239,
+      "editorial_total_words": 399,
+      "section_lengths": [
+        20,
+        24,
+        25,
+        24,
+        20,
+        67,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "yks-tercih-bilgi-dogrulama",
+      "batch": 9,
+      "title": "YKS Tercihinde Bilgi Doğrulama Kontrolü",
+      "main_section_words": 246,
+      "editorial_total_words": 408,
+      "section_lengths": [
+        20,
+        26,
+        25,
+        21,
+        22,
+        71,
+        61
+      ],
+      "issues": []
+    },
+    {
+      "slug": "lgs-tercih-veli-gorusmesi",
+      "batch": 9,
+      "title": "LGS Tercih Döneminde Veli Görüşmesi",
+      "main_section_words": 229,
+      "editorial_total_words": 375,
+      "section_lengths": [
+        17,
+        23,
+        24,
+        20,
+        20,
+        66,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-guvenli-sosyal-medya",
+      "batch": 9,
+      "title": "Sınıfta Güvenli Sosyal Medya Konuşması",
+      "main_section_words": 238,
+      "editorial_total_words": 392,
+      "section_lengths": [
+        18,
+        24,
+        26,
+        20,
+        22,
+        67,
+        61
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-oz-duzenleme-becerisi",
+      "batch": 9,
+      "title": "Sınıfta Öz Düzenleme Becerisi",
+      "main_section_words": 230,
+      "editorial_total_words": 376,
+      "section_lengths": [
+        20,
+        23,
+        23,
+        20,
+        20,
+        65,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-grup-calismasi-gonulluluk",
+      "batch": 9,
+      "title": "Rehberlik Grup Çalışmalarında Gönüllülük",
+      "main_section_words": 225,
+      "editorial_total_words": 365,
+      "section_lengths": [
+        15,
+        23,
+        23,
+        21,
+        21,
+        62,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "akran-arabuluculuk-sinirlari",
+      "batch": 9,
+      "title": "Akran Arabuluculuğunun Sınırları",
+      "main_section_words": 243,
+      "editorial_total_words": 402,
+      "section_lengths": [
+        21,
+        25,
+        24,
+        21,
+        21,
+        71,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-beslenme-uyku-ogrenme",
+      "batch": 9,
+      "title": "Uyku ve Beslenmenin Öğrenmeyle İlişkisi",
+      "main_section_words": 242,
+      "editorial_total_words": 403,
+      "section_lengths": [
+        20,
+        24,
+        26,
+        21,
+        21,
+        70,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-akran-dahil-etme-etkinligi",
+      "batch": 9,
+      "title": "Sınıfta Akran Dahil Etme Etkinliği",
+      "main_section_words": 226,
+      "editorial_total_words": 371,
+      "section_lengths": [
+        18,
+        23,
+        26,
+        20,
+        18,
+        64,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veli-ile-ekran-suresi-catismasi",
+      "batch": 9,
+      "title": "Ekran Süresi Tartışmalarında Veli Desteği",
+      "main_section_words": 232,
+      "editorial_total_words": 382,
+      "section_lengths": [
+        18,
+        23,
+        24,
+        21,
+        21,
+        65,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrenci-gorusmesinde-sessizlik",
+      "batch": 9,
+      "title": "Öğrenci Görüşmesinde Sessizlikle Çalışma",
+      "main_section_words": 231,
+      "editorial_total_words": 381,
+      "section_lengths": [
+        17,
+        24,
+        23,
+        21,
+        20,
+        67,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-veli-ogretmen-iletisim-plani",
+      "batch": 9,
+      "title": "Veli–Öğretmen İletişim Planı",
+      "main_section_words": 225,
+      "editorial_total_words": 366,
+      "section_lengths": [
+        21,
+        21,
+        22,
+        20,
+        20,
+        62,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-bep-aile-katilimi",
+      "batch": 9,
+      "title": "BEP Sürecine Aile Katılımı",
+      "main_section_words": 229,
+      "editorial_total_words": 375,
+      "section_lengths": [
+        17,
+        23,
+        24,
+        20,
+        20,
+        65,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ram-yonlendirme-oncesi-ogretmen-gozlemi",
+      "batch": 9,
+      "title": "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi",
+      "main_section_words": 223,
+      "editorial_total_words": 364,
+      "section_lengths": [
+        19,
+        23,
+        21,
+        19,
+        20,
+        61,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrencide-sorumluluk-geri-kazandirma",
+      "batch": 9,
+      "title": "Öğrencide Sorumluluğu Yeniden Kurma",
+      "main_section_words": 226,
+      "editorial_total_words": 368,
+      "section_lengths": [
+        20,
+        24,
+        23,
+        20,
+        19,
+        62,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-ogrenci-gorusme-kaydi",
+      "batch": 9,
+      "title": "Öğrenci Görüşme Kaydı Hazırlama",
+      "main_section_words": 234,
+      "editorial_total_words": 384,
+      "section_lengths": [
+        19,
+        24,
+        24,
+        19,
+        21,
+        67,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-saglikli-rekabet",
+      "batch": 9,
+      "title": "Okulda Sağlıklı Rekabet ve İş Birliği",
+      "main_section_words": 233,
+      "editorial_total_words": 391,
+      "section_lengths": [
+        22,
+        24,
+        23,
+        18,
+        19,
+        69,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokulda-okula-ayrilma-kaygisi",
+      "batch": 10,
+      "title": "İlkokulda Okuldan Ayrılma Kaygısı",
+      "main_section_words": 246,
+      "editorial_total_words": 411,
+      "section_lengths": [
+        21,
+        22,
+        25,
+        23,
+        26,
+        68,
+        61
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinav-sonucu-sonrasi-ogrenci-gorusmesi",
+      "batch": 10,
+      "title": "Sınav Sonucu Sonrası Öğrenci Görüşmesi",
+      "main_section_words": 240,
+      "editorial_total_words": 402,
+      "section_lengths": [
+        22,
+        23,
+        24,
+        23,
+        23,
+        67,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ergenlerle-mahremiyet-konusmak",
+      "batch": 10,
+      "title": "Ergenlerle Mahremiyet Konuşması",
+      "main_section_words": 246,
+      "editorial_total_words": 404,
+      "section_lengths": [
+        19,
+        23,
+        24,
+        23,
+        24,
+        66,
+        67
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-ihmal-suphesinde-ilk-adim",
+      "batch": 10,
+      "title": "Okulda İhmal Şüphesinde İlk Adım",
+      "main_section_words": 392,
+      "editorial_total_words": 603,
+      "section_lengths": [
+        22,
+        22,
+        25,
+        25,
+        27,
+        65,
+        70,
+        68,
+        68
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "ogrenci-intihar-ifadesinde-acil-destek",
+      "batch": 10,
+      "title": "Öğrenci İntihar İfadesinde Acil Destek",
+      "main_section_words": 407,
+      "editorial_total_words": 625,
+      "section_lengths": [
+        23,
+        24,
+        24,
+        26,
+        27,
+        71,
+        70,
+        71,
+        71
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "sinifta-odaklanma-stratejileri",
+      "batch": 10,
+      "title": "Sınıfta Odaklanmayı Destekleyen Stratejiler",
+      "main_section_words": 231,
+      "editorial_total_words": 379,
+      "section_lengths": [
+        18,
+        21,
+        24,
+        24,
+        24,
+        61,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "akran-grubuna-katilim-gorusmesi",
+      "batch": 10,
+      "title": "Akran Grubuna Katılmakta Zorlanan Öğrenci",
+      "main_section_words": 227,
+      "editorial_total_words": 370,
+      "section_lengths": [
+        14,
+        22,
+        25,
+        22,
+        24,
+        61,
+        59
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ogrencide-sosyal-problem-cozme",
+      "batch": 10,
+      "title": "Öğrencide Sosyal Problem Çözme",
+      "main_section_words": 237,
+      "editorial_total_words": 395,
+      "section_lengths": [
+        20,
+        22,
+        24,
+        23,
+        23,
+        67,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokulda-duygulari-ifade-etme",
+      "batch": 10,
+      "title": "Ortaokulda Duyguları İfade Etme",
+      "main_section_words": 232,
+      "editorial_total_words": 386,
+      "section_lengths": [
+        18,
+        22,
+        24,
+        22,
+        23,
+        65,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veli-ile-olumlu-disiplin",
+      "batch": 10,
+      "title": "Veliyle Olumlu Disiplin Görüşmesi",
+      "main_section_words": 241,
+      "editorial_total_words": 402,
+      "section_lengths": [
+        19,
+        22,
+        25,
+        23,
+        25,
+        67,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-devamsizlik-veli-arama",
+      "batch": 10,
+      "title": "Devamsızlık İçin Veli Telefon Görüşmesi",
+      "main_section_words": 236,
+      "editorial_total_words": 395,
+      "section_lengths": [
+        16,
+        22,
+        25,
+        23,
+        24,
+        67,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "bep-ogrenci-katilimi",
+      "batch": 10,
+      "title": "BEP Sürecinde Öğrenci Katılımı",
+      "main_section_words": 373,
+      "editorial_total_words": 573,
+      "section_lengths": [
+        19,
+        23,
+        22,
+        23,
+        25,
+        63,
+        61,
+        70,
+        67
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ram-raporu-okuma-rehberi",
+      "batch": 10,
+      "title": "RAM Raporunu Okurken Dikkat Edilecekler",
+      "main_section_words": 242,
+      "editorial_total_words": 413,
+      "section_lengths": [
+        18,
+        22,
+        25,
+        22,
+        23,
+        73,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-kizginlikla-bas-etme",
+      "batch": 10,
+      "title": "Sınıfta Kızgınlıkla Baş Etme Etkinliği",
+      "main_section_words": 235,
+      "editorial_total_words": 388,
+      "section_lengths": [
+        18,
+        21,
+        25,
+        24,
+        25,
+        62,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "lisede-alan-secimi-gorusmesi",
+      "batch": 10,
+      "title": "Lisede Alan Seçimi Görüşmesi",
+      "main_section_words": 237,
+      "editorial_total_words": 391,
+      "section_lengths": [
+        19,
+        24,
+        25,
+        23,
+        23,
+        65,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogrencilerde-gelecek-kaygisi",
+      "batch": 10,
+      "title": "Öğrencilerde Gelecek Kaygısını Konuşma",
+      "main_section_words": 241,
+      "editorial_total_words": 401,
+      "section_lengths": [
+        19,
+        21,
+        24,
+        23,
+        26,
+        67,
+        61
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-yardim-isteyen-ogrenci",
+      "batch": 10,
+      "title": "Sınıfta Yardım İsteme Becerisi",
+      "main_section_words": 232,
+      "editorial_total_words": 384,
+      "section_lengths": [
+        17,
+        21,
+        25,
+        24,
+        23,
+        64,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-ogretmen-yonlendirme-formu",
+      "batch": 10,
+      "title": "Öğretmen Rehberlik Yönlendirme Formu",
+      "main_section_words": 234,
+      "editorial_total_words": 395,
+      "section_lengths": [
+        16,
+        20,
+        23,
+        22,
+        24,
+        70,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-donem-sonu-rehberlik-degerlendirme",
+      "batch": 10,
+      "title": "Dönem Sonu Rehberlik Değerlendirmesi",
+      "main_section_words": 235,
+      "editorial_total_words": 387,
+      "section_lengths": [
+        16,
+        23,
+        24,
+        24,
+        25,
+        63,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veli-toplantisinda-zor-sorular",
+      "batch": 10,
+      "title": "Veli Toplantısında Zor Sorulara Yanıt",
+      "main_section_words": 241,
+      "editorial_total_words": 403,
+      "section_lengths": [
+        18,
+        21,
+        25,
+        25,
+        25,
+        67,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ogretmene-sinav-kaygisi-onerileri",
+      "batch": 10,
+      "title": "Öğretmenler İçin Sınav Kaygısı Desteği",
+      "main_section_words": 236,
+      "editorial_total_words": 391,
+      "section_lengths": [
+        18,
+        21,
+        23,
+        25,
+        26,
+        62,
+        61
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-aile-ici-catismayi-bildiren-ogrenci",
+      "batch": 10,
+      "title": "Aile İçi Çatışma Bildiren Öğrenciye Yaklaşım",
+      "main_section_words": 238,
+      "editorial_total_words": 398,
+      "section_lengths": [
+        20,
+        23,
+        23,
+        24,
+        25,
+        63,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-akran-baskisina-hayir-deme",
+      "batch": 10,
+      "title": "Akran Baskısına Hayır Deme Etkinliği",
+      "main_section_words": 234,
+      "editorial_total_words": 387,
+      "section_lengths": [
+        20,
+        22,
+        23,
+        23,
+        24,
+        63,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-ogrenci-oz-degerlendirme",
+      "batch": 10,
+      "title": "Öğrenci Öz Değerlendirme Formu Hazırlama",
+      "main_section_words": 241,
+      "editorial_total_words": 410,
+      "section_lengths": [
+        17,
+        22,
+        23,
+        25,
+        24,
+        71,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-rehberlik-hizmeti-tanitimi",
+      "batch": 10,
+      "title": "Öğrencilere Rehberlik Hizmetini Tanıtma",
+      "main_section_words": 243,
+      "editorial_total_words": 409,
+      "section_lengths": [
+        16,
+        23,
+        25,
+        23,
+        25,
+        71,
+        60
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-duygu-termometresi",
+      "batch": 11,
+      "title": "Duygu Termometresi Etkinliği",
+      "main_section_words": 229,
+      "editorial_total_words": 341,
+      "section_lengths": [
+        17,
+        9,
+        22,
+        16,
+        17,
+        88,
+        60
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "akran-zorbaliginda-guvenlik-plani",
+      "batch": 11,
+      "title": "Zorbalıkta Öğrenci Güvenlik Planı",
+      "main_section_words": 231,
+      "editorial_total_words": 346,
+      "section_lengths": [
+        14,
+        8,
+        26,
+        15,
+        19,
+        87,
+        62
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "okulda-psikolojik-saglamlik",
+      "batch": 11,
+      "title": "Okulda Psikolojik Sağlamlığı Destekleme",
+      "main_section_words": 226,
+      "editorial_total_words": 336,
+      "section_lengths": [
+        14,
+        7,
+        26,
+        15,
+        18,
+        85,
+        61
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ogrencide-oz-sefkat-etkinligi",
+      "batch": 11,
+      "title": "Öz Şefkat Etkinliği",
+      "main_section_words": 227,
+      "editorial_total_words": 335,
+      "section_lengths": [
+        12,
+        9,
+        27,
+        14,
+        18,
+        86,
+        61
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinifta-aktif-dinleme-oyunu",
+      "batch": 11,
+      "title": "Sınıfta Aktif Dinleme Oyunu",
+      "main_section_words": 219,
+      "editorial_total_words": 322,
+      "section_lengths": [
+        13,
+        7,
+        23,
+        16,
+        18,
+        81,
+        61
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "veli-ile-ergenlik-catismalari",
+      "batch": 11,
+      "title": "Ergenlik Döneminde Veli Çatışmaları",
+      "main_section_words": 229,
+      "editorial_total_words": 345,
+      "section_lengths": [
+        14,
+        11,
+        23,
+        14,
+        19,
+        86,
+        62
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-ozgecmisi",
+      "batch": 11,
+      "title": "Öğrenci İlgi ve Deneyim Dosyası",
+      "main_section_words": 225,
+      "editorial_total_words": 333,
+      "section_lengths": [
+        12,
+        9,
+        25,
+        16,
+        17,
+        86,
+        60
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "devamsizlikta-sinif-aidiyeti",
+      "batch": 11,
+      "title": "Devamsızlık ve Sınıf Aidiyeti",
+      "main_section_words": 229,
+      "editorial_total_words": 341,
+      "section_lengths": [
+        12,
+        11,
+        24,
+        15,
+        18,
+        88,
+        61
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lgs-son-hafta-ogrenci-destegi",
+      "batch": 11,
+      "title": "LGS Öncesi Son Hafta Öğrenci Desteği",
+      "main_section_words": 225,
+      "editorial_total_words": 338,
+      "section_lengths": [
+        12,
+        10,
+        25,
+        15,
+        18,
+        84,
+        61
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "yks-deneme-analizi-rehberi",
+      "batch": 11,
+      "title": "YKS Deneme Analizi Görüşmesi",
+      "main_section_words": 229,
+      "editorial_total_words": 342,
+      "section_lengths": [
+        13,
+        9,
+        26,
+        15,
+        18,
+        87,
+        61
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "okulda-meslek-stereotipleri",
+      "batch": 11,
+      "title": "Mesleklere İlişkin Kalıp Yargılar",
+      "main_section_words": 225,
+      "editorial_total_words": 335,
+      "section_lengths": [
+        16,
+        8,
+        23,
+        14,
+        17,
+        87,
+        60
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-geri-bildirim-anketi",
+      "batch": 11,
+      "title": "Öğrenci Rehberlik Hizmeti Geri Bildirimi",
+      "main_section_words": 222,
+      "editorial_total_words": 329,
+      "section_lengths": [
+        13,
+        7,
+        25,
+        15,
+        18,
+        83,
+        61
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "bep-ders-uyarlamasi",
+      "batch": 11,
+      "title": "BEP Kapsamında Ders Uyarlaması",
+      "main_section_words": 367,
+      "editorial_total_words": 527,
+      "section_lengths": [
+        23,
+        27,
+        15,
+        18,
+        87,
+        61,
+        72,
+        64
+      ],
+      "issues": []
+    },
+    {
+      "slug": "okulda-catisma-cozme-kartlari",
+      "batch": 11,
+      "title": "Çatışma Çözme Durum Kartları",
+      "main_section_words": 220,
+      "editorial_total_words": 322,
+      "section_lengths": [
+        13,
+        8,
+        24,
+        16,
+        16,
+        84,
+        59
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "veliyle-guvenli-dijital-sozlesme",
+      "batch": 11,
+      "title": "Aile Dijital Kullanım Sözleşmesi",
+      "main_section_words": 237,
+      "editorial_total_words": 354,
+      "section_lengths": [
+        14,
+        9,
+        28,
+        16,
+        19,
+        89,
+        62
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ogrencide-erteleme-dongusu",
+      "batch": 11,
+      "title": "Öğrencide Erteleme Döngüsünü Anlama",
+      "main_section_words": 225,
+      "editorial_total_words": 332,
+      "section_lengths": [
+        13,
+        7,
+        27,
+        15,
+        18,
+        84,
+        61
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "okulda-ozel-gereksinim-akran-farkindaligi",
+      "batch": 11,
+      "title": "Özel Gereksinimlerde Akran Farkındalığı",
+      "main_section_words": 225,
+      "editorial_total_words": 334,
+      "section_lengths": [
+        9,
+        10,
+        27,
+        15,
+        19,
+        83,
+        62
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ram-basvuru-sureci-bilgilendirmesi",
+      "batch": 11,
+      "title": "RAM Başvuru Süreci Bilgilendirmesi",
+      "main_section_words": 232,
+      "editorial_total_words": 348,
+      "section_lengths": [
+        13,
+        9,
+        26,
+        16,
+        20,
+        85,
+        63
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-davranis-hedefi",
+      "batch": 11,
+      "title": "Öğrenci Davranış Hedefi Belirleme",
+      "main_section_words": 233,
+      "editorial_total_words": 347,
+      "section_lengths": [
+        14,
+        8,
+        30,
+        14,
+        18,
+        88,
+        61
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "akran-iletisiminde-ben-dili",
+      "batch": 11,
+      "title": "Akran İletişiminde Ben Dili",
+      "main_section_words": 240,
+      "editorial_total_words": 361,
+      "section_lengths": [
+        13,
+        11,
+        27,
+        15,
+        20,
+        91,
+        63
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinifta-ozel-gunler-hassasiyet",
+      "batch": 11,
+      "title": "Okul Etkinliklerinde Aile Çeşitliliği",
+      "main_section_words": 231,
+      "editorial_total_words": 344,
+      "section_lengths": [
+        12,
+        8,
+        27,
+        15,
+        20,
+        86,
+        63
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-katilim-hakki",
+      "batch": 11,
+      "title": "Okulda Öğrenci Katılım Hakkı",
+      "main_section_words": 226,
+      "editorial_total_words": 335,
+      "section_lengths": [
+        12,
+        10,
+        25,
+        15,
+        18,
+        85,
+        61
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-bolum-arastirma-atolyesi",
+      "batch": 11,
+      "title": "Üniversite Bölümü Araştırma Atölyesi",
+      "main_section_words": 238,
+      "editorial_total_words": 358,
+      "section_lengths": [
+        16,
+        10,
+        29,
+        14,
+        17,
+        92,
+        60
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-sinav-oncesi-nefes-calismasi",
+      "batch": 11,
+      "title": "Sınav Öncesi Kısa Sakinleşme Çalışması",
+      "main_section_words": 236,
+      "editorial_total_words": 356,
+      "section_lengths": [
+        15,
+        11,
+        26,
+        16,
+        18,
+        89,
+        61
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "okulda-ogrenci-guvenligi-gozlem-notu",
+      "batch": 11,
+      "title": "Öğrenci Güvenliği Gözlem Notu",
+      "main_section_words": 230,
+      "editorial_total_words": 341,
+      "section_lengths": [
+        12,
+        10,
+        27,
+        16,
+        18,
+        86,
+        61
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinifta-saygili-iletisim-kurallari",
+      "batch": 12,
+      "title": "Saygılı İletişim Kuralları | Sınıf rehberlik etkinliği",
+      "main_section_words": 262,
+      "editorial_total_words": 396,
+      "section_lengths": [
+        21,
+        19,
+        26,
+        18,
+        26,
+        90,
+        62
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-hak-ve-sorumluluklar",
+      "batch": 12,
+      "title": "Haklar ve Sorumluluklar | Sınıf rehberlik etkinliği",
+      "main_section_words": 244,
+      "editorial_total_words": 368,
+      "section_lengths": [
+        18,
+        19,
+        25,
+        17,
+        24,
+        83,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-nezaket-dili",
+      "batch": 12,
+      "title": "Nezaket Dili | Sınıf rehberlik etkinliği",
+      "main_section_words": 248,
+      "editorial_total_words": 368,
+      "section_lengths": [
+        20,
+        19,
+        23,
+        17,
+        26,
+        85,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-isbirlikli-gorev-paylasimi",
+      "batch": 12,
+      "title": "İş Birlikli Görev Paylaşımı | Sınıf rehberlik etkinliği",
+      "main_section_words": 251,
+      "editorial_total_words": 378,
+      "section_lengths": [
+        20,
+        19,
+        24,
+        17,
+        26,
+        86,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-duygu-kartlari",
+      "batch": 12,
+      "title": "Duygu Kartları | Sınıf rehberlik etkinliği",
+      "main_section_words": 233,
+      "editorial_total_words": 340,
+      "section_lengths": [
+        18,
+        15,
+        24,
+        17,
+        24,
+        82,
+        53
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-arkadaslik-olcutleri",
+      "batch": 12,
+      "title": "Sağlıklı Arkadaşlık Ölçütleri | Sınıf rehberlik etkinliği",
+      "main_section_words": 234,
+      "editorial_total_words": 349,
+      "section_lengths": [
+        17,
+        18,
+        24,
+        16,
+        24,
+        80,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-farkliliklara-saygi",
+      "batch": 12,
+      "title": "Farklılıklara Saygı | Sınıf rehberlik etkinliği",
+      "main_section_words": 231,
+      "editorial_total_words": 338,
+      "section_lengths": [
+        18,
+        17,
+        22,
+        17,
+        24,
+        80,
+        53
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-ortak-karar-alma",
+      "batch": 12,
+      "title": "Ortak Karar Alma | Sınıf rehberlik etkinliği",
+      "main_section_words": 237,
+      "editorial_total_words": 349,
+      "section_lengths": [
+        19,
+        16,
+        23,
+        18,
+        24,
+        83,
+        54
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-olumlu-akran-geribildirimi",
+      "batch": 12,
+      "title": "Olumlu Akran Geri Bildirimi | Sınıf rehberlik etkinliği",
+      "main_section_words": 232,
+      "editorial_total_words": 344,
+      "section_lengths": [
+        17,
+        14,
+        26,
+        17,
+        23,
+        82,
+        53
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "sinifta-bekleme-becerisi",
+      "batch": 12,
+      "title": "Sıra Bekleme Becerisi | Sınıf rehberlik etkinliği",
+      "main_section_words": 231,
+      "editorial_total_words": 340,
+      "section_lengths": [
+        18,
+        17,
+        22,
+        17,
+        24,
+        80,
+        53
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-guvenli-saka",
+      "batch": 12,
+      "title": "Güvenli Şaka ve Mizah | Sınıf rehberlik etkinliği",
+      "main_section_words": 234,
+      "editorial_total_words": 351,
+      "section_lengths": [
+        17,
+        18,
+        24,
+        16,
+        24,
+        80,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-uzlasma-becerisi",
+      "batch": 12,
+      "title": "Uzlaşma Becerisi | Sınıf rehberlik etkinliği",
+      "main_section_words": 235,
+      "editorial_total_words": 341,
+      "section_lengths": [
+        19,
+        15,
+        23,
+        17,
+        25,
+        83,
+        53
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-gorev-takip-tablosu",
+      "batch": 12,
+      "title": "Görev Takip Tablosu | Sınıf rehberlik etkinliği",
+      "main_section_words": 242,
+      "editorial_total_words": 354,
+      "section_lengths": [
+        20,
+        16,
+        23,
+        16,
+        27,
+        85,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-guvenilir-bilgi",
+      "batch": 12,
+      "title": "Güvenilir Bilgi Seçme | Sınıf rehberlik etkinliği",
+      "main_section_words": 236,
+      "editorial_total_words": 348,
+      "section_lengths": [
+        18,
+        15,
+        25,
+        17,
+        24,
+        83,
+        54
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-duygu-ve-ihtiyac",
+      "batch": 12,
+      "title": "Duygu ve İhtiyaç Ayrımı | Sınıf rehberlik etkinliği",
+      "main_section_words": 245,
+      "editorial_total_words": 364,
+      "section_lengths": [
+        20,
+        16,
+        24,
+        18,
+        25,
+        86,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-basarinin-farkli-yollari",
+      "batch": 12,
+      "title": "Başarının Farklı Yolları | Sınıf rehberlik etkinliği",
+      "main_section_words": 259,
+      "editorial_total_words": 383,
+      "section_lengths": [
+        22,
+        15,
+        26,
+        18,
+        27,
+        92,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-sinav-oncesi-rutin",
+      "batch": 12,
+      "title": "Sınav Öncesi Rutin | Sınıf rehberlik etkinliği",
+      "main_section_words": 250,
+      "editorial_total_words": 369,
+      "section_lengths": [
+        21,
+        16,
+        24,
+        18,
+        26,
+        88,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-zor-duyguyla-yardim-isteme",
+      "batch": 12,
+      "title": "Zor Duyguda Yardım İsteme | Sınıf rehberlik etkinliği",
+      "main_section_words": 250,
+      "editorial_total_words": 375,
+      "section_lengths": [
+        20,
+        17,
+        25,
+        18,
+        25,
+        87,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-guvenli-oyun-kurallari",
+      "batch": 12,
+      "title": "Güvenli Oyun Kuralları | Sınıf rehberlik etkinliği",
+      "main_section_words": 243,
+      "editorial_total_words": 363,
+      "section_lengths": [
+        18,
+        17,
+        26,
+        16,
+        25,
+        84,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-dusunmeden-paylasma",
+      "batch": 12,
+      "title": "Paylaşmadan Önce Düşünme | Sınıf rehberlik etkinliği",
+      "main_section_words": 251,
+      "editorial_total_words": 374,
+      "section_lengths": [
+        20,
+        16,
+        26,
+        18,
+        25,
+        88,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-ozel-alan-ve-izin",
+      "batch": 12,
+      "title": "Özel Alan ve İzin | Sınıf rehberlik etkinliği",
+      "main_section_words": 246,
+      "editorial_total_words": 368,
+      "section_lengths": [
+        19,
+        16,
+        26,
+        17,
+        25,
+        86,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-yeni-arkadasa-merhaba",
+      "batch": 12,
+      "title": "Yeni Arkadaşa Merhaba | Sınıf rehberlik etkinliği",
+      "main_section_words": 245,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        20,
+        16,
+        24,
+        18,
+        25,
+        86,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-bakis-acisi-degistirme",
+      "batch": 12,
+      "title": "Farklı Bakış Açısı Alma | Sınıf rehberlik etkinliği",
+      "main_section_words": 252,
+      "editorial_total_words": 376,
+      "section_lengths": [
+        21,
+        17,
+        24,
+        18,
+        26,
+        88,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-minik-hedefler",
+      "batch": 12,
+      "title": "Küçük Hedefler Belirleme | Sınıf rehberlik etkinliği",
+      "main_section_words": 240,
+      "editorial_total_words": 353,
+      "section_lengths": [
+        19,
+        16,
+        24,
+        16,
+        26,
+        84,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinifta-donem-sonu-yansitma",
+      "batch": 12,
+      "title": "Dönem Sonu Yansıtma | Sınıf rehberlik etkinliği",
+      "main_section_words": 246,
+      "editorial_total_words": 369,
+      "section_lengths": [
+        19,
+        19,
+        24,
+        17,
+        25,
+        84,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-erteleme-gorusmesi",
+      "batch": 13,
+      "title": "Erteleme Konusunda Veli Görüşmesi | Veli rehberliği",
+      "main_section_words": 246,
+      "editorial_total_words": 359,
+      "section_lengths": [
+        19,
+        20,
+        22,
+        20,
+        25,
+        86,
+        54
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-kardes-kiskancligi",
+      "batch": 13,
+      "title": "Kardeş Kıskançlığı Konuşması | Veli rehberliği",
+      "main_section_words": 257,
+      "editorial_total_words": 373,
+      "section_lengths": [
+        21,
+        19,
+        23,
+        21,
+        26,
+        91,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-okul-korkusu",
+      "batch": 13,
+      "title": "Okul Korkusunda Aile Desteği | Veli rehberliği",
+      "main_section_words": 250,
+      "editorial_total_words": 363,
+      "section_lengths": [
+        20,
+        18,
+        23,
+        21,
+        25,
+        89,
+        54
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-akran-dislama",
+      "batch": 13,
+      "title": "Akran Dışlanmasında Veli Görüşmesi | Veli rehberliği",
+      "main_section_words": 254,
+      "editorial_total_words": 372,
+      "section_lengths": [
+        20,
+        20,
+        23,
+        20,
+        26,
+        89,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-siber-zorbalik",
+      "batch": 13,
+      "title": "Siber Zorbalıkta Veli Desteği | Veli rehberliği",
+      "main_section_words": 247,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        19,
+        19,
+        23,
+        22,
+        23,
+        87,
+        54
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "veliyle-uyku-duzeni",
+      "batch": 13,
+      "title": "Uyku Düzeni İçin Veli Bilgilendirmesi | Veli rehberliği",
+      "main_section_words": 265,
+      "editorial_total_words": 391,
+      "section_lengths": [
+        22,
+        19,
+        24,
+        22,
+        26,
+        94,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-sinav-karsilastirmasi",
+      "batch": 13,
+      "title": "Sınav Kıyaslamasını Azaltma | Veli rehberliği",
+      "main_section_words": 252,
+      "editorial_total_words": 370,
+      "section_lengths": [
+        19,
+        20,
+        24,
+        21,
+        24,
+        88,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-ozgurluk-sinirlar",
+      "batch": 13,
+      "title": "Ergende Özgürlük ve Sınır | Veli rehberliği",
+      "main_section_words": 255,
+      "editorial_total_words": 370,
+      "section_lengths": [
+        21,
+        18,
+        23,
+        21,
+        26,
+        91,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-ozel-egitim-isbirligi",
+      "batch": 13,
+      "title": "Özel Eğitimde Aile–Okul İş Birliği | Veli rehberliği",
+      "main_section_words": 258,
+      "editorial_total_words": 382,
+      "section_lengths": [
+        21,
+        18,
+        24,
+        23,
+        24,
+        92,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-teknoloji-bagimlilik-endisesi",
+      "batch": 13,
+      "title": "Teknoloji Kullanım Kaygısı | Veli rehberliği",
+      "main_section_words": 261,
+      "editorial_total_words": 380,
+      "section_lengths": [
+        21,
+        18,
+        25,
+        21,
+        26,
+        93,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-sinif-degisimi",
+      "batch": 13,
+      "title": "Sınıf Değişikliği Talebinde Görüşme | Veli rehberliği",
+      "main_section_words": 262,
+      "editorial_total_words": 386,
+      "section_lengths": [
+        21,
+        20,
+        24,
+        21,
+        26,
+        92,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-yalan-soyleme",
+      "batch": 13,
+      "title": "Çocuğun Gerçeği Saklamasını Konuşma | Veli rehberliği",
+      "main_section_words": 242,
+      "editorial_total_words": 353,
+      "section_lengths": [
+        18,
+        19,
+        23,
+        20,
+        24,
+        85,
+        53
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-sorumluluk-paylasimi",
+      "batch": 13,
+      "title": "Ev Sorumluluklarını Paylaşma | Veli rehberliği",
+      "main_section_words": 248,
+      "editorial_total_words": 359,
+      "section_lengths": [
+        19,
+        18,
+        24,
+        20,
+        25,
+        88,
+        54
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-arkadas-secimi",
+      "batch": 13,
+      "title": "Arkadaşlık Konusunda Veli Görüşmesi | Veli rehberliği",
+      "main_section_words": 255,
+      "editorial_total_words": 374,
+      "section_lengths": [
+        20,
+        19,
+        24,
+        21,
+        25,
+        90,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-ders-basarisizligi",
+      "batch": 13,
+      "title": "Düşük Ders Başarısında Veli Desteği | Veli rehberliği",
+      "main_section_words": 253,
+      "editorial_total_words": 370,
+      "section_lengths": [
+        20,
+        18,
+        24,
+        20,
+        26,
+        90,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-okula-gec-kalma",
+      "batch": 13,
+      "title": "Okula Geç Kalma Sorununda Aile | Veli rehberliği",
+      "main_section_words": 256,
+      "editorial_total_words": 369,
+      "section_lengths": [
+        22,
+        16,
+        23,
+        21,
+        27,
+        93,
+        54
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-ergen-mahremiyeti",
+      "batch": 13,
+      "title": "Ergen Mahremiyetine Saygı | Veli rehberliği",
+      "main_section_words": 259,
+      "editorial_total_words": 379,
+      "section_lengths": [
+        21,
+        20,
+        23,
+        22,
+        25,
+        91,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-ogretmen-sikayeti",
+      "batch": 13,
+      "title": "Öğretmen Şikâyetinde Veli Görüşmesi | Veli rehberliği",
+      "main_section_words": 255,
+      "editorial_total_words": 374,
+      "section_lengths": [
+        20,
+        19,
+        24,
+        21,
+        25,
+        90,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-oyun-kurallari",
+      "batch": 13,
+      "title": "Evde Oyun Kuralları | Veli rehberliği",
+      "main_section_words": 250,
+      "editorial_total_words": 364,
+      "section_lengths": [
+        19,
+        19,
+        24,
+        20,
+        25,
+        88,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-cocuk-guclu-yonleri",
+      "batch": 13,
+      "title": "Çocuğun Güçlü Yönlerini Görmek | Veli rehberliği",
+      "main_section_words": 258,
+      "editorial_total_words": 376,
+      "section_lengths": [
+        21,
+        18,
+        24,
+        21,
+        26,
+        92,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-okul-nakli",
+      "batch": 13,
+      "title": "Okul Naklinde Aile Bilgilendirmesi | Veli rehberliği",
+      "main_section_words": 268,
+      "editorial_total_words": 395,
+      "section_lengths": [
+        22,
+        19,
+        25,
+        22,
+        26,
+        95,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-rehberlik-gizlilik",
+      "batch": 13,
+      "title": "Rehberlik Görüşmesinde Veli ve Gizlilik | Veli rehberliği",
+      "main_section_words": 252,
+      "editorial_total_words": 373,
+      "section_lengths": [
+        19,
+        20,
+        24,
+        20,
+        25,
+        88,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-odev-yardim-siniri",
+      "batch": 13,
+      "title": "Ödev Yardımının Sınırları | Veli rehberliği",
+      "main_section_words": 248,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        18,
+        19,
+        25,
+        19,
+        25,
+        87,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "veliyle-sosyal-duygusal-destek",
+      "batch": 13,
+      "title": "Sosyal Duygusal Gelişim İçin Evde Destek | Veli rehberliği",
+      "main_section_words": 250,
+      "editorial_total_words": 368,
+      "section_lengths": [
+        20,
+        18,
+        23,
+        22,
+        24,
+        89,
+        54
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "veliyle-lise-gecis-kaygisi",
+      "batch": 13,
+      "title": "Liseye Geçişte Veli Kaygısı | Veli rehberliği",
+      "main_section_words": 250,
+      "editorial_total_words": 366,
+      "section_lengths": [
+        19,
+        19,
+        24,
+        20,
+        25,
+        88,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-randevu-duzeni",
+      "batch": 14,
+      "title": "Rehberlik Randevu Düzeni | Okul rehberlik servisi",
+      "main_section_words": 247,
+      "editorial_total_words": 359,
+      "section_lengths": [
+        18,
+        22,
+        24,
+        20,
+        24,
+        84,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-ilk-ogrenci-bilgilendirmesi",
+      "batch": 14,
+      "title": "İlk Görüşme Bilgilendirmesi | Okul rehberlik servisi",
+      "main_section_words": 250,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        19,
+        21,
+        24,
+        21,
+        24,
+        86,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-gorusme-suresi",
+      "batch": 14,
+      "title": "Görüşme Süresi Planlama | Okul rehberlik servisi",
+      "main_section_words": 257,
+      "editorial_total_words": 374,
+      "section_lengths": [
+        20,
+        22,
+        24,
+        21,
+        25,
+        88,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-oncelik-belirleme",
+      "batch": 14,
+      "title": "Rehberlik Başvurularında Öncelik | Okul rehberlik servisi",
+      "main_section_words": 259,
+      "editorial_total_words": 374,
+      "section_lengths": [
+        21,
+        22,
+        23,
+        20,
+        27,
+        89,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-olay-kaydi",
+      "batch": 14,
+      "title": "Olay ve Müdahale Kaydı | Okul rehberlik servisi",
+      "main_section_words": 255,
+      "editorial_total_words": 374,
+      "section_lengths": [
+        19,
+        22,
+        25,
+        20,
+        25,
+        87,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-ogrenci-onam-bilgilendirme",
+      "batch": 14,
+      "title": "Öğrenciyi Bilgilendirme ve Katılım | Okul rehberlik servisi",
+      "main_section_words": 237,
+      "editorial_total_words": 343,
+      "section_lengths": [
+        17,
+        21,
+        23,
+        20,
+        23,
+        81,
+        52
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "rehberlikte-dis-kurum-yonlendirme",
+      "batch": 14,
+      "title": "Dış Kuruma Yönlendirme | Okul rehberlik servisi",
+      "main_section_words": 259,
+      "editorial_total_words": 378,
+      "section_lengths": [
+        20,
+        23,
+        24,
+        20,
+        26,
+        88,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-veli-randevusu",
+      "batch": 14,
+      "title": "Veli Randevusu Planlama | Okul rehberlik servisi",
+      "main_section_words": 273,
+      "editorial_total_words": 400,
+      "section_lengths": [
+        23,
+        24,
+        23,
+        22,
+        27,
+        93,
+        61
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-sinif-etkinligi-secimi",
+      "batch": 14,
+      "title": "Sınıf Etkinliği Seçme | Okul rehberlik servisi",
+      "main_section_words": 261,
+      "editorial_total_words": 379,
+      "section_lengths": [
+        21,
+        23,
+        23,
+        20,
+        27,
+        89,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-kurum-ici-gorev-paylasimi",
+      "batch": 14,
+      "title": "Kurum İçi Görev Paylaşımı | Okul rehberlik servisi",
+      "main_section_words": 262,
+      "editorial_total_words": 387,
+      "section_lengths": [
+        20,
+        23,
+        25,
+        21,
+        25,
+        89,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-gizli-dosya-erisim",
+      "batch": 14,
+      "title": "Gizli Dosyalara Erişim | Okul rehberlik servisi",
+      "main_section_words": 256,
+      "editorial_total_words": 376,
+      "section_lengths": [
+        19,
+        24,
+        24,
+        20,
+        25,
+        86,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-ogrenci-izleme-takvimi",
+      "batch": 14,
+      "title": "Öğrenci İzleme Takvimi | Okul rehberlik servisi",
+      "main_section_words": 259,
+      "editorial_total_words": 371,
+      "section_lengths": [
+        21,
+        19,
+        25,
+        20,
+        27,
+        91,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-sinif-ihtiyac-toplama",
+      "batch": 14,
+      "title": "Sınıf İhtiyaç Verisi Toplama | Okul rehberlik servisi",
+      "main_section_words": 247,
+      "editorial_total_words": 361,
+      "section_lengths": [
+        18,
+        22,
+        24,
+        20,
+        24,
+        84,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-ogrenci-gorusme-hedefi",
+      "batch": 14,
+      "title": "Öğrenci Görüşmesi Hedefi | Okul rehberlik servisi",
+      "main_section_words": 252,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        20,
+        21,
+        23,
+        20,
+        26,
+        87,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-uzmanlik-sinirlari",
+      "batch": 14,
+      "title": "Mesleki Yetkinlik Sınırları | Okul rehberlik servisi",
+      "main_section_words": 258,
+      "editorial_total_words": 375,
+      "section_lengths": [
+        20,
+        21,
+        25,
+        21,
+        25,
+        89,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-mevzuat-guncelleme",
+      "batch": 14,
+      "title": "Rehberlik Mevzuatı Takibi | Okul rehberlik servisi",
+      "main_section_words": 254,
+      "editorial_total_words": 371,
+      "section_lengths": [
+        19,
+        23,
+        24,
+        20,
+        25,
+        86,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-grup-gizliligi",
+      "batch": 14,
+      "title": "Grup Çalışmasında Gizlilik | Okul rehberlik servisi",
+      "main_section_words": 249,
+      "editorial_total_words": 364,
+      "section_lengths": [
+        18,
+        23,
+        24,
+        20,
+        24,
+        84,
+        56
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-calisma-verimliligi",
+      "batch": 14,
+      "title": "Rehberlik İş Yükünü Düzenleme | Okul rehberlik servisi",
+      "main_section_words": 246,
+      "editorial_total_words": 357,
+      "section_lengths": [
+        18,
+        20,
+        25,
+        20,
+        24,
+        85,
+        54
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-yonetici-bilgilendirme",
+      "batch": 14,
+      "title": "Okul Yönetimine Bilgi Sunma | Okul rehberlik servisi",
+      "main_section_words": 263,
+      "editorial_total_words": 384,
+      "section_lengths": [
+        21,
+        21,
+        25,
+        21,
+        26,
+        91,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-aileye-geri-bildirim",
+      "batch": 14,
+      "title": "Aileye Destek Geri Bildirimi | Okul rehberlik servisi",
+      "main_section_words": 257,
+      "editorial_total_words": 376,
+      "section_lengths": [
+        20,
+        22,
+        24,
+        21,
+        25,
+        88,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-ogrenci-anonim-geri-bildirim",
+      "batch": 14,
+      "title": "Anonim Hizmet Geri Bildirimi | Okul rehberlik servisi",
+      "main_section_words": 253,
+      "editorial_total_words": 365,
+      "section_lengths": [
+        20,
+        20,
+        24,
+        20,
+        26,
+        88,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-olumlu-davranis-destegi",
+      "batch": 14,
+      "title": "Olumlu Davranış Desteği | Okul rehberlik servisi",
+      "main_section_words": 257,
+      "editorial_total_words": 373,
+      "section_lengths": [
+        20,
+        22,
+        24,
+        20,
+        26,
+        88,
+        57
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-toplanti-gundemi",
+      "batch": 14,
+      "title": "Rehberlik Toplantısı Gündemi | Okul rehberlik servisi",
+      "main_section_words": 251,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        19,
+        20,
+        25,
+        20,
+        25,
+        87,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-okul-veri-mahremiyeti",
+      "batch": 14,
+      "title": "Okul Rehberlik Verisinde Mahremiyet | Okul rehberlik servisi",
+      "main_section_words": 261,
+      "editorial_total_words": 382,
+      "section_lengths": [
+        20,
+        21,
+        26,
+        20,
+        26,
+        90,
+        58
+      ],
+      "issues": []
+    },
+    {
+      "slug": "rehberlikte-donemlik-hedefler",
+      "batch": 14,
+      "title": "Dönemlik Rehberlik Hedefi Yazma | Okul rehberlik servisi",
+      "main_section_words": 252,
+      "editorial_total_words": 364,
+      "section_lengths": [
+        20,
+        21,
+        23,
+        20,
+        26,
+        87,
+        55
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-okula-yeni-baslama-kaygisi",
+      "batch": 15,
+      "title": "Okula yeni başlama kaygısı | İlkokul",
+      "main_section_words": 265,
+      "editorial_total_words": 417,
+      "section_lengths": [
+        28,
+        18,
+        16,
+        17,
+        27,
+        96,
+        63
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-sabah-vedalasma-rutini",
+      "batch": 15,
+      "title": "Sabah vedalaşma rutini | İlkokul",
+      "main_section_words": 263,
+      "editorial_total_words": 404,
+      "section_lengths": [
+        22,
+        17,
+        20,
+        18,
+        29,
+        92,
+        65
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-sinif-arkadasini-tanima",
+      "batch": 15,
+      "title": "Sınıf arkadaşını tanıma | İlkokul",
+      "main_section_words": 268,
+      "editorial_total_words": 407,
+      "section_lengths": [
+        20,
+        20,
+        17,
+        21,
+        33,
+        88,
+        69
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-teneffuste-yalniz-kalma",
+      "batch": 15,
+      "title": "Teneffüste yalnız kalma | İlkokul",
+      "main_section_words": 262,
+      "editorial_total_words": 402,
+      "section_lengths": [
+        19,
+        17,
+        19,
+        21,
+        31,
+        88,
+        67
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-grup-oyununa-katilma",
+      "batch": 15,
+      "title": "Grup oyununa katılma | İlkokul",
+      "main_section_words": 255,
+      "editorial_total_words": 388,
+      "section_lengths": [
+        16,
+        21,
+        20,
+        18,
+        30,
+        84,
+        66
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-paylasmayi-ogrenme",
+      "batch": 15,
+      "title": "Paylaşmayı öğrenme | İlkokul",
+      "main_section_words": 245,
+      "editorial_total_words": 375,
+      "section_lengths": [
+        19,
+        19,
+        15,
+        16,
+        30,
+        80,
+        66
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-sira-bekleme-aliskanligi",
+      "batch": 15,
+      "title": "Sıra bekleme alışkanlığı | İlkokul",
+      "main_section_words": 243,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        15,
+        18,
+        17,
+        19,
+        30,
+        78,
+        66
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-duygulari-adlandirma",
+      "batch": 15,
+      "title": "Duyguları adlandırma | İlkokul",
+      "main_section_words": 240,
+      "editorial_total_words": 362,
+      "section_lengths": [
+        18,
+        19,
+        17,
+        15,
+        29,
+        77,
+        65
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-oz-bakim-sorumlulugu",
+      "batch": 15,
+      "title": "Öz bakım sorumluluğu | İlkokul",
+      "main_section_words": 245,
+      "editorial_total_words": 378,
+      "section_lengths": [
+        21,
+        14,
+        19,
+        18,
+        28,
+        81,
+        64
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-canta-hazirlama-rutini",
+      "batch": 15,
+      "title": "Çanta hazırlama rutini | İlkokul",
+      "main_section_words": 255,
+      "editorial_total_words": 389,
+      "section_lengths": [
+        20,
+        20,
+        18,
+        15,
+        27,
+        92,
+        63
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-ders-araclarini-koruma",
+      "batch": 15,
+      "title": "Ders araçlarını koruma | İlkokul",
+      "main_section_words": 243,
+      "editorial_total_words": 359,
+      "section_lengths": [
+        15,
+        16,
+        15,
+        18,
+        30,
+        83,
+        66
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-guvenli-yardim-isteme",
+      "batch": 15,
+      "title": "Güvenli yardım isteme | İlkokul",
+      "main_section_words": 249,
+      "editorial_total_words": 385,
+      "section_lengths": [
+        19,
+        16,
+        15,
+        16,
+        29,
+        89,
+        65
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-soz-kesmeden-dinleme",
+      "batch": 15,
+      "title": "Söz kesmeden dinleme | İlkokul",
+      "main_section_words": 237,
+      "editorial_total_words": 360,
+      "section_lengths": [
+        16,
+        18,
+        15,
+        17,
+        28,
+        79,
+        64
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-kucuk-catismalari-konusma",
+      "batch": 15,
+      "title": "Küçük çatışmaları konuşma | İlkokul",
+      "main_section_words": 240,
+      "editorial_total_words": 370,
+      "section_lengths": [
+        21,
+        16,
+        15,
+        16,
+        27,
+        82,
+        63
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-kisisel-alani-koruma",
+      "batch": 15,
+      "title": "Kişisel alanı koruma | İlkokul",
+      "main_section_words": 241,
+      "editorial_total_words": 373,
+      "section_lengths": [
+        19,
+        12,
+        16,
+        18,
+        30,
+        80,
+        66
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-istenmeyen-temasa-hayir-deme",
+      "batch": 15,
+      "title": "İstenmeyen temasa hayır deme | İlkokul",
+      "main_section_words": 384,
+      "editorial_total_words": 571,
+      "section_lengths": [
+        15,
+        22,
+        30,
+        37,
+        74,
+        73,
+        70,
+        63
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-hata-yapma-kaygisi",
+      "batch": 15,
+      "title": "Hata yapma kaygısı | İlkokul",
+      "main_section_words": 253,
+      "editorial_total_words": 385,
+      "section_lengths": [
+        18,
+        16,
+        15,
+        18,
+        33,
+        84,
+        69
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ilkokul-ogrenmede-caba-farkindaligi",
+      "batch": 15,
+      "title": "Öğrenmede çaba farkındalığı | İlkokul",
+      "main_section_words": 244,
+      "editorial_total_words": 372,
+      "section_lengths": [
+        16,
+        18,
+        17,
+        17,
+        26,
+        88,
+        62
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-yeni-ogretmene-uyum",
+      "batch": 15,
+      "title": "Yeni öğretmene uyum | İlkokul",
+      "main_section_words": 238,
+      "editorial_total_words": 364,
+      "section_lengths": [
+        15,
+        18,
+        13,
+        18,
+        29,
+        80,
+        65
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-sinif-degisikligine-uyum",
+      "batch": 15,
+      "title": "Sınıf değişikliğine uyum | İlkokul",
+      "main_section_words": 243,
+      "editorial_total_words": 374,
+      "section_lengths": [
+        21,
+        17,
+        15,
+        14,
+        28,
+        84,
+        64
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-guvenli-teneffus-davranisi",
+      "batch": 15,
+      "title": "Güvenli teneffüs davranışı | İlkokul",
+      "main_section_words": 243,
+      "editorial_total_words": 373,
+      "section_lengths": [
+        19,
+        19,
+        15,
+        16,
+        28,
+        82,
+        64
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-yardimlasma-ve-is-birligi",
+      "batch": 15,
+      "title": "Yardımlaşma ve iş birliği | İlkokul",
+      "main_section_words": 230,
+      "editorial_total_words": 349,
+      "section_lengths": [
+        14,
+        16,
+        13,
+        16,
+        29,
+        77,
+        65
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-akran-alayina-karsi-destek",
+      "batch": 15,
+      "title": "Akran alayına karşı destek | İlkokul",
+      "main_section_words": 233,
+      "editorial_total_words": 359,
+      "section_lengths": [
+        18,
+        12,
+        15,
+        15,
+        28,
+        81,
+        64
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-okul-ici-guvenilir-yetiskin",
+      "batch": 15,
+      "title": "Okul içi güvenilir yetişkin | İlkokul",
+      "main_section_words": 246,
+      "editorial_total_words": 374,
+      "section_lengths": [
+        17,
+        21,
+        20,
+        15,
+        27,
+        83,
+        63
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ilkokul-donem-sonu-gelisim-degerlendirmesi",
+      "batch": 15,
+      "title": "Dönem sonu gelişim değerlendirmesi | İlkokul",
+      "main_section_words": 243,
+      "editorial_total_words": 385,
+      "section_lengths": [
+        19,
+        20,
+        15,
+        16,
+        28,
+        81,
+        64
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-akran-baskisini-fark-etme",
+      "batch": 16,
+      "title": "Akran baskısını fark etme | Ortaokul",
+      "main_section_words": 324,
+      "editorial_total_words": 472,
+      "section_lengths": [
+        24,
+        17,
+        21,
+        38,
+        36,
+        93,
+        95
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-grup-sohbetinde-sinir-koyma",
+      "batch": 16,
+      "title": "Grup sohbetinde sınır koyma | Ortaokul",
+      "main_section_words": 326,
+      "editorial_total_words": 478,
+      "section_lengths": [
+        22,
+        19,
+        24,
+        40,
+        31,
+        93,
+        97
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-arkadaslikta-karsiliklilik",
+      "batch": 16,
+      "title": "Arkadaşlıkta karşılıklılık | Ortaokul",
+      "main_section_words": 283,
+      "editorial_total_words": 410,
+      "section_lengths": [
+        20,
+        19,
+        17,
+        30,
+        29,
+        82,
+        86
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-sosyal-medyada-izin",
+      "batch": 16,
+      "title": "Sosyal medyada izin | Ortaokul",
+      "main_section_words": 331,
+      "editorial_total_words": 486,
+      "section_lengths": [
+        23,
+        22,
+        19,
+        38,
+        37,
+        95,
+        97
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-sinif-ici-soylentiler",
+      "batch": 16,
+      "title": "Sınıf içi söylentiler | Ortaokul",
+      "main_section_words": 288,
+      "editorial_total_words": 421,
+      "section_lengths": [
+        19,
+        21,
+        17,
+        32,
+        31,
+        81,
+        87
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-basarisizlik-korkusunu-konusma",
+      "batch": 16,
+      "title": "Başarısızlık korkusunu konuşma | Ortaokul",
+      "main_section_words": 284,
+      "editorial_total_words": 416,
+      "section_lengths": [
+        19,
+        18,
+        19,
+        33,
+        27,
+        81,
+        87
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-ders-calismaya-baslama",
+      "batch": 16,
+      "title": "Ders çalışmaya başlama | Ortaokul",
+      "main_section_words": 301,
+      "editorial_total_words": 438,
+      "section_lengths": [
+        18,
+        19,
+        20,
+        36,
+        33,
+        84,
+        91
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-odev-erteleme-dongusu",
+      "batch": 16,
+      "title": "Ödev erteleme döngüsü | Ortaokul",
+      "main_section_words": 291,
+      "editorial_total_words": 429,
+      "section_lengths": [
+        17,
+        19,
+        20,
+        35,
+        32,
+        80,
+        88
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-sinav-oncesi-mola-plani",
+      "batch": 16,
+      "title": "Sınav öncesi mola planı | Ortaokul",
+      "main_section_words": 298,
+      "editorial_total_words": 432,
+      "section_lengths": [
+        17,
+        16,
+        20,
+        34,
+        30,
+        86,
+        95
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-ogrenme-hedefini-duzenleme",
+      "batch": 16,
+      "title": "Öğrenme hedefini düzenleme | Ortaokul",
+      "main_section_words": 286,
+      "editorial_total_words": 435,
+      "section_lengths": [
+        18,
+        23,
+        15,
+        30,
+        37,
+        78,
+        85
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-okul-kulubu-secimi",
+      "batch": 16,
+      "title": "Okul kulübü seçimi | Ortaokul",
+      "main_section_words": 299,
+      "editorial_total_words": 431,
+      "section_lengths": [
+        20,
+        20,
+        19,
+        34,
+        29,
+        86,
+        91
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-ogrenci-liderligi-ve-sorumluluk",
+      "batch": 16,
+      "title": "Öğrenci liderliği ve sorumluluk | Ortaokul",
+      "main_section_words": 291,
+      "editorial_total_words": 426,
+      "section_lengths": [
+        19,
+        19,
+        17,
+        33,
+        30,
+        83,
+        90
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-dislanma-karsisinda-yardim",
+      "batch": 16,
+      "title": "Dışlanma karşısında yardım | Ortaokul",
+      "main_section_words": 291,
+      "editorial_total_words": 421,
+      "section_lengths": [
+        20,
+        16,
+        17,
+        35,
+        30,
+        84,
+        89
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-duygusal-dalgalanmalari-anlama",
+      "batch": 16,
+      "title": "Duygusal dalgalanmaları anlama | Ortaokul",
+      "main_section_words": 296,
+      "editorial_total_words": 430,
+      "section_lengths": [
+        18,
+        17,
+        18,
+        35,
+        31,
+        85,
+        92
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-guvenilir-bilgiye-erisim",
+      "batch": 16,
+      "title": "Güvenilir bilgiye erişim | Ortaokul",
+      "main_section_words": 295,
+      "editorial_total_words": 433,
+      "section_lengths": [
+        16,
+        20,
+        17,
+        36,
+        31,
+        83,
+        92
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-akran-catismasinda-guvenlik",
+      "batch": 16,
+      "title": "Akran çatışmasında güvenlik | Ortaokul",
+      "main_section_words": 282,
+      "editorial_total_words": 403,
+      "section_lengths": [
+        17,
+        12,
+        16,
+        34,
+        25,
+        85,
+        93
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-sosyal-sinirlarini-anlatma",
+      "batch": 16,
+      "title": "Sosyal sınırlarını anlatma | Ortaokul",
+      "main_section_words": 300,
+      "editorial_total_words": 442,
+      "section_lengths": [
+        20,
+        22,
+        17,
+        34,
+        34,
+        84,
+        89
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-kendi-guclu-yanlarini-bulma",
+      "batch": 16,
+      "title": "Kendi güçlü yanlarını bulma | Ortaokul",
+      "main_section_words": 311,
+      "editorial_total_words": 447,
+      "section_lengths": [
+        17,
+        14,
+        17,
+        35,
+        29,
+        95,
+        104
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-karar-verirken-secenek-tartma",
+      "batch": 16,
+      "title": "Karar verirken seçenek tartma | Ortaokul",
+      "main_section_words": 282,
+      "editorial_total_words": 414,
+      "section_lengths": [
+        19,
+        17,
+        17,
+        32,
+        30,
+        80,
+        87
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-okul-devamsizligini-konusma",
+      "batch": 16,
+      "title": "Okul devamsızlığını konuşma | Ortaokul",
+      "main_section_words": 291,
+      "editorial_total_words": 420,
+      "section_lengths": [
+        17,
+        19,
+        19,
+        35,
+        29,
+        82,
+        90
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-dijital-ayak-izi",
+      "batch": 16,
+      "title": "Dijital ayak izi | Ortaokul",
+      "main_section_words": 279,
+      "editorial_total_words": 402,
+      "section_lengths": [
+        17,
+        12,
+        18,
+        33,
+        31,
+        80,
+        88
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-oyun-ve-ekran-dengesi",
+      "batch": 16,
+      "title": "Oyun ve ekran dengesi | Ortaokul",
+      "main_section_words": 297,
+      "editorial_total_words": 433,
+      "section_lengths": [
+        19,
+        18,
+        21,
+        35,
+        29,
+        84,
+        91
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-kiyaslanma-baskisi",
+      "batch": 16,
+      "title": "Kıyaslanma baskısı | Ortaokul",
+      "main_section_words": 274,
+      "editorial_total_words": 393,
+      "section_lengths": [
+        16,
+        14,
+        18,
+        33,
+        33,
+        76,
+        84
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ortaokul-yeni-sinifta-aidiyet",
+      "batch": 16,
+      "title": "Yeni sınıfta aidiyet | Ortaokul",
+      "main_section_words": 288,
+      "editorial_total_words": 415,
+      "section_lengths": [
+        17,
+        18,
+        16,
+        34,
+        29,
+        83,
+        91
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ortaokul-ogretmenden-yardim-isteme",
+      "batch": 16,
+      "title": "Öğretmenden yardım isteme | Ortaokul",
+      "main_section_words": 290,
+      "editorial_total_words": 426,
+      "section_lengths": [
+        17,
+        20,
+        18,
+        33,
+        32,
+        81,
+        89
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-alan-secimini-degerlendirme",
+      "batch": 17,
+      "title": "Alan seçimini değerlendirme | Lise",
+      "main_section_words": 304,
+      "editorial_total_words": 478,
+      "section_lengths": [
+        30,
+        31,
+        12,
+        24,
+        31,
+        107,
+        69
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lise-universite-arastirma-plani",
+      "batch": 17,
+      "title": "Üniversite araştırma planı | Lise",
+      "main_section_words": 294,
+      "editorial_total_words": 464,
+      "section_lengths": [
+        28,
+        31,
+        13,
+        24,
+        32,
+        97,
+        69
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-akademik-ilgi-haritasi",
+      "batch": 17,
+      "title": "Akademik ilgi haritası | Lise",
+      "main_section_words": 307,
+      "editorial_total_words": 486,
+      "section_lengths": [
+        31,
+        30,
+        15,
+        24,
+        34,
+        104,
+        69
+      ],
+      "issues": []
+    },
+    {
+      "slug": "lise-meslek-golgeleme-etkinligi",
+      "batch": 17,
+      "title": "Meslek gölgeleme etkinliği | Lise",
+      "main_section_words": 320,
+      "editorial_total_words": 505,
+      "section_lengths": [
+        32,
+        38,
+        13,
+        24,
+        32,
+        112,
+        69
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-staj-ve-gozlem-deneyimi",
+      "batch": 17,
+      "title": "Staj ve gözlem deneyimi | Lise",
+      "main_section_words": 304,
+      "editorial_total_words": 470,
+      "section_lengths": [
+        27,
+        32,
+        13,
+        25,
+        32,
+        105,
+        70
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-gelecek-belirsizligiyle-bas-etme",
+      "batch": 17,
+      "title": "Gelecek belirsizliğiyle baş etme | Lise",
+      "main_section_words": 306,
+      "editorial_total_words": 480,
+      "section_lengths": [
+        34,
+        27,
+        14,
+        25,
+        33,
+        103,
+        70
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-aile-kariyer-beklentisi",
+      "batch": 17,
+      "title": "Aile kariyer beklentisi | Lise",
+      "main_section_words": 299,
+      "editorial_total_words": 466,
+      "section_lengths": [
+        29,
+        28,
+        15,
+        24,
+        34,
+        100,
+        69
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-akranla-akademik-kiyaslama",
+      "batch": 17,
+      "title": "Akranla akademik kıyaslama | Lise",
+      "main_section_words": 290,
+      "editorial_total_words": 446,
+      "section_lengths": [
+        24,
+        27,
+        15,
+        24,
+        34,
+        97,
+        69
+      ],
+      "issues": []
+    },
+    {
+      "slug": "lise-sinav-sonuclarini-yorumlama",
+      "batch": 17,
+      "title": "Sınav sonuçlarını yorumlama | Lise",
+      "main_section_words": 290,
+      "editorial_total_words": 449,
+      "section_lengths": [
+        26,
+        30,
+        12,
+        24,
+        31,
+        98,
+        69
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-etkili-deneme-geri-bildirimi",
+      "batch": 17,
+      "title": "Etkili deneme geri bildirimi | Lise",
+      "main_section_words": 296,
+      "editorial_total_words": 465,
+      "section_lengths": [
+        27,
+        29,
+        14,
+        25,
+        33,
+        98,
+        70
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lise-ders-programi-esnekligi",
+      "batch": 17,
+      "title": "Ders programı esnekliği | Lise",
+      "main_section_words": 286,
+      "editorial_total_words": 450,
+      "section_lengths": [
+        26,
+        32,
+        10,
+        24,
+        29,
+        96,
+        69
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lise-gunluk-yasam-ve-uyku-dengesi",
+      "batch": 17,
+      "title": "Günlük yaşam ve uyku dengesi | Lise",
+      "main_section_words": 294,
+      "editorial_total_words": 462,
+      "section_lengths": [
+        26,
+        31,
+        13,
+        26,
+        32,
+        95,
+        71
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lise-uzun-vadeli-hedef-bolme",
+      "batch": 17,
+      "title": "Uzun vadeli hedef bölme | Lise",
+      "main_section_words": 288,
+      "editorial_total_words": 452,
+      "section_lengths": [
+        27,
+        29,
+        10,
+        25,
+        29,
+        98,
+        70
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lise-dijital-guvenlik-ve-mahremiyet",
+      "batch": 17,
+      "title": "Dijital güvenlik ve mahremiyet | Lise",
+      "main_section_words": 292,
+      "editorial_total_words": 460,
+      "section_lengths": [
+        28,
+        29,
+        12,
+        25,
+        31,
+        97,
+        70
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lise-sosyal-iliskilerde-riza",
+      "batch": 17,
+      "title": "Sosyal ilişkilerde rıza | Lise",
+      "main_section_words": 289,
+      "editorial_total_words": 445,
+      "section_lengths": [
+        28,
+        26,
+        13,
+        24,
+        32,
+        97,
+        69
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-guvenilir-yetiskine-basvuru",
+      "batch": 17,
+      "title": "Güvenilir yetişkine başvuru | Lise",
+      "main_section_words": 291,
+      "editorial_total_words": 450,
+      "section_lengths": [
+        27,
+        31,
+        13,
+        24,
+        32,
+        95,
+        69
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-kendini-ifade-etme-becerisi",
+      "batch": 17,
+      "title": "Kendini ifade etme becerisi | Lise",
+      "main_section_words": 293,
+      "editorial_total_words": 448,
+      "section_lengths": [
+        24,
+        28,
+        16,
+        25,
+        35,
+        95,
+        70
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-farkli-goruslere-saygi",
+      "batch": 17,
+      "title": "Farklı görüşlere saygı | Lise",
+      "main_section_words": 284,
+      "editorial_total_words": 444,
+      "section_lengths": [
+        23,
+        32,
+        13,
+        24,
+        32,
+        91,
+        69
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-mesleki-deger-kesfi",
+      "batch": 17,
+      "title": "Mesleki değer keşfi | Lise",
+      "main_section_words": 290,
+      "editorial_total_words": 450,
+      "section_lengths": [
+        27,
+        27,
+        13,
+        24,
+        32,
+        98,
+        69
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-bolum-karsilastirma-cizelgesi",
+      "batch": 17,
+      "title": "Bölüm karşılaştırma çizelgesi | Lise",
+      "main_section_words": 293,
+      "editorial_total_words": 454,
+      "section_lengths": [
+        29,
+        27,
+        10,
+        24,
+        29,
+        105,
+        69
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-gonullu-toplumsal-katki",
+      "batch": 17,
+      "title": "Gönüllü toplumsal katkı | Lise",
+      "main_section_words": 283,
+      "editorial_total_words": 446,
+      "section_lengths": [
+        26,
+        30,
+        12,
+        24,
+        31,
+        91,
+        69
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-okul-kulubunde-sorumluluk",
+      "batch": 17,
+      "title": "Okul kulübünde sorumluluk | Lise",
+      "main_section_words": 297,
+      "editorial_total_words": 459,
+      "section_lengths": [
+        32,
+        26,
+        13,
+        24,
+        32,
+        101,
+        69
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-mezuniyet-sonrasi-secenekler",
+      "batch": 17,
+      "title": "Mezuniyet sonrası seçenekler | Lise",
+      "main_section_words": 306,
+      "editorial_total_words": 474,
+      "section_lengths": [
+        31,
+        29,
+        16,
+        24,
+        35,
+        102,
+        69
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "lise-sinav-donemi-aile-iletisimi",
+      "batch": 17,
+      "title": "Sınav dönemi aile iletişimi | Lise",
+      "main_section_words": 297,
+      "editorial_total_words": 473,
+      "section_lengths": [
+        28,
+        33,
+        13,
+        25,
+        32,
+        96,
+        70
+      ],
+      "issues": [
+        "section_under_15_words"
+      ]
+    },
+    {
+      "slug": "lise-yeni-ortama-gecis-hazirligi",
+      "batch": 17,
+      "title": "Yeni ortama geçiş hazırlığı | Lise",
+      "main_section_words": 311,
+      "editorial_total_words": 490,
+      "section_lengths": [
+        33,
+        31,
+        14,
+        25,
+        33,
+        105,
+        70
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "ozel-egitim-bep-performans-gozlemi",
+      "batch": 18,
+      "title": "BEP performans gözlemi | Özel Eğitim",
+      "main_section_words": 265,
+      "editorial_total_words": 462,
+      "section_lengths": [
+        24,
+        18,
+        19,
+        54,
+        19,
+        56,
+        75
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-bep-hedef-olcutu",
+      "batch": 18,
+      "title": "BEP hedef ölçütü | Özel Eğitim",
+      "main_section_words": 265,
+      "editorial_total_words": 464,
+      "section_lengths": [
+        24,
+        19,
+        20,
+        54,
+        21,
+        57,
+        70
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-bep-kazanim-izleme",
+      "batch": 18,
+      "title": "BEP kazanım izleme | Özel Eğitim",
+      "main_section_words": 270,
+      "editorial_total_words": 471,
+      "section_lengths": [
+        23,
+        19,
+        20,
+        57,
+        20,
+        59,
+        72
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-bep-ekibi-gorev-dagilimi",
+      "batch": 18,
+      "title": "BEP ekibi görev dağılımı | Özel Eğitim",
+      "main_section_words": 276,
+      "editorial_total_words": 482,
+      "section_lengths": [
+        24,
+        20,
+        21,
+        59,
+        23,
+        57,
+        72
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-gorsel-yonerge-uyarlamasi",
+      "batch": 18,
+      "title": "Görsel yönerge uyarlaması | Özel Eğitim",
+      "main_section_words": 269,
+      "editorial_total_words": 468,
+      "section_lengths": [
+        23,
+        20,
+        21,
+        56,
+        20,
+        57,
+        72
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-gorev-suresi-uyarlamasi",
+      "batch": 18,
+      "title": "Görev süresi uyarlaması | Özel Eğitim",
+      "main_section_words": 274,
+      "editorial_total_words": 474,
+      "section_lengths": [
+        22,
+        21,
+        22,
+        56,
+        21,
+        58,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-alternatif-katilim-yontemi",
+      "batch": 18,
+      "title": "Alternatif katılım yöntemi | Özel Eğitim",
+      "main_section_words": 258,
+      "editorial_total_words": 449,
+      "section_lengths": [
+        22,
+        17,
+        18,
+        55,
+        20,
+        54,
+        72
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-ogrencinin-guclu-yonleri",
+      "batch": 18,
+      "title": "Öğrencinin güçlü yönleri | Özel Eğitim",
+      "main_section_words": 273,
+      "editorial_total_words": 470,
+      "section_lengths": [
+        23,
+        19,
+        20,
+        54,
+        21,
+        57,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-ailenin-gozlem-katkisi",
+      "batch": 18,
+      "title": "Ailenin gözlem katkısı | Özel Eğitim",
+      "main_section_words": 267,
+      "editorial_total_words": 466,
+      "section_lengths": [
+        23,
+        20,
+        21,
+        54,
+        21,
+        57,
+        71
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-sinif-ici-destek-duzeni",
+      "batch": 18,
+      "title": "Sınıf içi destek düzeni | Özel Eğitim",
+      "main_section_words": 269,
+      "editorial_total_words": 471,
+      "section_lengths": [
+        24,
+        18,
+        19,
+        55,
+        21,
+        58,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-akran-katiliminin-guvenligi",
+      "batch": 18,
+      "title": "Akran katılımının güvenliği | Özel Eğitim",
+      "main_section_words": 271,
+      "editorial_total_words": 469,
+      "section_lengths": [
+        22,
+        20,
+        21,
+        53,
+        20,
+        60,
+        75
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-gecislerde-ongorulebilirlik",
+      "batch": 18,
+      "title": "Geçişlerde öngörülebilirlik | Özel Eğitim",
+      "main_section_words": 266,
+      "editorial_total_words": 462,
+      "section_lengths": [
+        23,
+        18,
+        19,
+        57,
+        21,
+        57,
+        71
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-duyusal-gereksinime-duyarlilik",
+      "batch": 18,
+      "title": "Duyusal gereksinime duyarlılık | Özel Eğitim",
+      "main_section_words": 269,
+      "editorial_total_words": 471,
+      "section_lengths": [
+        25,
+        19,
+        20,
+        57,
+        20,
+        55,
+        73
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-olumlu-davranis-destegi",
+      "batch": 18,
+      "title": "Olumlu davranış desteği | Özel Eğitim",
+      "main_section_words": 270,
+      "editorial_total_words": 467,
+      "section_lengths": [
+        21,
+        19,
+        20,
+        55,
+        20,
+        59,
+        76
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-islevsel-iletisim-firsatlari",
+      "batch": 18,
+      "title": "İşlevsel iletişim fırsatları | Özel Eğitim",
+      "main_section_words": 270,
+      "editorial_total_words": 471,
+      "section_lengths": [
+        25,
+        20,
+        21,
+        56,
+        20,
+        55,
+        73
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-uyarlama-ise-yariyor-mu",
+      "batch": 18,
+      "title": "Uyarlama işe yarıyor mu | Özel Eğitim",
+      "main_section_words": 269,
+      "editorial_total_words": 470,
+      "section_lengths": [
+        24,
+        17,
+        18,
+        56,
+        20,
+        58,
+        76
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-bep-toplanti-gundemi",
+      "batch": 18,
+      "title": "BEP toplantı gündemi | Özel Eğitim",
+      "main_section_words": 277,
+      "editorial_total_words": 482,
+      "section_lengths": [
+        24,
+        21,
+        22,
+        58,
+        20,
+        57,
+        75
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-bep-degerlendirme-kaydi",
+      "batch": 18,
+      "title": "BEP değerlendirme kaydı | Özel Eğitim",
+      "main_section_words": 268,
+      "editorial_total_words": 471,
+      "section_lengths": [
+        24,
+        18,
+        19,
+        59,
+        21,
+        56,
+        71
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-egitimde-erisilebilir-materyal",
+      "batch": 18,
+      "title": "Eğitimde erişilebilir materyal | Özel Eğitim",
+      "main_section_words": 261,
+      "editorial_total_words": 458,
+      "section_lengths": [
+        25,
+        17,
+        18,
+        54,
+        20,
+        56,
+        71
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-farkli-yanit-verme-yollari",
+      "batch": 18,
+      "title": "Farklı yanıt verme yolları | Özel Eğitim",
+      "main_section_words": 276,
+      "editorial_total_words": 488,
+      "section_lengths": [
+        27,
+        17,
+        18,
+        58,
+        21,
+        61,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-okul-ici-kurum-is-birligi",
+      "batch": 18,
+      "title": "Okul içi kurum iş birliği | Özel Eğitim",
+      "main_section_words": 275,
+      "editorial_total_words": 485,
+      "section_lengths": [
+        25,
+        18,
+        19,
+        57,
+        20,
+        59,
+        77
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-ram-degerlendirmesi-sonrasi",
+      "batch": 18,
+      "title": "RAM değerlendirmesi sonrası | Özel Eğitim",
+      "main_section_words": 278,
+      "editorial_total_words": 485,
+      "section_lengths": [
+        23,
+        20,
+        21,
+        59,
+        21,
+        61,
+        73
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-kapsayici-grup-etkinligi",
+      "batch": 18,
+      "title": "Kapsayıcı grup etkinliği | Özel Eğitim",
+      "main_section_words": 274,
+      "editorial_total_words": 476,
+      "section_lengths": [
+        23,
+        19,
+        20,
+        58,
+        22,
+        58,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-aileyle-donemlik-hedef",
+      "batch": 18,
+      "title": "Aileyle dönemlik hedef | Özel Eğitim",
+      "main_section_words": 276,
+      "editorial_total_words": 485,
+      "section_lengths": [
+        25,
+        18,
+        19,
+        60,
+        21,
+        59,
+        74
+      ],
+      "issues": []
+    },
+    {
+      "slug": "ozel-egitim-destek-egitim-koordinasyonu",
+      "batch": 18,
+      "title": "Destek eğitim koordinasyonu | Özel Eğitim",
+      "main_section_words": 281,
+      "editorial_total_words": 488,
+      "section_lengths": [
+        23,
+        21,
+        22,
+        60,
+        19,
+        58,
+        78
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-sozlu-zorbalik-bildirimi",
+      "batch": 19,
+      "title": "Sözlü zorbalık bildirimi | Akran Zorbalığı",
+      "main_section_words": 287,
+      "editorial_total_words": 396,
+      "section_lengths": [
+        22,
+        20,
+        20,
+        18,
+        18,
+        111,
+        78
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-fiziksel-zorbalikta-guvenlik",
+      "batch": 19,
+      "title": "Fiziksel zorbalıkta güvenlik | Akran Zorbalığı",
+      "main_section_words": 292,
+      "editorial_total_words": 409,
+      "section_lengths": [
+        24,
+        18,
+        18,
+        18,
+        21,
+        112,
+        81
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-sosyal-dislama-davranisi",
+      "batch": 19,
+      "title": "Sosyal dışlama davranışı | Akran Zorbalığı",
+      "main_section_words": 286,
+      "editorial_total_words": 395,
+      "section_lengths": [
+        23,
+        20,
+        20,
+        18,
+        17,
+        111,
+        77
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-grup-sohbetinde-alay",
+      "batch": 19,
+      "title": "Grup sohbetinde alay | Akran Zorbalığı",
+      "main_section_words": 300,
+      "editorial_total_words": 415,
+      "section_lengths": [
+        23,
+        22,
+        22,
+        18,
+        19,
+        117,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-lakapla-hedef-gosterme",
+      "batch": 19,
+      "title": "Lakapla hedef gösterme | Akran Zorbalığı",
+      "main_section_words": 288,
+      "editorial_total_words": 400,
+      "section_lengths": [
+        23,
+        19,
+        19,
+        18,
+        19,
+        111,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-akran-grubunda-guc-farki",
+      "batch": 19,
+      "title": "Akran grubunda güç farkı | Akran Zorbalığı",
+      "main_section_words": 298,
+      "editorial_total_words": 414,
+      "section_lengths": [
+        23,
+        21,
+        21,
+        18,
+        19,
+        116,
+        80
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-tanik-ogrenciyi-destekleme",
+      "batch": 19,
+      "title": "Tanık öğrenciyi destekleme | Akran Zorbalığı",
+      "main_section_words": 289,
+      "editorial_total_words": 401,
+      "section_lengths": [
+        22,
+        19,
+        19,
+        18,
+        20,
+        111,
+        80
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-magdur-ogrenciyi-dinleme",
+      "batch": 19,
+      "title": "Mağdur öğrenciyi dinleme | Akran Zorbalığı",
+      "main_section_words": 290,
+      "editorial_total_words": 401,
+      "section_lengths": [
+        22,
+        20,
+        20,
+        18,
+        19,
+        112,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-zarar-verici-davranis-gorusmesi",
+      "batch": 19,
+      "title": "Zarar verici davranış görüşmesi | Akran Zorbalığı",
+      "main_section_words": 291,
+      "editorial_total_words": 404,
+      "section_lengths": [
+        23,
+        20,
+        20,
+        18,
+        18,
+        113,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-ogretmenden-gozlem-alma",
+      "batch": 19,
+      "title": "Öğretmenden gözlem alma | Akran Zorbalığı",
+      "main_section_words": 292,
+      "editorial_total_words": 405,
+      "section_lengths": [
+        23,
+        20,
+        20,
+        18,
+        19,
+        113,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-veliye-guvenli-bilgilendirme",
+      "batch": 19,
+      "title": "Veliye güvenli bilgilendirme | Akran Zorbalığı",
+      "main_section_words": 285,
+      "editorial_total_words": 396,
+      "section_lengths": [
+        22,
+        18,
+        18,
+        18,
+        20,
+        109,
+        80
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-misilleme-riskini-izleme",
+      "batch": 19,
+      "title": "Misilleme riskini izleme | Akran Zorbalığı",
+      "main_section_words": 303,
+      "editorial_total_words": 423,
+      "section_lengths": [
+        25,
+        21,
+        21,
+        18,
+        20,
+        118,
+        80
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-teneffus-guvenligi-plani",
+      "batch": 19,
+      "title": "Teneffüs güvenliği planı | Akran Zorbalığı",
+      "main_section_words": 286,
+      "editorial_total_words": 396,
+      "section_lengths": [
+        22,
+        19,
+        19,
+        18,
+        19,
+        110,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-sinifta-soylenti-dongusu",
+      "batch": 19,
+      "title": "Sınıfta söylenti döngüsü | Akran Zorbalığı",
+      "main_section_words": 289,
+      "editorial_total_words": 397,
+      "section_lengths": [
+        21,
+        21,
+        21,
+        18,
+        18,
+        112,
+        78
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-dijital-kaniti-koruma",
+      "batch": 19,
+      "title": "Dijital kanıtı koruma | Akran Zorbalığı",
+      "main_section_words": 281,
+      "editorial_total_words": 390,
+      "section_lengths": [
+        23,
+        18,
+        18,
+        18,
+        18,
+        108,
+        78
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-anonim-bildirim-sinirlari",
+      "batch": 19,
+      "title": "Anonim bildirim sınırları | Akran Zorbalığı",
+      "main_section_words": 298,
+      "editorial_total_words": 411,
+      "section_lengths": [
+        22,
+        22,
+        22,
+        18,
+        19,
+        116,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-okul-ici-koruyucu-ag",
+      "batch": 19,
+      "title": "Okul içi koruyucu ağ | Akran Zorbalığı",
+      "main_section_words": 301,
+      "editorial_total_words": 416,
+      "section_lengths": [
+        21,
+        22,
+        22,
+        18,
+        20,
+        117,
+        81
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-zorbalik-sonrasi-aidiyet",
+      "batch": 19,
+      "title": "Zorbalık sonrası aidiyet | Akran Zorbalığı",
+      "main_section_words": 295,
+      "editorial_total_words": 410,
+      "section_lengths": [
+        23,
+        20,
+        20,
+        18,
+        20,
+        114,
+        80
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-tekrarlanan-olay-kayitlari",
+      "batch": 19,
+      "title": "Tekrarlanan olay kayıtları | Akran Zorbalığı",
+      "main_section_words": 297,
+      "editorial_total_words": 414,
+      "section_lengths": [
+        24,
+        20,
+        20,
+        18,
+        20,
+        115,
+        80
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-grup-mudahalesi-sinirlari",
+      "batch": 19,
+      "title": "Grup müdahalesi sınırları | Akran Zorbalığı",
+      "main_section_words": 300,
+      "editorial_total_words": 418,
+      "section_lengths": [
+        25,
+        21,
+        21,
+        18,
+        19,
+        117,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-akran-arabuluculugu-ayrimi",
+      "batch": 19,
+      "title": "Akran arabuluculuğu ayrımı | Akran Zorbalığı",
+      "main_section_words": 298,
+      "editorial_total_words": 411,
+      "section_lengths": [
+        22,
+        22,
+        22,
+        18,
+        19,
+        116,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-olay-sonrasi-izleme-tarihi",
+      "batch": 19,
+      "title": "Olay sonrası izleme tarihi | Akran Zorbalığı",
+      "main_section_words": 305,
+      "editorial_total_words": 428,
+      "section_lengths": [
+        24,
+        20,
+        20,
+        18,
+        22,
+        118,
+        83
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-sinif-dilinde-ayrimcilik",
+      "batch": 19,
+      "title": "Sınıf dilinde ayrımcılık | Akran Zorbalığı",
+      "main_section_words": 286,
+      "editorial_total_words": 399,
+      "section_lengths": [
+        24,
+        18,
+        18,
+        18,
+        19,
+        110,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-oyun-alaninda-dislanma",
+      "batch": 19,
+      "title": "Oyun alanında dışlanma | Akran Zorbalığı",
+      "main_section_words": 290,
+      "editorial_total_words": 401,
+      "section_lengths": [
+        22,
+        20,
+        20,
+        18,
+        19,
+        112,
+        79
+      ],
+      "issues": []
+    },
+    {
+      "slug": "zorbalik-guvenli-okul-iklimi-geri-bildirimi",
+      "batch": 19,
+      "title": "Güvenli okul iklimi geri bildirimi | Akran Zorbalığı",
+      "main_section_words": 295,
+      "editorial_total_words": 413,
+      "section_lengths": [
+        23,
+        19,
+        19,
+        18,
+        20,
+        114,
+        82
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kriz-acil-guvenlik-degerlendirmesi",
+      "batch": 20,
+      "title": "Acil güvenlik değerlendirmesi | Kriz ve Güvenlik",
+      "main_section_words": 302,
+      "editorial_total_words": 477,
+      "section_lengths": [
+        22,
+        53,
+        25,
+        50,
+        30,
+        43,
+        32,
+        47
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-risk-bildirimini-kaydetme",
+      "batch": 20,
+      "title": "Risk bildirimini kaydetme | Kriz ve Güvenlik",
+      "main_section_words": 287,
+      "editorial_total_words": 459,
+      "section_lengths": [
+        16,
+        50,
+        25,
+        51,
+        30,
+        37,
+        28,
+        50
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-kendine-zarar-ifadesi",
+      "batch": 20,
+      "title": "Kendine zarar ifadesi | Kriz ve Güvenlik",
+      "main_section_words": 313,
+      "editorial_total_words": 490,
+      "section_lengths": [
+        24,
+        52,
+        25,
+        51,
+        30,
+        48,
+        34,
+        49
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-ihmal-suphesini-bildirme",
+      "batch": 20,
+      "title": "İhmal şüphesini bildirme | Kriz ve Güvenlik",
+      "main_section_words": 291,
+      "editorial_total_words": 468,
+      "section_lengths": [
+        23,
+        51,
+        25,
+        51,
+        26,
+        38,
+        29,
+        48
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-istismar-suphesinde-yaklasim",
+      "batch": 20,
+      "title": "İstismar şüphesinde yaklaşım | Kriz ve Güvenlik",
+      "main_section_words": 300,
+      "editorial_total_words": 471,
+      "section_lengths": [
+        21,
+        52,
+        25,
+        49,
+        31,
+        41,
+        36,
+        45
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-aile-ici-siddet-anlatimi",
+      "batch": 20,
+      "title": "Aile içi şiddet anlatımı | Kriz ve Güvenlik",
+      "main_section_words": 309,
+      "editorial_total_words": 494,
+      "section_lengths": [
+        26,
+        53,
+        26,
+        48,
+        27,
+        43,
+        36,
+        50
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-krizde-ogrenci-mahremiyeti",
+      "batch": 20,
+      "title": "Krizde öğrenci mahremiyeti | Kriz ve Güvenlik",
+      "main_section_words": 286,
+      "editorial_total_words": 460,
+      "section_lengths": [
+        18,
+        50,
+        25,
+        53,
+        29,
+        33,
+        29,
+        49
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-zorlayici-olay-sonrasi-sinif",
+      "batch": 20,
+      "title": "Zorlayıcı olay sonrası sınıf | Kriz ve Güvenlik",
+      "main_section_words": 301,
+      "editorial_total_words": 479,
+      "section_lengths": [
+        20,
+        52,
+        26,
+        51,
+        30,
+        38,
+        33,
+        51
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-kaybedilen-yakin-sonrasi-okul",
+      "batch": 20,
+      "title": "Kaybedilen yakın sonrası okul | Kriz ve Güvenlik",
+      "main_section_words": 291,
+      "editorial_total_words": 462,
+      "section_lengths": [
+        20,
+        51,
+        26,
+        54,
+        28,
+        34,
+        28,
+        50
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-afet-sonrasi-okula-donus",
+      "batch": 20,
+      "title": "Afet sonrası okula dönüş | Kriz ve Güvenlik",
+      "main_section_words": 307,
+      "editorial_total_words": 491,
+      "section_lengths": [
+        20,
+        54,
+        26,
+        52,
+        31,
+        41,
+        30,
+        53
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-krizde-veli-bilgilendirme",
+      "batch": 20,
+      "title": "Krizde veli bilgilendirme | Kriz ve Güvenlik",
+      "main_section_words": 292,
+      "editorial_total_words": 468,
+      "section_lengths": [
+        25,
+        52,
+        25,
+        51,
+        26,
+        35,
+        30,
+        48
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-kurum-ici-acil-gorevler",
+      "batch": 20,
+      "title": "Kurum içi acil görevler | Kriz ve Güvenlik",
+      "main_section_words": 285,
+      "editorial_total_words": 471,
+      "section_lengths": [
+        24,
+        52,
+        26,
+        51,
+        29,
+        30,
+        24,
+        49
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-guvenli-uzman-yonlendirme",
+      "batch": 20,
+      "title": "Güvenli uzman yönlendirme | Kriz ve Güvenlik",
+      "main_section_words": 291,
+      "editorial_total_words": 477,
+      "section_lengths": [
+        24,
+        54,
+        25,
+        47,
+        28,
+        34,
+        29,
+        50
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-gorusmede-ayrinti-zorlamama",
+      "batch": 20,
+      "title": "Görüşmede ayrıntı zorlamama | Kriz ve Güvenlik",
+      "main_section_words": 291,
+      "editorial_total_words": 462,
+      "section_lengths": [
+        19,
+        54,
+        25,
+        50,
+        31,
+        32,
+        30,
+        50
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-ogrenciye-acil-yardim-yolu",
+      "batch": 20,
+      "title": "Öğrenciye acil yardım yolu | Kriz ve Güvenlik",
+      "main_section_words": 282,
+      "editorial_total_words": 456,
+      "section_lengths": [
+        18,
+        54,
+        26,
+        52,
+        29,
+        28,
+        24,
+        51
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-tehdit-iceren-akran-davranisi",
+      "batch": 20,
+      "title": "Tehdit içeren akran davranışı | Kriz ve Güvenlik",
+      "main_section_words": 296,
+      "editorial_total_words": 485,
+      "section_lengths": [
+        24,
+        53,
+        26,
+        51,
+        33,
+        33,
+        25,
+        51
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-okulda-zarar-verme-riski",
+      "batch": 20,
+      "title": "Okulda zarar verme riski | Kriz ve Güvenlik",
+      "main_section_words": 291,
+      "editorial_total_words": 480,
+      "section_lengths": [
+        21,
+        52,
+        26,
+        52,
+        27,
+        35,
+        28,
+        50
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-supheli-olayda-bilgi-guvenligi",
+      "batch": 20,
+      "title": "Şüpheli olayda bilgi güvenliği | Kriz ve Güvenlik",
+      "main_section_words": 287,
+      "editorial_total_words": 461,
+      "section_lengths": [
+        16,
+        54,
+        26,
+        54,
+        27,
+        28,
+        29,
+        53
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-kriz-sonrasi-devamsizlik",
+      "batch": 20,
+      "title": "Kriz sonrası devamsızlık | Kriz ve Güvenlik",
+      "main_section_words": 284,
+      "editorial_total_words": 457,
+      "section_lengths": [
+        18,
+        53,
+        25,
+        53,
+        25,
+        31,
+        30,
+        49
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-guvenilir-yetiskin-destegi",
+      "batch": 20,
+      "title": "Güvenilir yetişkin desteği | Kriz ve Güvenlik",
+      "main_section_words": 294,
+      "editorial_total_words": 466,
+      "section_lengths": [
+        20,
+        56,
+        25,
+        54,
+        28,
+        31,
+        30,
+        50
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-krizde-ogretmen-koordinasyonu",
+      "batch": 20,
+      "title": "Krizde öğretmen koordinasyonu | Kriz ve Güvenlik",
+      "main_section_words": 286,
+      "editorial_total_words": 463,
+      "section_lengths": [
+        17,
+        53,
+        25,
+        52,
+        30,
+        32,
+        28,
+        49
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-zorlayici-olayda-soylenti",
+      "batch": 20,
+      "title": "Zorlayıcı olayda söylenti | Kriz ve Güvenlik",
+      "main_section_words": 292,
+      "editorial_total_words": 467,
+      "section_lengths": [
+        18,
+        53,
+        25,
+        51,
+        27,
+        33,
+        31,
+        54
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-kriz-sonrasi-sinif-rutini",
+      "batch": 20,
+      "title": "Kriz sonrası sınıf rutini | Kriz ve Güvenlik",
+      "main_section_words": 305,
+      "editorial_total_words": 490,
+      "section_lengths": [
+        22,
+        56,
+        26,
+        54,
+        28,
+        32,
+        33,
+        54
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-izlem-ve-destek-devri",
+      "batch": 20,
+      "title": "İzlem ve destek devri | Kriz ve Güvenlik",
+      "main_section_words": 294,
+      "editorial_total_words": 475,
+      "section_lengths": [
+        21,
+        53,
+        26,
+        55,
+        25,
+        37,
+        26,
+        51
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "kriz-guvenlik-planini-guncelleme",
+      "batch": 20,
+      "title": "Güvenlik planını güncelleme | Kriz ve Güvenlik",
+      "main_section_words": 293,
+      "editorial_total_words": 475,
+      "section_lengths": [
+        21,
+        53,
+        25,
+        54,
+        27,
+        30,
+        29,
+        54
+      ],
+      "issues": [
+        "mandatory_specialist_review"
+      ]
+    },
+    {
+      "slug": "sinav-sinav-kaygisi-erken-belirtiler",
+      "batch": 21,
+      "title": "Sınav kaygısı erken belirtiler | Sınav Rehberliği",
+      "main_section_words": 380,
+      "editorial_total_words": 530,
+      "section_lengths": [
+        23,
+        25,
+        28,
+        29,
+        32,
+        143,
+        100
+      ],
+      "issues": []
+    },
+    {
+      "slug": "sinav-sinav-oncesi-kaygi-dusunceleri",
+      "batch": 21,
+      "title": "Sınav öncesi kaygı düşünceleri | Sınav Rehberliği",
+      "main_section_words": 374,
+      "editorial_total_words": 522,
+      "section_lengths": [
+        22,
+        21,
+        28,
+        29,
+        31,
+        144,
+        99
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-sinav-gunu-hazirligi",
+      "batch": 21,
+      "title": "Sınav günü hazırlığı | Sınav Rehberliği",
+      "main_section_words": 365,
+      "editorial_total_words": 504,
+      "section_lengths": [
+        21,
+        22,
+        27,
+        29,
+        30,
+        139,
+        97
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-deneme-analizi-gorusmesi",
+      "batch": 21,
+      "title": "Deneme analizi görüşmesi | Sınav Rehberliği",
+      "main_section_words": 351,
+      "editorial_total_words": 486,
+      "section_lengths": [
+        19,
+        20,
+        27,
+        29,
+        30,
+        129,
+        97
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-zaman-baskisini-yonetme",
+      "batch": 21,
+      "title": "Zaman baskısını yönetme | Sınav Rehberliği",
+      "main_section_words": 344,
+      "editorial_total_words": 465,
+      "section_lengths": [
+        12,
+        21,
+        27,
+        29,
+        30,
+        128,
+        97
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-yanlis-sorulari-siniflandirma",
+      "batch": 21,
+      "title": "Yanlış soruları sınıflandırma | Sınav Rehberliği",
+      "main_section_words": 357,
+      "editorial_total_words": 488,
+      "section_lengths": [
+        18,
+        19,
+        27,
+        29,
+        31,
+        135,
+        98
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-konu-eksiklerini-belirleme",
+      "batch": 21,
+      "title": "Konu eksiklerini belirleme | Sınav Rehberliği",
+      "main_section_words": 356,
+      "editorial_total_words": 481,
+      "section_lengths": [
+        19,
+        21,
+        27,
+        29,
+        30,
+        133,
+        97
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-tekrara-baslama-stratejisi",
+      "batch": 21,
+      "title": "Tekrara başlama stratejisi | Sınav Rehberliği",
+      "main_section_words": 355,
+      "editorial_total_words": 483,
+      "section_lengths": [
+        14,
+        23,
+        27,
+        29,
+        31,
+        133,
+        98
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-dusuk-puan-sonrasi-destek",
+      "batch": 21,
+      "title": "Düşük puan sonrası destek | Sınav Rehberliği",
+      "main_section_words": 350,
+      "editorial_total_words": 479,
+      "section_lengths": [
+        16,
+        19,
+        28,
+        29,
+        32,
+        126,
+        100
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-yuksek-beklenti-baskisi",
+      "batch": 21,
+      "title": "Yüksek beklenti baskısı | Sınav Rehberliği",
+      "main_section_words": 340,
+      "editorial_total_words": 452,
+      "section_lengths": [
+        14,
+        16,
+        27,
+        29,
+        30,
+        127,
+        97
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-aile-deneme-sonucu-iletisimi",
+      "batch": 21,
+      "title": "Aile deneme sonucu iletişimi | Sınav Rehberliği",
+      "main_section_words": 344,
+      "editorial_total_words": 474,
+      "section_lengths": [
+        16,
+        18,
+        28,
+        29,
+        31,
+        123,
+        99
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-uyku-ve-dinlenme-plani",
+      "batch": 21,
+      "title": "Uyku ve dinlenme planı | Sınav Rehberliği",
+      "main_section_words": 367,
+      "editorial_total_words": 497,
+      "section_lengths": [
+        22,
+        18,
+        28,
+        29,
+        31,
+        140,
+        99
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-kiyaslama-dilini-azaltma",
+      "batch": 21,
+      "title": "Kıyaslama dilini azaltma | Sınav Rehberliği",
+      "main_section_words": 340,
+      "editorial_total_words": 456,
+      "section_lengths": [
+        17,
+        14,
+        27,
+        29,
+        30,
+        126,
+        97
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-gercekci-net-hedefi",
+      "batch": 21,
+      "title": "Gerçekçi net hedefi | Sınav Rehberliği",
+      "main_section_words": 363,
+      "editorial_total_words": 491,
+      "section_lengths": [
+        19,
+        22,
+        27,
+        29,
+        30,
+        139,
+        97
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-kucuk-calisma-oturumlari",
+      "batch": 21,
+      "title": "Küçük çalışma oturumları | Sınav Rehberliği",
+      "main_section_words": 339,
+      "editorial_total_words": 449,
+      "section_lengths": [
+        15,
+        15,
+        27,
+        29,
+        30,
+        126,
+        97
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-sinavda-yardim-isteme",
+      "batch": 21,
+      "title": "Sınavda yardım isteme | Sınav Rehberliği",
+      "main_section_words": 338,
+      "editorial_total_words": 457,
+      "section_lengths": [
+        16,
+        13,
+        27,
+        29,
+        30,
+        126,
+        97
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-ogrenme-stratejisi-secme",
+      "batch": 21,
+      "title": "Öğrenme stratejisi seçme | Sınav Rehberliği",
+      "main_section_words": 343,
+      "editorial_total_words": 463,
+      "section_lengths": [
+        20,
+        13,
+        27,
+        29,
+        30,
+        127,
+        97
+      ],
+      "issues": [
+        "section_under_15_words",
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-okul-ve-kurs-yuk-dengesi",
+      "batch": 21,
+      "title": "Okul ve kurs yük dengesi | Sınav Rehberliği",
+      "main_section_words": 368,
+      "editorial_total_words": 500,
+      "section_lengths": [
+        17,
+        19,
+        29,
+        29,
+        34,
+        137,
+        103
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-tercih-bilgi-kaynagi",
+      "batch": 21,
+      "title": "Tercih bilgi kaynağı | Sınav Rehberliği",
+      "main_section_words": 354,
+      "editorial_total_words": 484,
+      "section_lengths": [
+        17,
+        21,
+        27,
+        29,
+        30,
+        133,
+        97
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-program-kosulu-inceleme",
+      "batch": 21,
+      "title": "Program koşulu inceleme | Sınav Rehberliği",
+      "main_section_words": 360,
+      "editorial_total_words": 496,
+      "section_lengths": [
+        22,
+        17,
+        27,
+        29,
+        30,
+        138,
+        97
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-lgs-yerlestirme-bilgisi",
+      "batch": 21,
+      "title": "LGS yerleştirme bilgisi | Sınav Rehberliği",
+      "main_section_words": 355,
+      "editorial_total_words": 488,
+      "section_lengths": [
+        21,
+        17,
+        27,
+        29,
+        30,
+        134,
+        97
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-yks-tercih-sirasi-degerlendirme",
+      "batch": 21,
+      "title": "YKS tercih sırası değerlendirme | Sınav Rehberliği",
+      "main_section_words": 356,
+      "editorial_total_words": 475,
+      "section_lengths": [
+        18,
+        17,
+        28,
+        29,
+        31,
+        134,
+        99
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-sinav-sonrasi-belirsizlik",
+      "batch": 21,
+      "title": "Sınav sonrası belirsizlik | Sınav Rehberliği",
+      "main_section_words": 346,
+      "editorial_total_words": 476,
+      "section_lengths": [
+        16,
+        18,
+        27,
+        29,
+        30,
+        129,
+        97
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-sinav-sonucunu-aileye-aciklama",
+      "batch": 21,
+      "title": "Sınav sonucunu aileye açıklama | Sınav Rehberliği",
+      "main_section_words": 358,
+      "editorial_total_words": 490,
+      "section_lengths": [
+        21,
+        16,
+        28,
+        29,
+        30,
+        136,
+        98
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "sinav-yeni-doneme-gecis-hedefi",
+      "batch": 21,
+      "title": "Yeni döneme geçiş hedefi | Sınav Rehberliği",
+      "main_section_words": 352,
+      "editorial_total_words": 484,
+      "section_lengths": [
+        15,
+        18,
+        28,
+        29,
+        32,
+        130,
+        100
+      ],
+      "issues": [
+        "example_under_20_words"
+      ]
+    },
+    {
+      "slug": "kariyer-ilgi-envanteri-sonuclarini-konusma",
+      "batch": 22,
+      "title": "İlgi envanteri sonuçlarını konuşma | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 278,
+      "editorial_total_words": 487,
+      "section_lengths": [
+        19,
+        20,
+        26,
+        56,
+        42,
+        51,
+        64
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-mesleklerin-gunluk-gorevleri",
+      "batch": 22,
+      "title": "Mesleklerin günlük görevleri | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 282,
+      "editorial_total_words": 496,
+      "section_lengths": [
+        19,
+        25,
+        25,
+        57,
+        39,
+        52,
+        65
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-egitim-yolu-arastirma",
+      "batch": 22,
+      "title": "Eğitim yolu araştırma | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 277,
+      "editorial_total_words": 489,
+      "section_lengths": [
+        20,
+        17,
+        25,
+        58,
+        39,
+        56,
+        62
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-mesleki-degerleri-karsilastirma",
+      "batch": 22,
+      "title": "Mesleki değerleri karşılaştırma | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 274,
+      "editorial_total_words": 487,
+      "section_lengths": [
+        19,
+        17,
+        25,
+        58,
+        39,
+        54,
+        62
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-gelecek-mesleklerini-arastirma",
+      "batch": 22,
+      "title": "Gelecek mesleklerini araştırma | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 270,
+      "editorial_total_words": 473,
+      "section_lengths": [
+        16,
+        15,
+        25,
+        59,
+        37,
+        55,
+        63
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-mesleklere-iliskin-onyargi",
+      "batch": 22,
+      "title": "Mesleklere ilişkin önyargı | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 274,
+      "editorial_total_words": 488,
+      "section_lengths": [
+        18,
+        18,
+        25,
+        56,
+        40,
+        54,
+        63
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-bolum-ders-planini-okuma",
+      "batch": 22,
+      "title": "Bölüm ders planını okuma | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 273,
+      "editorial_total_words": 482,
+      "section_lengths": [
+        18,
+        16,
+        26,
+        57,
+        38,
+        54,
+        64
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-resm-program-kosullari",
+      "batch": 22,
+      "title": "Resmî program koşulları | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 267,
+      "editorial_total_words": 479,
+      "section_lengths": [
+        23,
+        15,
+        25,
+        59,
+        32,
+        54,
+        59
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-aile-meslek-beklentisi",
+      "batch": 22,
+      "title": "Aile meslek beklentisi | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 274,
+      "editorial_total_words": 484,
+      "section_lengths": [
+        18,
+        15,
+        25,
+        59,
+        37,
+        55,
+        65
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-meslek-seciminde-akran-etkisi",
+      "batch": 22,
+      "title": "Meslek seçiminde akran etkisi | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 275,
+      "editorial_total_words": 489,
+      "section_lengths": [
+        17,
+        17,
+        26,
+        58,
+        39,
+        53,
+        65
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-guclu-yon-ve-beceri-eslestirme",
+      "batch": 22,
+      "title": "Güçlü yön ve beceri eşleştirme | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 275,
+      "editorial_total_words": 486,
+      "section_lengths": [
+        17,
+        16,
+        27,
+        57,
+        38,
+        54,
+        66
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-is-ortami-tercihleri",
+      "batch": 22,
+      "title": "İş ortamı tercihleri | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 270,
+      "editorial_total_words": 482,
+      "section_lengths": [
+        16,
+        39,
+        59,
+        36,
+        57,
+        63
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-universite-yasami-beklentileri",
+      "batch": 22,
+      "title": "Üniversite yaşamı beklentileri | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 269,
+      "editorial_total_words": 472,
+      "section_lengths": [
+        28,
+        25,
+        58,
+        37,
+        55,
+        66
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-ogrenim-maliyetini-arastirma",
+      "batch": 22,
+      "title": "Öğrenim maliyetini araştırma | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 280,
+      "editorial_total_words": 493,
+      "section_lengths": [
+        16,
+        20,
+        25,
+        54,
+        42,
+        60,
+        63
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-sehir-ve-ulasim-kosullari",
+      "batch": 22,
+      "title": "Şehir ve ulaşım koşulları | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 274,
+      "editorial_total_words": 475,
+      "section_lengths": [
+        29,
+        26,
+        60,
+        37,
+        54,
+        68
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-staj-ve-gonulluluk-firsatlari",
+      "batch": 22,
+      "title": "Staj ve gönüllülük fırsatları | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 274,
+      "editorial_total_words": 490,
+      "section_lengths": [
+        17,
+        15,
+        26,
+        60,
+        37,
+        56,
+        63
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-kariyer-kararinda-belirsizlik",
+      "batch": 22,
+      "title": "Kariyer kararında belirsizlik | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 276,
+      "editorial_total_words": 485,
+      "section_lengths": [
+        16,
+        39,
+        59,
+        36,
+        60,
+        66
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-mesleki-karar-secenek-tablosu",
+      "batch": 22,
+      "title": "Mesleki karar seçenek tablosu | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 276,
+      "editorial_total_words": 481,
+      "section_lengths": [
+        19,
+        16,
+        26,
+        55,
+        38,
+        55,
+        67
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-mezuniyet-sonrasi-alternatifler",
+      "batch": 22,
+      "title": "Mezuniyet sonrası alternatifler | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 279,
+      "editorial_total_words": 488,
+      "section_lengths": [
+        19,
+        16,
+        25,
+        59,
+        38,
+        56,
+        66
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-meslek-tanitim-semineri",
+      "batch": 22,
+      "title": "Meslek tanıtım semineri | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 277,
+      "editorial_total_words": 486,
+      "section_lengths": [
+        18,
+        15,
+        25,
+        58,
+        37,
+        58,
+        66
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-meslek-uzmanina-soru-hazirlama",
+      "batch": 22,
+      "title": "Meslek uzmanına soru hazırlama | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 282,
+      "editorial_total_words": 497,
+      "section_lengths": [
+        32,
+        26,
+        58,
+        40,
+        58,
+        68
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-kariyer-plani-donemlik-izleme",
+      "batch": 22,
+      "title": "Kariyer planı dönemlik izleme | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 276,
+      "editorial_total_words": 481,
+      "section_lengths": [
+        29,
+        26,
+        58,
+        39,
+        58,
+        66
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-coklu-ilgi-alani-olan-ogrenci",
+      "batch": 22,
+      "title": "Çoklu ilgi alanı olan öğrenci | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 284,
+      "editorial_total_words": 500,
+      "section_lengths": [
+        30,
+        27,
+        60,
+        40,
+        60,
+        67
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-meslek-seciminde-tek-dogru-yanilgisi",
+      "batch": 22,
+      "title": "Meslek seçiminde tek doğru yanılgısı | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 286,
+      "editorial_total_words": 505,
+      "section_lengths": [
+        16,
+        18,
+        27,
+        60,
+        40,
+        56,
+        69
+      ],
+      "issues": []
+    },
+    {
+      "slug": "kariyer-bolum-tanitiminda-bilgi-dogrulama",
+      "batch": 22,
+      "title": "Bölüm tanıtımında bilgi doğrulama | Kariyer ve Mesleki Rehberlik",
+      "main_section_words": 289,
+      "editorial_total_words": 506,
+      "section_lengths": [
+        18,
+        21,
+        26,
+        58,
+        43,
+        57,
+        66
+      ],
+      "issues": []
+    }
+  ]
+}

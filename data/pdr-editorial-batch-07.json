@@ -420,16 +420,16 @@
         "Sınıf öğretmeniyle görev paylaş. Bilgi paylaşımını öğrenci yararı için gerekli olanla sınırlandırın; hangi görevlinin neyi izleyeceğini netleştirin."
       ],
       [
-        "İzlem ve yeniden değerlendirme",
-        "İki hafta sonra aidiyeti yeniden değerlendir. İlk etkinliğin yapılmış olması yeterli değildir; öğrencinin deneyimi, güvenliği ve somut ilerlemeyi sonraki görüşmede yeniden değerlendirin."
+        "Öğrenciye uygun katılım planı",
+        "İlk haftada derslik, tuvalet, yemek ve teneffüs alanlarına erişimi öğrenciyle gözden geçirin. Öğrencinin istediği gönüllü akran desteği okulun gerçek programına bağlanır; arkadaşının bütün gün gözetim yapması beklenmez. İlk temasın sonunda öğrencinin nerede yardım isteyeceği ve değişen ders programını nasıl öğreneceği açık olsun. Eski okulun özel dosyası sınıf tanışma etkinliğine eklenmez."
       ],
       [
         "Okuldan örnekle uygulama tasarımı",
         "Dönem ortasında gelen öğrenci öğle arasında yalnız kalır; gönüllü kulüp katılımı ve takip planlanır. Bu örnekte yapılacak çalışma, yalnızca genel bir tavsiye vermek değil, okulda hangi güçlüğün nerede yaşandığını anlamaktır. Öğrencinin eski okulda rahat ettiği etkinlikleri, yeni sınıfın kurallarını bilip bilmediğini ve teneffüste hangi alanlara gidebildiğini konuşun. İlk görüşmeden sonra gönüllü akran ve kulüp seçenekleri sun adımını küçük ve gözlenebilir bir hedefe dönüştürün. Öğrencinin buna katılımını, gerekli desteği ve başlangıç durumunu kaydedin."
       ],
       [
-        "İzleme, sınırlar ve destek kararı",
-        "Yetişkinin ilk yorumunu kesin neden olarak kabul etmeyin. Öğrencinin kendi anlatımını ve farklı okul ortamlarındaki deneyimini ayrıca dinleyin. İki hafta sonra aidiyeti yeniden değerlendir. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
+        "Katılımın güvenliğini yeniden değerlendirmek",
+        "Sonraki görüşmede yalnızca yeni arkadaş sayısını değil mekânlara erişim, öğretmenle iletişim ve seçilen etkinliğin kullanılabilirliği değerlendirilir. Öğrenci önceki okuluyla kıyaslanarak uyumsuz etiketlenmez. Teneffüste yalnızlık gönüllü tercih mi, dışlanma mı öğrenciyi dinleyerek ayırın. Yeni tehdit veya zorbalık varsa rutin uyum çalışmasının yanında uygun yetkili koruma yanıtı gerekir. Program veya görevli değiştiğinde destek yolu yeniden tanıtılır."
       ]
     ],
     "example": "Dönem ortasında gelen öğrenci öğle arasında yalnız kalır; gönüllü kulüp katılımı ve takip planlanır. Tanışmayı kişisel öykü anlatma zorunluluğuna çevirmeden kulüp veya ortak ilgi etkinliği sunun.",
@@ -658,9 +658,17 @@
       [
         "İzleme, sınırlar ve destek kararı",
         "Yapılan uyarlamayı ve öğrencinin bağımsız performansını ayrı kaydedin; bir sınıf gözleminden tanı çıkarmayın. Gerekli kararı yetkili eğitsel ekiple verin. Yeni izleme tarihini kararlaştır. Takip görüşmesinde hedef davranışın hangi koşullarda değiştiğini, öğrencinin kendisini nasıl hissettiğini ve daha fazla desteğe gereksinimi olup olmadığını ayrıca sorun. Görüşme notlarıyla okul ekibine aktarılan bilgileri aynı şey saymayın; yalnızca görev için gerekli bilgileri paylaşın."
+      ],
+      [
+        "İlerleme kararının veri dayanağını ayırmak",
+        "Toplantıda hedef, görev koşulu ve verilen yardım birlikte gösterilmelidir. Bir öğrenci görsel kartla doğru yaptığı görevi sözlü yönergede yapamıyorsa bu iki koşul aynı kazanım puanı olarak birleştirilmez. Ekip yeni öğretim fırsatını, materyali ve kayıt sorumlusunu belirler. Görev güçlüğü değiştiyse önceki ve yeni sonucu doğrudan kıyaslamanın sınırı açıklanır. Öğrenciye desteğin kullanılabilirliği uygun iletişimle sorulur. Başarı yalnızca daha çok doğru yanıt değildir; hangi becerinin bağımsızlaştığı ve hangi erişimin hâlâ gerektiği görünür kalmalıdır."
+      ],
+      [
+        "Somut örnekten izlem kararına",
+        "Kurgusal toplantıda öğretmen iki tarihli çalışma örneği getirir; birinde daha yoğun yardım vardır. Ekip yardım ve görev farkını görerek bağımsız ilerleme konusunda kesin karar vermez. Benzer güçlükte yeni görevde aynı kayıt düzenini kullanır. Aile evdeki gözlemini ayrı bilgi olarak aktarır. Sonraki toplantı tarihi örnektir, gerçek gereksinime göre belirlenir. Hedefin ve kullanılan desteğin güncellenmesi öğrenciyi etiketlemeye değil ulaşılabilir öğretim düzenine hizmet eder; kararın uygulandığı da ayrıca kontrol edilir."
       ]
     ],
-    "example": "Öğrenci görsel ipucuyla görevi tamamlar; ekip sözlü yönergede zorlanmayı ayrıca değerlendirir. Görsel destekle başarılan görev ile destek olmadan başarılan kazanımı aynı düzeyde kaydetmeyin.",
+    "example": "Kurgusal uygulama: Kurgusal toplantıda öğretmen iki tarihli çalışma örneği getirir; birinde daha yoğun yardım vardır. Ekip yardım ve görev farkını görerek bağımsız ilerleme konusunda kesin karar vermez. Benzer güçlükte yeni görevde aynı kayıt düzenini kullanır. Aile evdeki gözlemini ayrı bilgi olarak aktarır. Sonraki toplantı tarihi örnektir, gerçek gereksinime göre belirlenir. Hedefin ve kullanılan desteğin güncellenmesi öğrenciyi etiketlemeye değil ulaşılabilir öğretim düzenine hizmet eder; kararın uygulandığı da ayrıca kontrol edilir.",
     "check": [
       "BEP toplantısına yalnızca genel izlenim değil tarihli görev örnekleri, bağımsız performans ve kullanılan ipucu düzeyini getirin.",
       "Görsel destekle başarılan görev ile destek olmadan başarılan kazanımı aynı düzeyde kaydetmeyin.",
