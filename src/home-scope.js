@@ -1,4 +1,4 @@
-import {homeCatalogCounts} from './home-catalog-counts.js';
+import {homeCatalogCounts} from './home-catalog-counts.js?v=20261014-1';
 import {getCuratedResources} from './curated.js?v=20260926-1';
 import {SUPABASE_URL,SUPABASE_PUBLISHABLE_KEY,authConfigured} from './auth-config.js?v=20260925-2';
 const host=document.querySelector('.home-scope');
@@ -20,10 +20,10 @@ async function refresh(){
  if(!host||busy||document.hidden)return;
  busy=true;
  try{
-  const [forms,resources,supplementary,topicData,curated,memberRows]=await Promise.all([
-   load('/data/forms.json'),load('/data/library.json'),load('/data/collected-resources.json'),load('/data/topics.json'),getCuratedResources(),members()
+  const [forms,resources,supplementary,topicData,curated,memberRows,reviewedBatch]=await Promise.all([
+   load('/data/forms.json'),load('/data/library.json'),load('/data/collected-resources.json'),load('/data/topics.json'),getCuratedResources(),members(),load('/data/library-reviewed-batch-20261010.json')
   ]);
-  const counts=homeCatalogCounts({forms,resources,supplementary,curated,members:memberRows,topics:topicData.topics});
+  const counts=homeCatalogCounts({forms,resources,supplementary,reviewedBatch,curated,members:memberRows,topics:topicData.topics});
   for(const [id,key] of [['scopeLibrary','library'],['scopeForms','forms'],['scopeTopics','topics']])document.getElementById(id).textContent=number.format(counts[key]);
   host.dataset.countsStatus='ready';
  }catch{host.dataset.countsStatus='retry'}
