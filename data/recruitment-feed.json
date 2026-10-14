@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-10-14T10:39:59+03:00",
+  "updatedAt": "2026-10-14T16:45:15+03:00",
   "records": [
     {
       "id": "db21f412-186a-4d5c-bc46-03dff9ea17fb",
@@ -75,6 +75,21 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-19",
+      "sourceCurrent": true
+    },
+    {
+      "id": "4f7526a3-f38f-4117-913d-df615e9d8b78",
+      "title": "TÜRK STANDARDLARI ENSTİTÜSÜ - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI 2026",
+      "institution": "TÜRK STANDARDLARI ENSTİTÜSÜ",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=4f7526a3-f38f-4117-913d-df615e9d8b78",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/bc34505e-e48d-43ee-b917-6e55eaf0ec9b.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-15",
       "sourceCurrent": true
     },
     {
@@ -225,7 +240,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-12",
-      "sourceCurrent": false
+      "sourceCurrent": true
     },
     {
       "id": "17bdedb4-3b36-4f67-9543-d6755941032b",
