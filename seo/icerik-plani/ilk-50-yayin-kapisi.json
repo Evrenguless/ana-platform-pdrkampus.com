@@ -2,7 +2,7 @@
   "pages_checked": 500,
   "issues_by_kind": {
     "document_relevance_not_verified": 500,
-    "no_resource_cards": 137
+    "no_resource_cards": 12
   },
   "external_domains_with_link_counts": {
     "analiz.pdrkampus.com": 1500,
@@ -139,7 +139,7 @@
         "BEP Kapsamında Ders Uyarlaması"
       ],
       "description_length": 158,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -151,7 +151,7 @@
         "BEP'te Güçlü Yönleri Belirleme"
       ],
       "description_length": 127,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -175,7 +175,7 @@
         "BEP Hedef İzleme Toplantısı"
       ],
       "description_length": 119,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -187,7 +187,7 @@
         "BEP Sürecinde Öğrenci Katılımı"
       ],
       "description_length": 119,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -199,7 +199,7 @@
         "BEP'te Ölçülebilir Hedef Nasıl Yazılır?"
       ],
       "description_length": 136,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -247,10 +247,9 @@
         "Çocuklarda Kişisel Sınırlar"
       ],
       "description_length": 113,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -296,10 +295,9 @@
         "Devamsızlık Yapan Öğrenciyle İlk Görüşme"
       ],
       "description_length": 137,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -418,10 +416,9 @@
         "Sınıfta Güçlü Yön Keşfi"
       ],
       "description_length": 104,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -443,10 +440,9 @@
         "Veliler İçin Güvenli İnternet Rehberi"
       ],
       "description_length": 122,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -468,7 +464,7 @@
         "İlkokulda Arkadaşlık Anlaşmazlığı"
       ],
       "description_length": 130,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -816,7 +812,7 @@
         "Aile meslek beklentisi | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 165,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -828,7 +824,7 @@
         "Bölüm ders planını okuma | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 167,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -840,7 +836,7 @@
         "Bölüm tanıtımında bilgi doğrulama | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 176,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -852,7 +848,7 @@
         "Çoklu ilgi alanı olan öğrenci | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 172,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -864,7 +860,7 @@
         "Eğitim yolu araştırma | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 164,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -876,7 +872,7 @@
         "Gelecek mesleklerini araştırma | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 173,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -888,7 +884,7 @@
         "Güçlü yön ve beceri eşleştirme | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 173,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -900,7 +896,7 @@
         "İlgi envanteri sonuçlarını konuşma | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 177,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -924,7 +920,7 @@
         "İş ortamı tercihleri | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 163,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -936,7 +932,7 @@
         "Kariyer kararında belirsizlik | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 172,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -948,7 +944,7 @@
         "Kariyer planı dönemlik izleme | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 172,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -960,7 +956,7 @@
         "Meslek seçiminde akran etkisi | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 172,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -972,7 +968,7 @@
         "Meslek seçiminde tek doğru yanılgısı | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 179,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -996,7 +992,7 @@
         "Meslek uzmanına soru hazırlama | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 173,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1008,7 +1004,7 @@
         "Mesleki değerleri karşılaştırma | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 174,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1020,7 +1016,7 @@
         "Mesleki karar seçenek tablosu | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 172,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1032,7 +1028,7 @@
         "Mesleklere ilişkin önyargı | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 169,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1044,7 +1040,7 @@
         "Mesleklerin günlük görevleri | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 171,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1056,7 +1052,7 @@
         "Mezuniyet sonrası alternatifler | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 174,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1080,7 +1076,7 @@
         "Resmî program koşulları | Kariyer ve Mesleki Rehberlik"
       ],
       "description_length": 166,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1128,7 +1124,7 @@
         "Acil güvenlik değerlendirmesi | Kriz ve Güvenlik"
       ],
       "description_length": 151,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1140,7 +1136,7 @@
         "Afet sonrası okula dönüş | Kriz ve Güvenlik"
       ],
       "description_length": 146,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1152,7 +1148,7 @@
         "Aile içi şiddet anlatımı | Kriz ve Güvenlik"
       ],
       "description_length": 146,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1164,7 +1160,7 @@
         "Görüşmede ayrıntı zorlamama | Kriz ve Güvenlik"
       ],
       "description_length": 149,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1176,7 +1172,7 @@
         "Güvenilir yetişkin desteği | Kriz ve Güvenlik"
       ],
       "description_length": 148,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1188,7 +1184,7 @@
         "Güvenli uzman yönlendirme | Kriz ve Güvenlik"
       ],
       "description_length": 147,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1200,7 +1196,7 @@
         "Güvenlik planını güncelleme | Kriz ve Güvenlik"
       ],
       "description_length": 149,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1212,7 +1208,7 @@
         "İhmal şüphesini bildirme | Kriz ve Güvenlik"
       ],
       "description_length": 146,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1224,7 +1220,7 @@
         "İstismar şüphesinde yaklaşım | Kriz ve Güvenlik"
       ],
       "description_length": 150,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1236,7 +1232,7 @@
         "İzlem ve destek devri | Kriz ve Güvenlik"
       ],
       "description_length": 143,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1248,7 +1244,7 @@
         "Kaybedilen yakın sonrası okul | Kriz ve Güvenlik"
       ],
       "description_length": 151,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1260,7 +1256,7 @@
         "Kendine zarar ifadesi | Kriz ve Güvenlik"
       ],
       "description_length": 143,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1272,7 +1268,7 @@
         "Kriz sonrası devamsızlık | Kriz ve Güvenlik"
       ],
       "description_length": 146,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1284,7 +1280,7 @@
         "Kriz sonrası sınıf rutini | Kriz ve Güvenlik"
       ],
       "description_length": 147,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1296,7 +1292,7 @@
         "Krizde öğrenci mahremiyeti | Kriz ve Güvenlik"
       ],
       "description_length": 148,
-      "source_cards": 2,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1308,7 +1304,7 @@
         "Krizde öğretmen koordinasyonu | Kriz ve Güvenlik"
       ],
       "description_length": 151,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1320,7 +1316,7 @@
         "Krizde veli bilgilendirme | Kriz ve Güvenlik"
       ],
       "description_length": 147,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1332,7 +1328,7 @@
         "Kurum içi acil görevler | Kriz ve Güvenlik"
       ],
       "description_length": 145,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1344,7 +1340,7 @@
         "Öğrenciye acil yardım yolu | Kriz ve Güvenlik"
       ],
       "description_length": 148,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1356,7 +1352,7 @@
         "Okulda zarar verme riski | Kriz ve Güvenlik"
       ],
       "description_length": 146,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1368,7 +1364,7 @@
         "Risk bildirimini kaydetme | Kriz ve Güvenlik"
       ],
       "description_length": 147,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1380,7 +1376,7 @@
         "Şüpheli olayda bilgi güvenliği | Kriz ve Güvenlik"
       ],
       "description_length": 152,
-      "source_cards": 2,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1392,7 +1388,7 @@
         "Tehdit içeren akran davranışı | Kriz ve Güvenlik"
       ],
       "description_length": 151,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1404,7 +1400,7 @@
         "Zorlayıcı olay sonrası sınıf | Kriz ve Güvenlik"
       ],
       "description_length": 150,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1416,7 +1412,7 @@
         "Zorlayıcı olayda söylenti | Kriz ve Güvenlik"
       ],
       "description_length": 147,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1428,7 +1424,7 @@
         "LGS Kaygısı İçin Grup Çalışması"
       ],
       "description_length": 128,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1452,10 +1448,9 @@
         "LGS Öncesi Son Hafta Öğrenci Desteği"
       ],
       "description_length": 159,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1465,10 +1460,9 @@
         "LGS Sonrası Liseye Uyum Hazırlığı"
       ],
       "description_length": 122,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1490,10 +1484,9 @@
         "LGS Tercih Döneminde Veli Bilgilendirmesi"
       ],
       "description_length": 138,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1503,10 +1496,9 @@
         "Aile kariyer beklentisi | Lise"
       ],
       "description_length": 125,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1516,10 +1508,9 @@
         "Akademik ilgi haritası | Lise"
       ],
       "description_length": 124,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1529,10 +1520,9 @@
         "Akranla akademik kıyaslama | Lise"
       ],
       "description_length": 128,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1542,10 +1532,9 @@
         "Alan seçimini değerlendirme | Lise"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1567,10 +1556,9 @@
         "Bölüm karşılaştırma çizelgesi | Lise"
       ],
       "description_length": 131,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1580,10 +1568,9 @@
         "Ders programı esnekliği | Lise"
       ],
       "description_length": 125,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1593,10 +1580,9 @@
         "Dijital güvenlik ve mahremiyet | Lise"
       ],
       "description_length": 132,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1606,10 +1592,9 @@
         "Etkili deneme geri bildirimi | Lise"
       ],
       "description_length": 130,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1619,10 +1604,9 @@
         "Farklı görüşlere saygı | Lise"
       ],
       "description_length": 124,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1632,10 +1616,9 @@
         "Gelecek belirsizliğiyle baş etme | Lise"
       ],
       "description_length": 134,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1671,10 +1654,9 @@
         "Güvenilir yetişkine başvuru | Lise"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1684,10 +1666,9 @@
         "Kendini ifade etme becerisi | Lise"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1710,10 +1691,9 @@
         "Mesleki değer keşfi | Lise"
       ],
       "description_length": 121,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1723,10 +1703,9 @@
         "Mezuniyet sonrası seçenekler | Lise"
       ],
       "description_length": 130,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1761,10 +1740,9 @@
         "Sınav dönemi aile iletişimi | Lise"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1774,10 +1752,9 @@
         "Sınav sonuçlarını yorumlama | Lise"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1787,10 +1764,9 @@
         "Sosyal ilişkilerde rıza | Lise"
       ],
       "description_length": 125,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1813,10 +1789,9 @@
         "Üniversite araştırma planı | Lise"
       ],
       "description_length": 128,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1826,10 +1801,9 @@
         "Uzun vadeli hedef bölme | Lise"
       ],
       "description_length": 125,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1839,10 +1813,9 @@
         "Yeni ortama geçiş hazırlığı | Lise"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1888,10 +1861,9 @@
         "Meslek Seçiminde Yaygın Karar Yanılgıları"
       ],
       "description_length": 138,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1901,7 +1873,7 @@
         "Nakille Gelen Öğrencinin Okula Uyumu"
       ],
       "description_length": 122,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -1937,10 +1909,9 @@
         "Öğrenci Görüşmesinde Gizlilik ve Kayıt"
       ],
       "description_length": 135,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1950,10 +1921,9 @@
         "Öğrenci Görüşmesinde Sessizlikle Çalışma"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1975,10 +1945,9 @@
         "Öğrenciye Gizliliğin Sınırlarını Anlatma"
       ],
       "description_length": 137,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -1988,7 +1957,7 @@
         "Öğrenci İntihar İfadesinde Acil Destek"
       ],
       "description_length": 127,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -2012,7 +1981,7 @@
         "Öğrenci Risk Bildiriminde İlk Adımlar"
       ],
       "description_length": 134,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -2036,10 +2005,9 @@
         "Öğrencilerde Karar Verme Etkinliği"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2109,10 +2077,9 @@
         "Öğrencide Sosyal Sorumluluk"
       ],
       "description_length": 113,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2122,10 +2089,9 @@
         "Dijital İz Farkındalığı Etkinliği"
       ],
       "description_length": 126,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2135,10 +2101,9 @@
         "Öğrencilerde Gelecek Kaygısını Konuşma"
       ],
       "description_length": 127,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2148,10 +2113,9 @@
         "Öğrenciler İçin Zaman Yönetimi"
       ],
       "description_length": 119,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2161,10 +2125,9 @@
         "Öğrenciye Yapıcı Geri Bildirim Verme"
       ],
       "description_length": 136,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2294,10 +2257,9 @@
         "Aile İçi Çatışma Bildiren Öğrenciye Yaklaşım"
       ],
       "description_length": 133,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2355,10 +2317,9 @@
         "BEP Sürecine Aile Katılımı"
       ],
       "description_length": 115,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2416,10 +2377,9 @@
         "Dönem Sonu Rehberlik Değerlendirmesi"
       ],
       "description_length": 125,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2441,10 +2401,9 @@
         "Duygu Termometresi Etkinliği"
       ],
       "description_length": 163,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2478,10 +2437,9 @@
         "Okulda Öğrenci Bilgisi Paylaşımının Sınırları"
       ],
       "description_length": 134,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2491,10 +2449,9 @@
         "Güvenilir Yetişkin Haritası Etkinliği"
       ],
       "description_length": 142,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2504,10 +2461,9 @@
         "Okulda Güvenli Başvuru Yolları"
       ],
       "description_length": 119,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2529,7 +2485,7 @@
         "Okulda İhmal Şüphesinde İlk Adım"
       ],
       "description_length": 121,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -2541,10 +2497,9 @@
         "Okulda Kariyer Farkındalığı"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2578,7 +2533,7 @@
         "Okul Krizi Sonrası Sınıf Bilgilendirmesi"
       ],
       "description_length": 129,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -2602,10 +2557,9 @@
         "Öğrenme Motivasyonu Dalgalanması"
       ],
       "description_length": 130,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2627,10 +2581,9 @@
         "Öğrenci Davranış Hedefi Belirleme"
       ],
       "description_length": 158,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2664,10 +2617,9 @@
         "Öğrenci Güvenliği Gözlem Notu"
       ],
       "description_length": 146,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2677,10 +2629,9 @@
         "Okulda Öğrenci Katılım Hakkı"
       ],
       "description_length": 152,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2690,10 +2641,9 @@
         "Öğrenci Motivasyon Görüşmesi"
       ],
       "description_length": 119,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2777,10 +2727,9 @@
         "Okulda Öz Yeterlik Becerisini Destekleme"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2838,10 +2787,9 @@
         "Okulda Psikososyal Destek Başvurusu"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2899,10 +2847,9 @@
         "Okulda Sosyal Kaygı Gözlemi"
       ],
       "description_length": 113,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -2924,10 +2871,9 @@
         "Veli–Öğretmen İletişim Planı"
       ],
       "description_length": 117,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -3297,10 +3243,9 @@
         "Ortaokulda Duyguları İfade Etme"
       ],
       "description_length": 120,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -3310,10 +3255,9 @@
         "Ortaokulda Güvenli Arkadaşlık"
       ],
       "description_length": 121,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -3323,7 +3267,7 @@
         "Öz Saygıyı Güçlendirme Sınıf Etkinliği"
       ],
       "description_length": 135,
-      "source_cards": 1,
+      "source_cards": 2,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3335,7 +3279,7 @@
         "Ailenin gözlem katkısı | Özel Eğitim"
       ],
       "description_length": 115,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3347,7 +3291,7 @@
         "Aileyle dönemlik hedef | Özel Eğitim"
       ],
       "description_length": 115,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3359,7 +3303,7 @@
         "Akran katılımının güvenliği | Özel Eğitim"
       ],
       "description_length": 120,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3371,7 +3315,7 @@
         "Alternatif katılım yöntemi | Özel Eğitim"
       ],
       "description_length": 119,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3383,7 +3327,7 @@
         "BEP değerlendirme kaydı | Özel Eğitim"
       ],
       "description_length": 116,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3395,7 +3339,7 @@
         "BEP ekibi görev dağılımı | Özel Eğitim"
       ],
       "description_length": 117,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3407,7 +3351,7 @@
         "BEP hedef ölçütü | Özel Eğitim"
       ],
       "description_length": 109,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3419,7 +3363,7 @@
         "BEP kazanım izleme | Özel Eğitim"
       ],
       "description_length": 111,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3431,7 +3375,7 @@
         "BEP performans gözlemi | Özel Eğitim"
       ],
       "description_length": 115,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3443,7 +3387,7 @@
         "BEP toplantı gündemi | Özel Eğitim"
       ],
       "description_length": 113,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3455,7 +3399,7 @@
         "Destek eğitim koordinasyonu | Özel Eğitim"
       ],
       "description_length": 120,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3467,7 +3411,7 @@
         "Duyusal gereksinime duyarlılık | Özel Eğitim"
       ],
       "description_length": 123,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3479,7 +3423,7 @@
         "Eğitimde erişilebilir materyal | Özel Eğitim"
       ],
       "description_length": 123,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3491,7 +3435,7 @@
         "Farklı yanıt verme yolları | Özel Eğitim"
       ],
       "description_length": 119,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3503,7 +3447,7 @@
         "Geçişlerde öngörülebilirlik | Özel Eğitim"
       ],
       "description_length": 120,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3515,7 +3459,7 @@
         "Görev süresi uyarlaması | Özel Eğitim"
       ],
       "description_length": 116,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3527,7 +3471,7 @@
         "Görsel yönerge uyarlaması | Özel Eğitim"
       ],
       "description_length": 118,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3539,7 +3483,7 @@
         "İşlevsel iletişim fırsatları | Özel Eğitim"
       ],
       "description_length": 121,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3551,7 +3495,7 @@
         "Kapsayıcı grup etkinliği | Özel Eğitim"
       ],
       "description_length": 117,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3575,7 +3519,7 @@
         "Öğrencinin güçlü yönleri | Özel Eğitim"
       ],
       "description_length": 117,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3587,7 +3531,7 @@
         "Okul içi kurum iş birliği | Özel Eğitim"
       ],
       "description_length": 118,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3599,7 +3543,7 @@
         "Olumlu davranış desteği | Özel Eğitim"
       ],
       "description_length": 116,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3611,7 +3555,7 @@
         "RAM değerlendirmesi sonrası | Özel Eğitim"
       ],
       "description_length": 120,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3623,7 +3567,7 @@
         "Sınıf içi destek düzeni | Özel Eğitim"
       ],
       "description_length": 116,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3635,7 +3579,7 @@
         "Uyarlama işe yarıyor mu | Özel Eğitim"
       ],
       "description_length": 116,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3695,10 +3639,9 @@
         "RAM Başvuru Süreci Bilgilendirmesi"
       ],
       "description_length": 163,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -3708,10 +3651,9 @@
         "RAM Raporunu Okurken Dikkat Edilecekler"
       ],
       "description_length": 128,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -3721,10 +3663,9 @@
         "RAM Değerlendirmesi Sonrası Okul Desteği"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -3734,7 +3675,7 @@
         "RAM Yönlendirmesi Öncesi Görüşme"
       ],
       "description_length": 129,
-      "source_cards": 1,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -3746,10 +3687,9 @@
         "RAM Yönlendirmesi Öncesi Öğretmen Gözlemi"
       ],
       "description_length": 130,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -3879,10 +3819,9 @@
         "Rehberlik Grup Çalışmalarında Gönüllülük"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -3916,10 +3855,9 @@
         "Rehberlik Kayıtlarında Bilgi Güvenliği"
       ],
       "description_length": 118,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4145,10 +4083,9 @@
         "Sağlıklı Sınav Hedefleri Belirleme"
       ],
       "description_length": 121,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4206,10 +4143,9 @@
         "Aile deneme sonucu iletişimi | Sınav Rehberliği"
       ],
       "description_length": 143,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4219,10 +4155,9 @@
         "Deneme analizi görüşmesi | Sınav Rehberliği"
       ],
       "description_length": 139,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4244,10 +4179,9 @@
         "Düşük puan sonrası destek | Sınav Rehberliği"
       ],
       "description_length": 140,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4257,10 +4191,9 @@
         "Gerçekçi net hedefi | Sınav Rehberliği"
       ],
       "description_length": 134,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4270,10 +4203,9 @@
         "Sınava Hazırlıkta Gerçekçi Program"
       ],
       "description_length": 124,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4319,10 +4251,9 @@
         "Kıyaslama dilini azaltma | Sınav Rehberliği"
       ],
       "description_length": 139,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4332,10 +4263,9 @@
         "Konu eksiklerini belirleme | Sınav Rehberliği"
       ],
       "description_length": 141,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4345,10 +4275,9 @@
         "Küçük çalışma oturumları | Sınav Rehberliği"
       ],
       "description_length": 139,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4358,10 +4287,9 @@
         "LGS yerleştirme bilgisi | Sınav Rehberliği"
       ],
       "description_length": 138,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4371,10 +4299,9 @@
         "Öğrenme stratejisi seçme | Sınav Rehberliği"
       ],
       "description_length": 139,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4384,10 +4311,9 @@
         "Okul ve kurs yük dengesi | Sınav Rehberliği"
       ],
       "description_length": 139,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4409,10 +4335,9 @@
         "Program koşulu inceleme | Sınav Rehberliği"
       ],
       "description_length": 138,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4422,10 +4347,9 @@
         "Sınav günü hazırlığı | Sınav Rehberliği"
       ],
       "description_length": 135,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4435,10 +4359,9 @@
         "Sınav kaygısı erken belirtiler | Sınav Rehberliği"
       ],
       "description_length": 145,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4448,10 +4371,9 @@
         "Sınav öncesi kaygı düşünceleri | Sınav Rehberliği"
       ],
       "description_length": 145,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4461,10 +4383,9 @@
         "Sınav sonrası belirsizlik | Sınav Rehberliği"
       ],
       "description_length": 140,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4474,10 +4395,9 @@
         "Sınav sonucunu aileye açıklama | Sınav Rehberliği"
       ],
       "description_length": 145,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4487,10 +4407,9 @@
         "Sınavda yardım isteme | Sınav Rehberliği"
       ],
       "description_length": 136,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4548,10 +4467,9 @@
         "Tekrara başlama stratejisi | Sınav Rehberliği"
       ],
       "description_length": 141,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4561,10 +4479,9 @@
         "Tercih bilgi kaynağı | Sınav Rehberliği"
       ],
       "description_length": 135,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4587,10 +4504,9 @@
         "Yanlış soruları sınıflandırma | Sınav Rehberliği"
       ],
       "description_length": 144,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4600,10 +4516,9 @@
         "Yeni döneme geçiş hedefi | Sınav Rehberliği"
       ],
       "description_length": 139,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4613,10 +4528,9 @@
         "YKS tercih sırası değerlendirme | Sınav Rehberliği"
       ],
       "description_length": 146,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4626,10 +4540,9 @@
         "Yüksek beklenti baskısı | Sınav Rehberliği"
       ],
       "description_length": 138,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4639,10 +4552,9 @@
         "Zaman baskısını yönetme | Sınav Rehberliği"
       ],
       "description_length": 138,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4652,10 +4564,9 @@
         "Sınıf İklimi Anketi Hazırlama"
       ],
       "description_length": 115,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4713,10 +4624,9 @@
         "Sınıfta Akran Desteği Planlama"
       ],
       "description_length": 117,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4726,10 +4636,9 @@
         "Sınıfta Aktif Dinleme Oyunu"
       ],
       "description_length": 148,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -4931,10 +4840,9 @@
         "Sınıfta Güvenli Sosyal Medya Konuşması"
       ],
       "description_length": 127,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5125,10 +5033,9 @@
         "Sınıfta Yardım İsteme Becerisi"
       ],
       "description_length": 119,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5222,10 +5129,9 @@
         "Uzun Devamsızlık Sonrası Okula Dönüş"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5247,10 +5153,9 @@
         "Veli Görüşmesinde Öğrencinin Sesi"
       ],
       "description_length": 123,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5260,10 +5165,9 @@
         "Ekran Süresi Tartışmalarında Veli Desteği"
       ],
       "description_length": 130,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5345,7 +5249,7 @@
         "Veli Toplantılarında Öğrenci Gizliliği"
       ],
       "description_length": 135,
-      "source_cards": 2,
+      "source_cards": 3,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -5357,10 +5261,9 @@
         "Veli Toplantısında Zor Sorulara Yanıt"
       ],
       "description_length": 126,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5382,10 +5285,9 @@
         "Akran Dışlanmasında Veli Görüşmesi | Veli rehberliği"
       ],
       "description_length": 134,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5395,10 +5297,9 @@
         "Arkadaşlık Konusunda Veli Görüşmesi | Veli rehberliği"
       ],
       "description_length": 143,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5408,10 +5309,9 @@
         "Çocuğun Güçlü Yönlerini Görmek | Veli rehberliği"
       ],
       "description_length": 131,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5421,10 +5321,9 @@
         "Düşük Ders Başarısında Veli Desteği | Veli rehberliği"
       ],
       "description_length": 129,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5434,10 +5333,9 @@
         "Ergen Mahremiyetine Saygı | Veli rehberliği"
       ],
       "description_length": 126,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5447,10 +5345,9 @@
         "Erteleme Konusunda Veli Görüşmesi | Veli rehberliği"
       ],
       "description_length": 130,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5472,10 +5369,9 @@
         "Kardeş Kıskançlığı Konuşması | Veli rehberliği"
       ],
       "description_length": 131,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5485,10 +5381,9 @@
         "Liseye Geçişte Veli Kaygısı | Veli rehberliği"
       ],
       "description_length": 124,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5498,10 +5393,9 @@
         "Ödev Yardımının Sınırları | Veli rehberliği"
       ],
       "description_length": 114,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5511,10 +5405,9 @@
         "Öğretmen Şikâyetinde Veli Görüşmesi | Veli rehberliği"
       ],
       "description_length": 140,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5524,10 +5417,9 @@
         "Okul Korkusunda Aile Desteği | Veli rehberliği"
       ],
       "description_length": 131,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5537,10 +5429,9 @@
         "Okul Naklinde Aile Bilgilendirmesi | Veli rehberliği"
       ],
       "description_length": 138,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5550,10 +5441,9 @@
         "Okula Geç Kalma Sorununda Aile | Veli rehberliği"
       ],
       "description_length": 128,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5563,10 +5453,9 @@
         "Evde Oyun Kuralları | Veli rehberliği"
       ],
       "description_length": 114,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5576,10 +5465,9 @@
         "Özel Eğitimde Aile–Okul İş Birliği | Veli rehberliği"
       ],
       "description_length": 145,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5589,10 +5477,9 @@
         "Ergende Özgürlük ve Sınır | Veli rehberliği"
       ],
       "description_length": 123,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5602,10 +5489,9 @@
         "Rehberlik Görüşmesinde Veli ve Gizlilik | Veli rehberliği"
       ],
       "description_length": 144,
-      "source_cards": 0,
+      "source_cards": 1,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5615,10 +5501,9 @@
         "Siber Zorbalıkta Veli Desteği | Veli rehberliği"
       ],
       "description_length": 126,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5628,10 +5513,9 @@
         "Sınav Kıyaslamasını Azaltma | Veli rehberliği"
       ],
       "description_length": 131,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5641,10 +5525,9 @@
         "Sınıf Değişikliği Talebinde Görüşme | Veli rehberliği"
       ],
       "description_length": 140,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5654,10 +5537,9 @@
         "Ev Sorumluluklarını Paylaşma | Veli rehberliği"
       ],
       "description_length": 124,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5667,10 +5549,9 @@
         "Sosyal Duygusal Gelişim İçin Evde Destek | Veli rehberliği"
       ],
       "description_length": 145,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5680,10 +5561,9 @@
         "Teknoloji Kullanım Kaygısı | Veli rehberliği"
       ],
       "description_length": 131,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5719,7 +5599,7 @@
         "Kayıp Sonrasında Veliyle İletişim"
       ],
       "description_length": 130,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -5731,10 +5611,9 @@
         "Yas Yaşayan Öğrenciye Okul Desteği"
       ],
       "description_length": 123,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5756,7 +5635,7 @@
         "YKS Bölüm ve Meslek Araştırması"
       ],
       "description_length": 128,
-      "source_cards": 2,
+      "source_cards": 4,
       "issues": [
         "document_relevance_not_verified"
       ]
@@ -5768,10 +5647,9 @@
         "YKS Deneme Analizi Görüşmesi"
       ],
       "description_length": 157,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5805,10 +5683,9 @@
         "YKS Tercihleri İçin Karar Tablosu"
       ],
       "description_length": 130,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5818,10 +5695,9 @@
         "YKS Tercihinde Aile Baskısını Konuşma"
       ],
       "description_length": 121,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {
@@ -5831,10 +5707,9 @@
         "Zor Veli Görüşmelerini Yönetme"
       ],
       "description_length": 127,
-      "source_cards": 0,
+      "source_cards": 2,
       "issues": [
-        "document_relevance_not_verified",
-        "no_resource_cards"
+        "document_relevance_not_verified"
       ]
     },
     {

@@ -7,6 +7,7 @@ existing 499 drafts, sitemap, source catalogues or the 500-topic plan.
 import html
 import json
 import re
+from functools import lru_cache
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -178,29 +179,72 @@ def detail_page(row):
             return url
     return None
 
+@lru_cache(maxsize=1)
+def library_catalogue():
+    """Keep the existing first-record precedence, without rereading 500 times."""
+    rows = {}
+    for name in ("data/library.json", "data/collected-resources.json",
+                 "data/new-resources-batch.json", "data/library-reviewed-batch-20261010.json"):
+        path = ROOT / name
+        if not path.exists():
+            continue
+        for row in json.loads(path.read_text(encoding="utf-8")):
+            rid = str(row.get("id", ""))
+            if rid and rid not in rows:
+                rows[rid] = row
+    return rows
+
+LIBRARY_LINK_PATH = ROOT / "data/pdr-editorial-library-links.json"
+LIBRARY_LINKS = None
+
+def load_library_links():
+    """Pin existing materials by ID; fail closed on stale or broken records."""
+    data = json.loads(LIBRARY_LINK_PATH.read_text(encoding="utf-8"))
+    if data.get("schema_version") != 1 or data.get("publication_approved") is not False:
+        raise ValueError("Invalid library selection scope")
+    catalogue = library_catalogue()
+    slugs = {g["slug"] for g in GUIDES}
+    if set(data["guides"]) & set(data["unmatched"]):
+        raise ValueError("Conflicting library selection")
+    if not (set(data["guides"]) | set(data["unmatched"])).issubset(slugs):
+        raise ValueError("Unknown guide in library selection")
+    for rid, evidence in data["resources"].items():
+        row = catalogue.get(rid)
+        if row is None or evidence.get("selection_basis") != "existing_catalogue_title_topic_audience":
+            raise ValueError("Unknown library material: " + rid)
+        if any(evidence.get(key) != row.get(key, "") for key in ("title", "level", "topic", "source")):
+            raise ValueError("Library material changed; recheck selection: " + rid)
+        if not usable_resource_target(row) or not detail_page(row):
+            raise ValueError("Library material has no usable detail page: " + rid)
+    for slug, choice in data["guides"].items():
+        ids = choice["resource_ids"]
+        if not ids or len(ids) != len(set(ids)) or len(ids) > 3:
+            raise ValueError("Invalid library material list: " + slug)
+        if any(rid not in data["resources"] for rid in ids) or not choice.get("use_for", "").strip():
+            raise ValueError("Missing selection purpose: " + slug)
+    return data
+
 def resources(slug):
+    if LIBRARY_LINKS is not None and slug in LIBRARY_LINKS["guides"]:
+        return [library_catalogue()[rid] for rid in LIBRARY_LINKS["guides"][slug]["resource_ids"]]
+    if LIBRARY_LINKS is not None and slug in LIBRARY_LINKS["unmatched"]:
+        return []
     # Prefer narrowly relevant titles for topics with known false positives.
     focused=FOCUSED_TITLE_TERMS.get(slug)
     terms=focused if focused else tuple(SEARCH_TERMS[slug])+TITLE_ALIASES.get(slug,())
     normalized_terms=tuple(normalized_title(term) for term in terms if len(normalized_title(term))>=4)
-    rows=[];seen=set()
-    for name in ("data/library.json","data/collected-resources.json","data/new-resources-batch.json","data/library-reviewed-batch-20261010.json"):
-        file=ROOT/name
-        if not file.exists():continue
-        for row in json.loads(file.read_text(encoding="utf-8")):
-            rid=str(row.get("id",""))
-            if not rid or rid in seen:continue
-            seen.add(rid)
-            title=normalized_title(row.get("title",""))
-            hits=[term for term in normalized_terms if term in title]
-            if not hits or not usable_resource_target(row):continue
-            score=max(len(term) for term in hits)
-            detail = detail_page(row)
-            # Only show cards that lead to a real PDR Kampüs detail page.
-            # Never fall back to a raw PDF/DOCX download.
-            if not detail:
-                continue
-            rows.append((True,score,row))
+    rows=[]
+    for row in library_catalogue().values():
+        title=normalized_title(row.get("title",""))
+        hits=[term for term in normalized_terms if term in title]
+        if not hits or not usable_resource_target(row):continue
+        score=max(len(term) for term in hits)
+        detail = detail_page(row)
+        # Only show cards that lead to a real PDR Kampüs detail page.
+        # Never fall back to a raw PDF/DOCX download.
+        if not detail:
+            continue
+        rows.append((True,score,row))
     rows.sort(key=lambda item:(not item[0],-item[1],
                                 normalized_title(item[2].get("title",""))))
     return [row for _,_,row in rows[:9]]
@@ -269,10 +313,12 @@ def source_cards(slug):
         cards.append(f'<a class="guide2-card" href="{esc(url)}" ><span class="guide2-visual">{visual}</span><span class="guide2-card-body"><span class="guide2-meta">{esc(r.get("level",""))} · {esc(r.get("type","Materyal"))}</span><strong>{title}</strong><small>{esc(r.get("source","Kaynak kurum"))}</small><span class="guide2-action">Kaynağı incele →</span></span></a>')
         count+=1
     if cards:
-        return '<div class="guide2-grid">'+"".join(cards)+'</div>'+primary_source_cards(slug)
+        choice = LIBRARY_LINKS["guides"].get(slug) if LIBRARY_LINKS is not None else None
+        purpose = '<p>'+esc(choice["use_for"])+'</p>' if choice else ''
+        return purpose+'<div class="guide2-grid">'+"".join(cards)+'</div>'+primary_source_cards(slug)
     primary = primary_source_cards(slug)
     if primary:
-        return primary
+        return '<p>Bu rehber için uygun kütüphane materyali henüz seçilemedi. Aşağıdaki birincil başvuru kaynaklarını inceleyebilirsiniz.</p>'+primary
     from urllib.parse import quote
     query=quote(next((g["title"] for g in GUIDES if g["slug"]==slug),slug))
     return '<p>Bu rehber için doğrudan ilgili bir belge henüz seçilemedi. <a href="/kutuphane.html?q='+query+'">Kütüphanede ilgili kaynakları ara →</a></p>'
@@ -295,9 +341,10 @@ def load_editorial_batches():
             SEARCH_TERMS[slug] = record["search_terms"]
 
 def main():
-    global PRIMARY_SOURCES
+    global PRIMARY_SOURCES, LIBRARY_LINKS
     load_editorial_batches()
     PRIMARY_SOURCES = load_primary_sources()
+    LIBRARY_LINKS = load_library_links()
     source=REFERENCE.read_text(encoding="utf-8")
     if '<main' not in source or '</main>' not in source:raise SystemExit("Missing main in reference")
     head,tail=source.split("<main",1)

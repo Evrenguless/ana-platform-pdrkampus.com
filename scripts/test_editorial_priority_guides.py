@@ -17,7 +17,8 @@ import build_first_editorial_batch as builder
 class PriorityEditorialTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        builder.load_editorial_batches()
+        if len(builder.GUIDES) == 5:
+            builder.load_editorial_batches()
         cls.sources = builder.load_primary_sources()
         builder.PRIMARY_SOURCES = cls.sources
         cls.guides = {g['slug']: g for g in builder.GUIDES}

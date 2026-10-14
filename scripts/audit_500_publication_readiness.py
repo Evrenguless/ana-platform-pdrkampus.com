@@ -35,6 +35,7 @@ class Reader(HTMLParser):
         self.in_materials = False
         self.in_faq = False
         self.materials_cards = 0
+        self.library_material_cards = 0
         self.faq_count = 0
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
@@ -50,7 +51,10 @@ class Reader(HTMLParser):
         if tag == "details": self.faq_count += 1; self.in_faq = True
         if tag == "a":
             self.links.append(a.get("href", ""))
-            if "guide2-card" in a.get("class", "").split(): self.materials_cards += 1
+            if "guide2-card" in a.get("class", "").split():
+                self.materials_cards += 1
+                if a.get("href", "").startswith(("/kutuphane/", "/kaynak/")):
+                    self.library_material_cards += 1
         if tag == "link" and "canonical" in a.get("rel", "").split(): self.canonical.append(a.get("href", ""))
         if tag == "meta":
             name = a.get("name", "").lower()
@@ -100,6 +104,7 @@ def main():
             issues.append("preview_indexing_risk")
         if r.faq_count < 2: issues.append("short_faq")
         if r.materials_cards == 0: issues.append("no_direct_source_cards")
+        if r.library_material_cards == 0: issues.append("no_library_material_cards")
         if "Katalog başlık ve etiketlerinden seçilen aday kaynaklardır" in src:
             issues.append("candidate_sources_not_editorially_verified")
         # The page contains many non-manuscript sections (checklist, FAQ, footnote).
@@ -126,7 +131,9 @@ def main():
         if r.desc: descriptions[normalized(r.desc[0])].append(slug)
         records.append({"slug":slug,"title":r.title,"chapter_count":len(chapters),
                         "main_text_words":chapter_words,"example_words":len(words(r.example)),
-                        "resource_cards":r.materials_cards,"issues":sorted(set(issues))})
+                        "resource_cards":r.materials_cards,
+                        "library_material_cards":r.library_material_cards,
+                        "issues":sorted(set(issues))})
     by_slug = {r["slug"]:r for r in records}
     for key,bucket in (("duplicate_title",titles),("duplicate_description",descriptions)):
         for slugs in bucket.values():
@@ -160,6 +167,8 @@ def main():
         "under_125":sum(r["main_text_words"]<125 for r in records),
         "under_250":sum(r["main_text_words"]<250 for r in records),
         "pages_without_source_cards":sum(r["resource_cards"]==0 for r in records),
+        "pages_without_library_material_cards":sum(r["library_material_cards"]==0 for r in records),
+        "library_material_cards_total":sum(r["library_material_cards"] for r in records),
         "candidate_duplicate_pairs":len(candidates),
         "identical_chapter_groups":len(duplicated),
         "issues_by_kind":dict(kinds)

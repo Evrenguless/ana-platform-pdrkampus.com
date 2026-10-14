@@ -1,0 +1,2091 @@
+{
+  "schema_version": 1,
+  "publication_approved": false,
+  "checked_on": "2026-10-14",
+  "review_scope": "Existing catalogue identity, topic/audience metadata and local detail-page integrity. Full remote-document professional suitability is not implied.",
+  "resources": {
+    "afsin-kariyer-karar-verme-arastirma-2026": {
+      "title": "Kariyer Karar Verme Öz-Yeterliği, Gelecek Beklentisi ve Mesleki Sonuç Beklentisi · Araştırma Raporu · 2026",
+      "level": "Lise",
+      "topic": "Kariyer karar verme öz-yeterliği ve gelecek beklentisi",
+      "source": "Afşin Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "agri-ram-devamsizlik-nedenleri-anketi": {
+      "title": "Devamsızlık Nedenleri Anketi ve Uygulama Yönergesi",
+      "level": "İlkokul 4-8 / Lise",
+      "topic": "Öğrencilerin devamsızlık nedenlerini belirleme",
+      "source": "MEB / RAM Bireyi Tanıma Teknikleri",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "alanya-zaman-yonetimi-hedefler-docx-2025": {
+      "title": "Zaman Yönetimi · Hedefler Çalışma Kağıdı",
+      "level": "Tüm kademeler",
+      "topic": "Zaman yönetimi",
+      "source": "Alanya Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "altieylul-yks-tercih-ogrenci-veli-kilavuzu-2026": {
+      "title": "YKS Tercih Süreci · Öğrenci ve Veli Bilgilendirme Kılavuzu · 2026",
+      "level": "Lise / YKS",
+      "topic": "YKS tercih",
+      "source": "Altıeylül Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "arsiv-a3ff4466bb62d4f4": {
+      "title": "Empati ve Etkili Dinleme Sunusu",
+      "level": "Tüm kademeler",
+      "topic": "Ergenlik",
+      "source": "MEB / tusbaram.meb.k12.tr",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "arsiv-ea48f9be1ad03dd4": {
+      "title": "Okul Öğrenci Kulüpleri Sosyal Sorumluluk Ve Toplum Hizmeti Çalışmaları Uygulama Projesi Kılavuzu",
+      "level": "Ortaokul",
+      "topic": "Ortaokul",
+      "source": "MEB / tegm.meb.gov.tr",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "bep-degerlendirme-raporu-1-donem-2026": {
+      "title": "BEP Değerlendirme Raporu · 1. Dönem Sonu",
+      "level": "Tüm kademeler",
+      "topic": "BEP değerlendirme",
+      "source": "Eldivan 100. Yıl İlkokulu / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "beyoglu-ogretmen-cocuk-istismari-mudahale-rehberi": {
+      "title": "Öğretmenler İçin Çocuk İstismarına Müdahale Rehberi",
+      "level": "Tüm kademeler",
+      "topic": "Çocuk ihmal ve istismarına müdahale",
+      "source": "Beyoğlu Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "beypazari-kardes-kiskancligi-2025": {
+      "title": "Kardeş Kıskançlığına Karşı Aileler İçin Öneriler · 2025",
+      "level": "Okul öncesi / İlkokul",
+      "topic": "Kardeş kıskançlığı",
+      "source": "Beypazarı Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "beypazari-mahremiyet-ogretmen-sunum-2026": {
+      "title": "Mahremiyet Eğitimi · Öğretmen Sunumu · 2026",
+      "level": "Tüm kademeler",
+      "topic": "Mahremiyet ve beden güvenliği",
+      "source": "Beypazarı Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "bismil-ihmal-istismar-yasal-sorumluluklar-2026": {
+      "title": "İhmal-İstismar Sürecinde Yasal Sorumluluklar · TCK ve ÇKK · 2026",
+      "level": "Tüm kademeler",
+      "topic": "İhmal-istismar bildirim ve yasal süreç",
+      "source": "Bismil Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "cizre-hedef-motivasyon-ogretmen-brosur-2026": {
+      "title": "Hedef Belirleme ve Motivasyon · Öğretmen Broşürü · 2026-2027",
+      "level": "Tüm kademeler",
+      "topic": "Hedef belirleme ve motivasyon",
+      "source": "Cizre Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "cizre-ozguven-ogretmen-brosur-2026": {
+      "title": "Özgüven Geliştirme · Öğretmen Broşürü · 2026-2027",
+      "level": "Tüm kademeler",
+      "topic": "Özgüven geliştirme",
+      "source": "Cizre Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "collected-04cd305cdda8404a0ed370e2": {
+      "title": "GÜÇLÜ YÖNLERİ BULMAYA YÖNELİK ANKET",
+      "level": "Belirtilmiyor",
+      "topic": "Bireyi tanıma",
+      "source": "Hacı Lütfiye Şireci Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "devamsizlik-takip-formu-docx-2025": {
+      "title": "Devamsızlık Takip Formu · Düzenlenebilir Word",
+      "level": "Ortaokul / Lise",
+      "topic": "Devamsızlık takibi",
+      "source": "Yardımcı Çok Programlı Anadolu Lisesi / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "dogubayazit-hak-sorumluluk-gelisimi-veli-2023": {
+      "title": "Hak ve Sorumluluk Gelişimi · Veli Kitapçığı",
+      "level": "Tüm kademeler",
+      "topic": "Hak ve sorumluluklar",
+      "source": "Doğubayazıt Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "dogubayazit-mesleki-deger-yetenekler-2022": {
+      "title": "Mesleki Değer ve Yeteneklerimiz · Öğrenci Kitapçığı",
+      "level": "Ortaokul / Lise",
+      "topic": "Mesleki değerler, ilgi ve yetenek",
+      "source": "Doğubayazıt Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "fatih-egitsel-degerlendirme-tanilama-2026": {
+      "title": "Eğitsel Değerlendirme ve Tanılama Süreci · Broşür",
+      "level": "Tüm kademeler",
+      "topic": "Eğitsel değerlendirme ve tanılama",
+      "source": "Fatih Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "gonen-2025-aileler-icin-guvenli-internet-rehberi": {
+      "title": "Aileler İçin Güvenli İnternet Rehberi · 2025",
+      "level": "Veli / Tüm kademeler",
+      "topic": "Çocukların çevrim içi güvenliği ve aile rehberliği",
+      "source": "MEB / Öğretmenim Ortaokulu",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "ismetaktar-bep-gelistirme-1-toplanti-2025": {
+      "title": "BEP Geliştirme Birimi · 1. Toplantı Tutanağı",
+      "level": "Lise",
+      "topic": "BEP geliştirme birimi",
+      "source": "İsmet Aktar MTAL / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "ismetaktar-egitsel-performans-bep-2025": {
+      "title": "Eğitsel Performans ve BEP · Düzenlenebilir Form",
+      "level": "Lise",
+      "topic": "Eğitsel performans ve BEP",
+      "source": "İsmet Aktar MTAL / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "isparta-sinir-koyma-tek-etkinlik-2026": {
+      "title": "Sınır Koyma · Sınıf Rehberlik Tek Etkinlik Örnekleri · 2026-2027",
+      "level": "Tüm kademeler",
+      "topic": "Sınır koyma",
+      "source": "Isparta Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "istanbul-ozel-egitim-rehberlik-uygulama-rehberi-2026": {
+      "title": "Özel Eğitim ve Rehberlik Hizmetleri Uygulama Rehberi · 2026",
+      "level": "Tüm kademeler",
+      "topic": "Özel eğitim ve rehberlik iş akışları",
+      "source": "İstanbul İl Millî Eğitim Müdürlüğü",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "izmit-motivasyon-verimli-ders-calisma-2022": {
+      "title": "Motivasyon ve Verimli Ders Çalışma Teknikleri · Sunum",
+      "level": "Ortaokul / Lise",
+      "topic": "Akademik motivasyon ve verimli ders çalışma",
+      "source": "İzmit Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "karam-hedef-belirleme-brosur-2025": {
+      "title": "Hedef Belirleme · Ortaokul-Lise Broşürü",
+      "level": "Ortaokul / Lise",
+      "topic": "Hedef belirleme",
+      "source": "Korkuteli Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kariyer-91": {
+      "title": "Kariyer Gelişimi ve Planlama Psikoeğitim Programı (KAGEP)",
+      "level": "Lise",
+      "topic": "Kariyer",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kariyer-92": {
+      "title": "Okulda Bireysel Kariyer Psikolojik Danışmanlığı El Kitabı",
+      "level": "Ortaokul / Lise",
+      "topic": "Kariyer",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kaynarca-aile-iletisim-veli-brosur-2026": {
+      "title": "Aile İçi İletişim, Çocuk Hakları ve Çocuk Kıymeti · Veli Broşürü",
+      "level": "Tüm kademeler",
+      "topic": "Aile içi iletişim ve çocuk hakları",
+      "source": "Kaynarca Atatürk Ortaokulu / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kaynarca-ergen-iletisim-veli-2026": {
+      "title": "Ergen Çocuğunuzla İletişim Kurmanın Yolları · Veli Sunumu",
+      "level": "Ortaokul / Lise",
+      "topic": "İletişim becerileri",
+      "source": "Kaynarca Atatürk Ortaokulu / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kaynarca-iletisim-becerileri-sunum-2026": {
+      "title": "İletişim Becerileri · Sunum",
+      "level": "Ortaokul / Lise",
+      "topic": "İletişim becerileri",
+      "source": "Kaynarca Atatürk Ortaokulu / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kocasinan-2026-lgs-kaygi-motivasyon": {
+      "title": "LGS Kaygı ve Motivasyon Rehberi",
+      "level": "Ortaokul",
+      "topic": "Sınav kaygısı",
+      "source": "Kocasinan RAM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kocasinan-2026-lgs-sinav-stratejileri": {
+      "title": "LGS Sınav Stratejileri",
+      "level": "Ortaokul",
+      "topic": "Sınava hazırlık",
+      "source": "Kocasinan RAM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kocasinan-2026-sinav-doneminde-anne-baba-olmak": {
+      "title": "Sınav Döneminde Anne Baba Olmak",
+      "level": "8. ve 12. sınıf",
+      "topic": "Sınav dönemi",
+      "source": "Kocasinan RAM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kocasinan-okula-uyum-kilavuzu-2025": {
+      "title": "Okula Uyum Süreci · Kılavuz · 2025",
+      "level": "Tüm kademeler",
+      "topic": "Okula uyum",
+      "source": "Kocasinan Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kocasinan-okula-uyum-ogretmen-brosuru-2025": {
+      "title": "Okula Uyum · Öğretmen Broşürü · 2025",
+      "level": "Tüm kademeler",
+      "topic": "Okula uyum",
+      "source": "Kocasinan Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "kocasinan-okula-uyum-veli-brosuru-2025": {
+      "title": "Okula Uyum · Veli Broşürü · 2025",
+      "level": "Tüm kademeler",
+      "topic": "Okula uyum",
+      "source": "Kocasinan Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "manisa-lgs-pdr-egitim-sunumu-2026": {
+      "title": "LGS Tercih Dönemi Rehber Öğretmen/Psikolojik Danışman Eğitim Sunumu · 2026",
+      "level": "Ortaokul",
+      "topic": "LGS tercih danışmanlığı",
+      "source": "Manisa Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "mardin-sinir-lise-ogrenci-sunum-2026": {
+      "title": "Sınır Koyma · Lise Öğrenci Sunumu",
+      "level": "Lise",
+      "topic": "Sınır koyma",
+      "source": "Mardin İl Millî Eğitim Müdürlüğü",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "mardin-sinir-lise-ogretmen-brosur-2026": {
+      "title": "Sınır Koyma · Lise Öğretmen Broşürü",
+      "level": "Lise",
+      "topic": "Sınır koyma",
+      "source": "Mardin İl Millî Eğitim Müdürlüğü",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "meb-lgs-merkezi-sinav-basvuru-uygulama-kilavuzu-2026": {
+      "title": "LGS 2026 · Merkezî Sınav Başvuru ve Uygulama Kılavuzu",
+      "level": "Ortaokul",
+      "topic": "LGS",
+      "source": "MEB Ölçme, Değerlendirme ve Sınav Hizmetleri GM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "meb-lgs-ogrenci-veli-bilgilendirme-kilavuzu-2026": {
+      "title": "LGS Tercih Süreci · Öğrenci ve Veli Bilgilendirme Kılavuzu · 2026",
+      "level": "Ortaokul / LGS",
+      "topic": "LGS tercih",
+      "source": "MEB / Bakırköy RAM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "meslek-onlisans-tanitim-2025": {
+      "title": "Önlisans Meslek Tanıtımları · 2024-2025",
+      "level": "Lise",
+      "topic": "Meslek tanıtımı",
+      "source": "Şehit Gökhan Alıcı Çok Programlı Anadolu Lisesi / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "milas-verimli-ders-veli-sunum-2025": {
+      "title": "Verimli Ders Çalışma Teknikleri · Veli Sunumu · 2025",
+      "level": "Tüm kademeler",
+      "topic": "Verimli ders çalışma",
+      "source": "Milas Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "nevsehir-ogrenci-guvenli-internet-kitapcigi": {
+      "title": "Bilinçli Teknoloji ve Güvenli İnternet · Öğrenci Bilgilendirme Kitapçığı",
+      "level": "Ortaokul / Lise",
+      "topic": "Güvenli internet",
+      "source": "Nevşehir Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "nevsehir-ogrenci-sinav-kaygisi-kitapcigi": {
+      "title": "Sınav Kaygısı · Öğrenci Bilgilendirme Kitapçığı",
+      "level": "Ortaokul / Lise",
+      "topic": "Sınav kaygısı",
+      "source": "Nevşehir Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "nevsehir-ogretmen-guvenli-internet-etkinlik": {
+      "title": "Bilinçli Teknoloji ve Güvenli İnternet · Öğretmen Etkinlik Örnekleri",
+      "level": "Tüm kademeler",
+      "topic": "Güvenli internet",
+      "source": "Nevşehir Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "nevsehir-ogretmen-iletisim-kitapcigi": {
+      "title": "İletişim Becerileri · Öğretmen Bilgilendirme Kitapçığı",
+      "level": "Tüm kademeler",
+      "topic": "İletişim becerileri",
+      "source": "Nevşehir Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "nevsehir-veli-aile-iletisim-tutumlar": {
+      "title": "Aile İçi İletişim ve Anne-Baba Tutumları · Veli Bilgilendirme Kitapçığı",
+      "level": "Tüm kademeler",
+      "topic": "Aile içi iletişim ve anne-baba tutumları",
+      "source": "Nevşehir Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "nevsehir-veli-bilincli-teknoloji": {
+      "title": "Bilinçli Teknoloji ve Güvenli İnternet Kullanımı · Veli Sunumu",
+      "level": "Tüm kademeler",
+      "topic": "Bilinçli teknoloji kullanımı",
+      "source": "Nevşehir Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "nevsehir-veli-sinav-kaygisi": {
+      "title": "Sınav Kaygısı · Veli Bilgilendirme Kitapçığı",
+      "level": "Ortaokul / Lise",
+      "topic": "Sınav kaygısı",
+      "source": "Nevşehir Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "nizip-haftalik-planlayici": {
+      "title": "TYT-AYT Deneme Takip Çizelgesi ve Haftalık Planlayıcı",
+      "level": "Lise",
+      "topic": "Haftalık planlama",
+      "source": "Nizip Abdulkadir Sayın Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "nizip-tyt-ayt-deneme-takip": {
+      "title": "TYT-AYT Deneme Takip Çizelgesi",
+      "level": "Lise",
+      "topic": "TYT-AYT akademik izleme",
+      "source": "Nizip Abdulkadir Sayın Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "nizip-verimli-ders-kontrol-listesi": {
+      "title": "Verimli Ders Çalışma Kontrol Listesi",
+      "level": "Ortaokul / Lise",
+      "topic": "Verimli ders çalışma",
+      "source": "Nizip Abdulkadir Sayın Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "orgm-2025-sosyal-kabul-olumlu-sinif-iklimi": {
+      "title": "Sosyal Kabulü ve Olumlu Sınıf İklimini Sağlama · Öğretmen Rehber Kitabı",
+      "level": "Lise",
+      "topic": "Sosyal kabul, sınıf yönetimi, olumlu sınıf iklimi ve kapsayıcılık",
+      "source": "MEB Özel Eğitim ve Rehberlik Hizmetleri GM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "orgm-bep-ornek-format-word": {
+      "title": "BEP Örnek Formatı · Word",
+      "level": "Tüm kademeler",
+      "topic": "BEP örnek dosya formatı",
+      "source": "MEB Özel Eğitim ve Rehberlik Hizmetleri GM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "orgm-bep-tum-ogretmenler-yol-haritasi": {
+      "title": "Bireyselleştirilmiş Eğitim Programı · Tüm Öğretmenler İçin Yol Haritası",
+      "level": "Tüm kademeler",
+      "topic": "BEP hazırlama, uygulama, izleme ve değerlendirme",
+      "source": "MEB Özel Eğitim ve Rehberlik Hizmetleri GM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "orgm-yas-aile-bilgilendirme-rehberi-2025": {
+      "title": "Çocuk ve Ergenlerde Kayıp-Yas · Aileler İçin Bilgilendirme Rehberi",
+      "level": "Tüm kademeler / Veli",
+      "topic": "Ölüm ve yas",
+      "source": "MEB Özel Eğitim ve Rehberlik Hizmetleri GM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "orgm-yas-ogretmen-bilgilendirme-rehberi-2025": {
+      "title": "Çocuk ve Ergenlerde Kayıp-Yas · Öğretmenler İçin Bilgilendirme Rehberi",
+      "level": "Tüm kademeler / Öğretmen",
+      "topic": "Ölüm ve yas",
+      "source": "MEB Özel Eğitim ve Rehberlik Hizmetleri GM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "osym-2026-yks-sinav-kilavuzu-pdf": {
+      "title": "2026 YKS · Sınav Kılavuzu",
+      "level": "Lise",
+      "topic": "YKS",
+      "source": "ÖSYM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "psikososyal-2025-01": {
+      "title": "Psikososyal Destek Programı Uygulama Kılavuzu",
+      "level": "Tüm kademeler",
+      "topic": "Psikososyal destek",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "psikososyal-2025-28": {
+      "title": "Psikososyal Güçlendirici Destek Programı – Doğal Afet",
+      "level": "Tüm kademeler",
+      "topic": "Doğal afet",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "psikososyal-2025-29": {
+      "title": "Psikososyal Güçlendirici Destek Programı – Ölüm-Yas",
+      "level": "Tüm kademeler",
+      "topic": "Yas",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "rehberlik-faaliyet-raporu-docx": {
+      "title": "Rehberlik Faaliyet Değerlendirme Formu · Düzenlenebilir Word",
+      "level": "Tüm kademeler",
+      "topic": "Faaliyet raporu",
+      "source": "Yardımcı Çok Programlı Anadolu Lisesi / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sariyer-etkili-karar-verme-afis-2025": {
+      "title": "Etkili Karar Verme İpuçları · Afiş",
+      "level": "Ortaokul / Lise",
+      "topic": "Karar verme",
+      "source": "Sarıyer Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sariyer-karar-verme-bulten-2025": {
+      "title": "Karar Verme ve Eleştirel Düşünme · Öğrenci Bülteni",
+      "level": "Ortaokul / Lise",
+      "topic": "Karar verme ve eleştirel düşünme",
+      "source": "Sarıyer Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sdb-547": {
+      "title": "Rehber Öğretmen/Psikolojik Danışman Sosyal Duygusal Beceri Kitapçığı",
+      "level": "Tüm kademeler",
+      "topic": "Sosyal duygusal beceriler",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sdb-561": {
+      "title": "Sosyal Duygusal Beceriler – İlkokul Oyun Kitabı",
+      "level": "İlkokul",
+      "topic": "Sosyal duygusal beceriler",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sdb-568": {
+      "title": "Sosyal Duygusal Beceriler – İlkokul Veli Broşürü",
+      "level": "İlkokul",
+      "topic": "Sosyal duygusal beceriler",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sdb-573": {
+      "title": "Sosyal Duygusal Beceriler – Ortaokul Öğrenci Farkındalık Programı",
+      "level": "Ortaokul",
+      "topic": "Sosyal duygusal beceriler",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sdb-577": {
+      "title": "Sosyal Duygusal Beceriler – Ortaokul Öğretmen Sunumu",
+      "level": "Ortaokul",
+      "topic": "Sosyal duygusal beceriler",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sdb-579": {
+      "title": "Sosyal Duygusal Beceriler – Ortaokul Veli Broşürü",
+      "level": "Ortaokul",
+      "topic": "Sosyal duygusal beceriler",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sdb-584": {
+      "title": "Sosyal Duygusal Beceriler – Lise Öğrenci Farkındalık Programı",
+      "level": "Lise",
+      "topic": "Sosyal duygusal beceriler",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sdb-588": {
+      "title": "Sosyal Duygusal Beceriler – Lise Öğretmen Sunumu",
+      "level": "Lise",
+      "topic": "Sosyal duygusal beceriler",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sdb-590": {
+      "title": "Sosyal Duygusal Beceriler – Lise Veli Broşürü",
+      "level": "Lise",
+      "topic": "Sosyal duygusal beceriler",
+      "source": "MEB ÖRGM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "seyhan-yks-verimli-ders-2025": {
+      "title": "YKS Verimli Ders Çalışma Rehberi",
+      "level": "Lise",
+      "topic": "YKS çalışma teknikleri",
+      "source": "Seyhan Borsa İstanbul Fen Lisesi / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "sinav-kaygisi-psikoegitim-grubu-isparta": {
+      "title": "Sınav Kaygısı ile Baş Etme · Psikoeğitim Grubu Programı",
+      "level": "Ortaokul / Lise",
+      "topic": "Sınav kaygısı",
+      "source": "Isparta Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "soma-mesleki-karar-verme-aile-destegi-arastirma-2024": {
+      "title": "Mesleki Karar Verme Yetkinliği ve Ailelerin Meslek Gelişimine Desteği · Araştırma",
+      "level": "Lise",
+      "topic": "Mesleki karar verme ve aile desteği",
+      "source": "Soma Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "susehri-guvenli-internet-pano-2026": {
+      "title": "Güvenli İnternet Kullanımı · Modüler Pano",
+      "level": "Tüm kademeler",
+      "topic": "Güvenli internet",
+      "source": "Suşehri Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "tenzile-veli-sorumluluk-bulteni-2025": {
+      "title": "Sorumluluk Bilinci · Veli Bülteni · Kasım 2025",
+      "level": "Lise",
+      "topic": "Sorumluluk bilinci",
+      "source": "Tenzile Erdoğan Kız Anadolu İmam Hatip Lisesi / MEB",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "unicef-cocuk-katilimi-el-kitabi-2026": {
+      "title": "Çocuk Katılımı El Kitabı · UNICEF 2026",
+      "level": "Tüm kademeler",
+      "topic": "Çocuk hakları",
+      "source": "UNICEF Türkiye",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "v19-cankaya-kriz-yol-haritasi": {
+      "title": "Okul Temelli Psikososyal Koruma, Önleme ve Krize Müdahalede Bir Yol Haritası",
+      "level": "Tüm kademeler",
+      "topic": "Kriz ve psikososyal destek",
+      "source": "Çankaya RAM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "yok-atlas-tercih-referansi": {
+      "title": "YÖK Atlas · Üniversite ve Tercih Referans Sistemi",
+      "level": "Lise",
+      "topic": "YKS tercih ve üniversite programları",
+      "source": "Yükseköğretim Kurulu",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "yuksekova-sinav-stratejileri-brosur": {
+      "title": "Sınav Stratejileri · Öğrenci Broşürü",
+      "level": "Ortaokul / Lise",
+      "topic": "Sınav stratejileri",
+      "source": "Yüksekova Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "yuksekova-sosyal-kaygi-egitim-kultur-dergisi": {
+      "title": "Sosyal Kaygı · Eğitim ve Kültür Dergisi İçeriği",
+      "level": "Ortaokul / Lise",
+      "topic": "Sosyal kaygı ve sosyal fobi",
+      "source": "Yüksekova Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024": {
+      "title": "RAM Rehberlik Hizmetleri Kılavuzu · Bireysel Görüşme Süreci",
+      "level": "Tüm kademeler",
+      "topic": "RAM bireysel görüşme, gizlilik ve yönlendirme",
+      "source": "Yüreğir Rehberlik ve Araştırma Merkezi",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    },
+    "zorbalik-kuramsal": {
+      "title": "Akran Zorbalığı · Psikolojik Danışman Kitapçığı",
+      "level": "Tüm kademeler",
+      "topic": "Akran zorbalığı",
+      "source": "MEB Özel Eğitim ve Rehberlik Hizmetleri GM",
+      "selection_basis": "existing_catalogue_title_topic_audience"
+    }
+  },
+  "guides": {
+    "bep-ders-uyarlamasi": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "bep-guclu-yonler": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "bep-hedef-izleme-toplantisi": {
+      "resource_ids": [
+        "bep-degerlendirme-raporu-1-donem-2026",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "Hedef izleme ve değerlendirme kaydı hazırlığı; örnek form öğrenciye ve güncel kurum usulüne göre uyarlanır."
+    },
+    "bep-ogrenci-katilimi": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "bep-olculebilir-hedef": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "cocuklarda-kisisel-sinirlar": {
+      "resource_ids": [
+        "isparta-sinir-koyma-tek-etkinlik-2026",
+        "beypazari-mahremiyet-ogretmen-sunum-2026"
+      ],
+      "use_for": "Kişisel sınır ve beden güvenliği etkinliği hazırlığı; gerçek olay anlatımı zorlanmaz."
+    },
+    "devamsizlik-ogrenci-ilk-gorusme": {
+      "resource_ids": [
+        "devamsizlik-takip-formu-docx-2025",
+        "agri-ram-devamsizlik-nedenleri-anketi"
+      ],
+      "use_for": "Devamsızlık örüntüsünü ve koşullarını inceleme hazırlığı; araçların yaş ve uygulama yönergesi kontrol edilir."
+    },
+    "guclu-yon-kesfi-sinifta": {
+      "resource_ids": [
+        "collected-04cd305cdda8404a0ed370e2"
+      ],
+      "use_for": "Güçlü yönleri konuşmaya başlangıç olabilecek anket; psikometrik geçerlik varsayılmaz ve tek araçla öğrenci etiketi üretilmez."
+    },
+    "guvenli-internet-veliler-icin": {
+      "resource_ids": [
+        "gonen-2025-aileler-icin-guvenli-internet-rehberi",
+        "nevsehir-veli-bilincli-teknoloji"
+      ],
+      "use_for": "Veliyle dijital güvenlik ve evde destek düzeni konuşmasına hazırlık."
+    },
+    "ilkokul-arkadas-anlasmazligi": {
+      "resource_ids": [
+        "sdb-561",
+        "sdb-547"
+      ],
+      "use_for": "İlkokulda iş birliği ve iletişim etkinliği hazırlığı; zorbalık veya tehditte yetişkin koruma süreci ayrıca gerekir."
+    },
+    "kariyer-aile-meslek-beklentisi": {
+      "resource_ids": [
+        "soma-mesleki-karar-verme-aile-destegi-arastirma-2024",
+        "kariyer-92"
+      ],
+      "use_for": "Mesleki kararda aile desteği ve öğrenci tercihlerini ayrı ele almaya başvuru; araştırma sonucu kişiye özel karar değildir."
+    },
+    "kariyer-bolum-ders-planini-okuma": {
+      "resource_ids": [
+        "yok-atlas-tercih-referansi",
+        "kariyer-92"
+      ],
+      "use_for": "Üniversite programı araştırması ve kariyer görüşmesi hazırlığı; ilgili yılın bağlayıcı koşulları ayrıca doğrulanır."
+    },
+    "kariyer-bolum-tanitiminda-bilgi-dogrulama": {
+      "resource_ids": [
+        "yok-atlas-tercih-referansi",
+        "kariyer-92"
+      ],
+      "use_for": "Üniversite programı araştırması ve kariyer görüşmesi hazırlığı; ilgili yılın bağlayıcı koşulları ayrıca doğrulanır."
+    },
+    "kariyer-coklu-ilgi-alani-olan-ogrenci": {
+      "resource_ids": [
+        "dogubayazit-mesleki-deger-yetenekler-2022",
+        "kariyer-92"
+      ],
+      "use_for": "İlgi, beceri ve mesleki değerleri ayrı konuşma hazırlığı."
+    },
+    "kariyer-egitim-yolu-arastirma": {
+      "resource_ids": [
+        "meslek-onlisans-tanitim-2025",
+        "kariyer-92"
+      ],
+      "use_for": "Meslekleri ve eğitim yollarını araştırmaya başlangıç; yayın yılı dikkate alınır, güncel koşullar resmî kaynaklardan kontrol edilir."
+    },
+    "kariyer-gelecek-mesleklerini-arastirma": {
+      "resource_ids": [
+        "meslek-onlisans-tanitim-2025",
+        "kariyer-92"
+      ],
+      "use_for": "Meslekleri ve eğitim yollarını araştırmaya başlangıç; yayın yılı dikkate alınır, güncel koşullar resmî kaynaklardan kontrol edilir."
+    },
+    "kariyer-guclu-yon-ve-beceri-eslestirme": {
+      "resource_ids": [
+        "dogubayazit-mesleki-deger-yetenekler-2022",
+        "kariyer-92"
+      ],
+      "use_for": "İlgi, beceri ve mesleki değerleri ayrı konuşma hazırlığı."
+    },
+    "kariyer-ilgi-envanteri-sonuclarini-konusma": {
+      "resource_ids": [
+        "kariyer-92",
+        "kariyer-91"
+      ],
+      "use_for": "Mesleki seçenek araştırması ve kariyer görüşmesini hazırlamak için başvuru; tek envanterden meslek kararı çıkarılmaz."
+    },
+    "kariyer-is-ortami-tercihleri": {
+      "resource_ids": [
+        "meslek-onlisans-tanitim-2025",
+        "kariyer-92"
+      ],
+      "use_for": "Meslekleri ve eğitim yollarını araştırmaya başlangıç; yayın yılı dikkate alınır, güncel koşullar resmî kaynaklardan kontrol edilir."
+    },
+    "kariyer-kariyer-kararinda-belirsizlik": {
+      "resource_ids": [
+        "afsin-kariyer-karar-verme-arastirma-2026",
+        "sariyer-karar-verme-bulten-2025"
+      ],
+      "use_for": "Mesleki karardaki belirsizliği ve karar ölçütlerini konuşmaya yardımcı başvuru."
+    },
+    "kariyer-kariyer-plani-donemlik-izleme": {
+      "resource_ids": [
+        "kariyer-92",
+        "kariyer-91"
+      ],
+      "use_for": "Mesleki seçenek araştırması ve kariyer görüşmesini hazırlamak için başvuru; tek envanterden meslek kararı çıkarılmaz."
+    },
+    "kariyer-meslek-seciminde-akran-etkisi": {
+      "resource_ids": [
+        "kariyer-92",
+        "kariyer-91"
+      ],
+      "use_for": "Mesleki seçenek araştırması ve kariyer görüşmesini hazırlamak için başvuru; tek envanterden meslek kararı çıkarılmaz."
+    },
+    "kariyer-meslek-seciminde-tek-dogru-yanilgisi": {
+      "resource_ids": [
+        "kariyer-92",
+        "kariyer-91"
+      ],
+      "use_for": "Mesleki seçenek araştırması ve kariyer görüşmesini hazırlamak için başvuru; tek envanterden meslek kararı çıkarılmaz."
+    },
+    "kariyer-meslek-uzmanina-soru-hazirlama": {
+      "resource_ids": [
+        "meslek-onlisans-tanitim-2025",
+        "kariyer-92"
+      ],
+      "use_for": "Meslekleri ve eğitim yollarını araştırmaya başlangıç; yayın yılı dikkate alınır, güncel koşullar resmî kaynaklardan kontrol edilir."
+    },
+    "kariyer-mesleki-degerleri-karsilastirma": {
+      "resource_ids": [
+        "dogubayazit-mesleki-deger-yetenekler-2022",
+        "kariyer-92"
+      ],
+      "use_for": "İlgi, beceri ve mesleki değerleri ayrı konuşma hazırlığı."
+    },
+    "kariyer-mesleki-karar-secenek-tablosu": {
+      "resource_ids": [
+        "afsin-kariyer-karar-verme-arastirma-2026",
+        "sariyer-karar-verme-bulten-2025"
+      ],
+      "use_for": "Mesleki karardaki belirsizliği ve karar ölçütlerini konuşmaya yardımcı başvuru."
+    },
+    "kariyer-mesleklere-iliskin-onyargi": {
+      "resource_ids": [
+        "meslek-onlisans-tanitim-2025",
+        "kariyer-92"
+      ],
+      "use_for": "Meslekleri ve eğitim yollarını araştırmaya başlangıç; yayın yılı dikkate alınır, güncel koşullar resmî kaynaklardan kontrol edilir."
+    },
+    "kariyer-mesleklerin-gunluk-gorevleri": {
+      "resource_ids": [
+        "meslek-onlisans-tanitim-2025",
+        "kariyer-92"
+      ],
+      "use_for": "Meslekleri ve eğitim yollarını araştırmaya başlangıç; yayın yılı dikkate alınır, güncel koşullar resmî kaynaklardan kontrol edilir."
+    },
+    "kariyer-mezuniyet-sonrasi-alternatifler": {
+      "resource_ids": [
+        "meslek-onlisans-tanitim-2025",
+        "kariyer-92"
+      ],
+      "use_for": "Meslekleri ve eğitim yollarını araştırmaya başlangıç; yayın yılı dikkate alınır, güncel koşullar resmî kaynaklardan kontrol edilir."
+    },
+    "kariyer-resm-program-kosullari": {
+      "resource_ids": [
+        "yok-atlas-tercih-referansi",
+        "kariyer-92"
+      ],
+      "use_for": "Üniversite programı araştırması ve kariyer görüşmesi hazırlığı; ilgili yılın bağlayıcı koşulları ayrıca doğrulanır."
+    },
+    "kriz-acil-guvenlik-degerlendirmesi": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-afet-sonrasi-okula-donus": {
+      "resource_ids": [
+        "psikososyal-2025-28",
+        "v19-cankaya-kriz-yol-haritasi"
+      ],
+      "use_for": "Afet sonrası okul psikososyal desteğine hazırlık; bina ve ulaşım güvenliği yetkili değerlendirmeye dayanır."
+    },
+    "kriz-aile-ici-siddet-anlatimi": {
+      "resource_ids": [
+        "beyoglu-ogretmen-cocuk-istismari-mudahale-rehberi",
+        "bismil-ihmal-istismar-yasal-sorumluluklar-2026"
+      ],
+      "use_for": "Öğretmenin çocuk koruma rolü ve bildirim süreci için başvuru; güncel mevzuat ve yetkili koruma işlemleri esas alınır."
+    },
+    "kriz-gorusmede-ayrinti-zorlamama": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-guvenilir-yetiskin-destegi": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-guvenli-uzman-yonlendirme": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-guvenlik-planini-guncelleme": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-ihmal-suphesini-bildirme": {
+      "resource_ids": [
+        "beyoglu-ogretmen-cocuk-istismari-mudahale-rehberi",
+        "bismil-ihmal-istismar-yasal-sorumluluklar-2026"
+      ],
+      "use_for": "Öğretmenin çocuk koruma rolü ve bildirim süreci için başvuru; güncel mevzuat ve yetkili koruma işlemleri esas alınır."
+    },
+    "kriz-istismar-suphesinde-yaklasim": {
+      "resource_ids": [
+        "beyoglu-ogretmen-cocuk-istismari-mudahale-rehberi",
+        "bismil-ihmal-istismar-yasal-sorumluluklar-2026"
+      ],
+      "use_for": "Öğretmenin çocuk koruma rolü ve bildirim süreci için başvuru; güncel mevzuat ve yetkili koruma işlemleri esas alınır."
+    },
+    "kriz-izlem-ve-destek-devri": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-kaybedilen-yakin-sonrasi-okul": {
+      "resource_ids": [
+        "orgm-yas-ogretmen-bilgilendirme-rehberi-2025",
+        "psikososyal-2025-29"
+      ],
+      "use_for": "Kayıp ve yas sonrası okul desteği hazırlığı; öğrencinin kişisel yaşantısını sınıf önünde anlattırmak için kullanılmaz."
+    },
+    "kriz-kendine-zarar-ifadesi": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-kriz-sonrasi-devamsizlik": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-kriz-sonrasi-sinif-rutini": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-krizde-ogrenci-mahremiyeti": {
+      "resource_ids": [
+        "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024"
+      ],
+      "use_for": "Bireysel görüşmede gizlilik ve yönlendirme çerçevesine başvuru; kaydın erişim ve saklama usulü güncel kurum kurallarıyla ayrıca kontrol edilir."
+    },
+    "kriz-krizde-ogretmen-koordinasyonu": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-krizde-veli-bilgilendirme": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-kurum-ici-acil-gorevler": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-ogrenciye-acil-yardim-yolu": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-okulda-zarar-verme-riski": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-risk-bildirimini-kaydetme": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-supheli-olayda-bilgi-guvenligi": {
+      "resource_ids": [
+        "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024"
+      ],
+      "use_for": "Bireysel görüşmede gizlilik ve yönlendirme çerçevesine başvuru; kaydın erişim ve saklama usulü güncel kurum kurallarıyla ayrıca kontrol edilir."
+    },
+    "kriz-tehdit-iceren-akran-davranisi": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-zorlayici-olay-sonrasi-sinif": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "kriz-zorlayici-olayda-soylenti": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "lgs-kaygi-grup-calismasi": {
+      "resource_ids": [
+        "sinav-kaygisi-psikoegitim-grubu-isparta",
+        "nevsehir-ogrenci-sinav-kaygisi-kitapcigi"
+      ],
+      "use_for": "Sınav kaygısında okul temelli destek hazırlığı; programın uygulayıcı ve katılım koşulları incelenmeden otomatik uygulanmaz."
+    },
+    "lgs-son-hafta-ogrenci-destegi": {
+      "resource_ids": [
+        "kocasinan-2026-lgs-sinav-stratejileri",
+        "kocasinan-2026-lgs-kaygi-motivasyon"
+      ],
+      "use_for": "LGS hazırlığında öğrenciyle çalışma ve kaygı desteğini ayrı ele alma."
+    },
+    "lgs-sonrasi-okula-uyum": {
+      "resource_ids": [
+        "kocasinan-okula-uyum-kilavuzu-2025",
+        "kocasinan-okula-uyum-ogretmen-brosuru-2025"
+      ],
+      "use_for": "Okul değişimi ve dönüşte erişilebilir uyum desteği hazırlığı."
+    },
+    "lgs-veli-tercih-bilgilendirme": {
+      "resource_ids": [
+        "meb-lgs-ogrenci-veli-bilgilendirme-kilavuzu-2026",
+        "manisa-lgs-pdr-egitim-sunumu-2026"
+      ],
+      "use_for": "LGS tercih görüşmesine hazırlık; belge yılı ve güncel resmî duyurular kontrol edilir."
+    },
+    "lise-aile-kariyer-beklentisi": {
+      "resource_ids": [
+        "soma-mesleki-karar-verme-aile-destegi-arastirma-2024",
+        "kariyer-92"
+      ],
+      "use_for": "Mesleki kararda aile desteği ve öğrenci tercihlerini ayrı ele almaya başvuru; araştırma sonucu kişiye özel karar değildir."
+    },
+    "lise-akademik-ilgi-haritasi": {
+      "resource_ids": [
+        "dogubayazit-mesleki-deger-yetenekler-2022",
+        "kariyer-92"
+      ],
+      "use_for": "İlgi, beceri ve mesleki değerleri ayrı konuşma hazırlığı."
+    },
+    "lise-akranla-akademik-kiyaslama": {
+      "resource_ids": [
+        "sinav-kaygisi-psikoegitim-grubu-isparta",
+        "nevsehir-ogrenci-sinav-kaygisi-kitapcigi"
+      ],
+      "use_for": "Sınav kaygısında okul temelli destek hazırlığı; programın uygulayıcı ve katılım koşulları incelenmeden otomatik uygulanmaz."
+    },
+    "lise-alan-secimini-degerlendirme": {
+      "resource_ids": [
+        "yok-atlas-tercih-referansi",
+        "kariyer-92"
+      ],
+      "use_for": "Üniversite programı araştırması ve kariyer görüşmesi hazırlığı; ilgili yılın bağlayıcı koşulları ayrıca doğrulanır."
+    },
+    "lise-bolum-karsilastirma-cizelgesi": {
+      "resource_ids": [
+        "yok-atlas-tercih-referansi",
+        "kariyer-92"
+      ],
+      "use_for": "Üniversite programı araştırması ve kariyer görüşmesi hazırlığı; ilgili yılın bağlayıcı koşulları ayrıca doğrulanır."
+    },
+    "lise-ders-programi-esnekligi": {
+      "resource_ids": [
+        "seyhan-yks-verimli-ders-2025",
+        "nizip-haftalik-planlayici"
+      ],
+      "use_for": "Lise öğrencisinin çalışma ve deneme sürecini planlamaya yardımcı örnekler; sonuçlar kişilik veya tanı puanı değildir."
+    },
+    "lise-dijital-guvenlik-ve-mahremiyet": {
+      "resource_ids": [
+        "nevsehir-ogrenci-guvenli-internet-kitapcigi",
+        "susehri-guvenli-internet-pano-2026"
+      ],
+      "use_for": "Dijital paylaşım, güvenli bilgi ve internet davranışı için öğrenci etkinliği hazırlığı."
+    },
+    "lise-etkili-deneme-geri-bildirimi": {
+      "resource_ids": [
+        "nizip-tyt-ayt-deneme-takip",
+        "nizip-verimli-ders-kontrol-listesi"
+      ],
+      "use_for": "Lise deneme sonuçlarını kayıt ve çalışma adımıyla birlikte inceleme; takip çizelgesi kendi başına hata nedeni veya tanı üretmez."
+    },
+    "lise-farkli-goruslere-saygi": {
+      "resource_ids": [
+        "sdb-588",
+        "sdb-584"
+      ],
+      "use_for": "Lise düzeyinde sosyal-duygusal beceri ve güvenli katılım etkinliği hazırlığı."
+    },
+    "lise-gelecek-belirsizligiyle-bas-etme": {
+      "resource_ids": [
+        "afsin-kariyer-karar-verme-arastirma-2026",
+        "sariyer-karar-verme-bulten-2025"
+      ],
+      "use_for": "Mesleki karardaki belirsizliği ve karar ölçütlerini konuşmaya yardımcı başvuru."
+    },
+    "lise-guvenilir-yetiskine-basvuru": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "lise-kendini-ifade-etme-becerisi": {
+      "resource_ids": [
+        "kaynarca-iletisim-becerileri-sunum-2026",
+        "sdb-588"
+      ],
+      "use_for": "Lise düzeyinde iletişim ve kendini ifade etme etkinliği hazırlığı."
+    },
+    "lise-mesleki-deger-kesfi": {
+      "resource_ids": [
+        "dogubayazit-mesleki-deger-yetenekler-2022",
+        "kariyer-92"
+      ],
+      "use_for": "İlgi, beceri ve mesleki değerleri ayrı konuşma hazırlığı."
+    },
+    "lise-mezuniyet-sonrasi-secenekler": {
+      "resource_ids": [
+        "meslek-onlisans-tanitim-2025",
+        "kariyer-92"
+      ],
+      "use_for": "Meslekleri ve eğitim yollarını araştırmaya başlangıç; yayın yılı dikkate alınır, güncel koşullar resmî kaynaklardan kontrol edilir."
+    },
+    "lise-sinav-donemi-aile-iletisimi": {
+      "resource_ids": [
+        "kocasinan-2026-sinav-doneminde-anne-baba-olmak",
+        "nevsehir-veli-sinav-kaygisi"
+      ],
+      "use_for": "Sınav sürecinde aile desteği ve karşılaştırmadan iletişim hazırlığı."
+    },
+    "lise-sinav-sonuclarini-yorumlama": {
+      "resource_ids": [
+        "nizip-tyt-ayt-deneme-takip",
+        "nizip-verimli-ders-kontrol-listesi"
+      ],
+      "use_for": "Lise deneme sonuçlarını kayıt ve çalışma adımıyla birlikte inceleme; takip çizelgesi kendi başına hata nedeni veya tanı üretmez."
+    },
+    "lise-sosyal-iliskilerde-riza": {
+      "resource_ids": [
+        "mardin-sinir-lise-ogretmen-brosur-2026",
+        "mardin-sinir-lise-ogrenci-sunum-2026"
+      ],
+      "use_for": "Lise düzeyinde sınır, istemediğini ifade etme ve güvenli sosyal ilişki etkinliği hazırlığı."
+    },
+    "lise-universite-arastirma-plani": {
+      "resource_ids": [
+        "yok-atlas-tercih-referansi",
+        "kariyer-92"
+      ],
+      "use_for": "Üniversite programı araştırması ve kariyer görüşmesi hazırlığı; ilgili yılın bağlayıcı koşulları ayrıca doğrulanır."
+    },
+    "lise-uzun-vadeli-hedef-bolme": {
+      "resource_ids": [
+        "karam-hedef-belirleme-brosur-2025",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Öğrencinin seçtiği ulaşılabilir davranış hedefini ve küçük çalışma adımını hazırlama."
+    },
+    "lise-yeni-ortama-gecis-hazirligi": {
+      "resource_ids": [
+        "kocasinan-okula-uyum-kilavuzu-2025",
+        "kocasinan-okula-uyum-ogretmen-brosuru-2025"
+      ],
+      "use_for": "Okul değişimi ve dönüşte erişilebilir uyum desteği hazırlığı."
+    },
+    "mesleki-karar-yanilgilari": {
+      "resource_ids": [
+        "sariyer-karar-verme-bulten-2025",
+        "sariyer-etkili-karar-verme-afis-2025"
+      ],
+      "use_for": "Öğrenciyle karar ölçütü ve kanıt ayrımı etkinliği hazırlığı."
+    },
+    "nakille-gelen-ogrenci-uyumu": {
+      "resource_ids": [
+        "kocasinan-okula-uyum-kilavuzu-2025",
+        "kocasinan-okula-uyum-ogretmen-brosuru-2025"
+      ],
+      "use_for": "Okul değişimi ve dönüşte erişilebilir uyum desteği hazırlığı."
+    },
+    "ogrenci-gorusmesinde-gizlilik": {
+      "resource_ids": [
+        "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024"
+      ],
+      "use_for": "Bireysel görüşmede gizlilik ve yönlendirme çerçevesine başvuru; kaydın erişim ve saklama usulü güncel kurum kurallarıyla ayrıca kontrol edilir."
+    },
+    "ogrenci-gorusmesinde-sessizlik": {
+      "resource_ids": [
+        "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024"
+      ],
+      "use_for": "Bireysel görüşmede gizlilik ve yönlendirme çerçevesine başvuru; kaydın erişim ve saklama usulü güncel kurum kurallarıyla ayrıca kontrol edilir."
+    },
+    "ogrenci-ile-gizlilik-siniri-anlatma": {
+      "resource_ids": [
+        "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024"
+      ],
+      "use_for": "Bireysel görüşmede gizlilik ve yönlendirme çerçevesine başvuru; kaydın erişim ve saklama usulü güncel kurum kurallarıyla ayrıca kontrol edilir."
+    },
+    "ogrenci-intihar-ifadesinde-acil-destek": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "ogrenci-risk-bildirimi-ilk-adim": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "ogrencide-karar-verme-etkinligi": {
+      "resource_ids": [
+        "sariyer-karar-verme-bulten-2025",
+        "sariyer-etkili-karar-verme-afis-2025"
+      ],
+      "use_for": "Öğrenciyle karar ölçütü ve kanıt ayrımı etkinliği hazırlığı."
+    },
+    "ogrencide-sosyal-sorumluluk": {
+      "resource_ids": [
+        "arsiv-ea48f9be1ad03dd4"
+      ],
+      "use_for": "Ortaokulda kulüp ve toplum hizmeti projesi hazırlığına başvuru; lise ve diğer kademelerin güncel usulleri ayrıca kontrol edilir."
+    },
+    "ogrencilerde-dijital-iz-farkindaligi": {
+      "resource_ids": [
+        "nevsehir-ogrenci-guvenli-internet-kitapcigi",
+        "susehri-guvenli-internet-pano-2026"
+      ],
+      "use_for": "Dijital paylaşım, güvenli bilgi ve internet davranışı için öğrenci etkinliği hazırlığı."
+    },
+    "ogrencilerde-gelecek-kaygisi": {
+      "resource_ids": [
+        "afsin-kariyer-karar-verme-arastirma-2026",
+        "sariyer-karar-verme-bulten-2025"
+      ],
+      "use_for": "Mesleki karardaki belirsizliği ve karar ölçütlerini konuşmaya yardımcı başvuru."
+    },
+    "ogrencilerde-zaman-yonetimi": {
+      "resource_ids": [
+        "nizip-verimli-ders-kontrol-listesi",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Çalışma adımını küçük göreve ve izlenebilir hedefe çevirmeye yardımcı materyal."
+    },
+    "ogrenciye-yapici-geri-bildirim": {
+      "resource_ids": [
+        "nevsehir-ogretmen-iletisim-kitapcigi"
+      ],
+      "use_for": "Öğretmenin yapıcı iletişim ve dinleme yaklaşımını hazırlaması için başvuru."
+    },
+    "okulda-aile-ici-catismayi-bildiren-ogrenci": {
+      "resource_ids": [
+        "beyoglu-ogretmen-cocuk-istismari-mudahale-rehberi",
+        "bismil-ihmal-istismar-yasal-sorumluluklar-2026"
+      ],
+      "use_for": "Öğretmenin çocuk koruma rolü ve bildirim süreci için başvuru; güncel mevzuat ve yetkili koruma işlemleri esas alınır."
+    },
+    "okulda-bep-aile-katilimi": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "okulda-donem-sonu-rehberlik-degerlendirme": {
+      "resource_ids": [
+        "rehberlik-faaliyet-raporu-docx",
+        "istanbul-ozel-egitim-rehberlik-uygulama-rehberi-2026"
+      ],
+      "use_for": "Rehberlik faaliyetlerini gerekli veriyle raporlama ve kurumsal iş akışı hazırlığı."
+    },
+    "okulda-duygu-termometresi": {
+      "resource_ids": [
+        "sdb-547"
+      ],
+      "use_for": "Sosyal-duygusal beceri etkinliğini öğretmen/danışman açısından hazırlama; gelişim düzeyi ve katılım seçenekleri ayrıca uyarlanır."
+    },
+    "okulda-gizli-bilgi-paylasimi": {
+      "resource_ids": [
+        "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024"
+      ],
+      "use_for": "Bireysel görüşmede gizlilik ve yönlendirme çerçevesine başvuru; kaydın erişim ve saklama usulü güncel kurum kurallarıyla ayrıca kontrol edilir."
+    },
+    "okulda-guvenilir-yetiskin-haritasi": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "okulda-guvenli-basvuru-yollari": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "okulda-ihmal-suphesinde-ilk-adim": {
+      "resource_ids": [
+        "beyoglu-ogretmen-cocuk-istismari-mudahale-rehberi",
+        "bismil-ihmal-istismar-yasal-sorumluluklar-2026"
+      ],
+      "use_for": "Öğretmenin çocuk koruma rolü ve bildirim süreci için başvuru; güncel mevzuat ve yetkili koruma işlemleri esas alınır."
+    },
+    "okulda-kariyer-farkindaligi": {
+      "resource_ids": [
+        "meslek-onlisans-tanitim-2025",
+        "kariyer-92"
+      ],
+      "use_for": "Meslekleri ve eğitim yollarını araştırmaya başlangıç; yayın yılı dikkate alınır, güncel koşullar resmî kaynaklardan kontrol edilir."
+    },
+    "okulda-kriz-sonrasi-sinif-bilgilendirmesi": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "okulda-motivasyon-dalgalanmasi": {
+      "resource_ids": [
+        "cizre-hedef-motivasyon-ogretmen-brosur-2026",
+        "izmit-motivasyon-verimli-ders-calisma-2022"
+      ],
+      "use_for": "Motivasyon görüşmesinde hedef ve görev koşullarını konuşmaya hazırlık."
+    },
+    "okulda-ogrenci-davranis-hedefi": {
+      "resource_ids": [
+        "alanya-zaman-yonetimi-hedefler-docx-2025",
+        "cizre-hedef-motivasyon-ogretmen-brosur-2026"
+      ],
+      "use_for": "Gözlenebilir küçük hedef ve destek izleme hazırlığı; form davranış tanısı veya disiplin hükmü değildir."
+    },
+    "okulda-ogrenci-guvenligi-gozlem-notu": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "okulda-ogrenci-katilim-hakki": {
+      "resource_ids": [
+        "unicef-cocuk-katilimi-el-kitabi-2026"
+      ],
+      "use_for": "Çocuğun görüşünü ve katılım hakkını uygun iletişimle ele alma hazırlığı."
+    },
+    "okulda-ogrenci-motivasyon-gorusmesi": {
+      "resource_ids": [
+        "cizre-hedef-motivasyon-ogretmen-brosur-2026",
+        "izmit-motivasyon-verimli-ders-calisma-2022"
+      ],
+      "use_for": "Motivasyon görüşmesinde hedef ve görev koşullarını konuşmaya hazırlık."
+    },
+    "okulda-oz-yeterlik": {
+      "resource_ids": [
+        "cizre-ozguven-ogretmen-brosur-2026"
+      ],
+      "use_for": "Öğrencinin görev katılımı ve kendini değerlendirme deneyimini destekleyen öğretmen hazırlığı; klinik ölçüm değildir."
+    },
+    "okulda-psikososyal-destek-basvurusu": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "okulda-sosyal-kaygi-gozlemi": {
+      "resource_ids": [
+        "yuksekova-sosyal-kaygi-egitim-kultur-dergisi"
+      ],
+      "use_for": "Ortaokul/lise sosyal kaygı hakkında bilgilendirme; okul gözlemi klinik tanı yerine geçmez."
+    },
+    "okulda-veli-ogretmen-iletisim-plani": {
+      "resource_ids": [
+        "nevsehir-ogretmen-iletisim-kitapcigi"
+      ],
+      "use_for": "Öğretmenin yapıcı iletişim ve dinleme yaklaşımını hazırlaması için başvuru."
+    },
+    "ortaokulda-duygulari-ifade-etme": {
+      "resource_ids": [
+        "sdb-577",
+        "sdb-573"
+      ],
+      "use_for": "Ortaokul düzeyinde duygu ve sosyal katılım etkinliği hazırlığı."
+    },
+    "ortaokulda-guvenli-arkadas-secimi": {
+      "resource_ids": [
+        "sdb-577",
+        "sdb-573"
+      ],
+      "use_for": "Ortaokul düzeyinde duygu ve sosyal katılım etkinliği hazırlığı."
+    },
+    "oz-saygi-sinif-etkinligi": {
+      "resource_ids": [
+        "cizre-ozguven-ogretmen-brosur-2026"
+      ],
+      "use_for": "Öğrencinin görev katılımı ve kendini değerlendirme deneyimini destekleyen öğretmen hazırlığı; klinik ölçüm değildir."
+    },
+    "ozel-egitim-ailenin-gozlem-katkisi": {
+      "resource_ids": [
+        "ismetaktar-egitsel-performans-bep-2025",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "Başlangıç performansını, hedefi ve kullanılan desteği ayrı kaydetmeye hazırlık."
+    },
+    "ozel-egitim-aileyle-donemlik-hedef": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-akran-katiliminin-guvenligi": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-alternatif-katilim-yontemi": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-bep-degerlendirme-kaydi": {
+      "resource_ids": [
+        "bep-degerlendirme-raporu-1-donem-2026",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "Hedef izleme ve değerlendirme kaydı hazırlığı; örnek form öğrenciye ve güncel kurum usulüne göre uyarlanır."
+    },
+    "ozel-egitim-bep-ekibi-gorev-dagilimi": {
+      "resource_ids": [
+        "ismetaktar-bep-gelistirme-1-toplanti-2025",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "BEP ekip gündemi ve görev paylaşımı hazırlığı için örnek toplantı belgesi."
+    },
+    "ozel-egitim-bep-hedef-olcutu": {
+      "resource_ids": [
+        "bep-degerlendirme-raporu-1-donem-2026",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "Hedef izleme ve değerlendirme kaydı hazırlığı; örnek form öğrenciye ve güncel kurum usulüne göre uyarlanır."
+    },
+    "ozel-egitim-bep-kazanim-izleme": {
+      "resource_ids": [
+        "bep-degerlendirme-raporu-1-donem-2026",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "Hedef izleme ve değerlendirme kaydı hazırlığı; örnek form öğrenciye ve güncel kurum usulüne göre uyarlanır."
+    },
+    "ozel-egitim-bep-performans-gozlemi": {
+      "resource_ids": [
+        "ismetaktar-egitsel-performans-bep-2025",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "Başlangıç performansını, hedefi ve kullanılan desteği ayrı kaydetmeye hazırlık."
+    },
+    "ozel-egitim-bep-toplanti-gundemi": {
+      "resource_ids": [
+        "ismetaktar-bep-gelistirme-1-toplanti-2025",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "BEP ekip gündemi ve görev paylaşımı hazırlığı için örnek toplantı belgesi."
+    },
+    "ozel-egitim-destek-egitim-koordinasyonu": {
+      "resource_ids": [
+        "ismetaktar-bep-gelistirme-1-toplanti-2025",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "BEP ekip gündemi ve görev paylaşımı hazırlığı için örnek toplantı belgesi."
+    },
+    "ozel-egitim-duyusal-gereksinime-duyarlilik": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-egitimde-erisilebilir-materyal": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-farkli-yanit-verme-yollari": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-gecislerde-ongorulebilirlik": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-gorev-suresi-uyarlamasi": {
+      "resource_ids": [
+        "ismetaktar-egitsel-performans-bep-2025",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "Başlangıç performansını, hedefi ve kullanılan desteği ayrı kaydetmeye hazırlık."
+    },
+    "ozel-egitim-gorsel-yonerge-uyarlamasi": {
+      "resource_ids": [
+        "ismetaktar-egitsel-performans-bep-2025",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "Başlangıç performansını, hedefi ve kullanılan desteği ayrı kaydetmeye hazırlık."
+    },
+    "ozel-egitim-islevsel-iletisim-firsatlari": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-kapsayici-grup-etkinligi": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-ogrencinin-guclu-yonleri": {
+      "resource_ids": [
+        "ismetaktar-egitsel-performans-bep-2025",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "Başlangıç performansını, hedefi ve kullanılan desteği ayrı kaydetmeye hazırlık."
+    },
+    "ozel-egitim-okul-ici-kurum-is-birligi": {
+      "resource_ids": [
+        "ismetaktar-bep-gelistirme-1-toplanti-2025",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "BEP ekip gündemi ve görev paylaşımı hazırlığı için örnek toplantı belgesi."
+    },
+    "ozel-egitim-olumlu-davranis-destegi": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-ram-degerlendirmesi-sonrasi": {
+      "resource_ids": [
+        "fatih-egitsel-degerlendirme-tanilama-2026",
+        "istanbul-ozel-egitim-rehberlik-uygulama-rehberi-2026"
+      ],
+      "use_for": "Eğitsel değerlendirme ve okul iş akışı hakkında bilgilendirme; resmî karar ve güncel başvuru koşulları ayrıca kontrol edilir."
+    },
+    "ozel-egitim-sinif-ici-destek-duzeni": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "ozel-egitim-uyarlama-ise-yariyor-mu": {
+      "resource_ids": [
+        "ismetaktar-egitsel-performans-bep-2025",
+        "orgm-bep-tum-ogretmenler-yol-haritasi"
+      ],
+      "use_for": "Başlangıç performansını, hedefi ve kullanılan desteği ayrı kaydetmeye hazırlık."
+    },
+    "ram-basvuru-sureci-bilgilendirmesi": {
+      "resource_ids": [
+        "fatih-egitsel-degerlendirme-tanilama-2026",
+        "istanbul-ozel-egitim-rehberlik-uygulama-rehberi-2026"
+      ],
+      "use_for": "Eğitsel değerlendirme ve okul iş akışı hakkında bilgilendirme; resmî karar ve güncel başvuru koşulları ayrıca kontrol edilir."
+    },
+    "ram-raporu-okuma-rehberi": {
+      "resource_ids": [
+        "fatih-egitsel-degerlendirme-tanilama-2026",
+        "istanbul-ozel-egitim-rehberlik-uygulama-rehberi-2026"
+      ],
+      "use_for": "Eğitsel değerlendirme ve okul iş akışı hakkında bilgilendirme; resmî karar ve güncel başvuru koşulları ayrıca kontrol edilir."
+    },
+    "ram-sonrasi-okul-destegi": {
+      "resource_ids": [
+        "fatih-egitsel-degerlendirme-tanilama-2026",
+        "istanbul-ozel-egitim-rehberlik-uygulama-rehberi-2026"
+      ],
+      "use_for": "Eğitsel değerlendirme ve okul iş akışı hakkında bilgilendirme; resmî karar ve güncel başvuru koşulları ayrıca kontrol edilir."
+    },
+    "ram-yonlendirme-gorusmesi": {
+      "resource_ids": [
+        "fatih-egitsel-degerlendirme-tanilama-2026",
+        "istanbul-ozel-egitim-rehberlik-uygulama-rehberi-2026"
+      ],
+      "use_for": "Eğitsel değerlendirme ve okul iş akışı hakkında bilgilendirme; resmî karar ve güncel başvuru koşulları ayrıca kontrol edilir."
+    },
+    "ram-yonlendirme-oncesi-ogretmen-gozlemi": {
+      "resource_ids": [
+        "fatih-egitsel-degerlendirme-tanilama-2026",
+        "istanbul-ozel-egitim-rehberlik-uygulama-rehberi-2026"
+      ],
+      "use_for": "Eğitsel değerlendirme ve okul iş akışı hakkında bilgilendirme; resmî karar ve güncel başvuru koşulları ayrıca kontrol edilir."
+    },
+    "rehberlikte-grup-calismasi-gonulluluk": {
+      "resource_ids": [
+        "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024"
+      ],
+      "use_for": "Bireysel görüşmede gizlilik ve yönlendirme çerçevesine başvuru; kaydın erişim ve saklama usulü güncel kurum kurallarıyla ayrıca kontrol edilir."
+    },
+    "rehberlikte-kayit-guvenligi": {
+      "resource_ids": [
+        "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024"
+      ],
+      "use_for": "Bireysel görüşmede gizlilik ve yönlendirme çerçevesine başvuru; kaydın erişim ve saklama usulü güncel kurum kurallarıyla ayrıca kontrol edilir."
+    },
+    "saglikli-sinav-hedefleri": {
+      "resource_ids": [
+        "nizip-verimli-ders-kontrol-listesi",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Çalışma adımını küçük göreve ve izlenebilir hedefe çevirmeye yardımcı materyal."
+    },
+    "sinav-aile-deneme-sonucu-iletisimi": {
+      "resource_ids": [
+        "kocasinan-2026-sinav-doneminde-anne-baba-olmak",
+        "nevsehir-veli-sinav-kaygisi"
+      ],
+      "use_for": "Sınav sürecinde aile desteği ve karşılaştırmadan iletişim hazırlığı."
+    },
+    "sinav-deneme-analizi-gorusmesi": {
+      "resource_ids": [
+        "nizip-tyt-ayt-deneme-takip",
+        "nizip-verimli-ders-kontrol-listesi"
+      ],
+      "use_for": "Lise deneme sonuçlarını kayıt ve çalışma adımıyla birlikte inceleme; takip çizelgesi kendi başına hata nedeni veya tanı üretmez."
+    },
+    "sinav-dusuk-puan-sonrasi-destek": {
+      "resource_ids": [
+        "sinav-kaygisi-psikoegitim-grubu-isparta",
+        "nevsehir-ogrenci-sinav-kaygisi-kitapcigi"
+      ],
+      "use_for": "Sınav kaygısında okul temelli destek hazırlığı; programın uygulayıcı ve katılım koşulları incelenmeden otomatik uygulanmaz."
+    },
+    "sinav-gercekci-net-hedefi": {
+      "resource_ids": [
+        "karam-hedef-belirleme-brosur-2025",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Öğrencinin seçtiği ulaşılabilir davranış hedefini ve küçük çalışma adımını hazırlama."
+    },
+    "sinav-hazirliginda-gercekci-program": {
+      "resource_ids": [
+        "nizip-verimli-ders-kontrol-listesi",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Çalışma adımını küçük göreve ve izlenebilir hedefe çevirmeye yardımcı materyal."
+    },
+    "sinav-kiyaslama-dilini-azaltma": {
+      "resource_ids": [
+        "kocasinan-2026-sinav-doneminde-anne-baba-olmak",
+        "nevsehir-veli-sinav-kaygisi"
+      ],
+      "use_for": "Sınav sürecinde aile desteği ve karşılaştırmadan iletişim hazırlığı."
+    },
+    "sinav-konu-eksiklerini-belirleme": {
+      "resource_ids": [
+        "nizip-verimli-ders-kontrol-listesi",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Çalışma adımını küçük göreve ve izlenebilir hedefe çevirmeye yardımcı materyal."
+    },
+    "sinav-kucuk-calisma-oturumlari": {
+      "resource_ids": [
+        "nizip-verimli-ders-kontrol-listesi",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Çalışma adımını küçük göreve ve izlenebilir hedefe çevirmeye yardımcı materyal."
+    },
+    "sinav-lgs-yerlestirme-bilgisi": {
+      "resource_ids": [
+        "meb-lgs-ogrenci-veli-bilgilendirme-kilavuzu-2026",
+        "manisa-lgs-pdr-egitim-sunumu-2026"
+      ],
+      "use_for": "LGS tercih görüşmesine hazırlık; belge yılı ve güncel resmî duyurular kontrol edilir."
+    },
+    "sinav-ogrenme-stratejisi-secme": {
+      "resource_ids": [
+        "nizip-verimli-ders-kontrol-listesi",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Çalışma adımını küçük göreve ve izlenebilir hedefe çevirmeye yardımcı materyal."
+    },
+    "sinav-okul-ve-kurs-yuk-dengesi": {
+      "resource_ids": [
+        "nizip-verimli-ders-kontrol-listesi",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Çalışma adımını küçük göreve ve izlenebilir hedefe çevirmeye yardımcı materyal."
+    },
+    "sinav-program-kosulu-inceleme": {
+      "resource_ids": [
+        "altieylul-yks-tercih-ogrenci-veli-kilavuzu-2026",
+        "yok-atlas-tercih-referansi"
+      ],
+      "use_for": "YKS tercih bilgi araştırmasına başlangıç; ilgili yılın güncel ÖSYM kılavuzu bağlayıcıdır."
+    },
+    "sinav-sinav-gunu-hazirligi": {
+      "resource_ids": [
+        "yuksekova-sinav-stratejileri-brosur"
+      ],
+      "use_for": "Ortaokul ve lise öğrencisiyle sınav hazırlığını konuşmaya başvuru."
+    },
+    "sinav-sinav-kaygisi-erken-belirtiler": {
+      "resource_ids": [
+        "sinav-kaygisi-psikoegitim-grubu-isparta",
+        "nevsehir-ogrenci-sinav-kaygisi-kitapcigi"
+      ],
+      "use_for": "Sınav kaygısında okul temelli destek hazırlığı; programın uygulayıcı ve katılım koşulları incelenmeden otomatik uygulanmaz."
+    },
+    "sinav-sinav-oncesi-kaygi-dusunceleri": {
+      "resource_ids": [
+        "sinav-kaygisi-psikoegitim-grubu-isparta",
+        "nevsehir-ogrenci-sinav-kaygisi-kitapcigi"
+      ],
+      "use_for": "Sınav kaygısında okul temelli destek hazırlığı; programın uygulayıcı ve katılım koşulları incelenmeden otomatik uygulanmaz."
+    },
+    "sinav-sinav-sonrasi-belirsizlik": {
+      "resource_ids": [
+        "sinav-kaygisi-psikoegitim-grubu-isparta",
+        "nevsehir-ogrenci-sinav-kaygisi-kitapcigi"
+      ],
+      "use_for": "Sınav kaygısında okul temelli destek hazırlığı; programın uygulayıcı ve katılım koşulları incelenmeden otomatik uygulanmaz."
+    },
+    "sinav-sinav-sonucunu-aileye-aciklama": {
+      "resource_ids": [
+        "kocasinan-2026-sinav-doneminde-anne-baba-olmak",
+        "nevsehir-veli-sinav-kaygisi"
+      ],
+      "use_for": "Sınav sürecinde aile desteği ve karşılaştırmadan iletişim hazırlığı."
+    },
+    "sinav-sinavda-yardim-isteme": {
+      "resource_ids": [
+        "osym-2026-yks-sinav-kilavuzu-pdf",
+        "meb-lgs-merkezi-sinav-basvuru-uygulama-kilavuzu-2026"
+      ],
+      "use_for": "Sınav görevlisine kurallara uygun başvuru için resmî sınav kılavuzları; sınav türü ve ilgili yıl ayrıca kontrol edilir."
+    },
+    "sinav-tekrara-baslama-stratejisi": {
+      "resource_ids": [
+        "nizip-verimli-ders-kontrol-listesi",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Çalışma adımını küçük göreve ve izlenebilir hedefe çevirmeye yardımcı materyal."
+    },
+    "sinav-tercih-bilgi-kaynagi": {
+      "resource_ids": [
+        "altieylul-yks-tercih-ogrenci-veli-kilavuzu-2026",
+        "yok-atlas-tercih-referansi"
+      ],
+      "use_for": "YKS tercih bilgi araştırmasına başlangıç; ilgili yılın güncel ÖSYM kılavuzu bağlayıcıdır."
+    },
+    "sinav-yanlis-sorulari-siniflandirma": {
+      "resource_ids": [
+        "nizip-verimli-ders-kontrol-listesi",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Çalışma adımını küçük göreve ve izlenebilir hedefe çevirmeye yardımcı materyal."
+    },
+    "sinav-yeni-doneme-gecis-hedefi": {
+      "resource_ids": [
+        "karam-hedef-belirleme-brosur-2025",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Öğrencinin seçtiği ulaşılabilir davranış hedefini ve küçük çalışma adımını hazırlama."
+    },
+    "sinav-yks-tercih-sirasi-degerlendirme": {
+      "resource_ids": [
+        "altieylul-yks-tercih-ogrenci-veli-kilavuzu-2026",
+        "yok-atlas-tercih-referansi"
+      ],
+      "use_for": "YKS tercih bilgi araştırmasına başlangıç; ilgili yılın güncel ÖSYM kılavuzu bağlayıcıdır."
+    },
+    "sinav-yuksek-beklenti-baskisi": {
+      "resource_ids": [
+        "kocasinan-2026-sinav-doneminde-anne-baba-olmak",
+        "nevsehir-veli-sinav-kaygisi"
+      ],
+      "use_for": "Sınav sürecinde aile desteği ve karşılaştırmadan iletişim hazırlığı."
+    },
+    "sinav-zaman-baskisini-yonetme": {
+      "resource_ids": [
+        "nizip-verimli-ders-kontrol-listesi",
+        "alanya-zaman-yonetimi-hedefler-docx-2025"
+      ],
+      "use_for": "Çalışma adımını küçük göreve ve izlenebilir hedefe çevirmeye yardımcı materyal."
+    },
+    "sinif-iklimi-anketi": {
+      "resource_ids": [
+        "orgm-2025-sosyal-kabul-olumlu-sinif-iklimi"
+      ],
+      "use_for": "Lise düzeyinde sosyal kabul ve olumlu sınıf iklimine öğretmen hazırlığı; anket örneği veya diğer yaşlar için otomatik araç değildir."
+    },
+    "sinifta-akran-destegi-planlama": {
+      "resource_ids": [
+        "sdb-547"
+      ],
+      "use_for": "Sosyal-duygusal beceri etkinliğini öğretmen/danışman açısından hazırlama; gelişim düzeyi ve katılım seçenekleri ayrıca uyarlanır."
+    },
+    "sinifta-aktif-dinleme-oyunu": {
+      "resource_ids": [
+        "arsiv-a3ff4466bb62d4f4",
+        "nevsehir-ogretmen-iletisim-kitapcigi"
+      ],
+      "use_for": "Empati ve etkili dinleme etkinliği hazırlığı."
+    },
+    "sinifta-guvenli-sosyal-medya": {
+      "resource_ids": [
+        "nevsehir-ogretmen-guvenli-internet-etkinlik",
+        "nevsehir-ogrenci-guvenli-internet-kitapcigi"
+      ],
+      "use_for": "Sınıfta güvenli internet ve paylaşım etkinliği hazırlığı."
+    },
+    "sinifta-yardim-isteyen-ogrenci": {
+      "resource_ids": [
+        "v19-cankaya-kriz-yol-haritasi",
+        "psikososyal-2025-01"
+      ],
+      "use_for": "Okul kriz ekibi ve psikososyal destek sürecini incelemek için başvuru; klinik değerlendirme veya acil müdahale yerine kullanılmaz."
+    },
+    "uzun-devamsizlik-sonrasi-donus": {
+      "resource_ids": [
+        "devamsizlik-takip-formu-docx-2025",
+        "agri-ram-devamsizlik-nedenleri-anketi"
+      ],
+      "use_for": "Devamsızlık örüntüsünü ve koşullarını inceleme hazırlığı; araçların yaş ve uygulama yönergesi kontrol edilir."
+    },
+    "veli-gorusmesinde-ogrencinin-sesi": {
+      "resource_ids": [
+        "unicef-cocuk-katilimi-el-kitabi-2026"
+      ],
+      "use_for": "Çocuğun görüşünü ve katılım hakkını uygun iletişimle ele alma hazırlığı."
+    },
+    "veli-ile-ekran-suresi-catismasi": {
+      "resource_ids": [
+        "gonen-2025-aileler-icin-guvenli-internet-rehberi",
+        "nevsehir-veli-bilincli-teknoloji"
+      ],
+      "use_for": "Veliyle dijital güvenlik ve evde destek düzeni konuşmasına hazırlık."
+    },
+    "veli-toplantisinda-gizlilik": {
+      "resource_ids": [
+        "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024"
+      ],
+      "use_for": "Bireysel görüşmede gizlilik ve yönlendirme çerçevesine başvuru; kaydın erişim ve saklama usulü güncel kurum kurallarıyla ayrıca kontrol edilir."
+    },
+    "veli-toplantisinda-zor-sorular": {
+      "resource_ids": [
+        "nevsehir-veli-aile-iletisim-tutumlar",
+        "kaynarca-aile-iletisim-veli-brosur-2026"
+      ],
+      "use_for": "Veli görüşmesinde gözlem, dinleme ve günlük destek iletişimine yardımcı materyal."
+    },
+    "veliyle-akran-dislama": {
+      "resource_ids": [
+        "zorbalik-kuramsal",
+        "kaynarca-aile-iletisim-veli-brosur-2026"
+      ],
+      "use_for": "Dışlanma/zorbalıkta yetişkin koruma rolü ve veli iletişimine başvuru."
+    },
+    "veliyle-arkadas-secimi": {
+      "resource_ids": [
+        "zorbalik-kuramsal",
+        "kaynarca-aile-iletisim-veli-brosur-2026"
+      ],
+      "use_for": "Dışlanma/zorbalıkta yetişkin koruma rolü ve veli iletişimine başvuru."
+    },
+    "veliyle-cocuk-guclu-yonleri": {
+      "resource_ids": [
+        "nevsehir-veli-aile-iletisim-tutumlar",
+        "kaynarca-aile-iletisim-veli-brosur-2026"
+      ],
+      "use_for": "Veli görüşmesinde gözlem, dinleme ve günlük destek iletişimine yardımcı materyal."
+    },
+    "veliyle-ders-basarisizligi": {
+      "resource_ids": [
+        "milas-verimli-ders-veli-sunum-2025",
+        "nizip-verimli-ders-kontrol-listesi"
+      ],
+      "use_for": "Veliyle ödev ve çalışma desteği görüşmesi hazırlığı."
+    },
+    "veliyle-ergen-mahremiyeti": {
+      "resource_ids": [
+        "kaynarca-ergen-iletisim-veli-2026",
+        "kaynarca-aile-iletisim-veli-brosur-2026"
+      ],
+      "use_for": "Ergenle iletişim ve veli görüşmesi hazırlığı."
+    },
+    "veliyle-erteleme-gorusmesi": {
+      "resource_ids": [
+        "milas-verimli-ders-veli-sunum-2025",
+        "nizip-verimli-ders-kontrol-listesi"
+      ],
+      "use_for": "Veliyle ödev ve çalışma desteği görüşmesi hazırlığı."
+    },
+    "veliyle-kardes-kiskancligi": {
+      "resource_ids": [
+        "beypazari-kardes-kiskancligi-2025"
+      ],
+      "use_for": "Kardeş kıskançlığına ilişkin okul öncesi ve ilkokul aile bilgilendirmesi; kademe kapsamı korunur."
+    },
+    "veliyle-lise-gecis-kaygisi": {
+      "resource_ids": [
+        "kocasinan-okula-uyum-veli-brosuru-2025",
+        "kocasinan-okula-uyum-kilavuzu-2025"
+      ],
+      "use_for": "Okula uyum sürecinde veli bilgilendirmesi ve destek planına başvuru."
+    },
+    "veliyle-odev-yardim-siniri": {
+      "resource_ids": [
+        "nevsehir-veli-aile-iletisim-tutumlar",
+        "kaynarca-aile-iletisim-veli-brosur-2026"
+      ],
+      "use_for": "Veli görüşmesinde gözlem, dinleme ve günlük destek iletişimine yardımcı materyal."
+    },
+    "veliyle-ogretmen-sikayeti": {
+      "resource_ids": [
+        "nevsehir-veli-aile-iletisim-tutumlar",
+        "kaynarca-aile-iletisim-veli-brosur-2026"
+      ],
+      "use_for": "Veli görüşmesinde gözlem, dinleme ve günlük destek iletişimine yardımcı materyal."
+    },
+    "veliyle-okul-korkusu": {
+      "resource_ids": [
+        "kocasinan-okula-uyum-veli-brosuru-2025",
+        "kocasinan-okula-uyum-kilavuzu-2025"
+      ],
+      "use_for": "Okula uyum sürecinde veli bilgilendirmesi ve destek planına başvuru."
+    },
+    "veliyle-okul-nakli": {
+      "resource_ids": [
+        "kocasinan-okula-uyum-veli-brosuru-2025",
+        "kocasinan-okula-uyum-kilavuzu-2025"
+      ],
+      "use_for": "Okula uyum sürecinde veli bilgilendirmesi ve destek planına başvuru."
+    },
+    "veliyle-okula-gec-kalma": {
+      "resource_ids": [
+        "kocasinan-okula-uyum-veli-brosuru-2025",
+        "kocasinan-okula-uyum-kilavuzu-2025"
+      ],
+      "use_for": "Okula uyum sürecinde veli bilgilendirmesi ve destek planına başvuru."
+    },
+    "veliyle-oyun-kurallari": {
+      "resource_ids": [
+        "sdb-568",
+        "sdb-561"
+      ],
+      "use_for": "İlkokulda sosyal-duygusal oyun ve veli desteği hazırlığı; oyun kitabı çocuğun yaşına göre seçilir."
+    },
+    "veliyle-ozel-egitim-isbirligi": {
+      "resource_ids": [
+        "orgm-bep-tum-ogretmenler-yol-haritasi",
+        "orgm-bep-ornek-format-word"
+      ],
+      "use_for": "BEP hazırlama ve öğrenciye göre düzenlenecek örnek format için başvuru."
+    },
+    "veliyle-ozgurluk-sinirlar": {
+      "resource_ids": [
+        "kaynarca-ergen-iletisim-veli-2026",
+        "kaynarca-aile-iletisim-veli-brosur-2026"
+      ],
+      "use_for": "Ergenle iletişim ve veli görüşmesi hazırlığı."
+    },
+    "veliyle-rehberlik-gizlilik": {
+      "resource_ids": [
+        "yuregir-ram-rehberlik-hizmetleri-kilavuzu-2024"
+      ],
+      "use_for": "Bireysel görüşmede gizlilik ve yönlendirme çerçevesine başvuru; kaydın erişim ve saklama usulü güncel kurum kurallarıyla ayrıca kontrol edilir."
+    },
+    "veliyle-siber-zorbalik": {
+      "resource_ids": [
+        "gonen-2025-aileler-icin-guvenli-internet-rehberi",
+        "nevsehir-veli-bilincli-teknoloji"
+      ],
+      "use_for": "Veliyle dijital güvenlik ve evde destek düzeni konuşmasına hazırlık."
+    },
+    "veliyle-sinav-karsilastirmasi": {
+      "resource_ids": [
+        "kocasinan-2026-sinav-doneminde-anne-baba-olmak",
+        "nevsehir-veli-sinav-kaygisi"
+      ],
+      "use_for": "Sınav sürecinde aile desteği ve karşılaştırmadan iletişim hazırlığı."
+    },
+    "veliyle-sinif-degisimi": {
+      "resource_ids": [
+        "kocasinan-okula-uyum-veli-brosuru-2025",
+        "kocasinan-okula-uyum-kilavuzu-2025"
+      ],
+      "use_for": "Okula uyum sürecinde veli bilgilendirmesi ve destek planına başvuru."
+    },
+    "veliyle-sorumluluk-paylasimi": {
+      "resource_ids": [
+        "dogubayazit-hak-sorumluluk-gelisimi-veli-2023",
+        "tenzile-veli-sorumluluk-bulteni-2025"
+      ],
+      "use_for": "Aileyle yaşa uygun görev ve sorumluluk paylaşımına başvuru; lise bülteni küçük yaş için otomatik kullanılmaz."
+    },
+    "veliyle-sosyal-duygusal-destek": {
+      "resource_ids": [
+        "sdb-579",
+        "sdb-590"
+      ],
+      "use_for": "Ortaokul ve lise için sosyal-duygusal beceri veli desteği; küçük yaşta bu kademe materyalleri doğrudan uygulanmaz."
+    },
+    "veliyle-teknoloji-bagimlilik-endisesi": {
+      "resource_ids": [
+        "gonen-2025-aileler-icin-guvenli-internet-rehberi",
+        "nevsehir-veli-bilincli-teknoloji"
+      ],
+      "use_for": "Veliyle dijital güvenlik ve evde destek düzeni konuşmasına hazırlık."
+    },
+    "yas-sonrasi-veli-iletisimi": {
+      "resource_ids": [
+        "orgm-yas-aile-bilgilendirme-rehberi-2025",
+        "orgm-yas-ogretmen-bilgilendirme-rehberi-2025"
+      ],
+      "use_for": "Yas sonrası aile ve okul destek iletişimine hazırlık."
+    },
+    "yas-yasayan-ogrenciye-okul-destegi": {
+      "resource_ids": [
+        "orgm-yas-ogretmen-bilgilendirme-rehberi-2025",
+        "psikososyal-2025-29"
+      ],
+      "use_for": "Kayıp ve yas sonrası okul desteği hazırlığı; öğrencinin kişisel yaşantısını sınıf önünde anlattırmak için kullanılmaz."
+    },
+    "yks-bolum-meslek-arastirmasi": {
+      "resource_ids": [
+        "yok-atlas-tercih-referansi",
+        "kariyer-92"
+      ],
+      "use_for": "Üniversite programı araştırması ve kariyer görüşmesi hazırlığı; ilgili yılın bağlayıcı koşulları ayrıca doğrulanır."
+    },
+    "yks-deneme-analizi-rehberi": {
+      "resource_ids": [
+        "nizip-tyt-ayt-deneme-takip",
+        "nizip-verimli-ders-kontrol-listesi"
+      ],
+      "use_for": "Lise deneme sonuçlarını kayıt ve çalışma adımıyla birlikte inceleme; takip çizelgesi kendi başına hata nedeni veya tanı üretmez."
+    },
+    "yks-tercih-karar-tablosu": {
+      "resource_ids": [
+        "altieylul-yks-tercih-ogrenci-veli-kilavuzu-2026",
+        "yok-atlas-tercih-referansi"
+      ],
+      "use_for": "YKS tercih bilgi araştırmasına başlangıç; ilgili yılın güncel ÖSYM kılavuzu bağlayıcıdır."
+    },
+    "yks-tercihinde-aile-baskisi": {
+      "resource_ids": [
+        "soma-mesleki-karar-verme-aile-destegi-arastirma-2024",
+        "kariyer-92"
+      ],
+      "use_for": "Mesleki kararda aile desteği ve öğrenci tercihlerini ayrı ele almaya başvuru; araştırma sonucu kişiye özel karar değildir."
+    },
+    "zor-veli-gorusmesi": {
+      "resource_ids": [
+        "nevsehir-veli-aile-iletisim-tutumlar",
+        "kaynarca-aile-iletisim-veli-brosur-2026"
+      ],
+      "use_for": "Veli görüşmesinde gözlem, dinleme ve günlük destek iletişimine yardımcı materyal."
+    }
+  },
+  "unmatched": {
+    "etik-ikilem-okul-psikolojik-danisma": "Mesleki etik ikilemi için belge içeriği uygunluğu henüz doğrulanmadı; öğrenci etik davranış materyali kullanılmadı.",
+    "kariyer-ogrenim-maliyetini-arastirma": "Güncel bütçe, burs ve barınma maliyeti için doğrudan uygun kütüphane materyali bulunamadı; birincil başvuru bağlantıları korunuyor.",
+    "kariyer-sehir-ve-ulasim-kosullari": "Şehir ve ulaşım koşulları için doğrudan uygun kütüphane materyali bulunamadı; birincil başvuru bağlantıları korunuyor.",
+    "kariyer-staj-ve-gonulluluk-firsatlari": "Staj/gönüllülük izin ve güvenlik koşullarını kapsayan doğrudan uygun kütüphane belgesi bulunamadı.",
+    "kariyer-universite-yasami-beklentileri": "Barınma, ulaşım ve üniversite yaşam hizmetleri için doğrudan uygun kütüphane belgesi bulunamadı; birincil başvuru bağlantıları korunuyor.",
+    "lise-gonullu-toplumsal-katki": "Katalogdaki doğrudan toplum hizmeti kılavuzunun kapsamı ortaokuldur; lise için doğrudan uygun belge seçilemedi.",
+    "lise-gunluk-yasam-ve-uyku-dengesi": "Katalogdaki okul öncesi uyku hikâyesi lise rehberine bağlanmadı.",
+    "lise-meslek-golgeleme-etkinligi": "Meslek gölgelemede izin/güvenlik ve gözlem kapsamına uygun doğrudan belge bulunamadı.",
+    "lise-okul-kulubunde-sorumluluk": "Doğrudan bulunan toplum hizmeti kılavuzu ortaokul kapsamındadır; lise kulüp usulleri için ayrı belge gerekir.",
+    "lise-staj-ve-gozlem-deneyimi": "Staj/gözlem izin ve güvenlik koşullarına uygun doğrudan belge bulunamadı.",
+    "okulda-ogrenci-oz-degerlendirme": "Projeye ilişkin öğrenci öz değerlendirme amacı için uygun doğrudan materyal seçilemedi; genel öğrenci tanıma formu bunun yerine kullanılmadı.",
+    "okulda-ogrenci-ozgecmisi": "Öğrenci özgeçmiş hazırlığına uygun doğrudan örnek veya kılavuz bulunamadı.",
+    "sinav-oz-bakim-plani": "Uyku, dinlenme ve öz bakım gereksinimini doğrudan ele alan uygun kademe belgesi bulunamadı.",
+    "sinav-uyku-ve-dinlenme-plani": "Yaşa uygun doğrudan uyku/dinlenme materyali bulunamadı; okul öncesi hikâye bağlanmadı.",
+    "sinifta-ozel-gunler-hassasiyet": "Farklı bakım verenler ve aile yapıları odağında doğrudan materyal seçilemedi; yas belgesi tek başına bu rehbere bağlanmadı.",
+    "veliyle-uyku-duzeni": "Katalogdaki doğrudan uyku materyali okul öncesi hikâyesidir; tüm kademelere uygun aile/uyku belgesi bulunamadı.",
+    "veliyle-yalan-soyleme": "Doğrudan ilgili aile bilgilendirme belgesi bulunamadı."
+  }
+}

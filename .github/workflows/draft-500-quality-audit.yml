@@ -8,11 +8,13 @@ on:
     paths:
       - 'data/pdr-editorial-batch-*.json'
       - 'data/pdr-editorial-primary-sources.json'
+      - 'data/pdr-editorial-library-links.json'
       - 'scripts/build_first_editorial_batch.py'
       - 'scripts/prepare_first_50.py'
       - 'scripts/audit_500_publication_readiness.py'
       - 'scripts/test_audit_500_publication_readiness.py'
       - 'scripts/test_editorial_priority_guides.py'
+      - 'scripts/test_editorial_library_links.py'
       - '.github/workflows/draft-500-quality-audit.yml'
 
 permissions:
@@ -36,6 +38,7 @@ jobs:
         run: |
           python3 -m unittest discover -s scripts -p 'test_audit_500_publication_readiness.py' -v
           python3 -m unittest discover -s scripts -p 'test_editorial_priority_guides.py' -v
+          python3 -m unittest discover -s scripts -p 'test_editorial_library_links.py' -v
       - name: Build and run existing structural audits
         run: python3 scripts/prepare_first_50.py > /tmp/500-draft-build.json
       - name: Run editorial length and reuse audits
@@ -69,7 +72,8 @@ jobs:
           with open(os.environ["GITHUB_STEP_SUMMARY"],"a",encoding="utf-8") as f:
               f.write("## 500 PDR rehberi — taslak kalite kontrolü\n\n")
               for name in ("pages_checked","main_text_avg_words","under_125","under_250",
-                           "pages_without_source_cards","candidate_duplicate_pairs","identical_chapter_groups"):
+                           "pages_without_source_cards","pages_without_library_material_cards",
+                           "candidate_duplicate_pairs","identical_chapter_groups"):
                   f.write(f"- {name}: **{info[name]}**\n")
               f.write("\n**Yayın onayı: HAYIR.** İçerik, kaynak, mobil ve uzman denetimi ayrıca gerekir.\n")
           PY

@@ -7,15 +7,18 @@
     "main_text_min_words": 142,
     "under_125": 0,
     "under_250": 221,
-    "pages_without_source_cards": 137,
+    "pages_without_source_cards": 12,
+    "pages_without_library_material_cards": 17,
+    "library_material_cards_total": 2166,
     "candidate_duplicate_pairs": 840,
     "identical_chapter_groups": 2,
     "issues_by_kind": {
-      "main_text_under_250": 221,
       "candidate_sources_not_editorially_verified": 500,
       "chapter_under_15_words": 135,
+      "main_text_under_250": 221,
       "short_example_or_example_missing": 49,
-      "no_direct_source_cards": 137,
+      "no_library_material_cards": 17,
+      "no_direct_source_cards": 12,
       "specialist_review_required": 33
     }
   },
@@ -3098,6 +3101,7 @@
       "main_text_words": 227,
       "example_words": 36,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3111,6 +3115,7 @@
       "main_text_words": 215,
       "example_words": 44,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3124,6 +3129,7 @@
       "main_text_words": 244,
       "example_words": 31,
       "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -3136,6 +3142,7 @@
       "main_text_words": 269,
       "example_words": 40,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words"
@@ -3148,6 +3155,7 @@
       "main_text_words": 229,
       "example_words": 21,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3161,6 +3169,7 @@
       "main_text_words": 241,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3174,6 +3183,7 @@
       "main_text_words": 224,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -3186,6 +3196,7 @@
       "main_text_words": 163,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3199,6 +3210,7 @@
       "main_text_words": 232,
       "example_words": 18,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3212,7 +3224,8 @@
       "chapter_count": 8,
       "main_text_words": 370,
       "example_words": 68,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3223,7 +3236,8 @@
       "chapter_count": 7,
       "main_text_words": 279,
       "example_words": 22,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3235,6 +3249,7 @@
       "main_text_words": 261,
       "example_words": 30,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3245,7 +3260,8 @@
       "chapter_count": 9,
       "main_text_words": 359,
       "example_words": 71,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3256,7 +3272,8 @@
       "chapter_count": 9,
       "main_text_words": 375,
       "example_words": 71,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3267,7 +3284,8 @@
       "chapter_count": 8,
       "main_text_words": 335,
       "example_words": 78,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3279,6 +3297,7 @@
       "main_text_words": 354,
       "example_words": 67,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3290,6 +3309,7 @@
       "main_text_words": 224,
       "example_words": 35,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3303,6 +3323,7 @@
       "main_text_words": 207,
       "example_words": 38,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3315,11 +3336,11 @@
       "chapter_count": 7,
       "main_text_words": 226,
       "example_words": 30,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -3329,6 +3350,7 @@
       "main_text_words": 278,
       "example_words": 29,
       "resource_cards": 7,
+      "library_material_cards": 5,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3340,6 +3362,7 @@
       "main_text_words": 232,
       "example_words": 36,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3353,6 +3376,7 @@
       "main_text_words": 221,
       "example_words": 26,
       "resource_cards": 8,
+      "library_material_cards": 8,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3365,11 +3389,11 @@
       "chapter_count": 7,
       "main_text_words": 243,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -3379,6 +3403,7 @@
       "main_text_words": 185,
       "example_words": 27,
       "resource_cards": 8,
+      "library_material_cards": 8,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3392,6 +3417,7 @@
       "main_text_words": 230,
       "example_words": 22,
       "resource_cards": 8,
+      "library_material_cards": 8,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3405,6 +3431,7 @@
       "main_text_words": 185,
       "example_words": 29,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -3417,6 +3444,7 @@
       "main_text_words": 145,
       "example_words": 23,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3430,6 +3458,7 @@
       "main_text_words": 249,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -3442,6 +3471,7 @@
       "main_text_words": 236,
       "example_words": 41,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3455,6 +3485,7 @@
       "main_text_words": 286,
       "example_words": 25,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3466,10 +3497,12 @@
       "main_text_words": 229,
       "example_words": 29,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250",
-        "no_direct_source_cards"
+        "no_direct_source_cards",
+        "no_library_material_cards"
       ]
     },
     {
@@ -3479,6 +3512,7 @@
       "main_text_words": 211,
       "example_words": 44,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3491,11 +3525,11 @@
       "chapter_count": 7,
       "main_text_words": 223,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -3505,6 +3539,7 @@
       "main_text_words": 236,
       "example_words": 44,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3517,11 +3552,11 @@
       "chapter_count": 7,
       "main_text_words": 237,
       "example_words": 29,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -3531,6 +3566,7 @@
       "main_text_words": 233,
       "example_words": 23,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3543,7 +3579,8 @@
       "chapter_count": 7,
       "main_text_words": 278,
       "example_words": 26,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3555,6 +3592,7 @@
       "main_text_words": 255,
       "example_words": 24,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3566,6 +3604,7 @@
       "main_text_words": 243,
       "example_words": 16,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250",
@@ -3579,6 +3618,7 @@
       "main_text_words": 243,
       "example_words": 27,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -3591,6 +3631,7 @@
       "main_text_words": 242,
       "example_words": 19,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250",
@@ -3604,6 +3645,7 @@
       "main_text_words": 255,
       "example_words": 23,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3615,6 +3657,7 @@
       "main_text_words": 243,
       "example_words": 21,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -3627,6 +3670,7 @@
       "main_text_words": 249,
       "example_words": 19,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250",
@@ -3640,6 +3684,7 @@
       "main_text_words": 253,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3651,6 +3696,7 @@
       "main_text_words": 285,
       "example_words": 26,
       "resource_cards": 2,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3662,6 +3708,7 @@
       "main_text_words": 384,
       "example_words": 67,
       "resource_cards": 2,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -3674,6 +3721,7 @@
       "main_text_words": 241,
       "example_words": 17,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3688,6 +3736,7 @@
       "main_text_words": 241,
       "example_words": 23,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -3700,6 +3749,7 @@
       "main_text_words": 244,
       "example_words": 21,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -3712,6 +3762,7 @@
       "main_text_words": 246,
       "example_words": 19,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250",
@@ -3725,6 +3776,7 @@
       "main_text_words": 265,
       "example_words": 31,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3736,6 +3788,7 @@
       "main_text_words": 245,
       "example_words": 21,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3749,6 +3802,7 @@
       "main_text_words": 246,
       "example_words": 23,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -3761,6 +3815,7 @@
       "main_text_words": 264,
       "example_words": 29,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3772,6 +3827,7 @@
       "main_text_words": 272,
       "example_words": 21,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3783,6 +3839,7 @@
       "main_text_words": 243,
       "example_words": 24,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3796,6 +3853,7 @@
       "main_text_words": 244,
       "example_words": 17,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250",
@@ -3809,6 +3867,7 @@
       "main_text_words": 237,
       "example_words": 19,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250",
@@ -3822,6 +3881,7 @@
       "main_text_words": 262,
       "example_words": 24,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3833,6 +3893,7 @@
       "main_text_words": 168,
       "example_words": 30,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3846,6 +3907,7 @@
       "main_text_words": 232,
       "example_words": 18,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3860,6 +3922,7 @@
       "main_text_words": 241,
       "example_words": 18,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3874,6 +3937,7 @@
       "main_text_words": 214,
       "example_words": 26,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3887,6 +3951,7 @@
       "main_text_words": 250,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3897,7 +3962,8 @@
       "chapter_count": 7,
       "main_text_words": 275,
       "example_words": 61,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3908,7 +3974,8 @@
       "chapter_count": 7,
       "main_text_words": 275,
       "example_words": 59,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3919,7 +3986,8 @@
       "chapter_count": 7,
       "main_text_words": 290,
       "example_words": 62,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3930,7 +3998,8 @@
       "chapter_count": 6,
       "main_text_words": 287,
       "example_words": 65,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3941,7 +4010,8 @@
       "chapter_count": 7,
       "main_text_words": 278,
       "example_words": 62,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3952,7 +4022,8 @@
       "chapter_count": 7,
       "main_text_words": 271,
       "example_words": 61,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3963,7 +4034,8 @@
       "chapter_count": 7,
       "main_text_words": 275,
       "example_words": 59,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3974,7 +4046,8 @@
       "chapter_count": 7,
       "main_text_words": 279,
       "example_words": 56,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -3986,6 +4059,7 @@
       "main_text_words": 231,
       "example_words": 36,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -3998,7 +4072,8 @@
       "chapter_count": 6,
       "main_text_words": 273,
       "example_words": 63,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4009,7 +4084,8 @@
       "chapter_count": 6,
       "main_text_words": 276,
       "example_words": 65,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4020,7 +4096,8 @@
       "chapter_count": 6,
       "main_text_words": 278,
       "example_words": 64,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4031,7 +4108,8 @@
       "chapter_count": 7,
       "main_text_words": 275,
       "example_words": 58,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4042,7 +4120,8 @@
       "chapter_count": 7,
       "main_text_words": 287,
       "example_words": 61,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4054,6 +4133,7 @@
       "main_text_words": 277,
       "example_words": 63,
       "resource_cards": 3,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4064,7 +4144,8 @@
       "chapter_count": 6,
       "main_text_words": 282,
       "example_words": 63,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4075,7 +4156,8 @@
       "chapter_count": 7,
       "main_text_words": 274,
       "example_words": 59,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4086,7 +4168,8 @@
       "chapter_count": 7,
       "main_text_words": 277,
       "example_words": 61,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4097,7 +4180,8 @@
       "chapter_count": 7,
       "main_text_words": 274,
       "example_words": 59,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4108,7 +4192,8 @@
       "chapter_count": 7,
       "main_text_words": 282,
       "example_words": 57,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4119,7 +4204,8 @@
       "chapter_count": 7,
       "main_text_words": 279,
       "example_words": 61,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4131,8 +4217,10 @@
       "main_text_words": 281,
       "example_words": 66,
       "resource_cards": 2,
+      "library_material_cards": 0,
       "issues": [
-        "candidate_sources_not_editorially_verified"
+        "candidate_sources_not_editorially_verified",
+        "no_library_material_cards"
       ]
     },
     {
@@ -4141,7 +4229,8 @@
       "chapter_count": 7,
       "main_text_words": 269,
       "example_words": 60,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4153,8 +4242,10 @@
       "main_text_words": 276,
       "example_words": 59,
       "resource_cards": 2,
+      "library_material_cards": 0,
       "issues": [
-        "candidate_sources_not_editorially_verified"
+        "candidate_sources_not_editorially_verified",
+        "no_library_material_cards"
       ]
     },
     {
@@ -4164,8 +4255,10 @@
       "main_text_words": 274,
       "example_words": 61,
       "resource_cards": 2,
+      "library_material_cards": 0,
       "issues": [
-        "candidate_sources_not_editorially_verified"
+        "candidate_sources_not_editorially_verified",
+        "no_library_material_cards"
       ]
     },
     {
@@ -4175,8 +4268,10 @@
       "main_text_words": 270,
       "example_words": 60,
       "resource_cards": 2,
+      "library_material_cards": 0,
       "issues": [
-        "candidate_sources_not_editorially_verified"
+        "candidate_sources_not_editorially_verified",
+        "no_library_material_cards"
       ]
     },
     {
@@ -4185,7 +4280,8 @@
       "chapter_count": 8,
       "main_text_words": 303,
       "example_words": 30,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4197,7 +4293,8 @@
       "chapter_count": 8,
       "main_text_words": 308,
       "example_words": 32,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4209,7 +4306,8 @@
       "chapter_count": 8,
       "main_text_words": 309,
       "example_words": 32,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4221,7 +4319,8 @@
       "chapter_count": 8,
       "main_text_words": 291,
       "example_words": 28,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4233,7 +4332,8 @@
       "chapter_count": 8,
       "main_text_words": 294,
       "example_words": 26,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4245,7 +4345,8 @@
       "chapter_count": 8,
       "main_text_words": 291,
       "example_words": 28,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4257,7 +4358,8 @@
       "chapter_count": 8,
       "main_text_words": 293,
       "example_words": 31,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4269,7 +4371,8 @@
       "chapter_count": 8,
       "main_text_words": 292,
       "example_words": 30,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4281,7 +4384,8 @@
       "chapter_count": 8,
       "main_text_words": 301,
       "example_words": 29,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4293,7 +4397,8 @@
       "chapter_count": 8,
       "main_text_words": 295,
       "example_words": 29,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4305,7 +4410,8 @@
       "chapter_count": 8,
       "main_text_words": 291,
       "example_words": 28,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4317,7 +4423,8 @@
       "chapter_count": 8,
       "main_text_words": 313,
       "example_words": 27,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4329,7 +4436,8 @@
       "chapter_count": 8,
       "main_text_words": 284,
       "example_words": 30,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4341,7 +4449,8 @@
       "chapter_count": 8,
       "main_text_words": 305,
       "example_words": 31,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4353,7 +4462,8 @@
       "chapter_count": 8,
       "main_text_words": 286,
       "example_words": 31,
-      "resource_cards": 2,
+      "resource_cards": 3,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4365,7 +4475,8 @@
       "chapter_count": 8,
       "main_text_words": 287,
       "example_words": 29,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4377,7 +4488,8 @@
       "chapter_count": 8,
       "main_text_words": 292,
       "example_words": 28,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4389,7 +4501,8 @@
       "chapter_count": 8,
       "main_text_words": 285,
       "example_words": 27,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4401,7 +4514,8 @@
       "chapter_count": 8,
       "main_text_words": 282,
       "example_words": 27,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4413,7 +4527,8 @@
       "chapter_count": 8,
       "main_text_words": 292,
       "example_words": 30,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4425,7 +4540,8 @@
       "chapter_count": 8,
       "main_text_words": 287,
       "example_words": 31,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4437,7 +4553,8 @@
       "chapter_count": 8,
       "main_text_words": 287,
       "example_words": 29,
-      "resource_cards": 2,
+      "resource_cards": 3,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4449,7 +4566,8 @@
       "chapter_count": 8,
       "main_text_words": 297,
       "example_words": 30,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4461,7 +4579,8 @@
       "chapter_count": 8,
       "main_text_words": 301,
       "example_words": 29,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4473,7 +4592,8 @@
       "chapter_count": 8,
       "main_text_words": 292,
       "example_words": 29,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -4485,7 +4605,8 @@
       "chapter_count": 7,
       "main_text_words": 274,
       "example_words": 33,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4497,6 +4618,7 @@
       "main_text_words": 217,
       "example_words": 42,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -4509,12 +4631,12 @@
       "chapter_count": 7,
       "main_text_words": 226,
       "example_words": 20,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -4523,12 +4645,12 @@
       "chapter_count": 7,
       "main_text_words": 225,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -4538,6 +4660,7 @@
       "main_text_words": 231,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -4549,12 +4672,12 @@
       "chapter_count": 7,
       "main_text_words": 183,
       "example_words": 30,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -4563,10 +4686,10 @@
       "chapter_count": 7,
       "main_text_words": 299,
       "example_words": 21,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -4575,10 +4698,10 @@
       "chapter_count": 7,
       "main_text_words": 309,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -4587,10 +4710,10 @@
       "chapter_count": 7,
       "main_text_words": 292,
       "example_words": 23,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -4599,11 +4722,11 @@
       "chapter_count": 7,
       "main_text_words": 305,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4613,6 +4736,7 @@
       "main_text_words": 239,
       "example_words": 23,
       "resource_cards": 3,
+      "library_material_cards": 3,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -4625,11 +4749,11 @@
       "chapter_count": 7,
       "main_text_words": 293,
       "example_words": 20,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4638,11 +4762,11 @@
       "chapter_count": 7,
       "main_text_words": 286,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4651,11 +4775,11 @@
       "chapter_count": 7,
       "main_text_words": 292,
       "example_words": 22,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4664,11 +4788,11 @@
       "chapter_count": 7,
       "main_text_words": 296,
       "example_words": 23,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4677,11 +4801,11 @@
       "chapter_count": 7,
       "main_text_words": 284,
       "example_words": 19,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -4691,11 +4815,11 @@
       "chapter_count": 7,
       "main_text_words": 306,
       "example_words": 20,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4705,10 +4829,12 @@
       "main_text_words": 283,
       "example_words": 19,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
         "no_direct_source_cards",
+        "no_library_material_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -4719,10 +4845,12 @@
       "main_text_words": 296,
       "example_words": 23,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "no_direct_source_cards"
+        "no_direct_source_cards",
+        "no_library_material_cards"
       ]
     },
     {
@@ -4731,11 +4859,11 @@
       "chapter_count": 7,
       "main_text_words": 291,
       "example_words": 20,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4744,10 +4872,10 @@
       "chapter_count": 7,
       "main_text_words": 293,
       "example_words": 18,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -4758,10 +4886,12 @@
       "main_text_words": 320,
       "example_words": 21,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "no_direct_source_cards"
+        "no_direct_source_cards",
+        "no_library_material_cards"
       ]
     },
     {
@@ -4770,11 +4900,11 @@
       "chapter_count": 7,
       "main_text_words": 290,
       "example_words": 22,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4783,10 +4913,10 @@
       "chapter_count": 7,
       "main_text_words": 306,
       "example_words": 18,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -4797,6 +4927,7 @@
       "main_text_words": 219,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -4809,10 +4940,12 @@
       "main_text_words": 297,
       "example_words": 19,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
         "no_direct_source_cards",
+        "no_library_material_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -4822,11 +4955,11 @@
       "chapter_count": 7,
       "main_text_words": 297,
       "example_words": 23,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4835,11 +4968,11 @@
       "chapter_count": 7,
       "main_text_words": 290,
       "example_words": 20,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4848,11 +4981,11 @@
       "chapter_count": 7,
       "main_text_words": 289,
       "example_words": 19,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -4863,10 +4996,12 @@
       "main_text_words": 305,
       "example_words": 19,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
         "no_direct_source_cards",
+        "no_library_material_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -4876,11 +5011,11 @@
       "chapter_count": 7,
       "main_text_words": 294,
       "example_words": 20,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4889,11 +5024,11 @@
       "chapter_count": 7,
       "main_text_words": 288,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4902,11 +5037,11 @@
       "chapter_count": 7,
       "main_text_words": 311,
       "example_words": 21,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "chapter_under_15_words",
-        "no_direct_source_cards"
+        "chapter_under_15_words"
       ]
     },
     {
@@ -4916,6 +5051,7 @@
       "main_text_words": 240,
       "example_words": 25,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -4928,6 +5064,7 @@
       "main_text_words": 218,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -4941,6 +5078,7 @@
       "main_text_words": 220,
       "example_words": 50,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -4953,12 +5091,12 @@
       "chapter_count": 7,
       "main_text_words": 157,
       "example_words": 31,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -4967,7 +5105,8 @@
       "chapter_count": 7,
       "main_text_words": 254,
       "example_words": 28,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -4979,6 +5118,7 @@
       "main_text_words": 237,
       "example_words": 38,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -4992,6 +5132,7 @@
       "main_text_words": 229,
       "example_words": 22,
       "resource_cards": 7,
+      "library_material_cards": 7,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5003,12 +5144,12 @@
       "chapter_count": 7,
       "main_text_words": 177,
       "example_words": 27,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5017,11 +5158,11 @@
       "chapter_count": 7,
       "main_text_words": 232,
       "example_words": 28,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5031,6 +5172,7 @@
       "main_text_words": 268,
       "example_words": 29,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -5041,11 +5183,11 @@
       "chapter_count": 7,
       "main_text_words": 234,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5054,7 +5196,8 @@
       "chapter_count": 9,
       "main_text_words": 409,
       "example_words": 75,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -5067,6 +5210,7 @@
       "main_text_words": 220,
       "example_words": 49,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5079,7 +5223,8 @@
       "chapter_count": 7,
       "main_text_words": 302,
       "example_words": 81,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -5092,6 +5237,7 @@
       "main_text_words": 227,
       "example_words": 19,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5105,11 +5251,11 @@
       "chapter_count": 7,
       "main_text_words": 214,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5119,6 +5265,7 @@
       "main_text_words": 179,
       "example_words": 31,
       "resource_cards": 7,
+      "library_material_cards": 7,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5132,6 +5279,7 @@
       "main_text_words": 230,
       "example_words": 21,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5145,6 +5293,7 @@
       "main_text_words": 145,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5158,6 +5307,7 @@
       "main_text_words": 227,
       "example_words": 23,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5170,6 +5320,7 @@
       "main_text_words": 240,
       "example_words": 29,
       "resource_cards": 6,
+      "library_material_cards": 6,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5181,11 +5332,11 @@
       "chapter_count": 7,
       "main_text_words": 216,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5194,11 +5345,11 @@
       "chapter_count": 7,
       "main_text_words": 221,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5207,11 +5358,11 @@
       "chapter_count": 7,
       "main_text_words": 243,
       "example_words": 28,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5220,11 +5371,11 @@
       "chapter_count": 7,
       "main_text_words": 224,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5233,11 +5384,11 @@
       "chapter_count": 7,
       "main_text_words": 230,
       "example_words": 31,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5247,6 +5398,7 @@
       "main_text_words": 229,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5259,6 +5411,7 @@
       "main_text_words": 223,
       "example_words": 34,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5271,6 +5424,7 @@
       "main_text_words": 274,
       "example_words": 23,
       "resource_cards": 11,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -5282,6 +5436,7 @@
       "main_text_words": 238,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5294,6 +5449,7 @@
       "main_text_words": 272,
       "example_words": 24,
       "resource_cards": 2,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -5305,6 +5461,7 @@
       "main_text_words": 281,
       "example_words": 24,
       "resource_cards": 2,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -5316,6 +5473,7 @@
       "main_text_words": 237,
       "example_words": 27,
       "resource_cards": 7,
+      "library_material_cards": 7,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5328,6 +5486,7 @@
       "main_text_words": 150,
       "example_words": 26,
       "resource_cards": 3,
+      "library_material_cards": 3,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5341,6 +5500,7 @@
       "main_text_words": 221,
       "example_words": 45,
       "resource_cards": 8,
+      "library_material_cards": 8,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5354,6 +5514,7 @@
       "main_text_words": 185,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5365,11 +5526,11 @@
       "chapter_count": 7,
       "main_text_words": 240,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5379,6 +5540,7 @@
       "main_text_words": 238,
       "example_words": 26,
       "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5391,6 +5553,7 @@
       "main_text_words": 216,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5404,6 +5567,7 @@
       "main_text_words": 227,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5416,6 +5580,7 @@
       "main_text_words": 207,
       "example_words": 43,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5428,11 +5593,11 @@
       "chapter_count": 7,
       "main_text_words": 230,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5442,6 +5607,7 @@
       "main_text_words": 243,
       "example_words": 28,
       "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5454,6 +5620,7 @@
       "main_text_words": 221,
       "example_words": 19,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5468,6 +5635,7 @@
       "main_text_words": 238,
       "example_words": 27,
       "resource_cards": 8,
+      "library_material_cards": 8,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5480,6 +5648,7 @@
       "main_text_words": 171,
       "example_words": 33,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5492,11 +5661,11 @@
       "chapter_count": 7,
       "main_text_words": 238,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5506,6 +5675,7 @@
       "main_text_words": 185,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5518,12 +5688,12 @@
       "chapter_count": 7,
       "main_text_words": 230,
       "example_words": 17,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
         "main_text_under_250",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -5534,6 +5704,7 @@
       "main_text_words": 181,
       "example_words": 29,
       "resource_cards": 3,
+      "library_material_cards": 3,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5547,6 +5718,7 @@
       "main_text_words": 240,
       "example_words": 30,
       "resource_cards": 8,
+      "library_material_cards": 8,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5559,11 +5731,11 @@
       "chapter_count": 7,
       "main_text_words": 231,
       "example_words": 28,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5572,11 +5744,11 @@
       "chapter_count": 7,
       "main_text_words": 232,
       "example_words": 29,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5585,11 +5757,11 @@
       "chapter_count": 7,
       "main_text_words": 227,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5599,6 +5771,7 @@
       "main_text_words": 384,
       "example_words": 77,
       "resource_cards": 11,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -5610,7 +5783,8 @@
       "chapter_count": 9,
       "main_text_words": 395,
       "example_words": 73,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -5622,11 +5796,11 @@
       "chapter_count": 7,
       "main_text_words": 222,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5636,6 +5810,7 @@
       "main_text_words": 389,
       "example_words": 67,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -5648,6 +5823,7 @@
       "main_text_words": 307,
       "example_words": 78,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -5659,7 +5835,8 @@
       "chapter_count": 9,
       "main_text_words": 375,
       "example_words": 68,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "specialist_review_required"
@@ -5672,6 +5849,7 @@
       "main_text_words": 226,
       "example_words": 18,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5685,11 +5863,11 @@
       "chapter_count": 7,
       "main_text_words": 231,
       "example_words": 29,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5699,6 +5877,7 @@
       "main_text_words": 259,
       "example_words": 31,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -5709,12 +5888,12 @@
       "chapter_count": 7,
       "main_text_words": 236,
       "example_words": 22,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5724,6 +5903,7 @@
       "main_text_words": 223,
       "example_words": 18,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5738,6 +5918,7 @@
       "main_text_words": 235,
       "example_words": 27,
       "resource_cards": 6,
+      "library_material_cards": 6,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5749,12 +5930,12 @@
       "chapter_count": 7,
       "main_text_words": 231,
       "example_words": 22,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5763,12 +5944,12 @@
       "chapter_count": 7,
       "main_text_words": 227,
       "example_words": 21,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5777,12 +5958,12 @@
       "chapter_count": 7,
       "main_text_words": 226,
       "example_words": 28,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5792,10 +5973,12 @@
       "main_text_words": 243,
       "example_words": 33,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250",
-        "no_direct_source_cards"
+        "no_direct_source_cards",
+        "no_library_material_cards"
       ]
     },
     {
@@ -5805,11 +5988,13 @@
       "main_text_words": 226,
       "example_words": 21,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
         "main_text_under_250",
-        "no_direct_source_cards"
+        "no_direct_source_cards",
+        "no_library_material_cards"
       ]
     },
     {
@@ -5819,6 +6004,7 @@
       "main_text_words": 227,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5831,6 +6017,7 @@
       "main_text_words": 214,
       "example_words": 37,
       "resource_cards": 3,
+      "library_material_cards": 3,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5844,6 +6031,7 @@
       "main_text_words": 236,
       "example_words": 32,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5856,6 +6044,7 @@
       "main_text_words": 219,
       "example_words": 25,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5868,11 +6057,11 @@
       "chapter_count": 7,
       "main_text_words": 217,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5882,6 +6071,7 @@
       "main_text_words": 226,
       "example_words": 20,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5895,6 +6085,7 @@
       "main_text_words": 244,
       "example_words": 32,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5908,6 +6099,7 @@
       "main_text_words": 210,
       "example_words": 49,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5921,6 +6113,7 @@
       "main_text_words": 227,
       "example_words": 17,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5934,11 +6127,11 @@
       "chapter_count": 7,
       "main_text_words": 219,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -5948,6 +6141,7 @@
       "main_text_words": 245,
       "example_words": 31,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5960,6 +6154,7 @@
       "main_text_words": 235,
       "example_words": 30,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -5972,6 +6167,7 @@
       "main_text_words": 237,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5985,6 +6181,7 @@
       "main_text_words": 236,
       "example_words": 36,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -5997,11 +6194,11 @@
       "chapter_count": 7,
       "main_text_words": 222,
       "example_words": 29,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -6011,6 +6208,7 @@
       "main_text_words": 215,
       "example_words": 25,
       "resource_cards": 4,
+      "library_material_cards": 4,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -6022,11 +6220,11 @@
       "chapter_count": 7,
       "main_text_words": 226,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -6036,6 +6234,7 @@
       "main_text_words": 285,
       "example_words": 25,
       "resource_cards": 2,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6047,6 +6246,7 @@
       "main_text_words": 212,
       "example_words": 47,
       "resource_cards": 8,
+      "library_material_cards": 8,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -6060,6 +6260,7 @@
       "main_text_words": 236,
       "example_words": 35,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -6073,6 +6274,7 @@
       "main_text_words": 277,
       "example_words": 31,
       "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6084,6 +6286,7 @@
       "main_text_words": 327,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6095,6 +6298,7 @@
       "main_text_words": 287,
       "example_words": 23,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words"
@@ -6107,6 +6311,7 @@
       "main_text_words": 288,
       "example_words": 23,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6118,6 +6323,7 @@
       "main_text_words": 287,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6129,6 +6335,7 @@
       "main_text_words": 304,
       "example_words": 20,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6140,6 +6347,7 @@
       "main_text_words": 283,
       "example_words": 19,
       "resource_cards": 3,
+      "library_material_cards": 3,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -6153,6 +6361,7 @@
       "main_text_words": 294,
       "example_words": 20,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6164,6 +6373,7 @@
       "main_text_words": 300,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6175,6 +6385,7 @@
       "main_text_words": 331,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6186,6 +6397,7 @@
       "main_text_words": 302,
       "example_words": 19,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "short_example_or_example_missing"
@@ -6198,6 +6410,7 @@
       "main_text_words": 285,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6209,6 +6422,7 @@
       "main_text_words": 314,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words"
@@ -6221,6 +6435,7 @@
       "main_text_words": 277,
       "example_words": 18,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -6234,6 +6449,7 @@
       "main_text_words": 294,
       "example_words": 23,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6245,6 +6461,7 @@
       "main_text_words": 294,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6256,6 +6473,7 @@
       "main_text_words": 289,
       "example_words": 23,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6267,6 +6485,7 @@
       "main_text_words": 293,
       "example_words": 21,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6278,6 +6497,7 @@
       "main_text_words": 294,
       "example_words": 20,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6289,6 +6509,7 @@
       "main_text_words": 304,
       "example_words": 19,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "short_example_or_example_missing"
@@ -6301,6 +6522,7 @@
       "main_text_words": 301,
       "example_words": 20,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6312,6 +6534,7 @@
       "main_text_words": 301,
       "example_words": 25,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6323,6 +6546,7 @@
       "main_text_words": 291,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6334,6 +6558,7 @@
       "main_text_words": 336,
       "example_words": 23,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6345,6 +6570,7 @@
       "main_text_words": 303,
       "example_words": 18,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "short_example_or_example_missing"
@@ -6357,6 +6583,7 @@
       "main_text_words": 291,
       "example_words": 22,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6368,6 +6595,7 @@
       "main_text_words": 206,
       "example_words": 47,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -6380,11 +6608,11 @@
       "chapter_count": 7,
       "main_text_words": 234,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -6393,11 +6621,11 @@
       "chapter_count": 7,
       "main_text_words": 218,
       "example_words": 23,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -6406,7 +6634,8 @@
       "chapter_count": 7,
       "main_text_words": 282,
       "example_words": 26,
-      "resource_cards": 1,
+      "resource_cards": 2,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6417,7 +6646,8 @@
       "chapter_count": 7,
       "main_text_words": 269,
       "example_words": 62,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6428,7 +6658,8 @@
       "chapter_count": 7,
       "main_text_words": 278,
       "example_words": 64,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6439,7 +6670,8 @@
       "chapter_count": 7,
       "main_text_words": 273,
       "example_words": 65,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6450,7 +6682,8 @@
       "chapter_count": 7,
       "main_text_words": 259,
       "example_words": 59,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6461,7 +6694,8 @@
       "chapter_count": 7,
       "main_text_words": 269,
       "example_words": 61,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6472,7 +6706,8 @@
       "chapter_count": 7,
       "main_text_words": 277,
       "example_words": 62,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6483,7 +6718,8 @@
       "chapter_count": 7,
       "main_text_words": 267,
       "example_words": 63,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6494,7 +6730,8 @@
       "chapter_count": 7,
       "main_text_words": 272,
       "example_words": 64,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6505,7 +6742,8 @@
       "chapter_count": 7,
       "main_text_words": 266,
       "example_words": 61,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6516,7 +6754,8 @@
       "chapter_count": 7,
       "main_text_words": 278,
       "example_words": 62,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6527,7 +6766,8 @@
       "chapter_count": 7,
       "main_text_words": 283,
       "example_words": 63,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6538,7 +6778,8 @@
       "chapter_count": 7,
       "main_text_words": 270,
       "example_words": 60,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6549,7 +6790,8 @@
       "chapter_count": 7,
       "main_text_words": 262,
       "example_words": 61,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6560,7 +6802,8 @@
       "chapter_count": 7,
       "main_text_words": 277,
       "example_words": 66,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6571,7 +6814,8 @@
       "chapter_count": 7,
       "main_text_words": 267,
       "example_words": 62,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6582,7 +6826,8 @@
       "chapter_count": 7,
       "main_text_words": 276,
       "example_words": 64,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6593,7 +6838,8 @@
       "chapter_count": 7,
       "main_text_words": 270,
       "example_words": 62,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6604,7 +6850,8 @@
       "chapter_count": 7,
       "main_text_words": 273,
       "example_words": 60,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6615,7 +6862,8 @@
       "chapter_count": 7,
       "main_text_words": 276,
       "example_words": 64,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6627,6 +6875,7 @@
       "main_text_words": 365,
       "example_words": 71,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6637,7 +6886,8 @@
       "chapter_count": 7,
       "main_text_words": 275,
       "example_words": 62,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6648,7 +6898,8 @@
       "chapter_count": 7,
       "main_text_words": 278,
       "example_words": 64,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6659,7 +6910,8 @@
       "chapter_count": 7,
       "main_text_words": 271,
       "example_words": 64,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6670,7 +6922,8 @@
       "chapter_count": 7,
       "main_text_words": 281,
       "example_words": 67,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6681,7 +6934,8 @@
       "chapter_count": 7,
       "main_text_words": 272,
       "example_words": 64,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6692,7 +6946,8 @@
       "chapter_count": 7,
       "main_text_words": 271,
       "example_words": 63,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6704,6 +6959,7 @@
       "main_text_words": 305,
       "example_words": 73,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6715,6 +6971,7 @@
       "main_text_words": 210,
       "example_words": 52,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -6728,6 +6985,7 @@
       "main_text_words": 221,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -6741,6 +6999,7 @@
       "main_text_words": 214,
       "example_words": 42,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -6753,12 +7012,12 @@
       "chapter_count": 7,
       "main_text_words": 233,
       "example_words": 18,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
         "main_text_under_250",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -6768,11 +7027,11 @@
       "chapter_count": 7,
       "main_text_words": 244,
       "example_words": 33,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -6781,12 +7040,12 @@
       "chapter_count": 7,
       "main_text_words": 224,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -6795,7 +7054,8 @@
       "chapter_count": 7,
       "main_text_words": 271,
       "example_words": 28,
-      "resource_cards": 1,
+      "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6806,11 +7066,11 @@
       "chapter_count": 7,
       "main_text_words": 224,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -6820,6 +7080,7 @@
       "main_text_words": 286,
       "example_words": 29,
       "resource_cards": 11,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6831,6 +7092,7 @@
       "main_text_words": 223,
       "example_words": 53,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -6844,6 +7106,7 @@
       "main_text_words": 281,
       "example_words": 25,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6855,6 +7118,7 @@
       "main_text_words": 230,
       "example_words": 57,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -6868,6 +7132,7 @@
       "main_text_words": 259,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6879,6 +7144,7 @@
       "main_text_words": 248,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -6891,6 +7157,7 @@
       "main_text_words": 261,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6902,6 +7169,7 @@
       "main_text_words": 256,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6913,6 +7181,7 @@
       "main_text_words": 258,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6924,6 +7193,7 @@
       "main_text_words": 259,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6934,11 +7204,11 @@
       "chapter_count": 7,
       "main_text_words": 227,
       "example_words": 23,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -6948,6 +7218,7 @@
       "main_text_words": 251,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6959,6 +7230,7 @@
       "main_text_words": 254,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6969,11 +7241,11 @@
       "chapter_count": 7,
       "main_text_words": 229,
       "example_words": 27,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -6983,6 +7255,7 @@
       "main_text_words": 264,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -6994,6 +7267,7 @@
       "main_text_words": 256,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7005,6 +7279,7 @@
       "main_text_words": 255,
       "example_words": 23,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7016,6 +7291,7 @@
       "main_text_words": 254,
       "example_words": 23,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7027,6 +7303,7 @@
       "main_text_words": 261,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7038,6 +7315,7 @@
       "main_text_words": 239,
       "example_words": 20,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7050,6 +7328,7 @@
       "main_text_words": 263,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7061,6 +7340,7 @@
       "main_text_words": 257,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7072,6 +7352,7 @@
       "main_text_words": 259,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7083,6 +7364,7 @@
       "main_text_words": 261,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7094,6 +7376,7 @@
       "main_text_words": 249,
       "example_words": 23,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7106,6 +7389,7 @@
       "main_text_words": 263,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7117,6 +7401,7 @@
       "main_text_words": 249,
       "example_words": 23,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7129,6 +7414,7 @@
       "main_text_words": 253,
       "example_words": 23,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7140,6 +7426,7 @@
       "main_text_words": 260,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7151,6 +7438,7 @@
       "main_text_words": 275,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7162,6 +7450,7 @@
       "main_text_words": 265,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7173,6 +7462,7 @@
       "main_text_words": 224,
       "example_words": 33,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7185,11 +7475,11 @@
       "chapter_count": 7,
       "main_text_words": 211,
       "example_words": 23,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -7199,6 +7489,7 @@
       "main_text_words": 222,
       "example_words": 28,
       "resource_cards": 5,
+      "library_material_cards": 5,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7211,6 +7502,7 @@
       "main_text_words": 254,
       "example_words": 30,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7222,6 +7514,7 @@
       "main_text_words": 189,
       "example_words": 30,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7235,6 +7528,7 @@
       "main_text_words": 229,
       "example_words": 35,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7247,10 +7541,10 @@
       "chapter_count": 7,
       "main_text_words": 346,
       "example_words": 20,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -7259,10 +7553,10 @@
       "chapter_count": 7,
       "main_text_words": 351,
       "example_words": 17,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7273,6 +7567,7 @@
       "main_text_words": 215,
       "example_words": 57,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7285,10 +7580,10 @@
       "chapter_count": 7,
       "main_text_words": 350,
       "example_words": 20,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -7297,10 +7592,10 @@
       "chapter_count": 7,
       "main_text_words": 363,
       "example_words": 20,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -7309,11 +7604,11 @@
       "chapter_count": 7,
       "main_text_words": 227,
       "example_words": 31,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -7323,6 +7618,7 @@
       "main_text_words": 204,
       "example_words": 31,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7336,6 +7632,7 @@
       "main_text_words": 240,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7348,6 +7645,7 @@
       "main_text_words": 274,
       "example_words": 40,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7358,11 +7656,11 @@
       "chapter_count": 7,
       "main_text_words": 340,
       "example_words": 17,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7372,10 +7670,10 @@
       "chapter_count": 7,
       "main_text_words": 356,
       "example_words": 15,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7385,10 +7683,10 @@
       "chapter_count": 7,
       "main_text_words": 343,
       "example_words": 18,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7398,10 +7696,10 @@
       "chapter_count": 7,
       "main_text_words": 355,
       "example_words": 18,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7411,11 +7709,11 @@
       "chapter_count": 7,
       "main_text_words": 345,
       "example_words": 16,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7425,10 +7723,10 @@
       "chapter_count": 7,
       "main_text_words": 368,
       "example_words": 19,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7439,8 +7737,10 @@
       "main_text_words": 284,
       "example_words": 27,
       "resource_cards": 1,
+      "library_material_cards": 0,
       "issues": [
-        "candidate_sources_not_editorially_verified"
+        "candidate_sources_not_editorially_verified",
+        "no_library_material_cards"
       ]
     },
     {
@@ -7449,10 +7749,10 @@
       "chapter_count": 7,
       "main_text_words": 360,
       "example_words": 21,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -7461,10 +7761,10 @@
       "chapter_count": 7,
       "main_text_words": 365,
       "example_words": 18,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7474,10 +7774,10 @@
       "chapter_count": 7,
       "main_text_words": 382,
       "example_words": 22,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -7486,10 +7786,10 @@
       "chapter_count": 7,
       "main_text_words": 374,
       "example_words": 21,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -7498,10 +7798,10 @@
       "chapter_count": 7,
       "main_text_words": 346,
       "example_words": 17,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7511,10 +7811,10 @@
       "chapter_count": 7,
       "main_text_words": 358,
       "example_words": 19,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7524,11 +7824,11 @@
       "chapter_count": 7,
       "main_text_words": 338,
       "example_words": 19,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7539,6 +7839,7 @@
       "main_text_words": 273,
       "example_words": 29,
       "resource_cards": 2,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7550,6 +7851,7 @@
       "main_text_words": 184,
       "example_words": 34,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7563,6 +7865,7 @@
       "main_text_words": 229,
       "example_words": 39,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7576,6 +7879,7 @@
       "main_text_words": 242,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7587,11 +7891,11 @@
       "chapter_count": 7,
       "main_text_words": 357,
       "example_words": 18,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7601,10 +7905,10 @@
       "chapter_count": 7,
       "main_text_words": 354,
       "example_words": 17,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7615,9 +7919,11 @@
       "main_text_words": 367,
       "example_words": 20,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "no_direct_source_cards",
+        "no_library_material_cards"
       ]
     },
     {
@@ -7626,10 +7932,10 @@
       "chapter_count": 7,
       "main_text_words": 357,
       "example_words": 20,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -7638,10 +7944,10 @@
       "chapter_count": 7,
       "main_text_words": 352,
       "example_words": 17,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7651,10 +7957,10 @@
       "chapter_count": 7,
       "main_text_words": 356,
       "example_words": 19,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7664,11 +7970,11 @@
       "chapter_count": 7,
       "main_text_words": 340,
       "example_words": 19,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7678,11 +7984,11 @@
       "chapter_count": 7,
       "main_text_words": 344,
       "example_words": 17,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7692,11 +7998,11 @@
       "chapter_count": 7,
       "main_text_words": 227,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -7706,6 +8012,7 @@
       "main_text_words": 165,
       "example_words": 29,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7719,6 +8026,7 @@
       "main_text_words": 232,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7731,6 +8039,7 @@
       "main_text_words": 230,
       "example_words": 37,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7744,6 +8053,7 @@
       "main_text_words": 285,
       "example_words": 31,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7754,11 +8064,11 @@
       "chapter_count": 7,
       "main_text_words": 216,
       "example_words": 23,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -7767,12 +8077,12 @@
       "chapter_count": 7,
       "main_text_words": 220,
       "example_words": 16,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
         "main_text_under_250",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -7783,6 +8093,7 @@
       "main_text_words": 235,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7795,6 +8106,7 @@
       "main_text_words": 255,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7806,6 +8118,7 @@
       "main_text_words": 260,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7817,6 +8130,7 @@
       "main_text_words": 232,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7829,6 +8143,7 @@
       "main_text_words": 208,
       "example_words": 49,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7842,6 +8157,7 @@
       "main_text_words": 247,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7854,6 +8170,7 @@
       "main_text_words": 252,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -7865,6 +8182,7 @@
       "main_text_words": 222,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7877,6 +8195,7 @@
       "main_text_words": 234,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7889,6 +8208,7 @@
       "main_text_words": 246,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7901,6 +8221,7 @@
       "main_text_words": 218,
       "example_words": 26,
       "resource_cards": 6,
+      "library_material_cards": 6,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -7914,6 +8235,7 @@
       "main_text_words": 232,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7926,6 +8248,7 @@
       "main_text_words": 243,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7938,6 +8261,7 @@
       "main_text_words": 239,
       "example_words": 23,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7950,6 +8274,7 @@
       "main_text_words": 244,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7962,6 +8287,7 @@
       "main_text_words": 242,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -7973,11 +8299,11 @@
       "chapter_count": 7,
       "main_text_words": 241,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -7987,6 +8313,7 @@
       "main_text_words": 225,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8000,6 +8327,7 @@
       "main_text_words": 245,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8012,6 +8340,7 @@
       "main_text_words": 252,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8023,6 +8352,7 @@
       "main_text_words": 238,
       "example_words": 22,
       "resource_cards": 5,
+      "library_material_cards": 5,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8035,6 +8365,7 @@
       "main_text_words": 241,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8047,6 +8378,7 @@
       "main_text_words": 249,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8059,6 +8391,7 @@
       "main_text_words": 234,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8071,6 +8404,7 @@
       "main_text_words": 233,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8084,6 +8418,7 @@
       "main_text_words": 238,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8096,6 +8431,7 @@
       "main_text_words": 234,
       "example_words": 26,
       "resource_cards": 7,
+      "library_material_cards": 7,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8108,6 +8444,7 @@
       "main_text_words": 247,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8120,11 +8457,13 @@
       "main_text_words": 232,
       "example_words": 20,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
         "main_text_under_250",
-        "no_direct_source_cards"
+        "no_direct_source_cards",
+        "no_library_material_cards"
       ]
     },
     {
@@ -8134,6 +8473,7 @@
       "main_text_words": 268,
       "example_words": 31,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8145,6 +8485,7 @@
       "main_text_words": 251,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8156,6 +8497,7 @@
       "main_text_words": 241,
       "example_words": 23,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8167,11 +8509,11 @@
       "chapter_count": 7,
       "main_text_words": 235,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8181,6 +8523,7 @@
       "main_text_words": 246,
       "example_words": 24,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8193,6 +8536,7 @@
       "main_text_words": 251,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8204,6 +8548,7 @@
       "main_text_words": 268,
       "example_words": 27,
       "resource_cards": 3,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8215,6 +8560,7 @@
       "main_text_words": 166,
       "example_words": 27,
       "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8228,6 +8574,7 @@
       "main_text_words": 233,
       "example_words": 38,
       "resource_cards": 6,
+      "library_material_cards": 6,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8241,6 +8588,7 @@
       "main_text_words": 211,
       "example_words": 40,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8254,6 +8602,7 @@
       "main_text_words": 284,
       "example_words": 32,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8264,11 +8613,11 @@
       "chapter_count": 7,
       "main_text_words": 229,
       "example_words": 27,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8278,6 +8627,7 @@
       "main_text_words": 183,
       "example_words": 33,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8289,11 +8639,11 @@
       "chapter_count": 7,
       "main_text_words": 218,
       "example_words": 28,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8302,11 +8652,11 @@
       "chapter_count": 7,
       "main_text_words": 233,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8316,6 +8666,7 @@
       "main_text_words": 230,
       "example_words": 19,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8330,6 +8681,7 @@
       "main_text_words": 232,
       "example_words": 29,
       "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8342,6 +8694,7 @@
       "main_text_words": 243,
       "example_words": 27,
       "resource_cards": 3,
+      "library_material_cards": 3,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8354,6 +8707,7 @@
       "main_text_words": 268,
       "example_words": 25,
       "resource_cards": 10,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8365,6 +8719,7 @@
       "main_text_words": 215,
       "example_words": 48,
       "resource_cards": 4,
+      "library_material_cards": 4,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8378,6 +8733,7 @@
       "main_text_words": 226,
       "example_words": 24,
       "resource_cards": 4,
+      "library_material_cards": 4,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8390,7 +8746,8 @@
       "chapter_count": 7,
       "main_text_words": 271,
       "example_words": 28,
-      "resource_cards": 2,
+      "resource_cards": 3,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8401,11 +8758,11 @@
       "chapter_count": 7,
       "main_text_words": 243,
       "example_words": 27,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8415,6 +8772,7 @@
       "main_text_words": 204,
       "example_words": 43,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8427,10 +8785,10 @@
       "chapter_count": 7,
       "main_text_words": 255,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8439,10 +8797,10 @@
       "chapter_count": 7,
       "main_text_words": 256,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8451,10 +8809,10 @@
       "chapter_count": 7,
       "main_text_words": 259,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8463,10 +8821,10 @@
       "chapter_count": 7,
       "main_text_words": 254,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8475,10 +8833,10 @@
       "chapter_count": 7,
       "main_text_words": 260,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8487,11 +8845,11 @@
       "chapter_count": 7,
       "main_text_words": 247,
       "example_words": 23,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8501,6 +8859,7 @@
       "main_text_words": 238,
       "example_words": 22,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8513,10 +8872,10 @@
       "chapter_count": 7,
       "main_text_words": 258,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8525,10 +8884,10 @@
       "chapter_count": 7,
       "main_text_words": 251,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8537,10 +8896,10 @@
       "chapter_count": 7,
       "main_text_words": 251,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8549,10 +8908,10 @@
       "chapter_count": 7,
       "main_text_words": 258,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8561,10 +8920,10 @@
       "chapter_count": 7,
       "main_text_words": 251,
       "example_words": 22,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8573,10 +8932,10 @@
       "chapter_count": 7,
       "main_text_words": 271,
       "example_words": 27,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8585,10 +8944,10 @@
       "chapter_count": 7,
       "main_text_words": 257,
       "example_words": 22,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8597,10 +8956,10 @@
       "chapter_count": 7,
       "main_text_words": 251,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8609,10 +8968,10 @@
       "chapter_count": 7,
       "main_text_words": 259,
       "example_words": 22,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8621,10 +8980,10 @@
       "chapter_count": 7,
       "main_text_words": 256,
       "example_words": 23,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8633,10 +8992,10 @@
       "chapter_count": 7,
       "main_text_words": 253,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8645,11 +9004,11 @@
       "chapter_count": 7,
       "main_text_words": 248,
       "example_words": 21,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8658,10 +9017,10 @@
       "chapter_count": 7,
       "main_text_words": 253,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8670,10 +9029,10 @@
       "chapter_count": 7,
       "main_text_words": 263,
       "example_words": 26,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8682,11 +9041,11 @@
       "chapter_count": 7,
       "main_text_words": 249,
       "example_words": 23,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8695,10 +9054,10 @@
       "chapter_count": 7,
       "main_text_words": 251,
       "example_words": 21,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8707,10 +9066,10 @@
       "chapter_count": 7,
       "main_text_words": 262,
       "example_words": 25,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
-        "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "candidate_sources_not_editorially_verified"
       ]
     },
     {
@@ -8720,9 +9079,11 @@
       "main_text_words": 271,
       "example_words": 26,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "no_direct_source_cards"
+        "no_direct_source_cards",
+        "no_library_material_cards"
       ]
     },
     {
@@ -8732,10 +9093,12 @@
       "main_text_words": 243,
       "example_words": 22,
       "resource_cards": 0,
+      "library_material_cards": 0,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250",
-        "no_direct_source_cards"
+        "no_direct_source_cards",
+        "no_library_material_cards"
       ]
     },
     {
@@ -8744,7 +9107,8 @@
       "chapter_count": 7,
       "main_text_words": 284,
       "example_words": 25,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8755,11 +9119,11 @@
       "chapter_count": 7,
       "main_text_words": 247,
       "example_words": 24,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8769,6 +9133,7 @@
       "main_text_words": 191,
       "example_words": 31,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8781,7 +9146,8 @@
       "chapter_count": 7,
       "main_text_words": 288,
       "example_words": 30,
-      "resource_cards": 2,
+      "resource_cards": 4,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8792,12 +9158,12 @@
       "chapter_count": 7,
       "main_text_words": 230,
       "example_words": 19,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
         "main_text_under_250",
-        "no_direct_source_cards",
         "short_example_or_example_missing"
       ]
     },
@@ -8808,6 +9174,7 @@
       "main_text_words": 248,
       "example_words": 30,
       "resource_cards": 3,
+      "library_material_cards": 3,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
@@ -8820,6 +9187,7 @@
       "main_text_words": 244,
       "example_words": 40,
       "resource_cards": 1,
+      "library_material_cards": 1,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
@@ -8832,12 +9200,12 @@
       "chapter_count": 7,
       "main_text_words": 176,
       "example_words": 29,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8846,12 +9214,12 @@
       "chapter_count": 7,
       "main_text_words": 227,
       "example_words": 28,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8860,12 +9228,12 @@
       "chapter_count": 7,
       "main_text_words": 142,
       "example_words": 30,
-      "resource_cards": 0,
+      "resource_cards": 2,
+      "library_material_cards": 2,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "chapter_under_15_words",
-        "main_text_under_250",
-        "no_direct_source_cards"
+        "main_text_under_250"
       ]
     },
     {
@@ -8875,6 +9243,7 @@
       "main_text_words": 300,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8886,6 +9255,7 @@
       "main_text_words": 300,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8897,6 +9267,7 @@
       "main_text_words": 300,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8908,6 +9279,7 @@
       "main_text_words": 283,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8919,6 +9291,7 @@
       "main_text_words": 296,
       "example_words": 29,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8930,6 +9303,7 @@
       "main_text_words": 302,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8941,6 +9315,7 @@
       "main_text_words": 302,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8952,6 +9327,7 @@
       "main_text_words": 297,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8963,6 +9339,7 @@
       "main_text_words": 292,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8974,6 +9351,7 @@
       "main_text_words": 292,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8985,6 +9363,7 @@
       "main_text_words": 307,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -8996,6 +9375,7 @@
       "main_text_words": 294,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9007,6 +9387,7 @@
       "main_text_words": 303,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9018,6 +9399,7 @@
       "main_text_words": 309,
       "example_words": 30,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9029,6 +9411,7 @@
       "main_text_words": 292,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9040,6 +9423,7 @@
       "main_text_words": 288,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9051,6 +9435,7 @@
       "main_text_words": 291,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9062,6 +9447,7 @@
       "main_text_words": 288,
       "example_words": 25,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9073,6 +9459,7 @@
       "main_text_words": 289,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9084,6 +9471,7 @@
       "main_text_words": 291,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9095,6 +9483,7 @@
       "main_text_words": 299,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9106,6 +9495,7 @@
       "main_text_words": 288,
       "example_words": 27,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9117,6 +9507,7 @@
       "main_text_words": 276,
       "example_words": 26,
       "resource_cards": 11,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9128,6 +9519,7 @@
       "main_text_words": 287,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9139,6 +9531,7 @@
       "main_text_words": 293,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9150,6 +9543,7 @@
       "main_text_words": 297,
       "example_words": 28,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified"
       ]
@@ -9161,6 +9555,7 @@
       "main_text_words": 230,
       "example_words": 26,
       "resource_cards": 9,
+      "library_material_cards": 9,
       "issues": [
         "candidate_sources_not_editorially_verified",
         "main_text_under_250"
