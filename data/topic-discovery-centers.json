@@ -1,0 +1,212 @@
+[
+  {
+    "url": "/konu/sosyometri/",
+    "title": "Sosyometri",
+    "description": "Sınıf ve grup içindeki ilişki örüntülerini anlamaya yardımcı olan teknik; kullanım amacı, uygulama notları ve ilgili kaynaklarla birlikte.",
+    "label": "BİREYİ TANIMA VE DEĞERLENDİRME",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M18 61c0-11 6-18 16-18s16 7 16 18\" fill=\"#62b498\"/><circle cx=\"34\" cy=\"29\" r=\"14\" fill=\"#ffd2a3\"/><path d=\"M20 26c-2-19 30-22 29 1l-9-10-20 9\" fill=\"#73472e\"/><path d=\"M59 15h24v19H72l-8 7v-7h-5z\" fill=\"#fff\"/><path d=\"M65 22h12M65 28h8\" stroke=\"#007f68\" stroke-width=\"3\"/><path d=\"M46 48l13-8 6-13\" fill=\"none\" stroke=\"#ffd2a3\" stroke-width=\"9\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/konu/akran-zorbaligi/",
+    "title": "Akran Zorbalığı",
+    "description": "Farkındalık, öğrenci desteği, veli/öğretmen materyalleri ve güncel MEB kaynaklarıyla birlikte.",
+    "label": "RİSK VE KORUYUCU-ÖNLEYİCİ ÇALIŞMALAR",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M12 66c0-12 7-19 19-19s18 7 18 19\" fill=\"#ee9469\"/><path d=\"M46 66c0-12 8-19 19-19s19 7 19 19\" fill=\"#6dabc0\"/><circle cx=\"31\" cy=\"32\" r=\"13\" fill=\"#ffd2a3\"/><circle cx=\"65\" cy=\"32\" r=\"13\" fill=\"#ffd2a3\"/><path d=\"M18 29c-1-21 31-17 26 2l-7-10-19 8M52 29c-1-20 31-20 26 1l-18-10-8 9\" fill=\"#73472e\"/><path d=\"M48 14c-12-11-13 3 0 9 13-6 12-20 0-9\" fill=\"#e77376\"/></svg>"
+  },
+  {
+    "url": "/konu/devamsizlik/",
+    "title": "Devamsızlık",
+    "description": "Nedenleri yapılandırılmış biçimde ele almak, resmî anketlere ve önleme programlarına ulaşmak için.",
+    "label": "OKULA UYUM VE DEVAM",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M17 65V26l30-18 30 18v39\" fill=\"#65abc4\"/><path d=\"M12 28L47 5l35 23\" fill=\"none\" stroke=\"#335f87\" stroke-width=\"6\" stroke-linejoin=\"round\"/><path d=\"M40 65V45h15v20\" fill=\"#fff\"/><path d=\"M27 30h10v10H27zM58 30h10v10H58z\" fill=\"#fff0ba\"/><circle cx=\"73\" cy=\"53\" r=\"16\" fill=\"#fff\"/><path d=\"M73 43v11l8 5\" fill=\"none\" stroke=\"#007f68\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/konu/akademik-motivasyon/",
+    "title": "Akademik Motivasyon",
+    "description": "Ders motivasyonu, hedef belirleme, verimli ders çalışma ve akademik erteleme için okul PDR rehberi.",
+    "label": "AKADEMİK GELİŞİM · MOTİVASYON",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M23 65c0-13 9-19 25-19s24 6 24 19\" fill=\"#f2b24b\"/><circle cx=\"48\" cy=\"30\" r=\"16\" fill=\"#ffd2a3\"/><path d=\"M32 26c-2-19 37-22 33 5L56 17 32 26\" fill=\"#73472e\"/><path d=\"M25 53h46v19H25z\" fill=\"#fff\"/><path d=\"M34 60h28M34 65h18\" stroke=\"#69a894\" stroke-width=\"3\"/><path d=\"M76 13l2 5 6 1-5 4 2 6-5-3-5 3 1-6-4-4 6-1z\" fill=\"#ebac33\"/></svg>"
+  },
+  {
+    "url": "/konu/sinav-kaygisi/",
+    "title": "Sınav Kaygısı",
+    "description": "Kaygıyı anlamak, öğrenci/veli materyallerine ve psikoeğitim kaynaklarına ulaşmak için.",
+    "label": "AKADEMİK GELİŞİM VE ÖĞRENME",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M19 63c0-13 10-18 28-18s27 5 27 18\" fill=\"#8687d0\"/><circle cx=\"47\" cy=\"29\" r=\"15\" fill=\"#ffd2a3\"/><path d=\"M32 25c-1-19 34-20 30 5l-13-12-17 7\" fill=\"#73472e\"/><rect x=\"24\" y=\"48\" width=\"48\" height=\"25\" rx=\"4\" fill=\"#27456a\"/><circle cx=\"48\" cy=\"59\" r=\"4\" fill=\"#d5edf1\"/><rect x=\"77\" y=\"17\" width=\"12\" height=\"24\" rx=\"3\" fill=\"#fff\" stroke=\"#8687d0\" stroke-width=\"2\"/></svg>"
+  },
+  {
+    "url": "/konu/okula-uyum/",
+    "title": "Okula Uyum",
+    "description": "Okul öncesi, 1. sınıf ve 5. sınıf geçişleri; veli-öğretmen desteği ve güncel MEB uyum materyalleri.",
+    "label": "OKULA UYUM · 2026-2027",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M44 11v59\" stroke=\"#a07346\" stroke-width=\"7\"/><path d=\"M12 13h56l12 9-12 9H12z\" fill=\"#f2bc56\"/><path d=\"M30 37h52v17H30l-12-8z\" fill=\"#76b4a2\"/><path d=\"M21 22h40M39 45h29\" stroke=\"#fff\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M13 69h71\" stroke=\"#93cba6\" stroke-width=\"7\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/konu/siber-zorbalik/",
+    "title": "Siber Zorbalık",
+    "description": "Öğrenci desteği, veli görüşmesi, psikoeğitim ve MEB siber zorbalık materyalleri.",
+    "label": "DİJİTAL GÜVENLİK",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M18 61c0-11 6-18 16-18s16 7 16 18\" fill=\"#62b498\"/><circle cx=\"34\" cy=\"29\" r=\"14\" fill=\"#ffd2a3\"/><path d=\"M20 26c-2-19 30-22 29 1l-9-10-20 9\" fill=\"#73472e\"/><path d=\"M59 15h24v19H72l-8 7v-7h-5z\" fill=\"#fff\"/><path d=\"M65 22h12M65 28h8\" stroke=\"#007f68\" stroke-width=\"3\"/><path d=\"M46 48l13-8 6-13\" fill=\"none\" stroke=\"#ffd2a3\" stroke-width=\"9\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/konu/okul-reddi/",
+    "title": "Okul Reddi",
+    "description": "“Çocuk okula gitmek istemiyor” durumunu nedenleri, devamsızlık ve okul uyumuyla birlikte ele almak için.",
+    "label": "OKULA UYUM VE DEVAM",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M12 66c0-12 7-19 19-19s18 7 18 19\" fill=\"#ee9469\"/><path d=\"M46 66c0-12 8-19 19-19s19 7 19 19\" fill=\"#6dabc0\"/><circle cx=\"31\" cy=\"32\" r=\"13\" fill=\"#ffd2a3\"/><circle cx=\"65\" cy=\"32\" r=\"13\" fill=\"#ffd2a3\"/><path d=\"M18 29c-1-21 31-17 26 2l-7-10-19 8M52 29c-1-20 31-20 26 1l-18-10-8 9\" fill=\"#73472e\"/><path d=\"M48 14c-12-11-13 3 0 9 13-6 12-20 0-9\" fill=\"#e77376\"/></svg>"
+  },
+  {
+    "url": "/konu/guvenli-okul-iklimi/",
+    "title": "Güvenli Okul İklimi ve Şiddeti Önleme",
+    "description": "Okul aidiyeti, akran nezaketi, şiddeti önleme ve 2026-2027 koruyucu-önleyici okul yaklaşımı.",
+    "label": "GÜVENLİ OKUL · AİDİYET",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M17 65V26l30-18 30 18v39\" fill=\"#65abc4\"/><path d=\"M12 28L47 5l35 23\" fill=\"none\" stroke=\"#335f87\" stroke-width=\"6\" stroke-linejoin=\"round\"/><path d=\"M40 65V45h15v20\" fill=\"#fff\"/><path d=\"M27 30h10v10H27zM58 30h10v10H58z\" fill=\"#fff0ba\"/><circle cx=\"73\" cy=\"53\" r=\"16\" fill=\"#fff\"/><path d=\"M73 43v11l8 5\" fill=\"none\" stroke=\"#007f68\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/konu/ogrenciyi-tanima/",
+    "title": "Öğrenciyi Tanıma Teknikleri ve RİBA",
+    "description": "RİBA, öğrenci tanıma formları, sosyometri, görüşme ve gözlem teknikleri için okul PDR merkezi.",
+    "label": "BİREYİ TANIMA · RİBA",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M23 65c0-13 9-19 25-19s24 6 24 19\" fill=\"#f2b24b\"/><circle cx=\"48\" cy=\"30\" r=\"16\" fill=\"#ffd2a3\"/><path d=\"M32 26c-2-19 37-22 33 5L56 17 32 26\" fill=\"#73472e\"/><path d=\"M25 53h46v19H25z\" fill=\"#fff\"/><path d=\"M34 60h28M34 65h18\" stroke=\"#69a894\" stroke-width=\"3\"/><path d=\"M76 13l2 5 6 1-5 4 2 6-5-3-5 3 1-6-4-4 6-1z\" fill=\"#ebac33\"/></svg>"
+  },
+  {
+    "url": "/konu/psikolojik-saglamlik/",
+    "title": "Psikolojik Sağlamlık",
+    "description": "Okulda koruyucu faktörler, psikoeğitim, kademe bazlı MEB programları ve veli/öğretmen materyalleri.",
+    "label": "PSİKOLOJİK SAĞLAMLIK",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M19 63c0-13 10-18 28-18s27 5 27 18\" fill=\"#8687d0\"/><circle cx=\"47\" cy=\"29\" r=\"15\" fill=\"#ffd2a3\"/><path d=\"M32 25c-1-19 34-20 30 5l-13-12-17 7\" fill=\"#73472e\"/><rect x=\"24\" y=\"48\" width=\"48\" height=\"25\" rx=\"4\" fill=\"#27456a\"/><circle cx=\"48\" cy=\"59\" r=\"4\" fill=\"#d5edf1\"/><rect x=\"77\" y=\"17\" width=\"12\" height=\"24\" rx=\"3\" fill=\"#fff\" stroke=\"#8687d0\" stroke-width=\"2\"/></svg>"
+  },
+  {
+    "url": "/konu/ogrenci-esenligi-psikoegitim/",
+    "title": "Öğrenci Esenliği ve Psikoeğitim",
+    "description": "Psikoeğitim programları, dijital esenlik, sosyal-duygusal beceriler ve MEB'in 2026 esenlik içerikleri.",
+    "label": "ÖĞRENCİ ESENLİĞİ · MEB 2026",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M44 11v59\" stroke=\"#a07346\" stroke-width=\"7\"/><path d=\"M12 13h56l12 9-12 9H12z\" fill=\"#f2bc56\"/><path d=\"M30 37h52v17H30l-12-8z\" fill=\"#76b4a2\"/><path d=\"M21 22h40M39 45h29\" stroke=\"#fff\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M13 69h71\" stroke=\"#93cba6\" stroke-width=\"7\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/konu/sinif-rehberligi-etkinlikleri/",
+    "title": "Sınıf Rehberliği Etkinlikleri",
+    "description": "Uyum, iletişim, empati, duygu düzenleme, atılganlık, problem çözme ve zorbalığı önleme etkinlikleri.",
+    "label": "SINIF REHBERLİĞİ · ETKİNLİKLER",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M18 61c0-11 6-18 16-18s16 7 16 18\" fill=\"#62b498\"/><circle cx=\"34\" cy=\"29\" r=\"14\" fill=\"#ffd2a3\"/><path d=\"M20 26c-2-19 30-22 29 1l-9-10-20 9\" fill=\"#73472e\"/><path d=\"M59 15h24v19H72l-8 7v-7h-5z\" fill=\"#fff\"/><path d=\"M65 22h12M65 28h8\" stroke=\"#007f68\" stroke-width=\"3\"/><path d=\"M46 48l13-8 6-13\" fill=\"none\" stroke=\"#ffd2a3\" stroke-width=\"9\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/konu/bireysel-gorusme/",
+    "title": "Öğrenciyle Bireysel Görüşme",
+    "description": "İlk görüşme, gizlilik, not tutma, görüşmeyi sonlandırma ve raporlama için uygulama merkezi.",
+    "label": "OKUL PDR UYGULAMALARI",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M12 66c0-12 7-19 19-19s18 7 18 19\" fill=\"#ee9469\"/><path d=\"M46 66c0-12 8-19 19-19s19 7 19 19\" fill=\"#6dabc0\"/><circle cx=\"31\" cy=\"32\" r=\"13\" fill=\"#ffd2a3\"/><circle cx=\"65\" cy=\"32\" r=\"13\" fill=\"#ffd2a3\"/><path d=\"M18 29c-1-21 31-17 26 2l-7-10-19 8M52 29c-1-20 31-20 26 1l-18-10-8 9\" fill=\"#73472e\"/><path d=\"M48 14c-12-11-13 3 0 9 13-6 12-20 0-9\" fill=\"#e77376\"/></svg>"
+  },
+  {
+    "url": "/konu/veli-gorusmesi/",
+    "title": "Veli Görüşmeleri",
+    "description": "İlk görüşme, zor ve öfkeli veli, tutanak, gizlilik ve takip adımlarını birlikte ele al.",
+    "label": "VELİ İŞ BİRLİĞİ",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M17 65V26l30-18 30 18v39\" fill=\"#65abc4\"/><path d=\"M12 28L47 5l35 23\" fill=\"none\" stroke=\"#335f87\" stroke-width=\"6\" stroke-linejoin=\"round\"/><path d=\"M40 65V45h15v20\" fill=\"#fff\"/><path d=\"M27 30h10v10H27zM58 30h10v10H58z\" fill=\"#fff0ba\"/><circle cx=\"73\" cy=\"53\" r=\"16\" fill=\"#fff\"/><path d=\"M73 43v11l8 5\" fill=\"none\" stroke=\"#007f68\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/konu/rehberlik-hizmetleri/",
+    "title": "Okul Rehberlik Hizmetleri",
+    "description": "Yıllık plan, servis evrakları, yönlendirme, gizlilik, faaliyet ve yıl sonu raporları için ana merkez.",
+    "label": "MESLEKİ UYGULAMA",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M23 65c0-13 9-19 25-19s24 6 24 19\" fill=\"#f2b24b\"/><circle cx=\"48\" cy=\"30\" r=\"16\" fill=\"#ffd2a3\"/><path d=\"M32 26c-2-19 37-22 33 5L56 17 32 26\" fill=\"#73472e\"/><path d=\"M25 53h46v19H25z\" fill=\"#fff\"/><path d=\"M34 60h28M34 65h18\" stroke=\"#69a894\" stroke-width=\"3\"/><path d=\"M76 13l2 5 6 1-5 4 2 6-5-3-5 3 1-6-4-4 6-1z\" fill=\"#ebac33\"/></svg>"
+  },
+  {
+    "url": "/konu/dijital-denge/",
+    "title": "Dijital Denge ve Teknoloji Kullanımı",
+    "description": "Ekran süresi, telefon sınırları, teknoloji kullanımı ve veli iş birliği için okul PDR çerçevesi.",
+    "label": "DİJİTAL İYİ OLUŞ",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M19 63c0-13 10-18 28-18s27 5 27 18\" fill=\"#8687d0\"/><circle cx=\"47\" cy=\"29\" r=\"15\" fill=\"#ffd2a3\"/><path d=\"M32 25c-1-19 34-20 30 5l-13-12-17 7\" fill=\"#73472e\"/><rect x=\"24\" y=\"48\" width=\"48\" height=\"25\" rx=\"4\" fill=\"#27456a\"/><circle cx=\"48\" cy=\"59\" r=\"4\" fill=\"#d5edf1\"/><rect x=\"77\" y=\"17\" width=\"12\" height=\"24\" rx=\"3\" fill=\"#fff\" stroke=\"#8687d0\" stroke-width=\"2\"/></svg>"
+  },
+  {
+    "url": "/konu/ergenlik/",
+    "title": "Ergenlik Dönemi",
+    "description": "Ergen öğrenciyle iletişim, aile çatışmaları, sınır koyma ve görüşme yaklaşımı.",
+    "label": "GELİŞİM DÖNEMİ",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M44 11v59\" stroke=\"#a07346\" stroke-width=\"7\"/><path d=\"M12 13h56l12 9-12 9H12z\" fill=\"#f2bc56\"/><path d=\"M30 37h52v17H30l-12-8z\" fill=\"#76b4a2\"/><path d=\"M21 22h40M39 45h29\" stroke=\"#fff\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M13 69h71\" stroke=\"#93cba6\" stroke-width=\"7\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/konu/kariyer-gelisimi/",
+    "title": "Kariyer Gelişimi",
+    "description": "Kariyer planlama, meslek seçimi, kararsızlık ve mesleki ilgi için ana içerik merkezi.",
+    "label": "KARİYER VE MESLEKİ REHBERLİK",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M18 61c0-11 6-18 16-18s16 7 16 18\" fill=\"#62b498\"/><circle cx=\"34\" cy=\"29\" r=\"14\" fill=\"#ffd2a3\"/><path d=\"M20 26c-2-19 30-22 29 1l-9-10-20 9\" fill=\"#73472e\"/><path d=\"M59 15h24v19H72l-8 7v-7h-5z\" fill=\"#fff\"/><path d=\"M65 22h12M65 28h8\" stroke=\"#007f68\" stroke-width=\"3\"/><path d=\"M46 48l13-8 6-13\" fill=\"none\" stroke=\"#ffd2a3\" stroke-width=\"9\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/pdr-ogrencileri/",
+    "title": "PDR Öğrencileri İçin Ders ve Mesleki Gelişim",
+    "description": "Lisans dersleri, psikolojik danışma kuramları, bireyi tanıma ve mesleki rehberlik içerikleri.",
+    "label": "PDR ÖĞRENCİLERİ",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M12 66c0-12 7-19 19-19s18 7 18 19\" fill=\"#ee9469\"/><path d=\"M46 66c0-12 8-19 19-19s19 7 19 19\" fill=\"#6dabc0\"/><circle cx=\"31\" cy=\"32\" r=\"13\" fill=\"#ffd2a3\"/><circle cx=\"65\" cy=\"32\" r=\"13\" fill=\"#ffd2a3\"/><path d=\"M18 29c-1-21 31-17 26 2l-7-10-19 8M52 29c-1-20 31-20 26 1l-18-10-8 9\" fill=\"#73472e\"/><path d=\"M48 14c-12-11-13 3 0 9 13-6 12-20 0-9\" fill=\"#e77376\"/></svg>"
+  },
+  {
+    "url": "/pdr-ags/",
+    "title": "PDR AGS / ÖABT",
+    "description": "Resmî kaynaklar, çıkmış sorular, konu dağılımı, çalışma programı ve P2 tahmini.",
+    "label": "PDR ADAYI · 2026",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M17 65V26l30-18 30 18v39\" fill=\"#65abc4\"/><path d=\"M12 28L47 5l35 23\" fill=\"none\" stroke=\"#335f87\" stroke-width=\"6\" stroke-linejoin=\"round\"/><path d=\"M40 65V45h15v20\" fill=\"#fff\"/><path d=\"M27 30h10v10H27zM58 30h10v10H58z\" fill=\"#fff0ba\"/><circle cx=\"73\" cy=\"53\" r=\"16\" fill=\"#fff\"/><path d=\"M73 43v11l8 5\" fill=\"none\" stroke=\"#007f68\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/atama/",
+    "title": "PDR Atama ve Millî Eğitim Akademisi",
+    "description": "Akademi yerleştirme, kontenjan ve atama verilerini doğru okuma rehberleri.",
+    "label": "PDR ADAYI · AKADEMİ",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M23 65c0-13 9-19 25-19s24 6 24 19\" fill=\"#f2b24b\"/><circle cx=\"48\" cy=\"30\" r=\"16\" fill=\"#ffd2a3\"/><path d=\"M32 26c-2-19 37-22 33 5L56 17 32 26\" fill=\"#73472e\"/><path d=\"M25 53h46v19H25z\" fill=\"#fff\"/><path d=\"M34 60h28M34 65h18\" stroke=\"#69a894\" stroke-width=\"3\"/><path d=\"M76 13l2 5 6 1-5 4 2 6-5-3-5 3 1-6-4-4 6-1z\" fill=\"#ebac33\"/></svg>"
+  },
+  {
+    "url": "/yks/",
+    "title": "YKS Tercih Rehberi",
+    "description": "Tercih listesi, bölüm seçimi, kılavuz, YÖK Atlas ve sık tercih hataları.",
+    "label": "TERCİH DANIŞMANLIĞI",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M19 63c0-13 10-18 28-18s27 5 27 18\" fill=\"#8687d0\"/><circle cx=\"47\" cy=\"29\" r=\"15\" fill=\"#ffd2a3\"/><path d=\"M32 25c-1-19 34-20 30 5l-13-12-17 7\" fill=\"#73472e\"/><rect x=\"24\" y=\"48\" width=\"48\" height=\"25\" rx=\"4\" fill=\"#27456a\"/><circle cx=\"48\" cy=\"59\" r=\"4\" fill=\"#d5edf1\"/><rect x=\"77\" y=\"17\" width=\"12\" height=\"24\" rx=\"3\" fill=\"#fff\" stroke=\"#8687d0\" stroke-width=\"2\"/></svg>"
+  },
+  {
+    "url": "/lgs/",
+    "title": "LGS Tercih Rehberi",
+    "description": "Merkezî ve yerel yerleştirme, yüzdelik dilim, lise seçimi ve nakil süreci.",
+    "label": "TERCİH DANIŞMANLIĞI",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M44 11v59\" stroke=\"#a07346\" stroke-width=\"7\"/><path d=\"M12 13h56l12 9-12 9H12z\" fill=\"#f2bc56\"/><path d=\"M30 37h52v17H30l-12-8z\" fill=\"#76b4a2\"/><path d=\"M21 22h40M39 45h29\" stroke=\"#fff\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M13 69h71\" stroke=\"#93cba6\" stroke-width=\"7\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/kriz/",
+    "title": "Okulda Kriz ve Psikososyal Destek",
+    "description": "Kriz müdahale planı, yas, kendine zarar verme ve intihar riski durumlarında okul yaklaşımı.",
+    "label": "KRİZ VE GÜVENLİK",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M18 61c0-11 6-18 16-18s16 7 16 18\" fill=\"#62b498\"/><circle cx=\"34\" cy=\"29\" r=\"14\" fill=\"#ffd2a3\"/><path d=\"M20 26c-2-19 30-22 29 1l-9-10-20 9\" fill=\"#73472e\"/><path d=\"M59 15h24v19H72l-8 7v-7h-5z\" fill=\"#fff\"/><path d=\"M65 22h12M65 28h8\" stroke=\"#007f68\" stroke-width=\"3\"/><path d=\"M46 48l13-8 6-13\" fill=\"none\" stroke=\"#ffd2a3\" stroke-width=\"9\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/konu/mahremiyet-beden-guvenligi/",
+    "title": "Mahremiyet ve Beden Güvenliği",
+    "description": "Kişisel sınırlar, hayır diyebilme, güvenli yetişkinler, dijital mahremiyet ve çocuk koruma bağlantısı.",
+    "label": "MAHREMİYET · BEDEN GÜVENLİĞİ",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M12 66c0-12 7-19 19-19s18 7 18 19\" fill=\"#ee9469\"/><path d=\"M46 66c0-12 8-19 19-19s19 7 19 19\" fill=\"#6dabc0\"/><circle cx=\"31\" cy=\"32\" r=\"13\" fill=\"#ffd2a3\"/><circle cx=\"65\" cy=\"32\" r=\"13\" fill=\"#ffd2a3\"/><path d=\"M18 29c-1-21 31-17 26 2l-7-10-19 8M52 29c-1-20 31-20 26 1l-18-10-8 9\" fill=\"#73472e\"/><path d=\"M48 14c-12-11-13 3 0 9 13-6 12-20 0-9\" fill=\"#e77376\"/></svg>"
+  },
+  {
+    "url": "/cocuk-koruma/",
+    "title": "Çocuk Koruma ve Bildirim",
+    "description": "İhmal ve istismar şüphesi, bildirim süreci, gizlilik ve kurumlar arası iş birliği.",
+    "label": "ÇOCUK KORUMA",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M17 65V26l30-18 30 18v39\" fill=\"#65abc4\"/><path d=\"M12 28L47 5l35 23\" fill=\"none\" stroke=\"#335f87\" stroke-width=\"6\" stroke-linejoin=\"round\"/><path d=\"M40 65V45h15v20\" fill=\"#fff\"/><path d=\"M27 30h10v10H27zM58 30h10v10H58z\" fill=\"#fff0ba\"/><circle cx=\"73\" cy=\"53\" r=\"16\" fill=\"#fff\"/><path d=\"M73 43v11l8 5\" fill=\"none\" stroke=\"#007f68\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "url": "/rehberlik/yillik-plan/",
+    "title": "Rehberlik Yıllık Planı 2026-2027",
+    "description": "Kademe bazlı güncel plan örnekleri ve kontrol listeleri.",
+    "label": "PRATİK REHBER · 2026-2027",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M23 65c0-13 9-19 25-19s24 6 24 19\" fill=\"#f2b24b\"/><circle cx=\"48\" cy=\"30\" r=\"16\" fill=\"#ffd2a3\"/><path d=\"M32 26c-2-19 37-22 33 5L56 17 32 26\" fill=\"#73472e\"/><path d=\"M25 53h46v19H25z\" fill=\"#fff\"/><path d=\"M34 60h28M34 65h18\" stroke=\"#69a894\" stroke-width=\"3\"/><path d=\"M76 13l2 5 6 1-5 4 2 6-5-3-5 3 1-6-4-4 6-1z\" fill=\"#ebac33\"/></svg>"
+  },
+  {
+    "url": "/rehberlik/servis-evraklari/",
+    "title": "Rehberlik Servisi Evrakları",
+    "description": "Öğrenci, veli, plan ve uygulama belgelerine tek merkezden ulaş.",
+    "label": "PRATİK MERKEZ",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M19 63c0-13 10-18 28-18s27 5 27 18\" fill=\"#8687d0\"/><circle cx=\"47\" cy=\"29\" r=\"15\" fill=\"#ffd2a3\"/><path d=\"M32 25c-1-19 34-20 30 5l-13-12-17 7\" fill=\"#73472e\"/><rect x=\"24\" y=\"48\" width=\"48\" height=\"25\" rx=\"4\" fill=\"#27456a\"/><circle cx=\"48\" cy=\"59\" r=\"4\" fill=\"#d5edf1\"/><rect x=\"77\" y=\"17\" width=\"12\" height=\"24\" rx=\"3\" fill=\"#fff\" stroke=\"#8687d0\" stroke-width=\"2\"/></svg>"
+  },
+  {
+    "url": "/rehberlik/yeni-atanan-rehber-ogretmen/",
+    "title": "Yeni Atanan Rehber Öğretmen",
+    "description": "İlk hafta için sade ve uygulanabilir başlangıç sırası.",
+    "label": "YENİ BAŞLANGIÇ",
+    "icon": "<svg viewBox=\"0 0 96 76\" aria-hidden=\"true\"><ellipse cx=\"48\" cy=\"67\" rx=\"38\" ry=\"7\" fill=\"#ffffff88\"/><path d=\"M44 11v59\" stroke=\"#a07346\" stroke-width=\"7\"/><path d=\"M12 13h56l12 9-12 9H12z\" fill=\"#f2bc56\"/><path d=\"M30 37h52v17H30l-12-8z\" fill=\"#76b4a2\"/><path d=\"M21 22h40M39 45h29\" stroke=\"#fff\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M13 69h71\" stroke=\"#93cba6\" stroke-width=\"7\" stroke-linecap=\"round\"/></svg>"
+  }
+]

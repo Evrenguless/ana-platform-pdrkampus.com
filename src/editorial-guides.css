@@ -1,10 +1,13 @@
 /* Controls and layout only; cards use the shared library design. */
-.editorial-guides{margin:30px 0 48px;scroll-margin-top:100px}
+.topic-discovery{margin:30px 0 48px;scroll-margin-top:100px}
 .editorial-controls{display:grid;grid-template-columns:minmax(0,2fr) minmax(180px,1fr);gap:18px;align-items:start;margin:24px 0 8px}
 .editorial-controls label{display:block;margin-bottom:8px;font-size:14px;font-weight:700}
 .editorial-controls input,.editorial-controls select{width:100%;min-height:52px;border:1px solid #c6d8df;border-radius:11px;background:white;padding:12px;font:inherit;color:#153e36}
-.editorial-guides [hidden],.editorial-controls[hidden]{display:none!important}
+.topic-discovery [hidden],.editorial-controls[hidden]{display:none!important}
 .editorial-more{display:block;margin:24px auto;padding:12px 24px;background:#007f68;color:white;border:0;border-radius:8px;font:inherit;cursor:pointer}
-.editorial-guides .resource-actions a,.guide2 .resource-actions a{color:#007f68;font-weight:700;text-decoration:none}
+.topic-discovery .resource-actions a,.guide2 .resource-actions a{color:#007f68;font-weight:700;text-decoration:none}
 .guide2 .library-results{margin:18px 0}
 @media(max-width:720px){.editorial-controls{grid-template-columns:1fr;gap:12px}}
+
+.topic-discovery h3{margin:0}
+#uygulama-rehberleri{scroll-margin-top:100px}

@@ -53,13 +53,16 @@ class ProductionTests(unittest.TestCase):
                 self.assertNotIn('guide2-card"',public)
                 self.assertNotIn('editoryal taslağıdır',public)
 
-    def test_shared_library_cards_and_progressive_controls(self):
+    def test_unified_topic_cards_and_progressive_controls(self):
         self.assertEqual(self.listing.count('data-editorial-card'),500)
-        self.assertEqual(self.listing.count('EDITORIAL-500-START'),1)
-        self.assertIn('library-results',self.listing)
+        self.assertEqual(self.listing.count('data-topic-card'),530)
+        self.assertEqual(self.listing.count('id="topicCards"'),1)
+        self.assertNotIn('500 uygulama rehberi',self.listing)
+        self.assertEqual(self.listing.count('class="topic-resource-art"'),530)
+        self.assertIn('topic-index-grid',self.listing)
         self.assertIn('id="guide-search"',self.listing)
         self.assertIn('id="guide-group"',self.listing)
-        self.assertIn('href="konu/sosyometri/"',self.listing)
+        self.assertIn('href="/konu/sosyometri/"',self.listing)
         self.assertTrue(protected(ROOT)['pass'],protected(ROOT))
 
     def test_preview_selection_does_not_depend_on_directory_order(self):

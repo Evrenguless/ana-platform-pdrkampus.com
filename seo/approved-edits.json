@@ -779,9 +779,9 @@
     },
     "konular.html": {
       "baseline_sha256": "f24fac3cc39ffaa58b5620754c91439a94a14a0d4d83aeba3f0e7ca2a9cb8458",
-      "reviewed_sha256": "47f46a32a590e94cdcec1a2f4c3c4ea7969420600ee8991b0866a8a32b8f5d56",
+      "reviewed_sha256": "16f3d7edb02964dda53dab6c00f98691e393fa19648cf68164285794a81f0854",
       "reason": "User authorized publishing the 500 editorial guides to Konular on 2026-10-14; metadata, routes and existing inventory verified. This is not specialist approval.",
-      "runtime_sha256": "9258b68178c8e76daea7283c7b03fb3a6efe563cfd0b25a6352ea6a610838b28"
+      "runtime_sha256": "d1d86149e8d9737b95fb86a59a4e113cb2384565e291b743cf02b775a1d680ce"
     },
     "kriz/index.html": {
       "baseline_sha256": "8f6b7baf6426a8e9e70f577afcd6e4bc4cf0b68c0da9a375a2528f5652f52852",

@@ -19,18 +19,7 @@ from sitemap_tools import TAG, read_urlset, eligible_outputs
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = 'https://pdrkampus.com'
-START = '<!-- EDITORIAL-500-START -->'
-END = '<!-- EDITORIAL-500-END -->'
 E = html.escape
-
-
-def shared_card(url, title, description, category, visual=None, action='Rehberi aç'):
-    cover = visual or '<span class="resource-format-tile">REHBER<small>'+E(category)+'</small></span>'
-    return ('<article class="document-card library-document resource-card surface-card" data-editorial-card>'
-            '<a class="resource-card-cover" href="'+E(url, quote=True)+'" aria-label="'+E(title+' — '+action, quote=True)+'">'+cover+'</a>'
-            '<div class="resource-content"><div class="document-card-meta"><span>'+E(category)+'</span><span>Uygulama rehberi</span></div>'
-            '<h3><a href="'+E(url, quote=True)+'">'+E(title)+'</a></h3><p class="library-source">PDR Kampüs</p>'
-            '<p class="resource-detail">'+E(description)+'</p></div><div class="resource-actions"><a href="'+E(url, quote=True)+'">'+E(action)+' →</a></div></article>')
 
 
 def library_card(match):
@@ -104,7 +93,7 @@ def build():
     existing_rows = {t['slug']:t for t in topics['topics'] if t['slug'] in slugs}
     if any(t.get('editorialCollection') != 'editorial-500' for t in existing_rows.values()):
         raise ValueError('Existing topic dictionary collision')
-    outputs = {}; cards = []; groups = set()
+    outputs = {}
     for guide in guides:
         slug = guide['slug']
         if not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*',slug): raise ValueError('Unsafe slug')
@@ -112,9 +101,7 @@ def build():
         if (ROOT/key).exists() and slug not in existing_rows:
             raise ValueError('Existing public route collision: '+key)
         outputs[key] = production_page((builder.OUTPUT/(slug+'.html')).read_text(),guide)
-        label, cat = grouping(guide); groups.add(label)
-        card = shared_card('/konu/'+slug+'/',guide['title'],guide['summary'],label)
-        cards.append(card.replace('data-editorial-card', 'data-editorial-card data-guide-group="'+E(label,quote=True)+'"',1))
+        label, cat = grouping(guide)
         old_rows.append({'id':'topic_'+slug.replace('-','_'),'slug':slug,'name':guide['title'],
             'categoryId':cat,'aliases':[],'useCases':['Okul PDR uygulaması'], 'indexable':True,
             'contentStatus':'published','canonicalPath':'/konu/'+slug+'/','editorialCollection':'editorial-500',
@@ -122,21 +109,8 @@ def build():
             'relatedTopics':[]})
     topics['topics'] = old_rows; topics['updatedAt']='2026-10-14'
     outputs['data/topics.json'] = json.dumps(topics,ensure_ascii=False,indent=2)+'\n'
-    options = ''.join('<option value="'+E(g,quote=True)+'">'+E(g)+'</option>' for g in sorted(groups))
-    listing = (START+'\n<section id="uygulama-rehberleri" class="editorial-guides" data-resource-design="editorial" aria-labelledby="editorial-title">'
-       '<h2 id="editorial-title">500 uygulama rehberi</h2><p>Okulda karşılaştığın konuya göre rehberleri ara; uygulama adımlarını, örnekleri ve ilgili kaynakları incele.</p>'
-       '<div class="editorial-controls" hidden><div class="library-discovery"><label for="guide-search">Rehberlerde ara</label>'
-       '<input id="guide-search" type="search" placeholder="Örneğin: BEP, sınav kaygısı, veli görüşmesi" aria-controls="editorial-results"></div>'
-       '<div><label for="guide-group">Konu alanı</label><select id="guide-group" aria-controls="editorial-results"><option value="">Bütün alanlar</option>'+options+'</select></div></div>'
-       '<p id="guide-count" role="status" aria-live="polite">500 rehber</p><div id="editorial-results" class="library-results">'+''.join(cards)+'</div>'
-       '<p id="guide-empty" hidden>Bu aramayla eşleşen rehber bulunamadı. Başka bir sözcük veya konu alanı deneyebilirsin.</p>'
-       '<button id="guide-more" class="editorial-more" type="button" hidden>Daha fazla rehber göster</button></section>\n'+END)
-    source = (ROOT/'konular.html').read_text()
-    if START in source:
-        source = source[:source.index(START)]+listing+source[source.index(END)+len(END):]
-    else:
-        source = source.replace('<nav class="topic-discovery-nav"', listing+'\n<nav class="topic-discovery-nav"',1)
-        source = source.replace('</head>','<link rel="stylesheet" href="/src/resource-catalog.css"><link rel="stylesheet" href="/src/resource-design.css"><link rel="stylesheet" href="/src/visual-refresh.css"><link rel="stylesheet" href="/src/editorial-guides.css?v=20261014"><script src="/src/editorial-guides.js?v=20261014" defer></script></head>',1)
+    from build_topic_discovery import render
+    source = render((ROOT/'konular.html').read_text(), guides, grouping)
     outputs['konular.html'] = source
     tree = read_urlset(ROOT).getroot()
     for guide in guides:
