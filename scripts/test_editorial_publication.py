@@ -3,6 +3,8 @@ import html
 import json
 import re
 import unittest
+import tempfile
+from unittest.mock import patch
 from pathlib import Path
 import build_first_editorial_batch as builder
 from publish_editorial_guides import production_page
@@ -59,6 +61,17 @@ class ProductionTests(unittest.TestCase):
         self.assertIn('id="guide-group"',self.listing)
         self.assertIn('href="konu/sosyometri/"',self.listing)
         self.assertTrue(protected(ROOT)['pass'],protected(ROOT))
+
+    def test_preview_selection_does_not_depend_on_directory_order(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root=Path(folder); images=root/'assets/resource-previews';images.mkdir(parents=True)
+            second=images/'test-resource-02.jpg';first=images/'test-resource-01.jpg'
+            second.touch();first.touch()
+            row={'id':'test-resource','title':'Test kaynağı','source':'Kurum'}
+            with patch.object(builder,'ROOT',root),patch.object(builder,'resources',return_value=[row]),patch.object(builder,'detail_page',return_value='/kaynak/test/'),patch.object(builder,'primary_source_cards',return_value=''),patch.object(Path,'glob',return_value=[second,first]):
+                rendered=builder.source_cards('test-guide')
+            self.assertIn('/assets/resource-previews/test-resource-01.jpg',rendered)
+            self.assertNotIn('/assets/resource-previews/test-resource-02.jpg',rendered)
 
     def test_transformation_removes_foreign_schema_and_escapes_metadata(self):
         guide={'slug':'test','title':'BEP < örnek','summary':'Aile & ekip'}

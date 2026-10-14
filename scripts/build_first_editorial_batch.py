@@ -305,8 +305,8 @@ def source_cards(slug):
         if not url:continue
         preview=r.get("previewImage") or r.get("preview") or ""
         if not preview:
-            files=list((ROOT/"assets/resource-previews").glob(rid+"-*.jpg"))
-            if not files:files=list((ROOT/"assets/resource-previews").glob(rid+"*.png"))
+            files=sorted((ROOT/"assets/resource-previews").glob(rid+"-*.jpg"))
+            if not files:files=sorted((ROOT/"assets/resource-previews").glob(rid+"*.png"))
             if files:preview="/"+str(files[0].relative_to(ROOT))
         if isinstance(preview,str) and preview.startswith("/") and not (ROOT/preview.lstrip("/")).is_file():preview=""
         visual=f'<img src="{esc(preview)}" alt="{title} belge önizlemesi" loading="lazy">' if preview else '<span class="guide2-card-fallback" aria-hidden="true">PDF / MATERYAL</span>'
