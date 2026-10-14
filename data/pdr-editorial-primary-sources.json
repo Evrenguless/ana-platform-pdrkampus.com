@@ -1,0 +1,518 @@
+{
+  "schema_version": 1,
+  "publication_approved": false,
+  "review_scope": "Primary source identity and limited topic relevance checked; no blanket document, clinical or legal approval. Examples are original editorial teaching scenarios.",
+  "sources": {
+    "meb-bep": {
+      "title": "Bireyselleştirilmiş Eğitim Programı: Tüm Öğretmenler İçin Yol Haritası",
+      "url": "https://orgm.meb.gov.tr/www/bireysellestirilmis-egitim-programi/icerik/2097",
+      "publisher": "MEB Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
+      "scope": "BEP kılavuzu ve örnek formatlara kurumsal erişim. Rehberdeki kurgusal hedef ve sayılar öğrenci verisine göre uyarlanır.",
+      "evidence": "Yayın sayfası ve bağlı kılavuz PDF incelendi.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "meb-crisis": {
+      "title": "Psikososyal Destek: Yönerge ve okul destek materyalleri",
+      "url": "https://orgm.meb.gov.tr/www/psikososyal-destek-1/icerik/3070",
+      "publisher": "MEB Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
+      "scope": "Okul psikososyal hizmetlerinin görev ve süreç kaynakları. Kurumun güncel acil ve çocuk koruma usulleri ayrıca esas alınır.",
+      "evidence": "Yayın sayfası ve bağlı 2025 tarihli yönerge PDF incelendi.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "who-pfa": {
+      "title": "Psychological first aid: Guide for field workers",
+      "url": "https://www.who.int/publications/i/item/9789241548205",
+      "publisher": "WHO, War Trauma Foundation ve World Vision International",
+      "scope": "Zorlayıcı olay sonrası insana saygılı pratik destek çerçevesi. Türkiye için adli bildirim veya klinik değerlendirme kılavuzu değildir.",
+      "evidence": "WHO yayın sayfası, yazar kurumlar ve kapsam açıklaması incelendi.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "nice-self-harm": {
+      "title": "Self-harm: assessment, management and preventing recurrence (NG225)",
+      "url": "https://www.nice.org.uk/guidance/ng225/chapter/recommendations",
+      "publisher": "NICE",
+      "scope": "Kendine zarar sonrası sağlık ve eğitim ortamlarına ilişkin öneriler; özellikle 1.6 ve 1.8. İngiltere kılavuzu Türkiye mevzuatının yerine geçmez.",
+      "evidence": "Resmî arama indeksindeki öneri metni incelendi; doğrudan sayfa alma denemesi başarısız. Tüm öneriler için uzman incelemesi gerekir.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "child-protection": {
+      "title": "Çocuk Hizmetleri Genel Müdürlüğü: Kanunlar",
+      "url": "https://www.aile.gov.tr/chgm/mevzuat/kanunlar/",
+      "publisher": "Aile ve Sosyal Hizmetler Bakanlığı",
+      "scope": "5395 sayılı Çocuk Koruma Kanunu dâhil resmî mevzuat bağlantıları. Güncel yükümlülük ve uygulanacak bildirim yolu yetkili süreçte kontrol edilmelidir.",
+      "evidence": "Bakanlık kanunlar sayfası ve 5395 bağlantısı görüldü; bağlı PDF doğrudan alınamadı. Hukuki güncellik onayı verilmedi.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "kvkk-principles": {
+      "title": "Kişisel veri işlemede genel ilkeler",
+      "url": "https://www.kvkk.gov.tr/Icerik/6606/General-Principles-in-Processing-of-Personal-Data",
+      "publisher": "Kişisel Verileri Koruma Kurumu",
+      "scope": "Amaçla bağlantılı, sınırlı ve ölçülü veri işleme ilkeleri (İngilizce kurumsal açıklama). Okul dosyası için tek başına saklama süresi veya hukuki yetki belirlemez.",
+      "evidence": "Kurumsal ilke açıklaması doğrudan incelendi.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "meb-guidance": {
+      "title": "Rehberlik ve psikolojik danışma hizmetleri mevzuatı",
+      "url": "https://orgm.meb.gov.tr/www/rehberlik-hizmetleri-mevzuat/icerik/1359",
+      "publisher": "MEB Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
+      "scope": "Okul rehberlik hizmetlerinin kurumsal görev ve usullerine başvuru. Kurgusal etkinliklerin etkililiğini veya klinik önerileri doğrulamaz.",
+      "evidence": "Kurumsal mevzuat dizini doğrudan incelendi.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "meb-program": {
+      "title": "Okul Rehberlik ve Psikolojik Danışma Hizmetleri Programı",
+      "url": "https://orgm.meb.gov.tr/www/okul-rehberlik-ve-psikolojik-danisma-hizmetleri-programi/icerik/3231",
+      "publisher": "MEB Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü",
+      "scope": "Okul ve sınıf rehberlik programları, hedef iş akışı ve kazanım kaynakları. Sayfadaki özgün kurgusal etkinlikler MEB tarafından onaylanmış örnek diye sunulmaz.",
+      "evidence": "Resmî arama indeksinde program, hedef iş akışı ve kazanım bağlantıları görüldü.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "osym": {
+      "title": "ÖSYM sınav ve kılavuz duyuruları",
+      "url": "https://www.osym.gov.tr/",
+      "publisher": "Ölçme, Seçme ve Yerleştirme Merkezi",
+      "scope": "İlgili yılın resmî YKS kılavuz ve güncelleme duyurularına erişim. Araştırma çalışması başvuru veya yerleşme garantisi değildir.",
+      "evidence": "ÖSYM ana sayfası ve sınav duyuru yapısı doğrudan incelendi.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "yok-atlas": {
+      "title": "Yükseköğretim Program Atlası",
+      "url": "https://yokatlas.yok.gov.tr/",
+      "publisher": "Yükseköğretim Kurulu",
+      "scope": "Program araştırması için YÖK Atlas; bağlayıcı güncel koşullar ilgili yılın ÖSYM kılavuzundan ayrıca kontrol edilir.",
+      "evidence": "Resmî alt sayfalar arama indeksinde görüldü; ana sayfa ve doğrudan alt sayfa erişimi zaman aşımına uğradı. Canlı erişim teyidi yok.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "onet": {
+      "title": "O*NET OnLine: Meslek görevleri ve çalışma koşulları",
+      "url": "https://www.onetonline.org/",
+      "publisher": "O*NET / U.S. Department of Labor",
+      "scope": "Meslek görev ve becerilerini araştırma başlangıcı (İngilizce, ABD bağlamı). Türkiye için eğitim yetkisi, ücret veya iş garantisi vermez; kullanılan envanterin kendi kılavuzu ayrıca gerekir.",
+      "evidence": "Resmî görev, çalışma bağlamı ve beceri araştırma sayfası doğrudan incelendi.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    },
+    "gsb-services": {
+      "title": "GSB e-Hizmetler: Yurt, burs ve kredi işlemleri",
+      "url": "https://www.gsb.gov.tr/tr/sayfa/5041-e-hizmetler",
+      "publisher": "Gençlik ve Spor Bakanlığı",
+      "scope": "Yurt, burs ve kredi işlemleri için resmî hizmet yolları. Ücret, kontenjan veya destek alma garantisi değildir; ilgili yıl koşulları kontrol edilir.",
+      "evidence": "Kurumsal e-Hizmetler sayfası ve ilgili hizmet başlıkları doğrudan incelendi.",
+      "checked_on": "2026-10-13",
+      "review_status": "identity_and_scope_only"
+    }
+  },
+  "guides": {
+    "bep-ders-uyarlamasi": [
+      "meb-bep"
+    ],
+    "bep-guclu-yonler": [
+      "meb-bep"
+    ],
+    "bep-hazirlama-okul-ekibi": [
+      "meb-bep"
+    ],
+    "bep-hedef-izleme-toplantisi": [
+      "meb-bep"
+    ],
+    "bep-ogrenci-katilimi": [
+      "meb-bep"
+    ],
+    "bep-olculebilir-hedef": [
+      "meb-bep"
+    ],
+    "bep-toplantisi-gundemi": [
+      "meb-bep"
+    ],
+    "cocukta-guvenli-yardim-isteme": [
+      "meb-guidance",
+      "meb-program"
+    ],
+    "ergenlik-veli-rehberligi": [
+      "meb-guidance"
+    ],
+    "ilkokul-arkadas-anlasmazligi": [
+      "meb-program"
+    ],
+    "ilkokul-isbirlikci-oyun": [
+      "meb-program"
+    ],
+    "ilkokul-istenmeyen-temasa-hayir-deme": [
+      "meb-crisis"
+    ],
+    "kariyer-aile-meslek-beklentisi": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-bolum-ders-planini-okuma": [
+      "yok-atlas",
+      "osym"
+    ],
+    "kariyer-bolum-tanitiminda-bilgi-dogrulama": [
+      "yok-atlas",
+      "osym"
+    ],
+    "kariyer-coklu-ilgi-alani-olan-ogrenci": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-egitim-yolu-arastirma": [
+      "yok-atlas",
+      "osym"
+    ],
+    "kariyer-gelecek-mesleklerini-arastirma": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-guclu-yon-ve-beceri-eslestirme": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-ilgi-envanteri-sonuclarini-konusma": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-is-ortami-tercihleri": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-kariyer-kararinda-belirsizlik": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-kariyer-plani-donemlik-izleme": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-meslek-seciminde-akran-etkisi": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-meslek-seciminde-tek-dogru-yanilgisi": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-meslek-tanitim-semineri": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-meslek-uzmanina-soru-hazirlama": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-mesleki-degerleri-karsilastirma": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-mesleki-karar-secenek-tablosu": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-mesleklere-iliskin-onyargi": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-mesleklerin-gunluk-gorevleri": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-mezuniyet-sonrasi-alternatifler": [
+      "yok-atlas",
+      "osym"
+    ],
+    "kariyer-ogrenim-maliyetini-arastirma": [
+      "gsb-services",
+      "yok-atlas"
+    ],
+    "kariyer-resm-program-kosullari": [
+      "yok-atlas",
+      "osym"
+    ],
+    "kariyer-sehir-ve-ulasim-kosullari": [
+      "gsb-services",
+      "yok-atlas"
+    ],
+    "kariyer-staj-ve-gonulluluk-firsatlari": [
+      "onet",
+      "meb-guidance"
+    ],
+    "kariyer-universite-yasami-beklentileri": [
+      "gsb-services",
+      "yok-atlas"
+    ],
+    "kriz-acil-guvenlik-degerlendirmesi": [
+      "meb-crisis"
+    ],
+    "kriz-afet-sonrasi-okula-donus": [
+      "meb-crisis",
+      "who-pfa"
+    ],
+    "kriz-aile-ici-siddet-anlatimi": [
+      "meb-crisis",
+      "child-protection"
+    ],
+    "kriz-gorusmede-ayrinti-zorlamama": [
+      "meb-crisis",
+      "who-pfa"
+    ],
+    "kriz-guvenilir-yetiskin-destegi": [
+      "meb-crisis"
+    ],
+    "kriz-guvenli-uzman-yonlendirme": [
+      "meb-crisis"
+    ],
+    "kriz-guvenlik-planini-guncelleme": [
+      "meb-crisis",
+      "nice-self-harm"
+    ],
+    "kriz-ihmal-suphesini-bildirme": [
+      "meb-crisis",
+      "child-protection"
+    ],
+    "kriz-istismar-suphesinde-yaklasim": [
+      "meb-crisis",
+      "child-protection"
+    ],
+    "kriz-izlem-ve-destek-devri": [
+      "meb-crisis"
+    ],
+    "kriz-kaybedilen-yakin-sonrasi-okul": [
+      "meb-crisis",
+      "who-pfa"
+    ],
+    "kriz-kendine-zarar-ifadesi": [
+      "meb-crisis",
+      "nice-self-harm"
+    ],
+    "kriz-kriz-sonrasi-devamsizlik": [
+      "meb-crisis"
+    ],
+    "kriz-kriz-sonrasi-sinif-rutini": [
+      "meb-crisis"
+    ],
+    "kriz-krizde-ogrenci-mahremiyeti": [
+      "meb-crisis",
+      "kvkk-principles"
+    ],
+    "kriz-krizde-ogretmen-koordinasyonu": [
+      "meb-crisis"
+    ],
+    "kriz-krizde-veli-bilgilendirme": [
+      "meb-crisis"
+    ],
+    "kriz-kurum-ici-acil-gorevler": [
+      "meb-crisis"
+    ],
+    "kriz-ogrenciye-acil-yardim-yolu": [
+      "meb-crisis"
+    ],
+    "kriz-okulda-zarar-verme-riski": [
+      "meb-crisis"
+    ],
+    "kriz-risk-bildirimini-kaydetme": [
+      "meb-crisis",
+      "kvkk-principles"
+    ],
+    "kriz-supheli-olayda-bilgi-guvenligi": [
+      "meb-crisis",
+      "kvkk-principles"
+    ],
+    "kriz-tehdit-iceren-akran-davranisi": [
+      "meb-crisis"
+    ],
+    "kriz-zorlayici-olay-sonrasi-sinif": [
+      "meb-crisis",
+      "who-pfa"
+    ],
+    "kriz-zorlayici-olayda-soylenti": [
+      "meb-crisis"
+    ],
+    "lgs-kaygi-grup-calismasi": [
+      "meb-program"
+    ],
+    "nakille-gelen-ogrenci-uyumu": [
+      "meb-program"
+    ],
+    "ogrenci-hedef-belirleme-gorusmesi": [
+      "meb-program"
+    ],
+    "ogrenci-intihar-ifadesinde-acil-destek": [
+      "meb-crisis",
+      "nice-self-harm"
+    ],
+    "ogrenci-risk-bildirimi-ilk-adim": [
+      "meb-crisis"
+    ],
+    "ogretmen-zorbalik-gozlem-formu": [
+      "meb-guidance",
+      "meb-program"
+    ],
+    "ogretmenle-ogrenci-vaka-gorusmesi": [
+      "meb-guidance"
+    ],
+    "okul-aidiyetini-gelistirme": [
+      "meb-program"
+    ],
+    "okulda-ihmal-istismar-bildirimi": [
+      "meb-crisis",
+      "child-protection"
+    ],
+    "okulda-ihmal-suphesinde-ilk-adim": [
+      "meb-crisis",
+      "child-protection"
+    ],
+    "okulda-kriz-ilk-degerlendirme": [
+      "meb-crisis"
+    ],
+    "okulda-kriz-sonrasi-rutin": [
+      "meb-crisis"
+    ],
+    "okulda-kriz-sonrasi-sinif-bilgilendirmesi": [
+      "meb-crisis"
+    ],
+    "okulda-yalnizlik-ogrenci-gorusmesi": [
+      "meb-program"
+    ],
+    "ortaokul-akran-baskisi": [
+      "meb-program"
+    ],
+    "oz-saygi-sinif-etkinligi": [
+      "meb-program"
+    ],
+    "ozel-egitim-ailenin-gozlem-katkisi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-aileyle-donemlik-hedef": [
+      "meb-bep"
+    ],
+    "ozel-egitim-akran-katiliminin-guvenligi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-alternatif-katilim-yontemi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-bep-degerlendirme-kaydi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-bep-ekibi-gorev-dagilimi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-bep-hedef-olcutu": [
+      "meb-bep"
+    ],
+    "ozel-egitim-bep-kazanim-izleme": [
+      "meb-bep"
+    ],
+    "ozel-egitim-bep-performans-gozlemi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-bep-toplanti-gundemi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-destek-egitim-koordinasyonu": [
+      "meb-bep"
+    ],
+    "ozel-egitim-duyusal-gereksinime-duyarlilik": [
+      "meb-bep"
+    ],
+    "ozel-egitim-egitimde-erisilebilir-materyal": [
+      "meb-bep"
+    ],
+    "ozel-egitim-farkli-yanit-verme-yollari": [
+      "meb-bep"
+    ],
+    "ozel-egitim-gecislerde-ongorulebilirlik": [
+      "meb-bep"
+    ],
+    "ozel-egitim-gorev-suresi-uyarlamasi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-gorsel-yonerge-uyarlamasi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-islevsel-iletisim-firsatlari": [
+      "meb-bep"
+    ],
+    "ozel-egitim-kapsayici-grup-etkinligi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-kaynastirma-sinif-destegi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-ogrencinin-guclu-yonleri": [
+      "meb-bep"
+    ],
+    "ozel-egitim-okul-ici-kurum-is-birligi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-olumlu-davranis-destegi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-ram-degerlendirmesi-sonrasi": [
+      "meb-bep"
+    ],
+    "ozel-egitim-sinif-ici-destek-duzeni": [
+      "meb-bep"
+    ],
+    "ozel-egitim-uyarlama-ise-yariyor-mu": [
+      "meb-bep"
+    ],
+    "ozel-egitim-veli-isbirligi": [
+      "meb-bep"
+    ],
+    "ram-yonlendirme-gorusmesi": [
+      "meb-bep"
+    ],
+    "rehberlik-faaliyet-raporu": [
+      "kvkk-principles",
+      "meb-guidance"
+    ],
+    "rehberlik-servisine-basvuru": [
+      "meb-guidance"
+    ],
+    "sinav-oz-bakim-plani": [
+      "meb-guidance"
+    ],
+    "sinav-sonrasi-geri-bildirim": [
+      "meb-program"
+    ],
+    "sinif-rehberlik-etkinligi-tasarimi": [
+      "meb-program"
+    ],
+    "sosyal-duygusal-hedef-yazma": [
+      "meb-program"
+    ],
+    "uyku-ve-ogrenme-ogrenci": [
+      "meb-guidance"
+    ],
+    "veli-iletisim-etkinligi": [
+      "meb-guidance"
+    ],
+    "veli-toplantisinda-gizlilik": [
+      "kvkk-principles",
+      "meb-guidance"
+    ],
+    "yas-sonrasi-veli-iletisimi": [
+      "meb-crisis",
+      "who-pfa"
+    ],
+    "yks-bolum-meslek-arastirmasi": [
+      "yok-atlas",
+      "osym"
+    ],
+    "zorbalik-veli-ilk-bilgilendirme": [
+      "meb-guidance",
+      "meb-program"
+    ]
+  }
+}

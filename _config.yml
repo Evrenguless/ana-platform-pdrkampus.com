@@ -2,3 +2,4 @@
 exclude:
   - _staging
   - .academic-scans
+  - drafts

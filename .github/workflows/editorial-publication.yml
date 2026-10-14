@@ -1,0 +1,21 @@
+name: Editorial guide publication
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  editorial:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify reproducible 500-guide publication
+        run: python scripts/publish_editorial_guides.py --check
+      - name: Verify manuscripts, source cards and publication routes
+        run: |
+          python -m unittest discover -s scripts -p 'test_editorial*.py'
+          python scripts/test_audit_500_publication_readiness.py

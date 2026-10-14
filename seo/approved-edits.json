@@ -779,9 +779,9 @@
     },
     "konular.html": {
       "baseline_sha256": "f24fac3cc39ffaa58b5620754c91439a94a14a0d4d83aeba3f0e7ca2a9cb8458",
-      "reviewed_sha256": "b3d516f2de30b528b44b88178c168f5d62ea74c22725a1c081f0394d2301d0b3",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
-      "runtime_sha256": "148dc626adbd8de301da0a2c926bfa122bfc932fc0a31d0abcaa05dbbf054231"
+      "reviewed_sha256": "47f46a32a590e94cdcec1a2f4c3c4ea7969420600ee8991b0866a8a32b8f5d56",
+      "reason": "User authorized publishing the 500 editorial guides to Konular on 2026-10-14; metadata, routes and existing inventory verified. This is not specialist approval.",
+      "runtime_sha256": "9258b68178c8e76daea7283c7b03fb3a6efe563cfd0b25a6352ea6a610838b28"
     },
     "kriz/index.html": {
       "baseline_sha256": "8f6b7baf6426a8e9e70f577afcd6e4bc4cf0b68c0da9a375a2528f5652f52852",
@@ -1241,7 +1241,8 @@
     },
     "sitemap.xml": {
       "baseline_sha256": "d3cc7b7448ac4ba6d3ae809821b6e5298b14d509f8f7844b48c09fd2715701c2",
-      "reviewed_sha256": "e40617d838f367c07f8f792ed490742353d5d490051a3453d6aa36dc42da0546"
+      "reviewed_sha256": "e40617d838f367c07f8f792ed490742353d5d490051a3453d6aa36dc42da0546",
+      "reason": "User authorized publishing the 500 editorial guides to Konular on 2026-10-14; metadata, routes and existing inventory verified. This is not specialist approval."
     },
     "topluluk.html": {
       "baseline_sha256": "e73b19a12fd7d33801327f61799969e46685844e3504de5c4e9835352c14d1b9",
@@ -1412,8 +1413,8 @@
     },
     "data/topics.json": {
       "baseline_sha256": "1a7aed26ebfd1b911f2adc0141fbee555e8dc954ea3b7965dafd4de2ad58ad6c",
-      "reviewed_sha256": "2c3115ab271be2963fec354c78c84272326e3bf0f9c91fadbe2be23f35810907",
-      "reason": "Reviewed topic dictionary for first publication batch."
+      "reviewed_sha256": "d6923a5dac62f8a342f00607b6e448a14d5d5f93c65d723d4f68793251297459",
+      "reason": "User authorized publishing the 500 editorial guides to Konular on 2026-10-14; metadata, routes and existing inventory verified. This is not specialist approval."
     },
     "src/menu.js": {
       "baseline_sha256": "c92db3188af3e0cc6e1678471cfcf344ecccb8e0ede5b628f5bc0c4d90714f5e",
