@@ -1,0 +1,22 @@
+/* Homepage bundles reuse the library cover, content and action structure. */
+.home-content-layout{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:40px;max-width:1580px;margin:0 auto;padding:0 32px 36px;align-items:start}
+.home-content-feed{min-width:0}
+:root body:has(.header) .home-content-feed>.wrap,:root body:has(.header) .home-content-feed .featured-stand-shell{width:100%;max-width:none;padding-left:0;padding-right:0}
+.home-document-packs{min-width:0;padding-top:26px;color:var(--refresh-ink,#102344)}
+.pack-heading{margin-bottom:20px}.pack-heading h2{font:800 21px/1.35 Manrope,Arial,sans-serif;letter-spacing:-.6px;margin:7px 0 8px}.pack-heading p{font-size:12px;line-height:1.7;color:var(--refresh-muted,#61718a);margin:0}
+.document-pack-list{display:grid;gap:18px;align-items:start}
+.document-pack{min-width:0;overflow:hidden;border:1px solid var(--refresh-line,#dfe8ed);border-radius:14px;background:#fff}
+:root body:has(.header) .document-pack .pack-cover{position:relative;display:flex;justify-content:center;align-items:flex-end;gap:0;height:126px;padding:16px 26px 0;overflow:hidden;background:#edf5f8;border-bottom:1px solid var(--refresh-line,#dfe8ed)}
+:root body:has(.header) .document-pack .pack-cover img{width:71px;height:100px;object-fit:cover;object-position:top;border:1px solid #d8e3e8;border-radius:4px 4px 0 0;box-shadow:0 3px 12px #10234414;flex:none}
+:root body:has(.header) .document-pack .pack-cover img:first-child{transform:translate(9px,8px) rotate(-9deg)}:root body:has(.header) .document-pack .pack-cover img:nth-child(2){z-index:1}:root body:has(.header) .document-pack .pack-cover img:nth-child(3){transform:translate(-9px,8px) rotate(9deg)}
+.pack-count{position:absolute;z-index:2;bottom:9px;right:10px;background:white;border:1px solid #dfe8ed;border-radius:5px;padding:4px 7px;color:#3d665b;font:700 10px/1.3 Manrope,Arial,sans-serif}
+.document-pack .resource-content{padding:16px 17px 12px}.pack-label{font-size:8px;font-weight:800;letter-spacing:.1em;color:var(--refresh-green,#367f6d)}
+:root body:has(.header) .document-pack h3{font:800 15px/1.5 Manrope,Arial,sans-serif;margin:7px 0;color:var(--refresh-ink,#102344)}
+.document-pack .resource-content p{font-size:12px;line-height:1.7;color:var(--refresh-muted,#61718a);margin:0}
+.document-pack .pack-content{padding:0 17px 16px}.pack-content summary{display:flex;align-items:center;justify-content:center;min-height:40px;border:1px solid #c7e9dd;border-radius:8px;background:#eaf9f3;color:#006b57;font-size:11px;font-weight:800;cursor:pointer;list-style:none}.pack-content summary::-webkit-details-marker{display:none}.pack-content summary:hover{background:#dff2eb}.pack-content summary:focus-visible,.pack-content a:focus-visible,.pack-library-link:focus-visible{outline:2px solid #006b57;outline-offset:3px}.pack-open-label{display:none}.pack-content[open] summary{font-size:0}.pack-content[open] .pack-open-label{display:inline;font-size:11px}
+.pack-content ul{padding:3px 0 0;margin:12px 0 0;list-style:none}.pack-content li+li{border-top:1px solid #edf1f3}.pack-content li a{display:flex;align-items:center;min-height:44px;padding:9px 0;font-size:12px;line-height:1.6;color:#214d43;text-decoration:underline;text-decoration-color:#b6cec5;text-underline-offset:3px}.pack-content>p{font-size:10px;line-height:1.6;color:var(--refresh-muted,#61718a);margin:9px 0 0}.pack-library-link{display:block;margin-top:18px;min-height:44px;padding:10px 0;font-size:12px;font-weight:700;color:#367f6d}
+@media(min-width:1200px) and (max-width:1399px){.home-content-layout{gap:28px;grid-template-columns:minmax(0,1fr) 260px}.home-content-feed .topic-discovery-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:1199px){.home-content-layout{grid-template-columns:1fr;gap:8px;max-width:1280px;padding-inline:28px}.home-document-packs{padding-top:12px}.document-pack-list{grid-template-columns:repeat(3,minmax(0,1fr))}.pack-heading h2{font-size:23px}}
+@media(max-width:760px){.home-content-layout{padding:0 18px 24px}.document-pack-list{grid-template-columns:1fr}:root body:has(.header) .document-pack .pack-cover{height:138px}:root body:has(.header) .document-pack .pack-cover img{width:80px;height:114px}.pack-heading h2{font-size:21px}.document-pack .resource-content{padding:16px 18px 12px}.document-pack .pack-content{padding:0 18px 18px}}
+
+@media(max-width:1199px){.home-content-feed{display:contents}.home-content-feed>*{order:2;min-width:0}.home-content-feed>#featuredResourceStand{order:0}.home-document-packs{order:1;margin-bottom:24px}}

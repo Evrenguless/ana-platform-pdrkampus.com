@@ -461,8 +461,8 @@
     },
     "index.html": {
       "baseline_sha256": "bedeaaf558157b85dd4766ff700dc1c97859876bb357eead559c774399945895",
-      "reviewed_sha256": "75a1c3d290a20d532d371b71cbb06734200618f6a891ce85c0290b8426b2c251",
-      "reason": "User-requested arrow-free menu styling; application scripts and source data preserved",
+      "reviewed_sha256": "ed310874bb6c0157257da1a0b26c6491500ed3ea222fe8dd944fba62e564f606",
+      "reason": "User-requested homepage document bundles: responsive right sidebar with existing catalogue previews and canonical document links; application scripts and source records preserved.",
       "runtime_sha256": "208f5cfe96953870d3cc2783acdbe5de89ee102b8765c9761ead9bffac11830c"
     },
     "kariyer/kariyer-gelisimi-ortaokul-lise/index.html": {
