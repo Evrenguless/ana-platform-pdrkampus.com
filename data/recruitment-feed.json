@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-10-14T16:45:15+03:00",
+  "updatedAt": "2026-10-16T01:20:28+03:00",
   "records": [
     {
       "id": "db21f412-186a-4d5c-bc46-03dff9ea17fb",
@@ -75,6 +75,36 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-19",
+      "sourceCurrent": true
+    },
+    {
+      "id": "727b6946-c0fe-493f-a9e1-a0d668eabca2",
+      "title": "TÜRK AKREDİTASYON KURUMU GENEL SEKRETERLİĞİ - SÖZLEŞMELİ BİLİŞİM PERSONELİ SINAV İLANI",
+      "institution": "TÜRK AKREDİTASYON KURUMU GENEL SEKRETERLİĞİ",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=727b6946-c0fe-493f-a9e1-a0d668eabca2",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/4c0aeb79-161b-49d9-9d0e-64e687679ce2.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-16",
+      "sourceCurrent": true
+    },
+    {
+      "id": "56b19c9c-b32c-45ae-8fdc-101d776c8df3",
+      "title": "TÜRK AKREDİTASYON KURUMU GENEL SEKRETERLİĞİ - AKREDİTASYON UZMAN YARDIMCISI ALIMI",
+      "institution": "TÜRK AKREDİTASYON KURUMU GENEL SEKRETERLİĞİ",
+      "unit": "",
+      "category": "A Grubu Memur (Kariyer Meslek)",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=56b19c9c-b32c-45ae-8fdc-101d776c8df3",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/4c0aeb79-161b-49d9-9d0e-64e687679ce2.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-16",
       "sourceCurrent": true
     },
     {
