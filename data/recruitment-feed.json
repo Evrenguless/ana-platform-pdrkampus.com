@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-10-16T10:11:27+03:00",
+  "updatedAt": "2026-10-16T15:26:55+03:00",
   "records": [
     {
       "id": "db21f412-186a-4d5c-bc46-03dff9ea17fb",
@@ -72,6 +72,21 @@
       "deadline": null,
       "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=a14f0db5-110e-4656-a977-7b6b17b55fbb",
       "logoUrl": "https://kariyerkapisi.gov.tr/UPS/b5ef0b05-fa3d-4f00-a71e-1b0a484433fa.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-19",
+      "sourceCurrent": true
+    },
+    {
+      "id": "72e593aa-e1b5-43c4-a4c5-63da01a63ef9",
+      "title": "YARGITAY BAŞKANLIĞI - 2026 SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+      "institution": "YARGITAY BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=72e593aa-e1b5-43c4-a4c5-63da01a63ef9",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/3ba01002-8ec5-4628-9e23-7caabb071484.png",
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-19",
@@ -420,7 +435,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-02",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "cb98ad26-9f19-467b-97f1-6c657b2c1593",
