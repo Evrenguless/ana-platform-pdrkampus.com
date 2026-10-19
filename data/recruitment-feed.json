@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-10-19T02:14:06+03:00",
+  "updatedAt": "2026-10-19T10:47:57+03:00",
   "records": [
     {
       "id": "4850e095-8b16-4aba-9956-555740a41146",
@@ -72,6 +72,21 @@
       "deadline": "2026-10-26T18:00:00+03:00",
       "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=826fbdb8-f082-4294-9ac6-cd0abd98a7c9",
       "logoUrl": "https://kariyerkapisi.gov.tr/UPS/20db5f91-de4a-4167-af52-7a68bdfa626f.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-19",
+      "sourceCurrent": true
+    },
+    {
+      "id": "e53c369b-3913-48dc-8e41-be3a6392c249",
+      "title": "KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ - PERSONEL ALIM İLANI (9 KİŞİLİK)",
+      "institution": "KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ",
+      "unit": "",
+      "category": "İşçi İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=e53c369b-3913-48dc-8e41-be3a6392c249",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/57942f57-5004-4956-ad48-d5c30ed6d453.png",
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-19",
@@ -330,7 +345,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-12",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "17bdedb4-3b36-4f67-9543-d6755941032b",
