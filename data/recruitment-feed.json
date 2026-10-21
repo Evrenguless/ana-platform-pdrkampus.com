@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-10-20T23:36:55+03:00",
+  "updatedAt": "2026-10-21T13:10:07+03:00",
   "records": [
     {
       "id": "4850e095-8b16-4aba-9956-555740a41146",
@@ -75,6 +75,21 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-26",
+      "sourceCurrent": true
+    },
+    {
+      "id": "0f54adef-6e76-4b95-b503-03f415523085",
+      "title": "TÜRKİYE CUMHURİYETİ DEVLET DEMİRYOLLARI TAŞIMACILIK ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ - 166 SÜREKLİ İŞÇİ İSTİHDAMI",
+      "institution": "TÜRKİYE CUMHURİYETİ DEVLET DEMİRYOLLARI TAŞIMACILIK ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ",
+      "unit": "",
+      "category": "Sürekli İşçi",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=0f54adef-6e76-4b95-b503-03f415523085",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/513288ed-ed9f-4a87-a746-c7c0b23679ea.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-21",
       "sourceCurrent": true
     },
     {
