@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-10-21T13:10:07+03:00",
+  "updatedAt": "2026-10-22T13:12:45+03:00",
   "records": [
     {
       "id": "4850e095-8b16-4aba-9956-555740a41146",
@@ -75,6 +75,36 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-26",
+      "sourceCurrent": true
+    },
+    {
+      "id": "7726dd9c-56dd-49e0-a0b2-a098e6c57b8a",
+      "title": "GALATASARAY ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+      "institution": "GALATASARAY ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=7726dd9c-56dd-49e0-a0b2-a098e6c57b8a",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/7a07edea-c637-4182-9ed6-e95e1dd4ae6c.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-22",
+      "sourceCurrent": true
+    },
+    {
+      "id": "5976effc-ff4b-49b1-a5d7-c08d82d81636",
+      "title": "TARIM VE ORMAN BAKANLIĞI - SÖZLEŞMELİ BİLİŞİM PERSONEL ALIMI",
+      "institution": "TARIM VE ORMAN BAKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=5976effc-ff4b-49b1-a5d7-c08d82d81636",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/b9638ed1-17b7-4508-9f6e-34a7bda0bab2.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-10-22",
       "sourceCurrent": true
     },
     {
