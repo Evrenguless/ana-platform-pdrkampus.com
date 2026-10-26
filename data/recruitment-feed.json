@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-10-26T22:21:22+03:00",
+  "updatedAt": "2026-10-27T02:54:41+03:00",
   "records": [
     {
       "id": "4850e095-8b16-4aba-9956-555740a41146",
@@ -150,7 +150,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-21",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "d419889e-c536-4404-b91f-b319b84f1fa9",
@@ -210,7 +210,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-19",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "a14f0db5-110e-4656-a977-7b6b17b55fbb",
@@ -405,7 +405,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-12",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "d72bc5ed-a952-4452-9fea-b05616038765",
@@ -465,7 +465,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-12",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "0ad1bd8f-f6ad-4a03-8f10-7a42c33cf44a",
@@ -480,7 +480,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-12",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "2fcec3f5-8c49-41d2-9ab4-9aead6433459",
