@@ -1321,7 +1321,7 @@
     },
     "personel-alim-ilanlari/index.html": {
       "baseline_sha256": "866b330b1f4bb3ed6e01a3dc78097e3cb0c237b1059d60d7668ed147dfabfb36",
-      "reviewed_sha256": "0de3a4afe6c9e3cad549f43dfe0c2e7bf9dc04df28e218485aab518d8687120a",
+      "reviewed_sha256": "0062ecff72f54f88b7d14660700bdb5b34fd9d4936c2bb8196fae2309355aca1",
       "reason": "Generated official public recruitment snapshot; application and other datasets preserved",
       "runtime_sha256": "7f4bd2cc02a7af659b01083656aa603c22aed83537d04e0629ac3f911610b808"
     },
