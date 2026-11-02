@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-02T09:05:16+03:00",
+  "updatedAt": "2026-11-02T18:54:56+03:00",
   "records": [
     {
       "id": "35749108-46fb-4b62-bc89-3700f1525802",
@@ -108,6 +108,36 @@
       "sourceCurrent": true
     },
     {
+      "id": "a9f4af35-682a-4030-b699-68d7e4ad1546",
+      "title": "KÜLTÜR VE TURİZM BAKANLIĞI - 162 SÖZLEŞMELİ KÜTÜPHANECİ ALIMI",
+      "institution": "KÜLTÜR VE TURİZM BAKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=a9f4af35-682a-4030-b699-68d7e4ad1546",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/b3648e8c-54c8-4622-a40d-66cc220f15c3.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-02",
+      "sourceCurrent": true
+    },
+    {
+      "id": "a1ba338b-81ac-4dfb-9cc3-dc53c4c438cd",
+      "title": "YILDIZ TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ - YILDIZ TEKNİK ÜNİVERSİTESİ SÖZLEŞMELİ BİLİŞİM PERSONELİ İLANI (2026/2)",
+      "institution": "YILDIZ TEKNİK ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=a1ba338b-81ac-4dfb-9cc3-dc53c4c438cd",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/0ea172bd-08f7-4482-835f-2711c50a6173.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-02",
+      "sourceCurrent": true
+    },
+    {
       "id": "11272843-b0f1-470e-af31-cc176fa0e5d4",
       "title": "MEVLANA KALKINMA AJANSI - Personel Alım İlanı-İnşaat Mühendisliği (1 Uzman)",
       "institution": "MEVLANA KALKINMA AJANSI",
@@ -117,6 +147,21 @@
       "deadline": null,
       "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=11272843-b0f1-470e-af31-cc176fa0e5d4",
       "logoUrl": "https://kariyerkapisi.gov.tr/UPS/f4585584-ae3e-4781-8db7-27b95460c8c6.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-02",
+      "sourceCurrent": true
+    },
+    {
+      "id": "01e546b7-c1d0-4364-b010-7eea088f49cd",
+      "title": "YÜKSEKÖĞRETİM KURULU BAŞKANLIĞI (YÖK) - SÖZLEŞMELİ BİLİŞİM PERSONELİ ALIM İLANI",
+      "institution": "YÜKSEKÖĞRETİM KURULU BAŞKANLIĞI (YÖK)",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=01e546b7-c1d0-4364-b010-7eea088f49cd",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/ae443556-cd79-41f2-acb5-d6395686f068.png",
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-02",
