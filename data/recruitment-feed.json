@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-02T18:54:56+03:00",
+  "updatedAt": "2026-11-03T02:31:44+03:00",
   "records": [
     {
       "id": "35749108-46fb-4b62-bc89-3700f1525802",
@@ -360,7 +360,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-19",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "72e593aa-e1b5-43c4-a4c5-63da01a63ef9",
@@ -390,7 +390,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-19",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "727b6946-c0fe-493f-a9e1-a0d668eabca2",
@@ -420,7 +420,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-16",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "4f7526a3-f38f-4117-913d-df615e9d8b78",
