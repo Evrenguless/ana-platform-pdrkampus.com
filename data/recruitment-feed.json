@@ -1,7 +1,22 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-04T12:14:08+03:00",
+  "updatedAt": "2026-11-04T20:19:33+03:00",
   "records": [
+    {
+      "id": "9ff8772a-9434-42fb-84ad-f8080f79640d",
+      "title": "KARABAĞLAR BELEDİYE BAŞKANLIĞI - Çevre Mühendisi Alımı (2 Adet)",
+      "institution": "KARABAĞLAR BELEDİYE BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=9ff8772a-9434-42fb-84ad-f8080f79640d",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/edb41e31-f3b8-4462-903f-461794d9c1e7.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-30",
+      "sourceCurrent": true
+    },
     {
       "id": "6e7cd2e5-b3d8-4c95-916b-6e1ff234b0b0",
       "title": "ZAFER KALKINMA AJANSI - UZMAN PERSONEL ALIMI (Kasım 2026)",
