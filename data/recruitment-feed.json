@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-07T02:10:13+03:00",
+  "updatedAt": "2026-11-07T13:11:43+03:00",
   "records": [
     {
       "id": "9ff8772a-9434-42fb-84ad-f8080f79640d",
@@ -120,6 +120,36 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-09",
+      "sourceCurrent": true
+    },
+    {
+      "id": "877cfe70-3bd5-4c0f-93e4-64da34f001f5",
+      "title": "MİLLİ SARAYLAR İDARESİ BAŞKANLIĞI - 38 SÖZLEŞMELİ PERSONEL ALINMASINA İLİŞKİN SINAV DUYURUSU",
+      "institution": "MİLLİ SARAYLAR İDARESİ BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=877cfe70-3bd5-4c0f-93e4-64da34f001f5",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/851d0960-ba6e-40ed-99cc-2dc6e9867ec2.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-07",
+      "sourceCurrent": true
+    },
+    {
+      "id": "26f5b7a7-865c-483f-9045-2f77e5e7fb9d",
+      "title": "İZMİR DEMOKRASİ ÜNİVERSİTESİ REKTÖRLÜĞÜ - İZMİR DEMOKRASİ ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ AVUKAT ALIM İLANI (S2026/3)",
+      "institution": "İZMİR DEMOKRASİ ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=26f5b7a7-865c-483f-9045-2f77e5e7fb9d",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/f18e8617-86cc-42cf-9634-e4e5f94c9f07.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-07",
       "sourceCurrent": true
     },
     {
