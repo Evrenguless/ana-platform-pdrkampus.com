@@ -1,0 +1,29 @@
+# PDR Kampüs
+
+> PDR Kampüs, Türkiye'deki okul psikolojik danışmanları (rehber öğretmenler), PDR öğrencileri ve AGS/ÖABT PDR adayları için Türkçe bir kaynak ve araç platformudur. Resmî MEB ve RAM kaynaklarını konu ve kademeye göre düzenler, her kaynakta özgün yayın sayfasına bağlantı verir.
+
+Kaynak dosyalarının içeriği hazırlayan kurumlara aittir; PDR Kampüs dosyaları yeniden yayımlamaz, kaynak bilgisini ve resmî bağlantıyı sunar. Sayfalar tanı koymaz, okul ekibinin mesleki değerlendirmesinin yerini almaz.
+
+## Ana bölümler
+
+- [Kütüphane](https://pdrkampus.com/kutuphane.html): Rehberlik formları, broşürler, sunumlar, etkinlikler ve programlar. Kademe (okul öncesi, ilkokul, ortaokul, lise) ve konuya göre filtrelenir.
+- [Konular](https://pdrkampus.com/konular.html): Akran zorbalığı, devamsızlık, sınav kaygısı, dijital denge, kariyer gelişimi gibi konularda uygulama rehberleri.
+- [Rehberlik servisi rehberleri](https://pdrkampus.com/rehberlik/okul-rehberlik-programi-nasil-hazirlanir/): Yıllık plan, faaliyet raporu, servis evrakları ve görev tanımları.
+- [BEP](https://pdrkampus.com/bep/nasil-hazirlanir/): Bireyselleştirilmiş eğitim programı hazırlama ve toplantı süreçleri.
+- [Kriz ve çocuk koruma](https://pdrkampus.com/kriz/): Kriz müdahale planı ve bildirim süreçleri.
+- [Kariyer ve YKS/LGS](https://pdrkampus.com/kariyer/kariyer-planlama/): Meslek seçimi, tercih ve yönlendirme rehberleri.
+
+## AGS / ÖABT PDR adayları
+
+- [PDR AGS rehberi](https://pdrkampus.com/pdr-ags/): Konu-soru dağılımı, çalışma programı ve resmî kitapçıklar.
+- [Çıkmış sorular](https://cikmissorular.pdrkampus.com/): PDR ÖABT/AGS çıkmış soruları konu bazında.
+- [AGS/PDR puan ve sıralama analizi](https://analiz.pdrkampus.com/): Gerçek aday verisiyle kalibre edilmiş puan ve sıralama tahmini.
+
+## Araçlar
+
+- [Rehberlik norm analizi](https://norm.pdrkampus.com/): Okulların öğrenci sayısına göre rehber öğretmen normu; il ve ilçe istatistikleri.
+
+## İletişim
+
+- [Hakkımızda](https://pdrkampus.com/hakkimizda.html)
+- [İletişim](https://pdrkampus.com/iletisim.html)
