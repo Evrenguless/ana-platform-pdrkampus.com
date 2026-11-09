@@ -76,7 +76,7 @@ def editorial(root):
     config=read(root/'seo/config.json');base=config['base_url'];report=audit(root,config);coverage=[];texts={};questions=[]
     for row in report['pages']:
         raw=(root/row['file']).read_text();page=Page(raw);text=page.main_text.strip();url=row['url']
-        if row['noindex']:continue
+        if row['noindex'] or row.get('redirect'):continue
         source_links=[link for link in page.links if urlsplit(link).scheme in ('http','https') and urlsplit(link).hostname not in ('pdrkampus.com','analiz.pdrkampus.com','norm.pdrkampus.com')]
         headings=[html.unescape(re.sub('<[^>]+>','',x)).strip() for x in re.findall(r'<h[23]\b[^>]*>(.*?)</h[23]>',raw,re.S)]
         qs=[x for x in headings if '?' in x]
