@@ -50,6 +50,7 @@ class Page(HTMLParser):
         self.links, self.canonicals, self.schemas, self.errors = [], [], [], []
         self.title, self.description, self.h1, self.main_text = '', '', [], ''
         self.noindex = False
+        self.redirect = False
         self.primary_h1 = []
         self._stack = []
         self._heading_visible = False
@@ -74,6 +75,7 @@ class Page(HTMLParser):
         if tag == 'link' and 'canonical' in a.get('rel', '').split(): self.canonicals.append(a.get('href', ''))
         if tag == 'meta':
             if a.get('name') == 'description': self.description = a.get('content', '')
+            if a.get('http-equiv', '').lower() == 'refresh': self.redirect = True
             if a.get('name', '').lower() in ('robots','googlebot'):
                 self.noindex |= 'noindex' in a.get('content','').lower()
     def handle_data(self, data):
@@ -128,17 +130,19 @@ def audit(root, config):
     rows = []
     for url, (path, page) in inventory.items():
         issues = []
-        if not page.noindex and page.canonicals != [url]: issues.append('canonical_missing_multiple_or_mismatch')
-        if not page.noindex and not page.title: issues.append('missing_title')
-        elif not page.noindex and titles[page.title] > 1: issues.append('duplicate_title')
-        if not page.noindex and not page.description: issues.append('missing_description')
-        elif not page.noindex and descriptions[page.description] > 1: issues.append('duplicate_description')
-        if not page.noindex and len(page.primary_h1) != 1: issues.append('primary_h1_count_' + str(len(page.primary_h1)))
+        quiet = page.noindex or page.redirect
+        if not quiet and page.canonicals != [url]: issues.append('canonical_missing_multiple_or_mismatch')
+        if not quiet and not page.title: issues.append('missing_title')
+        elif not quiet and titles[page.title] > 1: issues.append('duplicate_title')
+        if not quiet and not page.description: issues.append('missing_description')
+        elif not quiet and descriptions[page.description] > 1: issues.append('duplicate_description')
+        if not quiet and len(page.primary_h1) != 1: issues.append('primary_h1_count_' + str(len(page.primary_h1)))
         if page.errors: issues.append('jsonld_syntax_error')
         if page.noindex and url in sitemap: issues.append('noindex_in_sitemap')
-        if not page.noindex and not inbound[url] and url != config['base_url']+'/': issues.append('static_inbound_not_observed')
+        if page.redirect and url in sitemap: issues.append('redirect_in_sitemap')
+        if not quiet and not inbound[url] and url != config['base_url']+'/': issues.append('static_inbound_not_observed')
         rows.append({'url':url, 'file':path.relative_to(root).as_posix(), 'issues':issues,
-                     'noindex':page.noindex, 'sitemap':url in sitemap, 'inbound_count':len(inbound[url])})
+                     'noindex':page.noindex, 'redirect':page.redirect, 'sitemap':url in sitemap, 'inbound_count':len(inbound[url])})
     groups = defaultdict(list)
     for name in config.get('catalogues', []):
         for entry in read(root / name):
