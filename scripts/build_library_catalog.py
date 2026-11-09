@@ -160,7 +160,7 @@ if route_map_file.exists():
             outputs[old_key] = (
                 '<!doctype html><html lang="tr"><head><meta charset="utf-8">'
                 '<meta name="viewport" content="width=device-width,initial-scale=1">'
-                '<meta name="robots" content="noindex,follow">'
+                # noindex yok: Google meta-refresh(0) + canonical'ı kalıcı yönlendirme sayar.
                 '<link rel="canonical" href="' + target + '">'
                 '<meta http-equiv="refresh" content="0;url=' + target + '">'
                 '<script>location.replace(' + json.dumps(new) + ');</script>'
@@ -205,6 +205,13 @@ if route_map_file.exists():
 from repair_resource_links import repair
 for key in list(outputs):
     if key.endswith('.html'): outputs[key]=repair(ROOT,outputs[key])
+# İç bağlantıları taşınmış eski adresler yerine doğrudan yeni adreslere yönelt.
+if route_map_file.exists():
+    _route_map = json.loads(route_map_file.read_text(encoding="utf-8"))
+    _old_link = re.compile(r'(https://pdrkampus\.com)?(/kaynak(?:-detay)?/[A-Za-z0-9_./%-]+?/)(?=["\'#?])')
+    for key in list(outputs):
+        if key.endswith('.html') and '<meta http-equiv="refresh"' not in outputs[key]:
+            outputs[key] = _old_link.sub(lambda mo: (mo.group(1) or '') + _route_map[mo.group(2)] if mo.group(2) in _route_map else mo.group(0), outputs[key])
 outputs.update(eligible_outputs(ROOT, ET.fromstring(outputs['sitemap.xml']), outputs)[0])
 check = '--check' in sys.argv
 for path,content in outputs.items():

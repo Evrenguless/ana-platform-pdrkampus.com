@@ -9,20 +9,20 @@
     },
     "kaynak-detay/farkindalik-ilkokul/index.html": {
       "baseline_sha256": "ab67eb9980570b7c9fe8215ed9807f63608df4c7ab43091e8d7c35f961e32c96",
-      "reviewed_sha256": "b821c72c925c3f25fd1cf84cee6f2b8edb9cac86c19d7bc2c711a19fed27c1b9",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "107d84295f65abf1294a38103b4ce484d16a8a5ee6d20315f00b51fab08426d4",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "bbf5436fdd766496f080d0441a5fab87def480428149f740f2317ed5d612b16c"
     },
     "kaynak-detay/ogretmen-brosur/index.html": {
       "baseline_sha256": "79e39e07bc4223f8a03562eeea1348ad51aab4e6fb1964d61b1db0be7436ee08",
-      "reviewed_sha256": "0361004e88f9804135b4f0e745f0f2f372ff393ebfdf68ac0372990044c35eca",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "828361982b8929c896365e091a65b74fd4b74bcc4b9ce5fff2c070d981f2afa2",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "39e019f91a9dddd22f5435d7355a16117df1ec624d90d099b7f5896098c69af8"
     },
     "kaynak-detay/veli-brosur/index.html": {
       "baseline_sha256": "bad056e335d441c8ddc26a4388c5b8a6084ab873511adbb4dc75df182b703fc4",
-      "reviewed_sha256": "b1ac46d99999aaf4155c12e17b4ae33e91548e085624523a8c25524565f22e54",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "52d362181e7974985c3413af7ba10a2a0e43931df57f277b366bed84f9446c53",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "57c75215097553e59f818fee8e4f60c7c379bcf3a386fe707b5609cf4e740d63"
     },
     "konu/dijital-denge/index.html": {
@@ -171,8 +171,8 @@
     },
     "kutuphane/katalog/sayfa/3/index.html": {
       "baseline_sha256": "ec7576d071a79cf44fa19848820103424eef54117e39e76751186c4baa472b0c",
-      "reviewed_sha256": "155d4dbf7a3129d9e031d4b7eda8af27f87a448c9099c03af435c578a7107f6d",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "b4e318578d3751c6fac6000839189d23ef65604202b46e471b702c102c666c24",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed"
     },
     "kutuphane/katalog/sayfa/30/index.html": {
@@ -249,8 +249,8 @@
     },
     "scripts/build_library_catalog.py": {
       "baseline_sha256": "70afdfe2a3f3d9f1f2db2770fe44d28abde79b939b4acf2b298de2c133608425",
-      "reviewed_sha256": "3f07a72ec6ffc91e1086483b11a70359c9ec22522d0ef4d14c03d1492317ffa6",
-      "reason": "Reviewed integration of approved SEO title policy; existing page generation logic preserved."
+      "reviewed_sha256": "cbde6e9c4c3e661d75b77df5d2143ae4fb2950b348eb7e9d06440d8288c8faf3",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi."
     },
     "scripts/check_links.py": {
       "baseline_sha256": "380fb46f02b6e82b5f5df97ce322d7a69a2fa4ebcd147afd541880b5f2271125",
@@ -461,9 +461,9 @@
     },
     "index.html": {
       "baseline_sha256": "bedeaaf558157b85dd4766ff700dc1c97859876bb357eead559c774399945895",
-      "reviewed_sha256": "7236942f9f0950b6dfcdbb35ec6fbabc16de9aa1dd5b28a9be93353ab3508ad7",
+      "reviewed_sha256": "4505f7ec6d2edcbef9b89bb95e70987129a79ae3ad6aa4830dff113537c346ca",
       "runtime_sha256": "05534cca1ecd318111ed58eb5c24c9e273ad3c5444c5fda3604c4a73881f501f",
-      "reason": "User-requested removal of redundant new-resources section and its isolated renderer; homepage counter includes the reviewed catalogue batch with library-equivalent file grouping. Existing library data and application behavior preserved."
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi."
     },
     "kariyer/kariyer-gelisimi-ortaokul-lise/index.html": {
       "baseline_sha256": "29ae161969be36b3486edb20e6ae86963ca5c8a1e45af5f53e9875dae2dd474d",
@@ -551,104 +551,104 @@
     },
     "kaynak-detay/farkindalik-lise/index.html": {
       "baseline_sha256": "550f461cb279747a79ce9db38470e383cb2e5a4da24b9c9b965635ec6e759ed2",
-      "reviewed_sha256": "19bb718c80c283724b2f65aa2bbb33cb342dc7c7af338f2fb1e273798679ebe3",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "8bd2148aeefa135b3172b8edf8aaf11643008cd2a8fdc90afd62e2d81b2753ae",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "c24cd033a47763c59bc618f4e6054ba87673745771ce23e0ec9949f7ab7a3fce"
     },
     "kaynak-detay/farkindalik-okuloncesi/index.html": {
       "baseline_sha256": "7cc59ae773a2fff070322ff47ce0d2bbf847f52321f5f066aa00c5f6fdca04a3",
-      "reviewed_sha256": "064dd18c4f43fa687a83fce9b04ed5ec5528922ca11ba187645031ea412e2050",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "15ba24a0e86e94cd794c245df9533bce1101e702250727d373b839b613e5a644",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "6c72b5ab94ccf6bed000698c81f45c873b9d83864f8cad090edce863d8fae2a6"
     },
     "kaynak-detay/farkindalik-ortaokul/index.html": {
       "baseline_sha256": "16ece4a160bb37c99261a0d2472659f6ad9f675c802e34679c441f9c265b92f2",
-      "reviewed_sha256": "3c3781f4039ec1dec87961ff3f2b5c8de4505da0290e1183e65166cf14f2e3f9",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "d51fb89c48656caa533cd0564d1ffa83fabee2aa948c83c16c5ad00d67472779",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "afda237e125d8fcc86ca7cc40112044d069baae4892be7243b94d645ccd32029"
     },
     "kaynak-detay/ozel-egitim-anaokulu/index.html": {
       "baseline_sha256": "e8a06dbcbe2d9f7d9907f8f8471b6a08322ed5895747f574ebc7e435342d14e6",
-      "reviewed_sha256": "d21588211cec33ec69a5340975eab86968cb40bfb7b0a56d4f3da8b77cc40580",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "96a0476a0c39328107910db9fde41d4c6ad8e656e46a5e317e7ad98c244593e2",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "93b1859bfbad862fd3e71e73106371a4bcb36a1cd8a6b22d3822d64a64c69145"
     },
     "kaynak-detay/sinif-etkinlik-ilkokul/index.html": {
       "baseline_sha256": "24d3e61808854902abea3cd7a3dce3f17ff89ad9b56434966cf2417dd7c9601b",
-      "reviewed_sha256": "0dbd653e3e41501d409f7a938325f5bec3144b5f1a06ccf9d993ca763c6f83da",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "8d468535540ffcbcdde740ff87df85cfd520e5682f0facace3a17f57ab90fda5",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "f115b4bc254aa6f0e9f828c8bc157079356d260a070dc7173fed2260144d2539"
     },
     "kaynak-detay/sinif-etkinlik-lise/index.html": {
       "baseline_sha256": "0f75682ecf747e9a657fd6c427cee40496bef29043b88b63cf7dd5cbfd4ab31b",
-      "reviewed_sha256": "9b2876579173dde54025186e7a8a041c781012f52f70db9d5786077916179c7d",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "e0e4dfda73735391dde10832c9ed00007b5cb403bcf5df6914beb78da7313af3",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "84e3531d157e7d4d5d1d49536f5bd1eb45d5302cef353ac7da6716667ba8a8cd"
     },
     "kaynak-detay/sinif-etkinlik-okuloncesi/index.html": {
       "baseline_sha256": "a0b89974f633db48a5b53f9f0940b80c5a128216defaedaec110827a8e0172b0",
-      "reviewed_sha256": "d891a022fb12a390b22a313333ba6b9c3de689a94e3f298dd347182ca5d51118",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "19c3bc27c40388bc020255168e92b2e5c4e06ce73fc2e1d363a96c7ece4d9f4f",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "d32213b871404c997f92fcfeaf7dcd507f43910f0123461ffa108c7d9770e150"
     },
     "kaynak-detay/sinif-etkinlik-ortaokul/index.html": {
       "baseline_sha256": "6a73d3ed69d12651ec04a1a91c42f55fa10a41819ea116b765a6d47c6e5f1fe9",
-      "reviewed_sha256": "671190bc6e0bf1d5d70342afb52ad064834fa4f59f3bbb99ebc9a6efe5734667",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "0c4fcacf7b4487de455a9056946a4aafe8e2370eca68189b25eb16ad69459247",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "b1eb2021853775f933c62b8939a121cba76c32361d324d4580dd57474c8b5851"
     },
     "kaynak-detay/sunum-ogretmen-ilkokul/index.html": {
       "baseline_sha256": "7c8d408a13e7eea80f5f8af5b4683b70c77aabb13e841a09a181f1137a04e7a2",
-      "reviewed_sha256": "f9a4b5a7570db09ef5274468bb461a7ff38857c143794a63b1a91719934b91d7",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "ef2c547472a8cddfdb70d1ef0839ab91621a8d73d0c59ff4558b7bb308bd87a0",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "cdf204110ecec08c6d21983d83a296bf0dba010549a0551a9c8d6baf8078c38d"
     },
     "kaynak-detay/sunum-ogretmen-lise/index.html": {
       "baseline_sha256": "63fefdffba18c854fc7be8b22ce0a9769d606e8f4971dc5169e1876a7291de8b",
-      "reviewed_sha256": "59a3953a8e65e3966e1ce7feae3d955222120832368a2962285e3429ce72bd48",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "9dbec32f794cf26b4f07b175d9c3a97fbc2f60c3c78c577d59bbcd4788625b0a",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "3d341dd2c55b321741c378e5d71692713be95f6f38516babc7fe02a3c7430abf"
     },
     "kaynak-detay/sunum-ogretmen-okuloncesi/index.html": {
       "baseline_sha256": "4aa1c0daa9ec41443c5568ccaa47904f7ca27a448c8e766eb95d2b3b340013e9",
-      "reviewed_sha256": "efa43254be6e005cdd004443c236197457162dab5fff0a317f376f57c56f4963",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "b048d945ea628cef362979d423e0ed7699fed6420eab793a3d2d16f32c3f03cf",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "dba534b241089751c36ba2b606fa5f18e38566e88b68a8a96cbbe46c6ee1b660"
     },
     "kaynak-detay/sunum-ogretmen-ortaokul/index.html": {
       "baseline_sha256": "f8a80bfb3210d0533fe6313b001e425e8ac155082e9ac4d2f087f77a9138b816",
-      "reviewed_sha256": "2ab46d2ffe348d677a3e9e81de6ab7b43deff484a0ef5a80fed4b5b6033adf4e",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "13a053b90c4c9a84f4d8ce3af401747c7fa3ef7c6a3f167d04f4e0d5f3a5bda5",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "eb1e233faa796db733467b210dcd9b2d936e9e374819ccdef07c8d14ed529aa9"
     },
     "kaynak-detay/sunum-veli-ilkokul/index.html": {
       "baseline_sha256": "942ca7bb5b02117ac2ee54944990e4c41a897ac6e0fce3808183b055a547550d",
-      "reviewed_sha256": "8673919751f6c8d27dba76224a7325b335fbcf253477b6e2ceaa22d2bcda6e1c",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "af58cb2e145938edbffe582b5146743400774daaeea028157720c1160c6bf7f6",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "d63a38ba3afe6695c9cee4a04389d2d8c2fd4aaac305c2ba13c8c8955af5d98c"
     },
     "kaynak-detay/sunum-veli-lise/index.html": {
       "baseline_sha256": "1f43d75d017ac55b9f65ff146fb4a0385bce4f5190c8813bce62f210fcf8aa19",
-      "reviewed_sha256": "6f5fd0b9d494f12dc136c9ee662ab6ecb63b2e63ad23ed639d0cae5b369a2e10",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "fe6060b14b9d7e9e8a915b69593f678cec410246d3e2c97f06ec60395f789952",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "b655a4284d2df9f1c7a6328bfa849ecdb6ce5e5ec20e6516e3991b3f56d84d6b"
     },
     "kaynak-detay/sunum-veli-okuloncesi/index.html": {
       "baseline_sha256": "be15ef1474f793a37ca79696de2d563bf2708b67e4b13ab40a5a2ae37dc1dfc0",
-      "reviewed_sha256": "459443862cb11f2567132915049ca4190a4522650a7e5cdfc1b742115dff4278",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "8a2716ea5d196dc3c5cd3f06f3acdbdf08e118760b8c7c2b2b452440d12439f6",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "e93a4070b6f3e926a272ca38053ffa3556139ca1d735cd0de317794c3b8b2244"
     },
     "kaynak-detay/sunum-veli-ortaokul/index.html": {
       "baseline_sha256": "636641d17863e9df1c39d56fdf88fc593bbae0dcaaac311892d280b64017d583",
-      "reviewed_sha256": "cdcf769d011f00c89c15c0142a8c1765685b839936b6742e994c9c57f5c13e44",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "375c395ce41a442dba8e61ac76fe99080426e7d6847c90f125ae7bf59c66c873",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "649b26bf2e6ffb417185c56cec7387136d5672ff88a009c41e0cc505bd8623c1"
     },
     "kaynak-detay/zorbalik-kuramsal/index.html": {
       "baseline_sha256": "6465e948b0b2f15d57fedbb0eaa6b9c442f3aa8f6948096221a0e2066abeafdf",
-      "reviewed_sha256": "55749dff969597395289507b1228814dcfd0cd4f68f24938dd85f12ba2024554",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved.",
+      "reviewed_sha256": "7ff4d73e2eeb7c535e4f62ddf9007200656ec1dd06d65588f8ee71796c1a3b85",
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi.",
       "runtime_sha256": "35eabd813c630bdcb864c9ae2e413c5ca864bf2461296fee9405f3a40cba7e55"
     },
     "konu/akademik-motivasyon/index.html": {
@@ -659,9 +659,9 @@
     },
     "konu/akran-zorbaligi/index.html": {
       "baseline_sha256": "c0ff1221f2b36925e0d207f47e40fcbe6b63e4a52724721476718261a055d68f",
-      "reviewed_sha256": "faf729ed8aac7220033e9b1ec86efd134ea5c0cfd37ff678207d2871bfc32c0a",
+      "reviewed_sha256": "38f864142c2c65033046eca41eee37c9599be1a6045ef359cb1c27221d35bc7d",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed resource navigation improvement: direct links to existing resource detail pages."
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi."
     },
     "konu/bep/index.html": {
       "baseline_sha256": "d1f0930efc0db047cca5eb8d2dbcf659101643f62debaf6637933cb1643f81f7",
@@ -755,9 +755,9 @@
     },
     "konu/sinif-rehberligi-etkinlikleri/index.html": {
       "baseline_sha256": "f9ad5cc8697bcb806131882841d588ba2d53d49ec2bd74e32734f7bcf91ebb33",
-      "reviewed_sha256": "71095760596894f71a202bff4fb1661dc5b5da5aa808579e731616f76ca67cb7",
+      "reviewed_sha256": "80f5e9750438bafa1f09eb899eaabf2449037fe28083b5489caaa97df4290f52",
       "runtime_sha256": "968cd51597989e59f5a2ef85d0959db07b2d68defbf520d71d892824ba7e20ed",
-      "reason": "Reviewed topic resource gallery: verified existing resource pages, original article and SEO metadata preserved."
+      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi."
     },
     "konu/sosyal-duygusal/index.html": {
       "baseline_sha256": "ac5fb1b26cb6a01f9c158e70c964098e2d03a9de6ee8f6bfe52f38444ba403ba",
