@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-09T20:30:52+03:00",
+  "updatedAt": "2026-11-10T04:32:31+03:00",
   "records": [
     {
       "id": "9ff8772a-9434-42fb-84ad-f8080f79640d",
@@ -45,6 +45,21 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-23",
+      "sourceCurrent": true
+    },
+    {
+      "id": "ff6084a1-bbdd-45d7-b62e-a649a026a2b2",
+      "title": "SAYIŞTAY BAŞKANLIĞI - 16 ADET SÖZLEŞMELİ PERSONEL ALACAK",
+      "institution": "SAYIŞTAY BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=ff6084a1-bbdd-45d7-b62e-a649a026a2b2",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/3fb02619-36f3-4708-80a0-f7b76a38fc38.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-11",
       "sourceCurrent": true
     },
     {
@@ -360,7 +375,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-26",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "320d07cc-b5bc-4bab-9541-6c1100def856",
