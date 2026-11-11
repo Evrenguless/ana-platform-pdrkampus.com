@@ -3,3 +3,13 @@ exclude:
   - _staging
   - .academic-scans
   - drafts
+  - scripts
+  - tests
+  - seo
+  - docs
+  - db
+  - inventory-review
+  - collector
+  - .env
+  - .env.*
+  - node_modules
