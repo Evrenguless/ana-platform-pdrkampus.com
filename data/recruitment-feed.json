@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-10T04:32:31+03:00",
+  "updatedAt": "2026-11-11T18:13:45+03:00",
   "records": [
     {
       "id": "9ff8772a-9434-42fb-84ad-f8080f79640d",
@@ -49,7 +49,7 @@
     },
     {
       "id": "ff6084a1-bbdd-45d7-b62e-a649a026a2b2",
-      "title": "SAYIŞTAY BAŞKANLIĞI - 16 ADET SÖZLEŞMELİ PERSONEL ALACAK",
+      "title": "SAYIŞTAY BAŞKANLIĞI - SÖZLEŞMELİ ÇÖZÜMLEYİCİ & SÖZLEŞMELİ PROGRAMCI ALIM İLANI",
       "institution": "SAYIŞTAY BAŞKANLIĞI",
       "unit": "",
       "category": "Sözleşmeli Personel İlanları",
@@ -345,7 +345,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-10-28",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "39c5ca3c-3571-485b-b226-2ff559360a0a",
