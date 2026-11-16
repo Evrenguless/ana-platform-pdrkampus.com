@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-16T00:51:07+03:00",
+  "updatedAt": "2026-11-16T12:45:51+03:00",
   "records": [
     {
       "id": "9ff8772a-9434-42fb-84ad-f8080f79640d",
@@ -30,6 +30,36 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-25",
+      "sourceCurrent": true
+    },
+    {
+      "id": "f82ad1a8-39b9-4732-acb4-be6cbe8f772e",
+      "title": "AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI (AFAD) - Afet ve Acil Durum Yönetimi Denetçi Yardımcısı Giriş Sınavı İlanı (2026)",
+      "institution": "AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI (AFAD)",
+      "unit": "",
+      "category": "A Grubu Memur (Kariyer Meslek)",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=f82ad1a8-39b9-4732-acb4-be6cbe8f772e",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/7225ed6b-2fe3-4a50-8aa3-3750621cb797.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-23",
+      "sourceCurrent": true
+    },
+    {
+      "id": "8892720e-d38e-46f8-994e-138c6d4b7d81",
+      "title": "AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI (AFAD) - Afet ve Acil Durum Yönetimi Uzman Yardımcısı Giriş Sınavı İlanı (2026)",
+      "institution": "AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI (AFAD)",
+      "unit": "",
+      "category": "A Grubu Memur (Kariyer Meslek)",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=8892720e-d38e-46f8-994e-138c6d4b7d81",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/7225ed6b-2fe3-4a50-8aa3-3750621cb797.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-23",
       "sourceCurrent": true
     },
     {
@@ -75,6 +105,21 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-20",
+      "sourceCurrent": true
+    },
+    {
+      "id": "31b4b404-05cb-4298-9460-1ab3b13b33e8",
+      "title": "ANADOLU ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ PERSONEL ALIMI İLANI 2026 - 2",
+      "institution": "ANADOLU ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=31b4b404-05cb-4298-9460-1ab3b13b33e8",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/a8206e31-c98b-4601-979a-98e1348e4950.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-16",
       "sourceCurrent": true
     },
     {
