@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-17T06:55:28+03:00",
+  "updatedAt": "2026-11-18T01:25:37+03:00",
   "records": [
     {
       "id": "9ff8772a-9434-42fb-84ad-f8080f79640d",
@@ -105,6 +105,21 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-20",
+      "sourceCurrent": true
+    },
+    {
+      "id": "069150d6-ad89-4973-9410-25ae1fa56d67",
+      "title": "SAHİL GÜVENLİK KOMUTANLIĞI - SAHİL GÜVENLİK KOMUTANLIĞI 2026 YILI DEVLET MEMURU TEMİNİ",
+      "institution": "SAHİL GÜVENLİK KOMUTANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=069150d6-ad89-4973-9410-25ae1fa56d67",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/35684aab-92b3-4736-bd34-715c409e728f.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-17",
       "sourceCurrent": true
     },
     {
@@ -255,7 +270,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-07",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "26f5b7a7-865c-483f-9045-2f77e5e7fb9d",
