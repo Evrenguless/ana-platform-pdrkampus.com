@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-19T16:09:12+03:00",
+  "updatedAt": "2026-11-20T14:52:20+03:00",
   "records": [
     {
       "id": "6a34cb10-0ac0-41e0-a094-3ec83e29a644",
@@ -15,6 +15,21 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-12-07",
+      "sourceCurrent": true
+    },
+    {
+      "id": "dc97ce1e-dce0-408a-a785-682c4656435e",
+      "title": "ADLİ TIP KURUMU BAŞKANLIĞI - 2026/2 SÖZLEŞMELİ PERSONEL ALIM İLANI",
+      "institution": "ADLİ TIP KURUMU BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=dc97ce1e-dce0-408a-a785-682c4656435e",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/36fcf8d3-82fe-4dee-8f4c-ea235eb82306.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-30",
       "sourceCurrent": true
     },
     {
@@ -117,6 +132,21 @@
       "deadline": null,
       "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=41353f9d-7dda-4b65-b2ba-de6bf8e72f54",
       "logoUrl": "https://kariyerkapisi.gov.tr/UPS/7465ab9a-aa29-4cc0-8a19-ff45950ccac8.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-20",
+      "sourceCurrent": true
+    },
+    {
+      "id": "0dee67ed-656b-4fa2-9ffd-deb7672253b8",
+      "title": "BARTIN ÜNİVERSİTESİ REKTÖRLÜĞÜ - SÖZLEŞMELİ PERSONEL ALIM İLANI (2026-4)",
+      "institution": "BARTIN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=0dee67ed-656b-4fa2-9ffd-deb7672253b8",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/200cb422-bae2-4b28-82bb-35cf1762a44d.png",
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-20",
@@ -300,7 +330,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-07",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "84e11358-b080-4b29-ae1e-3ab83bd8f689",
@@ -315,7 +345,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-06",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "51fd7921-cfbe-482f-8e2f-b8a569a605d0",
