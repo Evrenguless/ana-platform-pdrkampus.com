@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-24T20:46:47+03:00",
+  "updatedAt": "2026-11-26T01:34:06+03:00",
   "records": [
     {
       "id": "6a34cb10-0ac0-41e0-a094-3ec83e29a644",
@@ -75,6 +75,36 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-30",
+      "sourceCurrent": true
+    },
+    {
+      "id": "6119f52b-afb3-478d-aeb0-23fda9009aa5",
+      "title": "MERSİN ÜNİVERSİTESİ REKTÖRLÜĞÜ - 1 ADET SÖZLEŞMELİ BİLİŞİM PERSONEL ALIM İLANI",
+      "institution": "MERSİN ÜNİVERSİTESİ REKTÖRLÜĞÜ",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=6119f52b-afb3-478d-aeb0-23fda9009aa5",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/b72d91a6-8fe9-4802-b7fa-51c51e32e6ae.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-26",
+      "sourceCurrent": true
+    },
+    {
+      "id": "0e649e12-a1b8-4d2f-a855-540f983ac98e",
+      "title": "TÜRKİYE SU ENSTİTÜSÜ BAŞKANLIĞI - SÖZLEŞMELİ PERSONEL ALIM İLANI - BİLGİSAYAR MÜHENDİSİ (İSTANBUL)",
+      "institution": "TÜRKİYE SU ENSTİTÜSÜ BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=0e649e12-a1b8-4d2f-a855-540f983ac98e",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/05de1d5f-4b20-459e-be84-0537c6bea45a.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-26",
       "sourceCurrent": true
     },
     {
@@ -300,7 +330,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-11",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "f657a20b-5132-4e3a-8b1e-131e031f065b",
