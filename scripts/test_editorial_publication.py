@@ -19,6 +19,8 @@ class ProductionTests(unittest.TestCase):
         cls.rows=json.loads((ROOT/'data/topics.json').read_text())['topics']
         cls.urls={n.text for n in read_urlset(ROOT).getroot().iter(TAG+'loc')}
         cls.listing=(ROOT/'konular.html').read_text()
+        from apply_index_policy import allowlist
+        cls.keep=allowlist()
 
     def test_all_500_manuscripts_are_published_and_discoverable(self):
         self.assertEqual(len(builder.GUIDES),500)
@@ -28,10 +30,14 @@ class ProductionTests(unittest.TestCase):
             with self.subTest(slug=guide['slug']):
                 slug=guide['slug'];url='https://pdrkampus.com/konu/'+slug+'/'
                 source=(ROOT/'konu'/slug/'index.html').read_text();page=Page(source)
-                self.assertFalse(page.noindex)
+                # Index policy (scripts/apply_index_policy.py): only allow-listed guides stay indexed.
+                indexed='konu/'+slug in self.keep
+                self.assertEqual(page.noindex,not indexed)
                 self.assertEqual(page.canonicals,[url]);self.assertEqual(len(page.primary_h1),1)
                 self.assertEqual(page.primary_h1[0],guide['title'])
-                self.assertIn(url,self.urls);self.assertIn('href="/konu/'+slug+'/"',self.listing)
+                if indexed:self.assertIn(url,self.urls)
+                else:self.assertNotIn(url,self.urls)
+                self.assertIn('href="/konu/'+slug+'/"',self.listing)
                 self.assertTrue(published[slug]['indexable']);self.assertEqual(published[slug]['contentStatus'],'published')
                 for title,body in guide['sections']:
                     self.assertIn(html.escape(title,quote=True),source);self.assertIn(html.escape(body,quote=True),source)
