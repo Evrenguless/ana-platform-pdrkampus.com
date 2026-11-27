@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-27T03:36:11+03:00",
+  "updatedAt": "2026-11-27T12:41:43+03:00",
   "records": [
     {
       "id": "6a34cb10-0ac0-41e0-a094-3ec83e29a644",
@@ -75,6 +75,21 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-30",
+      "sourceCurrent": true
+    },
+    {
+      "id": "add4bb83-a310-4b00-9f8b-6771300863f5",
+      "title": "AVRUPA BİRLİĞİ BAŞKANLIĞI - SÖZLEŞMELİ DESTEK PERSONELİ (ŞOFÖR) İLANI",
+      "institution": "AVRUPA BİRLİĞİ BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=add4bb83-a310-4b00-9f8b-6771300863f5",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/696aa654-bbc6-4c51-9370-987ef5b9f152.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-11-27",
       "sourceCurrent": true
     },
     {
