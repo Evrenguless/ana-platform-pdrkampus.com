@@ -25,3 +25,11 @@ Doğrulama:
 Koruma kaydı başlangıçtaki mevcut redirect ve canonical bağlantı eşlemeleri için eksikti; ilgili kamu sunum dosyaları incelenip kesin hash'leri kaydedildi. Veri/CSV/SQL koruması gevşetilmedi. Testlerde kaynak PDF dosyaları bulunmadığından dört PDF pilot testi açıkça atlanır.
 
 Search Console erişimi bu çalışmada mevcut değil. Domain mülkünde veya https://pdrkampus.com/ URL-prefix mülkünde https://pdrkampus.com/sitemap.xml gönderilmeli; konu/kaynak/hub örneklerinde canlı URL denetimi, kullanıcı canonical / Google canonical ve indeksleme nedeni karşılaştırılmalı. Gerçek Googlebot erişimi ve indeks kapsamı yalnız Search Console verisinden doğrulanabilir.
+
+# Kalite kurtarma — 27 Kasım 2026
+
+Search Console (27.11.2026 dışa aktarımı): 19–24 Ekim'de günde 6.000–7.000 gösterim ve ortalama 8–9. sıra; 26 Ekim'de site değişikliği olmadan bir gecede 84 gösterim ve 30. sıra. Dizindeki sayfa 8.428'den 3.836'ya indi, 4.650 sayfa "Tarandı – şu anda dizine eklenmiş değil". Üç haftada yaklaşık 8.700 şablon/toplu sayfa yayımlanmasının ardından gelen site geneli kalite düşüşüyle uyumlu.
+
+Politika: `scripts/apply_index_policy.py`, `/kutuphane/*` ve `/konu/*` sayfalarından yalnızca `seo/index-allowlist.txt` (Search Console'da gösterim alan sayfalar + ilk 9 PDR rehberi), `seo/protected-files.json` içindeki elle hazırlanmış sayfalar ve katalog hub'larını dizinde bırakır; diğerleri `noindex,follow` olur. Sayfalar yayında ve bağlantılı kalır. Sitemap yaklaşık 4.600'den 978 adrese indi. Katalog üreticisi politikayı uygular, SEO Audit iş akışı `--check` ile sapmayı engeller.
+
+Bir sayfayı yeniden dizine almak için: sayfaya özgün içerik ekleyin, yolunu `seo/index-allowlist.txt` dosyasına yazın, `python scripts/apply_index_policy.py` ve `python scripts/build_sitemaps.py` çalıştırın. Toplu sayfa yayımı yerine az sayıda, gerçekten aranan ve özgün içerikli sayfa ekleyin.

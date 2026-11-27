@@ -144,6 +144,9 @@ if topics_path.exists():
                 errors.append(
                     f"Topic canonicalPath uyumsuz: {slug} | beklenen={expected_path} | bulunan={canonical_path or '-'}"
                 )
+            topic_page = ROOT / "konu" / slug / "index.html"
+            if topic_page.exists() and 'name="robots" content="noindex' in topic_page.read_text(encoding="utf-8"):
+                continue  # scripts/apply_index_policy.py ile bilinçli olarak dizin dışı
             if expected_url not in topic_urls:
                 errors.append(f"Published topic sitemap'te yok: {slug} -> {expected_url}")
             topic_file = ROOT / "konu" / slug / "index.html"

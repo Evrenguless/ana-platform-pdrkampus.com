@@ -212,6 +212,8 @@ if route_map_file.exists():
     for key in list(outputs):
         if key.endswith('.html') and '<meta http-equiv="refresh"' not in outputs[key]:
             outputs[key] = _old_link.sub(lambda mo: (mo.group(1) or '') + _route_map[mo.group(2)] if mo.group(2) in _route_map else mo.group(0), outputs[key])
+from apply_index_policy import apply_outputs
+apply_outputs(outputs)  # seo/index-allowlist.txt dışındaki toplu sayfalar noindex,follow
 outputs.update(eligible_outputs(ROOT, ET.fromstring(outputs['sitemap.xml']), outputs)[0])
 check = '--check' in sys.argv
 for path,content in outputs.items():

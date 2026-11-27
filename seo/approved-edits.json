@@ -249,8 +249,8 @@
     },
     "scripts/build_library_catalog.py": {
       "baseline_sha256": "70afdfe2a3f3d9f1f2db2770fe44d28abde79b939b4acf2b298de2c133608425",
-      "reviewed_sha256": "cbde6e9c4c3e661d75b77df5d2143ae4fb2950b348eb7e9d06440d8288c8faf3",
-      "reason": "2026-11 trafik kurtarma: taşınan adreslerde noindex kaldırıldı ve iç bağlantılar doğrudan yeni adreslere yöneltildi; çalışma zamanı scriptleri ve veri değişmedi."
+      "reviewed_sha256": "9f7c02aa79caa264f5a44c409f5cdac71424e3d478a6d69420f5085b38071504",
+      "reason": "SEO kalite kurtarma (27.11.2026): Search Console'da gösterim almamış toplu sayfalar seo/index-allowlist.txt politikasıyla noindex,follow; katalog üreticisi ve SEO denetimi bu politikaya uyarlandı."
     },
     "scripts/check_links.py": {
       "baseline_sha256": "380fb46f02b6e82b5f5df97ce322d7a69a2fa4ebcd147afd541880b5f2271125",
@@ -1304,8 +1304,8 @@
     },
     "scripts/check_seo.py": {
       "baseline_sha256": "28b42669d57d93d96a341827b59163acbcce418e7ca3915cd4160355edb011bf",
-      "reviewed_sha256": "6f9d8c6ed67b051ec0c4e39a556cc08b53462ee5f0c7aeb23774c97a587b7751",
-      "reason": "User-requested technical SEO audit: canonical sitemap index, source metadata, static discovery links and reviewed existing redirects; source data and calculation/auth runtime preserved."
+      "reviewed_sha256": "08a97585b75e2b611812a56e8a1c7b65c49ce8b04f8626cd4b7ebc527a975270",
+      "reason": "SEO kalite kurtarma (27.11.2026): Search Console'da gösterim almamış toplu sayfalar seo/index-allowlist.txt politikasıyla noindex,follow; katalog üreticisi ve SEO denetimi bu politikaya uyarlandı."
     },
     "bolumler/index.html": {
       "baseline_sha256": "0afef04fd67804155837336f553a46a3816085a93f35c8192ae30a94b40fa6eb",
@@ -1403,8 +1403,8 @@
     },
     ".github/workflows/seo-audit.yml": {
       "baseline_sha256": "7a297c1899cc4fe65fb1154dc45192d3323eb0aae397eb6741f95adcb23e7581",
-      "reviewed_sha256": "eaad57681596219a5481d68465302135d14e654715239aada48ae787795fb659",
-      "reason": "User-requested sitemap tests added to the existing read-only SEO audit workflow; no permission changes."
+      "reviewed_sha256": "cc75cd769fe68368aada1780774eae817b8a83295fdbc63fd8554f887eb1ab87",
+      "reason": "SEO kalite kurtarma (27.11.2026): Search Console'da gösterim almamış toplu sayfalar seo/index-allowlist.txt politikasıyla noindex,follow; katalog üreticisi ve SEO denetimi bu politikaya uyarlandı."
     },
     ".github/workflows/link-audit.yml": {
       "baseline_sha256": "e992b68a700b455062f92d2be6284cfc33a8bcd996aec7021caffd0b4123965b",
