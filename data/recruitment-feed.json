@@ -1,6 +1,6 @@
 {
   "source": "https://kariyerkapisi.gov.tr/RSS",
-  "updatedAt": "2026-11-27T12:41:43+03:00",
+  "updatedAt": "2026-11-27T22:29:26+03:00",
   "records": [
     {
       "id": "6a34cb10-0ac0-41e0-a094-3ec83e29a644",
@@ -30,6 +30,81 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-12-07",
+      "sourceCurrent": true
+    },
+    {
+      "id": "fbe6dbe7-e178-4680-8509-e91d11d9e505",
+      "title": "GELİR İDARESİ BAŞKANLIĞI - SÖZLEŞMELİ TEKNİKER GİRİŞ SINAVI",
+      "institution": "GELİR İDARESİ BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=fbe6dbe7-e178-4680-8509-e91d11d9e505",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/52e6d9b1-c214-4ac5-9daf-9e50f76c699e.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-12-02",
+      "sourceCurrent": true
+    },
+    {
+      "id": "d6665f54-0008-46c3-b9c5-a8eb809e7c42",
+      "title": "GELİR İDARESİ BAŞKANLIĞI - Sözleşmeli Avukat",
+      "institution": "GELİR İDARESİ BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=d6665f54-0008-46c3-b9c5-a8eb809e7c42",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/52e6d9b1-c214-4ac5-9daf-9e50f76c699e.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-12-02",
+      "sourceCurrent": true
+    },
+    {
+      "id": "a72d5bb6-a2c6-4ba9-b937-0057ef8fc0ea",
+      "title": "GELİR İDARESİ BAŞKANLIĞI - SÖZLEŞMELİ KORUMA VE GÜVENLİK GÖREVLİSİ",
+      "institution": "GELİR İDARESİ BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=a72d5bb6-a2c6-4ba9-b937-0057ef8fc0ea",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/52e6d9b1-c214-4ac5-9daf-9e50f76c699e.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-12-02",
+      "sourceCurrent": true
+    },
+    {
+      "id": "26bdd65d-ebb3-4070-b9d4-2b8e46fa4fa4",
+      "title": "GELİR İDARESİ BAŞKANLIĞI - SÖZLEŞMELİ DESTEK PERSONELİ (ŞOFÖR) GİRİŞ SINAVI",
+      "institution": "GELİR İDARESİ BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=26bdd65d-ebb3-4070-b9d4-2b8e46fa4fa4",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/52e6d9b1-c214-4ac5-9daf-9e50f76c699e.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-12-02",
+      "sourceCurrent": true
+    },
+    {
+      "id": "01a31fb6-9c44-4e45-9d17-f47f7ed2e8bd",
+      "title": "GELİR İDARESİ BAŞKANLIĞI - SÖZLEŞMELİ DESTEK PERSONELİ (HİZMETLİ)",
+      "institution": "GELİR İDARESİ BAŞKANLIĞI",
+      "unit": "",
+      "category": "Sözleşmeli Personel İlanları",
+      "startsAt": null,
+      "deadline": null,
+      "sourceUrl": "https://kariyerkapisi.gov.tr/IlanDetay?i=01a31fb6-9c44-4e45-9d17-f47f7ed2e8bd",
+      "logoUrl": "https://kariyerkapisi.gov.tr/UPS/52e6d9b1-c214-4ac5-9daf-9e50f76c699e.png",
+      "manualSlug": null,
+      "withdrawn": false,
+      "publishedAt": "2026-12-02",
       "sourceCurrent": true
     },
     {
@@ -315,7 +390,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-17",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "31b4b404-05cb-4298-9460-1ab3b13b33e8",
@@ -345,7 +420,7 @@
       "manualSlug": null,
       "withdrawn": false,
       "publishedAt": "2026-11-13",
-      "sourceCurrent": true
+      "sourceCurrent": false
     },
     {
       "id": "ff6084a1-bbdd-45d7-b62e-a649a026a2b2",
