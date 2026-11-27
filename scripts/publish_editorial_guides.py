@@ -115,9 +115,11 @@ def build():
     tree = read_urlset(ROOT).getroot()
     for guide in guides:
         node = ET.SubElement(tree,TAG+'url'); ET.SubElement(node,TAG+'loc').text = BASE+'/konu/'+guide['slug']+'/'
+    from apply_index_policy import apply_outputs
+    apply_outputs(outputs)  # seo/index-allowlist.txt dışındaki rehberler noindex,follow
     maps, excluded = eligible_outputs(ROOT,tree,outputs)
     added = {BASE+'/konu/'+g['slug']+'/' for g in guides}
-    lost = added & set(excluded)
+    lost = {u for u in added & set(excluded) if excluded[u] != 'noindex'}
     if lost: raise ValueError('New guides rejected by sitemap: '+str({u:excluded[u] for u in lost}))
     old = {n.text for n in read_urlset(ROOT).getroot().iter(TAG+'loc')}
     included = {n.text for content in maps.values() for n in ET.fromstring(content).iter(TAG+'loc')}
